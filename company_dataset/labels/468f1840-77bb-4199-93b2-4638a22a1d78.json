@@ -1,0 +1,129 @@
+[
+  {
+    "label": {
+      "lineName": "Ramucirumab Monotherapy (part B)"
+    },
+    "points": [
+      {
+        "x": 1421.5096706814227,
+        "y": 768.033820258246,
+        "label": "",
+        "topBarPixelDistance": 22.22222222222217,
+        "bottomBarPixelDistance": 22.222222222222285,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1154.2874484592007,
+        "y": 741.3671535915794,
+        "label": "",
+        "topBarPixelDistance": 26.66666666666663,
+        "bottomBarPixelDistance": 30,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 797.0652262369787,
+        "y": 698.5893758138017,
+        "label": "",
+        "topBarPixelDistance": 45,
+        "bottomBarPixelDistance": 51.111111111111086,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 439.7382812499999,
+        "y": 629.8320312499999,
+        "label": "",
+        "topBarPixelDistance": 48.46487765842039,
+        "bottomBarPixelDistance": 53.20178900824624,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 351.73828124999994,
+        "y": 579.8320312499999,
+        "label": "",
+        "topBarPixelDistance": 35.13154432508702,
+        "bottomBarPixelDistance": 42.646233452690694,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 263.73828124999994,
+        "y": 521.8320312499999,
+        "label": "",
+        "topBarPixelDistance": 53.242655436198106,
+        "bottomBarPixelDistance": 57.86845567491298,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 199.73828124999994,
+        "y": 477.8320312499999,
+        "label": "",
+        "topBarPixelDistance": 73.68708292643242,
+        "bottomBarPixelDistance": 79.09069485134523,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 191.50963677300334,
+        "y": 467.4782816569007,
+        "label": "",
+        "topBarPixelDistance": 61.11111111111103,
+        "bottomBarPixelDistance": 59.4444444444444,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 177.0651923285589,
+        "y": 455.25605943467855,
+        "label": "",
+        "topBarPixelDistance": 67.45329962836365,
+        "bottomBarPixelDistance": 65.55555555555549,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 175.73828124999997,
+        "y": 429.8320312499999,
+        "label": "",
+        "topBarPixelDistance": 47.862604777018305,
+        "bottomBarPixelDistance": 77.09069485134529,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 175.84854125976554,
+        "y": 834.4694010416663,
+        "label": "",
+        "topBarPixelDistance": 16.666666666666742,
+        "bottomBarPixelDistance": 15.833333333333258,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 137.73828124999997,
+        "y": 835.8320312499998,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 137.73828124999997,
+        "y": 227.83203124999994,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 175.73828124999997,
+        "y": 857.8320312499998,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1423.7382812499998,
+        "y": 855.8320312499998,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,263 @@
+[
+  {
+    "label": {
+      "lineName": "Pabinafusp alfa_4.0_mg/kg"
+    },
+    "points": [
+      {
+        "x": 903.4183959960938,
+        "y": 498.40797424316406,
+        "label": "",
+        "topBarPixelDistance": 4.995702107747434,
+        "bottomBarPixelDistance": 5.480488368443048,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 497.41839599609375,
+        "y": 438.40797424316406,
+        "label": "",
+        "topBarPixelDistance": 31.662368774414062,
+        "bottomBarPixelDistance": 32.14715503510973,
+        "deviationPixelDistance": 33
+      },
+      {
+        "x": 415.41839599609375,
+        "y": 370.40797424316406,
+        "label": "",
+        "topBarPixelDistance": 37.94808306012834,
+        "bottomBarPixelDistance": 37.2900121779669,
+        "deviationPixelDistance": 38
+      },
+      {
+        "x": 334.41839599609375,
+        "y": 147.40797424316406,
+        "label": "",
+        "topBarPixelDistance": 52.09094020298549,
+        "bottomBarPixelDistance": 53.623345511300215,
+        "deviationPixelDistance": 53
+      },
+      {
+        "x": 280,
+        "y": 431,
+        "label": "",
+        "topBarPixelDistance": 51.87344215029765,
+        "bottomBarPixelDistance": 53.840843563988074,
+        "deviationPixelDistance": 53
+      },
+      {
+        "x": 252.41839599609375,
+        "y": 500.40797424316406,
+        "label": "",
+        "topBarPixelDistance": 6.0433211553664705,
+        "bottomBarPixelDistance": 5.385250273204974,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 140.29896206325955,
+        "y": 567.8423733181423,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 140.29896206325955,
+        "y": 32.28681776258681,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 239.18785095214844,
+        "y": 580.0645955403646,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 890.2989620632595,
+        "y": 578.9534844292534,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Pabinafusp alfa_2.0_mg/kg"
+    },
+    "points": [
+      {
+        "x": 140.29896206325955,
+        "y": 567.8423733181423,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 140.29896206325955,
+        "y": 32.28681776258681,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 239.18785095214844,
+        "y": 580.0645955403646,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 890.2989620632595,
+        "y": 578.9534844292534,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 239.18785095214844,
+        "y": 500.06459554036456,
+        "label": "",
+        "topBarPixelDistance": 5.73929757782912,
+        "bottomBarPixelDistance": 6.07888424035275,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 266.9656287299262,
+        "y": 313.39792887369794,
+        "label": "",
+        "topBarPixelDistance": 157.25444909298062,
+        "bottomBarPixelDistance": 160.01827817974663,
+        "deviationPixelDistance": 159
+      },
+      {
+        "x": 321.41007317437067,
+        "y": 374.509039984809,
+        "label": "",
+        "topBarPixelDistance": 4.729196567728081,
+        "bottomBarPixelDistance": 1.6344397959082926,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 401.41007317437067,
+        "y": 435.6201510959201,
+        "label": "",
+        "topBarPixelDistance": 14.58883134145583,
+        "bottomBarPixelDistance": 15.06878323025171,
+        "deviationPixelDistance": 15
+      },
+      {
+        "x": 482.52118428548175,
+        "y": 482.2868177625868,
+        "label": "",
+        "topBarPixelDistance": 18.398355150979683,
+        "bottomBarPixelDistance": 16.666666666666686,
+        "deviationPixelDistance": 19
+      },
+      {
+        "x": 890.2989620632595,
+        "y": 498.9534844292535,
+        "label": "",
+        "topBarPixelDistance": 7.7777777777777715,
+        "bottomBarPixelDistance": 8.888888888888857,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Pabinafusp alfa_1.0_mg/kg"
+    },
+    "points": [
+      {
+        "x": 876.9656287299262,
+        "y": 500.06459554036456,
+        "label": "",
+        "topBarPixelDistance": 5.555555555555543,
+        "bottomBarPixelDistance": 5.555555555555543,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 470.1237686820652,
+        "y": 499.50668998386544,
+        "label": "",
+        "topBarPixelDistance": 6.0869565217391255,
+        "bottomBarPixelDistance": 6.0869565217391255,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 388.0767398410373,
+        "y": 496.73126220703125,
+        "label": "",
+        "topBarPixelDistance": 10,
+        "bottomBarPixelDistance": 7.7777777777777715,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 308.0767398410373,
+        "y": 472.2868177625868,
+        "label": "",
+        "topBarPixelDistance": 48.888888888888914,
+        "bottomBarPixelDistance": 45.88735913473465,
+        "deviationPixelDistance": 48
+      },
+      {
+        "x": 252.52118428548175,
+        "y": 483.3979288736979,
+        "label": "",
+        "topBarPixelDistance": 30,
+        "bottomBarPixelDistance": 28.888888888888914,
+        "deviationPixelDistance": 31
+      },
+      {
+        "x": 225.8545176188151,
+        "y": 501.1757066514757,
+        "label": "",
+        "topBarPixelDistance": 6.666666666666686,
+        "bottomBarPixelDistance": 8.888888888888857,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 140.29896206325955,
+        "y": 567.8423733181423,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 140.29896206325955,
+        "y": 32.28681776258681,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 239.18785095214844,
+        "y": 580.0645955403646,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 890.2989620632595,
+        "y": 578.9534844292534,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

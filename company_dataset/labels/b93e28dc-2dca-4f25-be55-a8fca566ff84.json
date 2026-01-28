@@ -1,0 +1,216 @@
+[
+  {
+    "label": {
+      "lineName": "Ebdarokimab_45_mg-Day29"
+    },
+    "points": [
+      {
+        "x": 229.01890563964844,
+        "y": 371.1053161621094,
+        "label": "",
+        "topBarPixelDistance": 8.6419677734375,
+        "bottomBarPixelDistance": 11.111114501953125,
+        "deviationPixelDistance": 113
+      },
+      {
+        "x": 245.23924255371094,
+        "y": 252.68368530273438,
+        "label": "",
+        "topBarPixelDistance": 66.7635498046875,
+        "bottomBarPixelDistance": 13.483367919921875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 236.13661193847656,
+        "y": 273.4258728027344,
+        "label": "",
+        "topBarPixelDistance": 51.70326232910156,
+        "bottomBarPixelDistance": 12.4942626953125,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 273.01702880859375,
+        "y": 238.23924255371094,
+        "label": "",
+        "topBarPixelDistance": 58.491943359375,
+        "bottomBarPixelDistance": 10.64385986328125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 232.83082580566406,
+        "y": 299.0456848144531,
+        "label": "",
+        "topBarPixelDistance": 51.39715576171875,
+        "bottomBarPixelDistance": 15.26953125,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 315.2392578125,
+        "y": 253.7947998046875,
+        "label": "",
+        "topBarPixelDistance": 38.245025634765625,
+        "bottomBarPixelDistance": 13.6068115234375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 408.57257080078125,
+        "y": 330.4614562988281,
+        "label": "",
+        "topBarPixelDistance": 30.9610595703125,
+        "bottomBarPixelDistance": 15.9525146484375,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 590.7947998046875,
+        "y": 450.46148681640625,
+        "label": "",
+        "topBarPixelDistance": 48.491973876953125,
+        "bottomBarPixelDistance": 14.47100830078125,
+        "deviationPixelDistance": 14
+      },
+      {
+        "x": 772,
+        "y": 544,
+        "label": "",
+        "topBarPixelDistance": 43.265045166015625,
+        "bottomBarPixelDistance": 17.228759765625,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 228.5647430419922,
+        "y": 787.1361694335938,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 228.5647430419922,
+        "y": 161.421875,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 228.5647430419922,
+        "y": 787.1361694335938,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 904.279052734375,
+        "y": 787.1361694335938,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 229.52503967285156,
+        "y": 335.4093322753906,
+        "label": "",
+        "topBarPixelDistance": 13.686737060546875,
+        "bottomBarPixelDistance": 11.004638671875,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Ebdarokimab_45_mg-Day1"
+    },
+    "points": [
+      {
+        "x": 229.68368530273438,
+        "y": 596.0170288085938,
+        "label": "",
+        "topBarPixelDistance": 8.26202392578125,
+        "bottomBarPixelDistance": 5.0712890625,
+        "deviationPixelDistance": 93
+      },
+      {
+        "x": 234.27902221679688,
+        "y": 441.421875,
+        "label": "",
+        "topBarPixelDistance": 5.40484619140625,
+        "bottomBarPixelDistance": 9.03961181640625,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 238.5647430419922,
+        "y": 367.13616943359375,
+        "label": "",
+        "topBarPixelDistance": 6.674713134765625,
+        "bottomBarPixelDistance": 5.547515869140625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 244.12814331054688,
+        "y": 326.01702880859375,
+        "label": "",
+        "topBarPixelDistance": 13.333343505859375,
+        "bottomBarPixelDistance": 11.111114501953125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 272.8504638671875,
+        "y": 298.5647277832031,
+        "label": "",
+        "topBarPixelDistance": 48.10325622558594,
+        "bottomBarPixelDistance": 8.56341552734375,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 315.7076110839844,
+        "y": 312.8504638671875,
+        "label": "",
+        "topBarPixelDistance": 50.166778564453125,
+        "bottomBarPixelDistance": 9.833221435546875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 408.56475830078125,
+        "y": 369.9933166503906,
+        "label": "",
+        "topBarPixelDistance": 35.71429443359375,
+        "bottomBarPixelDistance": 12.857147216796875,
+        "deviationPixelDistance": 23
+      },
+      {
+        "x": 228.5647430419922,
+        "y": 787.1361694335938,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 228.5647430419922,
+        "y": 161.421875,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 228.5647430419922,
+        "y": 787.1361694335938,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 904.279052734375,
+        "y": 787.1361694335938,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "label": {
+      "lineName": "HbA1c_0.2_mg"
+    },
+    "points": [
+      {
+        "x": 180.125,
+        "y": 390.8037414550781,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 829.2916870117188,
+        "y": 390.8013000488281,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 111.61000061035156,
+        "y": 390.478759765625,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 110.3145523071289,
+        "y": 23.07059097290039,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 190.10240173339844,
+        "y": 299.73480224609375,
+        "label": "",
+        "topBarPixelDistance": 121.43377685546875,
+        "bottomBarPixelDistance": 46.086334228515625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 347.381103515625,
+        "y": 314.3653869628906,
+        "label": "",
+        "topBarPixelDistance": 58.522308349609375,
+        "bottomBarPixelDistance": 37.3079833984375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 506.12286376953125,
+        "y": 309.9762268066406,
+        "label": "",
+        "topBarPixelDistance": 48.280914306640625,
+        "bottomBarPixelDistance": 57.059234619140625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 665.59619140625,
+        "y": 304.8554992675781,
+        "label": "",
+        "topBarPixelDistance": 49.012420654296875,
+        "bottomBarPixelDistance": 50.475494384765625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 822.25,
+        "y": 311.7537536621094,
+        "label": "",
+        "topBarPixelDistance": 50,
+        "bottomBarPixelDistance": 40,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

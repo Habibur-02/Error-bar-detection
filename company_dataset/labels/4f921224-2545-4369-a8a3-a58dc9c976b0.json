@@ -1,0 +1,359 @@
+[
+  {
+    "label": {
+      "lineName": "Onartuzumab_4_mg/kg"
+    },
+    "points": [
+      {
+        "x": 141.12408447265625,
+        "y": 237.26707458496094,
+        "label": "",
+        "topBarPixelDistance": 7.943511962890625,
+        "bottomBarPixelDistance": 15.88702392578125,
+        "deviationPixelDistance": 17
+      },
+      {
+        "x": 149.06761169433594,
+        "y": 246.09320068359375,
+        "label": "",
+        "topBarPixelDistance": 9.708740234375,
+        "bottomBarPixelDistance": 9.708724975585938,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 157.01112365722656,
+        "y": 261.09759521484375,
+        "label": "",
+        "topBarPixelDistance": 7.060882568359375,
+        "bottomBarPixelDistance": 8,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 192.3155975341797,
+        "y": 284.9281311035156,
+        "label": "",
+        "topBarPixelDistance": 3.530426025390625,
+        "bottomBarPixelDistance": 3.53045654296875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 251.23883056640625,
+        "y": 300.52392578125,
+        "label": "",
+        "topBarPixelDistance": 20.30010986328125,
+        "bottomBarPixelDistance": 23.830535888671875,
+        "deviationPixelDistance": 26
+      },
+      {
+        "x": 303.3129577636719,
+        "y": 317.2935485839844,
+        "label": "",
+        "topBarPixelDistance": 6.17828369140625,
+        "bottomBarPixelDistance": 7.943511962890625,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 523.78955078125,
+        "y": 359.658935546875,
+        "label": "",
+        "topBarPixelDistance": 9.708740234375,
+        "bottomBarPixelDistance": 10.59136962890625,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 690.6033325195312,
+        "y": 379.076416015625,
+        "label": "",
+        "topBarPixelDistance": 12.3565673828125,
+        "bottomBarPixelDistance": 12.356597900390625,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 910.3738403320312,
+        "y": 416.1461486816406,
+        "label": "",
+        "topBarPixelDistance": 12.3565673828125,
+        "bottomBarPixelDistance": 16.7696533203125,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 1297.8406982421875,
+        "y": 483.2247009277344,
+        "label": "",
+        "topBarPixelDistance": 15.00439453125,
+        "bottomBarPixelDistance": 18.534881591796875,
+        "deviationPixelDistance": 14
+      },
+      {
+        "x": 139.4351806640625,
+        "y": 569.1386108398438,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 141.03517150878906,
+        "y": 143.5386199951172,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 137.83517456054688,
+        "y": 601.1386108398438,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1295.19287109375,
+        "y": 601.4903564453125,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Onartuzumab_30_mg/kg"
+    },
+    "points": [
+      {
+        "x": 158.6622314453125,
+        "y": 118.94747924804688,
+        "label": "",
+        "topBarPixelDistance": 23.013999938964844,
+        "bottomBarPixelDistance": 23.756607055664062,
+        "deviationPixelDistance": 21
+      },
+      {
+        "x": 192.81219482421875,
+        "y": 133.0529022216797,
+        "label": "",
+        "topBarPixelDistance": 14.847816467285156,
+        "bottomBarPixelDistance": 18.559860229492188,
+        "deviationPixelDistance": 19
+      },
+      {
+        "x": 251.65733337402344,
+        "y": 163.8176727294922,
+        "label": "",
+        "topBarPixelDistance": 17.074981689453125,
+        "bottomBarPixelDistance": 21.529312133789062,
+        "deviationPixelDistance": 17
+      },
+      {
+        "x": 302.88226318359375,
+        "y": 177.92308044433594,
+        "label": "",
+        "topBarPixelDistance": 2.9695587158203125,
+        "bottomBarPixelDistance": 5.196746826171875,
+        "deviationPixelDistance": 10
+      },
+      {
+        "x": 525.5994262695312,
+        "y": 204.64913940429688,
+        "label": "",
+        "topBarPixelDistance": 20.044540405273438,
+        "bottomBarPixelDistance": 21.529327392578125,
+        "deviationPixelDistance": 23
+      },
+      {
+        "x": 691.7612915039062,
+        "y": 225.4360809326172,
+        "label": "",
+        "topBarPixelDistance": 17.074981689453125,
+        "bottomBarPixelDistance": 17.817367553710938,
+        "deviationPixelDistance": 30
+      },
+      {
+        "x": 910.7664794921875,
+        "y": 243.25344848632812,
+        "label": "",
+        "topBarPixelDistance": 17.817367553710938,
+        "bottomBarPixelDistance": 16.33258056640625,
+        "deviationPixelDistance": 22
+      },
+      {
+        "x": 151.2415771484375,
+        "y": 88.50957489013672,
+        "label": "",
+        "topBarPixelDistance": 11.878250122070312,
+        "bottomBarPixelDistance": 32.665184020996094,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 146.04483032226562,
+        "y": 103.35738372802734,
+        "label": "",
+        "topBarPixelDistance": 31.92279052734375,
+        "bottomBarPixelDistance": 30.438011169433594,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 140.105712890625,
+        "y": 101.87260437011719,
+        "label": "",
+        "topBarPixelDistance": 22.271713256835938,
+        "bottomBarPixelDistance": 33.40757751464844,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 139.4351806640625,
+        "y": 569.1386108398438,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 141.03517150878906,
+        "y": 143.5386199951172,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 137.83517456054688,
+        "y": 601.1386108398438,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1295.19287109375,
+        "y": 601.4903564453125,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Onartuzumab_15_mg/kg"
+    },
+    "points": [
+      {
+        "x": 160.0771942138672,
+        "y": 154.9499969482422,
+        "label": "",
+        "topBarPixelDistance": 38.59648895263672,
+        "bottomBarPixelDistance": 39.47369384765625,
+        "deviationPixelDistance": 71
+      },
+      {
+        "x": 192.94122314453125,
+        "y": 189.1824493408203,
+        "label": "",
+        "topBarPixelDistance": 14.912277221679688,
+        "bottomBarPixelDistance": 15.350875854492188,
+        "deviationPixelDistance": 20
+      },
+      {
+        "x": 251.27456665039062,
+        "y": 197.5157928466797,
+        "label": "",
+        "topBarPixelDistance": 36.84210205078125,
+        "bottomBarPixelDistance": 40.35087585449219,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 691.512451171875,
+        "y": 239.74720764160156,
+        "label": "",
+        "topBarPixelDistance": 20.300079345703125,
+        "bottomBarPixelDistance": 21.182693481445312,
+        "deviationPixelDistance": 20
+      },
+      {
+        "x": 910.3738403320312,
+        "y": 259.3588562011719,
+        "label": "",
+        "topBarPixelDistance": 26.478363037109375,
+        "bottomBarPixelDistance": 7.0609130859375,
+        "deviationPixelDistance": 36
+      },
+      {
+        "x": 1296.0755615234375,
+        "y": 295.5459899902344,
+        "label": "",
+        "topBarPixelDistance": 11.473968505859375,
+        "bottomBarPixelDistance": 9.708709716796875,
+        "deviationPixelDistance": 25
+      },
+      {
+        "x": 524.958740234375,
+        "y": 239.62106323242188,
+        "label": "",
+        "topBarPixelDistance": 27.1929931640625,
+        "bottomBarPixelDistance": 28.947357177734375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 303.0289611816406,
+        "y": 211.98947143554688,
+        "label": "",
+        "topBarPixelDistance": 25,
+        "bottomBarPixelDistance": 28.508773803710938,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 151.30526733398438,
+        "y": 162.84474182128906,
+        "label": "",
+        "topBarPixelDistance": 25.877197265625,
+        "bottomBarPixelDistance": 21.491226196289062,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 139.90174865722656,
+        "y": 163.28334045410156,
+        "label": "",
+        "topBarPixelDistance": 7.894744873046875,
+        "bottomBarPixelDistance": 29.385955810546875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 139.4351806640625,
+        "y": 569.1386108398438,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 141.03517150878906,
+        "y": 143.5386199951172,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 137.83517456054688,
+        "y": 601.1386108398438,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1295.19287109375,
+        "y": 601.4903564453125,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "label": {
+      "lineName": "Zenocutuzumab_Cohort 2, 750_mg MCLA-128, cycle 1, n=43"
+    },
+    "points": [
+      {
+        "x": 340.84442138671875,
+        "y": 1149.731689453125,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 9,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 347.27960205078125,
+        "y": 596.0307006835938,
+        "label": "",
+        "topBarPixelDistance": 145.17098999023438,
+        "bottomBarPixelDistance": 145.291015625,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 353.2784118652344,
+        "y": 586.4326171875,
+        "label": "",
+        "topBarPixelDistance": 127.77447509765625,
+        "bottomBarPixelDistance": 134.37310791015625,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 358.7775573730469,
+        "y": 605.9115600585938,
+        "label": "",
+        "topBarPixelDistance": 119.5,
+        "bottomBarPixelDistance": 115,
+        "deviationPixelDistance": 15
+      },
+      {
+        "x": 414,
+        "y": 732,
+        "label": "",
+        "topBarPixelDistance": 70.08843994140625,
+        "bottomBarPixelDistance": 73.91156005859375,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 859,
+        "y": 1028,
+        "label": "",
+        "topBarPixelDistance": 41.08843994140625,
+        "bottomBarPixelDistance": 39.41162109375,
+        "deviationPixelDistance": 10
+      },
+      {
+        "x": 1894.57763671875,
+        "y": 1125.91162109375,
+        "label": "",
+        "topBarPixelDistance": 19.5,
+        "bottomBarPixelDistance": 20.5,
+        "deviationPixelDistance": 17
+      },
+      {
+        "x": 317.9132385253906,
+        "y": 1149.8155517578125,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 319.3205261230469,
+        "y": 341.25396728515625,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 339.1351013183594,
+        "y": 1171.6805419921875,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1894.29833984375,
+        "y": 1173.389892578125,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

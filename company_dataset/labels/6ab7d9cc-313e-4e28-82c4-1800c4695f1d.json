@@ -1,0 +1,296 @@
+[
+  {
+    "label": {
+      "lineName": "Ascrinvacumab_4.5_mg/kg"
+    },
+    "points": [
+      {
+        "x": 332.6678161621094,
+        "y": 287.77960205078125,
+        "label": "",
+        "topBarPixelDistance": 10.977630615234375,
+        "bottomBarPixelDistance": 5.68902587890625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 333.25604248046875,
+        "y": 258.3678283691406,
+        "label": "",
+        "topBarPixelDistance": 7.491790771484375,
+        "bottomBarPixelDistance": 5.841552734375,
+        "deviationPixelDistance": 35
+      },
+      {
+        "x": 369.1383972167969,
+        "y": 258.9560546875,
+        "label": "",
+        "topBarPixelDistance": 6.8330230712890625,
+        "bottomBarPixelDistance": 4.882965087890625,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 404.94354248046875,
+        "y": 268.5235290527344,
+        "label": "",
+        "topBarPixelDistance": 7.3958740234375,
+        "bottomBarPixelDistance": 5.6041259765625,
+        "deviationPixelDistance": 13
+      },
+      {
+        "x": 477.6101989746094,
+        "y": 295.1902160644531,
+        "label": "",
+        "topBarPixelDistance": 14.54443359375,
+        "bottomBarPixelDistance": 5.02081298828125,
+        "deviationPixelDistance": 14
+      },
+      {
+        "x": 584.5579833984375,
+        "y": 310.92718505859375,
+        "label": "",
+        "topBarPixelDistance": 12.0205078125,
+        "bottomBarPixelDistance": 4.936004638671875,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 693.1614990234375,
+        "y": 327.99481201171875,
+        "label": "",
+        "topBarPixelDistance": 17.64715576171875,
+        "bottomBarPixelDistance": 5.143951416015625,
+        "deviationPixelDistance": 28
+      },
+      {
+        "x": 836.40478515625,
+        "y": 337.4411926269531,
+        "label": "",
+        "topBarPixelDistance": 20.020599365234375,
+        "bottomBarPixelDistance": 4.52484130859375,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 1086.1793212890625,
+        "y": 348.8044128417969,
+        "label": "",
+        "topBarPixelDistance": 21.38055419921875,
+        "bottomBarPixelDistance": 5.98785400390625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1338.222900390625,
+        "y": 364.64117431640625,
+        "label": "",
+        "topBarPixelDistance": 20.46044921875,
+        "bottomBarPixelDistance": 6.20623779296875,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 333.5866394042969,
+        "y": 638.5866088867188,
+        "label": "",
+        "topBarPixelDistance": 5.18304443359375,
+        "bottomBarPixelDistance": 6.81695556640625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 350.31488037109375,
+        "y": 251.89723205566406,
+        "label": "",
+        "topBarPixelDistance": 6.576751708984375,
+        "bottomBarPixelDistance": 4.5343780517578125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 343.84429931640625,
+        "y": 250.1325225830078,
+        "label": "",
+        "topBarPixelDistance": 5.9231414794921875,
+        "bottomBarPixelDistance": 6.6694488525390625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 295.49530029296875,
+        "y": 679.4453125,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 294.49530029296875,
+        "y": 127.4453125,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 331.49530029296875,
+        "y": 683.4453125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1338.431640625,
+        "y": 683.681640625,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Ascrinvacumab_10_mg/kg"
+    },
+    "points": [
+      {
+        "x": 333.3453063964844,
+        "y": 618.4453125,
+        "label": "",
+        "topBarPixelDistance": 80,
+        "bottomBarPixelDistance": 5,
+        "deviationPixelDistance": 46
+      },
+      {
+        "x": 340.8023376464844,
+        "y": 210.27622985839844,
+        "label": "",
+        "topBarPixelDistance": 7.8260955810546875,
+        "bottomBarPixelDistance": 1.7391357421875,
+        "deviationPixelDistance": 27
+      },
+      {
+        "x": 335.150146484375,
+        "y": 215.058837890625,
+        "label": "",
+        "topBarPixelDistance": 6.5217437744140625,
+        "bottomBarPixelDistance": 4.3478240966796875,
+        "deviationPixelDistance": 21
+      },
+      {
+        "x": 333.3453063964844,
+        "y": 236.4453125,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 4,
+        "deviationPixelDistance": 35
+      },
+      {
+        "x": 333.4110107421875,
+        "y": 224.62405395507812,
+        "label": "",
+        "topBarPixelDistance": 3.4782562255859375,
+        "bottomBarPixelDistance": 4.3478240966796875,
+        "deviationPixelDistance": 13
+      },
+      {
+        "x": 348.0321044921875,
+        "y": 221.013916015625,
+        "label": "",
+        "topBarPixelDistance": 12.476821899414062,
+        "bottomBarPixelDistance": 4.91448974609375,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 372.5414733886719,
+        "y": 228.10231018066406,
+        "label": "",
+        "topBarPixelDistance": 9.565216064453125,
+        "bottomBarPixelDistance": 4.7826080322265625,
+        "deviationPixelDistance": 17
+      },
+      {
+        "x": 406.0870056152344,
+        "y": 236.8238525390625,
+        "label": "",
+        "topBarPixelDistance": 12.631576538085938,
+        "bottomBarPixelDistance": 5.263153076171875,
+        "deviationPixelDistance": 15
+      },
+      {
+        "x": 479.2449035644531,
+        "y": 251.56069946289062,
+        "label": "",
+        "topBarPixelDistance": 10,
+        "bottomBarPixelDistance": 4.736846923828125,
+        "deviationPixelDistance": 30
+      },
+      {
+        "x": 586.6158447265625,
+        "y": 264.9095764160156,
+        "label": "",
+        "topBarPixelDistance": 16.25,
+        "bottomBarPixelDistance": 6.25,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 693.1614990234375,
+        "y": 280.2170104980469,
+        "label": "",
+        "topBarPixelDistance": 6.230377197265625,
+        "bottomBarPixelDistance": 7.406005859375,
+        "deviationPixelDistance": 25
+      },
+      {
+        "x": 835.12939453125,
+        "y": 288.5544128417969,
+        "label": "",
+        "topBarPixelDistance": 10.022308349609375,
+        "bottomBarPixelDistance": 4.52313232421875,
+        "deviationPixelDistance": 24
+      },
+      {
+        "x": 1086.7960205078125,
+        "y": 297.7210693359375,
+        "label": "",
+        "topBarPixelDistance": 8.279876708984375,
+        "bottomBarPixelDistance": 8.083740234375,
+        "deviationPixelDistance": 28
+      },
+      {
+        "x": 1338.450439453125,
+        "y": 306.8836975097656,
+        "label": "",
+        "topBarPixelDistance": 9.26068115234375,
+        "bottomBarPixelDistance": 8.01202392578125,
+        "deviationPixelDistance": 31
+      },
+      {
+        "x": 295.49530029296875,
+        "y": 679.4453125,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 294.49530029296875,
+        "y": 127.4453125,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 331.49530029296875,
+        "y": 683.4453125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1338.431640625,
+        "y": 683.681640625,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

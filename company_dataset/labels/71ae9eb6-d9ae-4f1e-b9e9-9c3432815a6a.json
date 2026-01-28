@@ -1,0 +1,777 @@
+[
+  {
+    "label": {
+      "lineName": "Telisotuzumab Vedotin_0.15_mg/kg "
+    },
+    "points": [
+      {
+        "x": 200.176513671875,
+        "y": 565.4722290039062,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 200.176513671875,
+        "y": 73.52162170410156,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 201,
+        "y": 690,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 707.44921875,
+        "y": 688.1597290039062,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 201.0591278076172,
+        "y": 677.56396484375,
+        "label": "",
+        "topBarPixelDistance": 5.74884033203125,
+        "bottomBarPixelDistance": 4.8997802734375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 272.5507507324219,
+        "y": 688.1553344726562,
+        "label": "",
+        "topBarPixelDistance": 9.5638427734375,
+        "bottomBarPixelDistance": 5.4410400390625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 369.63812255859375,
+        "y": 688.1553344726562,
+        "label": "",
+        "topBarPixelDistance": 7.627685546875,
+        "bottomBarPixelDistance": 6.89312744140625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 538.2171020507812,
+        "y": 688.1553344726562,
+        "label": "",
+        "topBarPixelDistance": 6.683837890625,
+        "bottomBarPixelDistance": 9.7730712890625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 708.5613403320312,
+        "y": 687.272705078125,
+        "label": "",
+        "topBarPixelDistance": 6.31915283203125,
+        "bottomBarPixelDistance": 9.16973876953125,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Telisotuzumab Vedotin_1.2_mg/kg"
+    },
+    "points": [
+      {
+        "x": 370.39691162109375,
+        "y": 671.9651489257812,
+        "label": "",
+        "topBarPixelDistance": 10.16455078125,
+        "bottomBarPixelDistance": 4.84027099609375,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 200.176513671875,
+        "y": 565.4722290039062,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 200.176513671875,
+        "y": 73.52162170410156,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 201,
+        "y": 690,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 707.44921875,
+        "y": 688.1597290039062,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 6.42889404296875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 202.61859130859375,
+        "y": 521.916748046875,
+        "label": "",
+        "topBarPixelDistance": 8.71246337890625,
+        "bottomBarPixelDistance": 4.84027099609375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 224.8838348388672,
+        "y": 613.3978881835938,
+        "label": "",
+        "topBarPixelDistance": 8.22845458984375,
+        "bottomBarPixelDistance": 7.2603759765625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 271.83447265625,
+        "y": 646.3117065429688,
+        "label": "",
+        "topBarPixelDistance": 8.22845458984375,
+        "bottomBarPixelDistance": 6.2923583984375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 538.1365356445312,
+        "y": 681.6456909179688,
+        "label": "",
+        "topBarPixelDistance": 7.2603759765625,
+        "bottomBarPixelDistance": 3.38818359375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 707.2991333007812,
+        "y": 687.3281860351562,
+        "label": "",
+        "topBarPixelDistance": 6.7763671875,
+        "bottomBarPixelDistance": 8.22845458984375,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Telisotuzumab Vedotin_2.7_mg/kg "
+    },
+    "points": [
+      {
+        "x": 272,
+        "y": 581,
+        "label": "",
+        "topBarPixelDistance": 16.410400390625,
+        "bottomBarPixelDistance": 8.302734375,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 224,
+        "y": 508,
+        "label": "",
+        "topBarPixelDistance": 96.10238647460938,
+        "bottomBarPixelDistance": 8.0458984375,
+        "deviationPixelDistance": 62
+      },
+      {
+        "x": 201.71226501464844,
+        "y": 356.29302978515625,
+        "label": "",
+        "topBarPixelDistance": 7.943511962890625,
+        "bottomBarPixelDistance": 7.060882568359375,
+        "deviationPixelDistance": 85
+      },
+      {
+        "x": 200.176513671875,
+        "y": 565.4722290039062,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 200.176513671875,
+        "y": 73.52162170410156,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 201,
+        "y": 690,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 707.44921875,
+        "y": 688.1597290039062,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 369.40863037109375,
+        "y": 640.4942626953125,
+        "label": "",
+        "topBarPixelDistance": 12.3565673828125,
+        "bottomBarPixelDistance": 6.17828369140625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 537.1050415039062,
+        "y": 680.2117919921875,
+        "label": "",
+        "topBarPixelDistance": 15.88702392578125,
+        "bottomBarPixelDistance": 11.4739990234375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 707.44921875,
+        "y": 686.3900756835938,
+        "label": "",
+        "topBarPixelDistance": 7.06085205078125,
+        "bottomBarPixelDistance": 8.826171875,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Telisotuzumab Vedotin_3.0_mg/kg "
+    },
+    "points": [
+      {
+        "x": 272.300048828125,
+        "y": 562.2999877929688,
+        "label": "",
+        "topBarPixelDistance": 27,
+        "bottomBarPixelDistance": 12,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 224.300048828125,
+        "y": 476.29998779296875,
+        "label": "",
+        "topBarPixelDistance": 65,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 201.3000030517578,
+        "y": 267.29998779296875,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 14,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 200.176513671875,
+        "y": 565.4722290039062,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 200.176513671875,
+        "y": 73.52162170410156,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 201,
+        "y": 690,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 707.44921875,
+        "y": 688.1597290039062,
+        "label": "xmax",
+        "topBarPixelDistance": 11.8597412109375,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 368.300048828125,
+        "y": 628.2999877929688,
+        "label": "",
+        "topBarPixelDistance": 26,
+        "bottomBarPixelDistance": 10,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 538.300048828125,
+        "y": 664.2999877929688,
+        "label": "",
+        "topBarPixelDistance": 8,
+        "bottomBarPixelDistance": 10,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 707.300048828125,
+        "y": 687.2999877929688,
+        "label": "",
+        "topBarPixelDistance": 9,
+        "bottomBarPixelDistance": 11,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 201.3000030517578,
+        "y": 687.2999877929688,
+        "label": "",
+        "topBarPixelDistance": 5.79583740234375,
+        "bottomBarPixelDistance": 8.1317138671875,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Telisotuzumab Vedotin_0.6_mg/kg"
+    },
+    "points": [
+      {
+        "x": 200.176513671875,
+        "y": 565.4722290039062,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 200.176513671875,
+        "y": 73.52162170410156,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 201,
+        "y": 690,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 707.44921875,
+        "y": 688.1597290039062,
+        "label": "xmax",
+        "topBarPixelDistance": 5.633056640625,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 202.11036682128906,
+        "y": 602.7928466796875,
+        "label": "",
+        "topBarPixelDistance": 4.50140380859375,
+        "bottomBarPixelDistance": 9.05133056640625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 273.7463684082031,
+        "y": 671.0407104492188,
+        "label": "",
+        "topBarPixelDistance": 3.04937744140625,
+        "bottomBarPixelDistance": 6.14715576171875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 369.9612731933594,
+        "y": 687.3524169921875,
+        "label": "",
+        "topBarPixelDistance": 7.74444580078125,
+        "bottomBarPixelDistance": 7.74444580078125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 538.0639038085938,
+        "y": 685.9148559570312,
+        "label": "",
+        "topBarPixelDistance": 6.7763671875,
+        "bottomBarPixelDistance": 7.74444580078125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 707.2991333007812,
+        "y": 687.366943359375,
+        "label": "",
+        "topBarPixelDistance": 6.77642822265625,
+        "bottomBarPixelDistance": 8.71246337890625,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Telisotuzumab Vedotin_1.8_mg/kg"
+    },
+    "points": [
+      {
+        "x": 200.176513671875,
+        "y": 565.4722290039062,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 200.176513671875,
+        "y": 73.52162170410156,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 201,
+        "y": 690,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 707.44921875,
+        "y": 688.1597290039062,
+        "label": "xmax",
+        "topBarPixelDistance": 6.18267822265625,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 201.0591278076172,
+        "y": 409.2497863769531,
+        "label": "",
+        "topBarPixelDistance": 7.0609130859375,
+        "bottomBarPixelDistance": 6.17828369140625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 224.00704956054688,
+        "y": 575.180908203125,
+        "label": "",
+        "topBarPixelDistance": 35.30450439453125,
+        "bottomBarPixelDistance": 7.0609130859375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 272.5507507324219,
+        "y": 636.0811767578125,
+        "label": "",
+        "topBarPixelDistance": 39.717529296875,
+        "bottomBarPixelDistance": 7.94354248046875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 369.40863037109375,
+        "y": 663.4421997070312,
+        "label": "",
+        "topBarPixelDistance": 7.94354248046875,
+        "bottomBarPixelDistance": 7.06085205078125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 537.9876098632812,
+        "y": 680.2117919921875,
+        "label": "",
+        "topBarPixelDistance": 9.708740234375,
+        "bottomBarPixelDistance": 7.0609130859375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 707.44921875,
+        "y": 689.0379638671875,
+        "label": "",
+        "topBarPixelDistance": 8.826171875,
+        "bottomBarPixelDistance": 7.06085205078125,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Telisotuzumab Vedotin_3.3_mg/kg"
+    },
+    "points": [
+      {
+        "x": 201.79200744628906,
+        "y": 273.89044189453125,
+        "label": "",
+        "topBarPixelDistance": 5.571044921875,
+        "bottomBarPixelDistance": 6.499542236328125,
+        "deviationPixelDistance": 80
+      },
+      {
+        "x": 200.176513671875,
+        "y": 565.4722290039062,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 200.176513671875,
+        "y": 73.52162170410156,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 201,
+        "y": 690,
+        "label": "xmin",
+        "topBarPixelDistance": 5.41632080078125,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 707.44921875,
+        "y": 688.1597290039062,
+        "label": "xmax",
+        "topBarPixelDistance": 3.5760498046875,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 224.0761260986328,
+        "y": 479.0900573730469,
+        "label": "",
+        "topBarPixelDistance": 66.85235595703125,
+        "bottomBarPixelDistance": 5.960601806640625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 272.3583984375,
+        "y": 580.297119140625,
+        "label": "",
+        "topBarPixelDistance": 17.9527587890625,
+        "bottomBarPixelDistance": 7.91632080078125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 369.8514099121094,
+        "y": 637.8644409179688,
+        "label": "",
+        "topBarPixelDistance": 8.25244140625,
+        "bottomBarPixelDistance": 3.8736572265625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 538.12451171875,
+        "y": 678.1163940429688,
+        "label": "",
+        "topBarPixelDistance": 12.93450927734375,
+        "bottomBarPixelDistance": 8.0841064453125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 706.8987426757812,
+        "y": 685.2182006835938,
+        "label": "",
+        "topBarPixelDistance": 11.143798828125,
+        "bottomBarPixelDistance": 11.4915771484375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 201.82699584960938,
+        "y": 686.2005004882812,
+        "label": "",
+        "topBarPixelDistance": 4.3485107421875,
+        "bottomBarPixelDistance": 7.777587890625,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Telisotuzumab Vedotin_2.4_mg/kg "
+    },
+    "points": [
+      {
+        "x": 273.2038879394531,
+        "y": 579.593994140625,
+        "label": "",
+        "topBarPixelDistance": 15.00439453125,
+        "bottomBarPixelDistance": 10.59136962890625,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 224.66018676757812,
+        "y": 493.09796142578125,
+        "label": "",
+        "topBarPixelDistance": 81.20034790039062,
+        "bottomBarPixelDistance": 7.943511962890625,
+        "deviationPixelDistance": 17
+      },
+      {
+        "x": 201.71226501464844,
+        "y": 282.153564453125,
+        "label": "",
+        "topBarPixelDistance": 7.907318115234375,
+        "bottomBarPixelDistance": 6.2144775390625,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 369.40863037109375,
+        "y": 635.1985473632812,
+        "label": "",
+        "topBarPixelDistance": 32.6566162109375,
+        "bottomBarPixelDistance": 8.826171875,
+        "deviationPixelDistance": 18
+      },
+      {
+        "x": 200.176513671875,
+        "y": 565.4722290039062,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 200.176513671875,
+        "y": 73.52162170410156,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 201,
+        "y": 690,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 707.44921875,
+        "y": 688.1597290039062,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 537.9876098632812,
+        "y": 673.1509399414062,
+        "label": "",
+        "topBarPixelDistance": 7.94354248046875,
+        "bottomBarPixelDistance": 8.82611083984375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 707.44921875,
+        "y": 686.3900756835938,
+        "label": "",
+        "topBarPixelDistance": 7.9434814453125,
+        "bottomBarPixelDistance": 7.0609130859375,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Telisotuzumab Vedotin_0.3_mg/kg "
+    },
+    "points": [
+      {
+        "x": 200.176513671875,
+        "y": 565.4722290039062,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 200.176513671875,
+        "y": 73.52162170410156,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 201,
+        "y": 690,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 707.44921875,
+        "y": 688.1597290039062,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 201.05670166015625,
+        "y": 667.6522216796875,
+        "label": "",
+        "topBarPixelDistance": 7.9434814453125,
+        "bottomBarPixelDistance": 7.0609130859375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 273.433349609375,
+        "y": 684.421875,
+        "label": "",
+        "topBarPixelDistance": 7.0609130859375,
+        "bottomBarPixelDistance": 10.59136962890625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 369.63812255859375,
+        "y": 687.0697021484375,
+        "label": "",
+        "topBarPixelDistance": 6.17828369140625,
+        "bottomBarPixelDistance": 10.59136962890625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 538.2171020507812,
+        "y": 686.1871337890625,
+        "label": "",
+        "topBarPixelDistance": 8.826171875,
+        "bottomBarPixelDistance": 8.82611083984375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 708.5613403320312,
+        "y": 687.9523315429688,
+        "label": "",
+        "topBarPixelDistance": 7.0609130859375,
+        "bottomBarPixelDistance": 7.9434814453125,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

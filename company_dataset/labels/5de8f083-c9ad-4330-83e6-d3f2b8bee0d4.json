@@ -1,0 +1,192 @@
+[
+  {
+    "label": {
+      "lineName": "Mavrilimumab_0.01_mg/kg (n=1)"
+    },
+    "points": [
+      {
+        "x": 564.2630004882812,
+        "y": 604.4483642578125,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 9,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 588.0935668945312,
+        "y": 645.93115234375,
+        "label": "",
+        "topBarPixelDistance": 8,
+        "bottomBarPixelDistance": 8,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 637.5198364257812,
+        "y": 707.7139892578125,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 9,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 556.3195190429688,
+        "y": 517.0697021484375,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 9,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 558.084716796875,
+        "y": 550.6090087890625,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 11,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 553.6716918945312,
+        "y": 495.00439453125,
+        "label": "",
+        "topBarPixelDistance": 16,
+        "bottomBarPixelDistance": 8,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 551.9064331054688,
+        "y": 472.9390869140625,
+        "label": "",
+        "topBarPixelDistance": 10,
+        "bottomBarPixelDistance": 6,
+        "deviationPixelDistance": 10
+      },
+      {
+        "x": 527.1932983398438,
+        "y": 835.6928100585938,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 526.5401611328125,
+        "y": 82.7096176147461,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 551.0238647460938,
+        "y": 838.3406372070312,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1583.327392578125,
+        "y": 837.6964111328125,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Mavrilimumab_0.03_mg/kg (n=1)"
+    },
+    "points": [
+      {
+        "x": 565.0838012695312,
+        "y": 481.2091979980469,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 588.03173828125,
+        "y": 554.4660034179688,
+        "label": "",
+        "topBarPixelDistance": 77,
+        "bottomBarPixelDistance": 80,
+        "deviationPixelDistance": 80
+      },
+      {
+        "x": 724.836669921875,
+        "y": 693.0361938476562,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 8,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 555.3750610351562,
+        "y": 434.43072509765625,
+        "label": "",
+        "topBarPixelDistance": 117,
+        "bottomBarPixelDistance": 124,
+        "deviationPixelDistance": 124
+      },
+      {
+        "x": 558.905517578125,
+        "y": 441.4916076660156,
+        "label": "",
+        "topBarPixelDistance": 173,
+        "bottomBarPixelDistance": 175,
+        "deviationPixelDistance": 175
+      },
+      {
+        "x": 560.6707763671875,
+        "y": 449.4351501464844,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 14,
+        "deviationPixelDistance": 14
+      },
+      {
+        "x": 639.2232666015625,
+        "y": 621.5445556640625,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 11,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 527.1932983398438,
+        "y": 835.6928100585938,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 526.5401611328125,
+        "y": 82.7096176147461,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 551.0238647460938,
+        "y": 838.3406372070312,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1583.327392578125,
+        "y": 837.6964111328125,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,579 @@
+[
+  {
+    "label": {
+      "lineName": "Anselamimab_250_mg/m\u00b2 dose level "
+    },
+    "points": [
+      {
+        "x": 541.3232421875,
+        "y": 642.5012817382812,
+        "label": "",
+        "topBarPixelDistance": 6.4766845703125,
+        "bottomBarPixelDistance": 5.13714599609375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 331.47869873046875,
+        "y": 590.6878051757812,
+        "label": "",
+        "topBarPixelDistance": 6.92034912109375,
+        "bottomBarPixelDistance": 5.33770751953125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 226.55641174316406,
+        "y": 423.58935546875,
+        "label": "",
+        "topBarPixelDistance": 4.98321533203125,
+        "bottomBarPixelDistance": 4.049041748046875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 226.55641174316406,
+        "y": 439.1333923339844,
+        "label": "",
+        "topBarPixelDistance": 3.10791015625,
+        "bottomBarPixelDistance": 4.634033203125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 226.55641174316406,
+        "y": 646.3872680664062,
+        "label": "",
+        "topBarPixelDistance": 5.20050048828125,
+        "bottomBarPixelDistance": 4.4769287109375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 195,
+        "y": 655,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 195,
+        "y": 47,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 197,
+        "y": 655,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 976.1588745117188,
+        "y": 656.2183227539062,
+        "label": "xmax",
+        "topBarPixelDistance": 12.469970703125,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Anselamimab_100_mg/m\u00b2 dose level "
+    },
+    "points": [
+      {
+        "x": 195,
+        "y": 655,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 195,
+        "y": 47,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 197,
+        "y": 655,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 976.1588745117188,
+        "y": 656.2183227539062,
+        "label": "xmax",
+        "topBarPixelDistance": 278.3283386230469,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 228.2842559814453,
+        "y": 650.9526977539062,
+        "label": "",
+        "topBarPixelDistance": 3.712158203125,
+        "bottomBarPixelDistance": 5.07574462890625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 229.51426696777344,
+        "y": 602.9822387695312,
+        "label": "",
+        "topBarPixelDistance": 5.74169921875,
+        "bottomBarPixelDistance": 6.0765380859375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 239.3543701171875,
+        "y": 628.8125,
+        "label": "",
+        "topBarPixelDistance": 6.11737060546875,
+        "bottomBarPixelDistance": 3.57958984375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 332.8352966308594,
+        "y": 647.2626342773438,
+        "label": "",
+        "topBarPixelDistance": 5.47637939453125,
+        "bottomBarPixelDistance": 6.03851318359375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 434.92633056640625,
+        "y": 650.9526977539062,
+        "label": "",
+        "topBarPixelDistance": 6.11767578125,
+        "bottomBarPixelDistance": 3.638427734375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 543.1674194335938,
+        "y": 650.9526977539062,
+        "label": "",
+        "topBarPixelDistance": 4.89813232421875,
+        "bottomBarPixelDistance": 3.638427734375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 650.178466796875,
+        "y": 652.1827392578125,
+        "label": "",
+        "topBarPixelDistance": 3.6900634765625,
+        "bottomBarPixelDistance": 3.6279296875,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Anselamimab_500_mg/m\u00b2 dose level "
+    },
+    "points": [
+      {
+        "x": 195,
+        "y": 655,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 195,
+        "y": 47,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 197,
+        "y": 655,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 976.1588745117188,
+        "y": 656.2183227539062,
+        "label": "xmax",
+        "topBarPixelDistance": 18.01434326171875,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 962.7921752929688,
+        "y": 646.1248779296875,
+        "label": "",
+        "topBarPixelDistance": 4.53106689453125,
+        "bottomBarPixelDistance": 5.638427734375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 541.3232421875,
+        "y": 602.05712890625,
+        "label": "",
+        "topBarPixelDistance": 16.96044921875,
+        "bottomBarPixelDistance": 20.32769775390625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 436.238525390625,
+        "y": 562.5090942382812,
+        "label": "",
+        "topBarPixelDistance": 14.7005615234375,
+        "bottomBarPixelDistance": 12.4180908203125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 331.1537780761719,
+        "y": 474.3735046386719,
+        "label": "",
+        "topBarPixelDistance": 73.4576416015625,
+        "bottomBarPixelDistance": 79.08474731445312,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 237.36846923828125,
+        "y": 390.7576904296875,
+        "label": "",
+        "topBarPixelDistance": 7.9208984375,
+        "bottomBarPixelDistance": 5.638427734375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 226.0690460205078,
+        "y": 294.7124938964844,
+        "label": "",
+        "topBarPixelDistance": 5.6610107421875,
+        "bottomBarPixelDistance": 6.76837158203125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 228.3289337158203,
+        "y": 281.1531677246094,
+        "label": "",
+        "topBarPixelDistance": 6.79095458984375,
+        "bottomBarPixelDistance": 5.638427734375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 237.36846923828125,
+        "y": 225.7859344482422,
+        "label": "",
+        "topBarPixelDistance": 5.6610107421875,
+        "bottomBarPixelDistance": 5.638427734375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 228.3289337158203,
+        "y": 160.24920654296875,
+        "label": "",
+        "topBarPixelDistance": 5.6610107421875,
+        "bottomBarPixelDistance": 4.50848388671875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 228.3289337158203,
+        "y": 93.57125091552734,
+        "label": "",
+        "topBarPixelDistance": 4.519767761230469,
+        "bottomBarPixelDistance": 2.2598876953125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 229.45887756347656,
+        "y": 611.0853881835938,
+        "label": "",
+        "topBarPixelDistance": 4.519775390625,
+        "bottomBarPixelDistance": 6.7796630859375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 227.19898986816406,
+        "y": 644.983642578125,
+        "label": "",
+        "topBarPixelDistance": 7.52581787109375,
+        "bottomBarPixelDistance": 6.5191650390625,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Anselamimab_10_mg/m\u00b2 dose level "
+    },
+    "points": [
+      {
+        "x": 195,
+        "y": 655,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 195,
+        "y": 47,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 197,
+        "y": 655,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 976.1588745117188,
+        "y": 656.2183227539062,
+        "label": "xmax",
+        "topBarPixelDistance": 343.0968017578125,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 227.3269805908203,
+        "y": 648.0409545898438,
+        "label": "",
+        "topBarPixelDistance": 3.4285888671875,
+        "bottomBarPixelDistance": 5.094970703125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 437.32415771484375,
+        "y": 652.77392578125,
+        "label": "",
+        "topBarPixelDistance": 4.16156005859375,
+        "bottomBarPixelDistance": 4.40985107421875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 335.4284362792969,
+        "y": 650.404296875,
+        "label": "",
+        "topBarPixelDistance": 5.79193115234375,
+        "bottomBarPixelDistance": 3.3509521484375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 543.959228515625,
+        "y": 650.404296875,
+        "label": "",
+        "topBarPixelDistance": 2.9342041015625,
+        "bottomBarPixelDistance": 6.20806884765625,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Anselamimab_50_mg/m\u00b2 dose level "
+    },
+    "points": [
+      {
+        "x": 195,
+        "y": 655,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 195,
+        "y": 47,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 197,
+        "y": 655,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 976.1588745117188,
+        "y": 656.2183227539062,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 226.0784149169922,
+        "y": 646.4893798828125,
+        "label": "",
+        "topBarPixelDistance": 4.4117431640625,
+        "bottomBarPixelDistance": 5.88232421875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 226.0784149169922,
+        "y": 606.7835083007812,
+        "label": "",
+        "topBarPixelDistance": 4.41180419921875,
+        "bottomBarPixelDistance": 5.88232421875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 331.96075439453125,
+        "y": 650.901123046875,
+        "label": "",
+        "topBarPixelDistance": 2.941162109375,
+        "bottomBarPixelDistance": 2.94122314453125,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Anselamimab_5_mg/m\u00b2 dose level "
+    },
+    "points": [
+      {
+        "x": 228.0745849609375,
+        "y": 649.6143798828125,
+        "label": "",
+        "topBarPixelDistance": 4.73931884765625,
+        "bottomBarPixelDistance": 3.949462890625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 195,
+        "y": 655,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 195,
+        "y": 47,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 197,
+        "y": 655,
+        "label": "xmin",
+        "topBarPixelDistance": 191.75167846679688,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 976.1588745117188,
+        "y": 656.2183227539062,
+        "label": "xmax",
+        "topBarPixelDistance": 256.3116455078125,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 331.50421142578125,
+        "y": 652.2578125,
+        "label": "",
+        "topBarPixelDistance": 4.225341796875,
+        "bottomBarPixelDistance": 3.55908203125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 438.86248779296875,
+        "y": 652.8609619140625,
+        "label": "",
+        "topBarPixelDistance": 4.52911376953125,
+        "bottomBarPixelDistance": 5.0517578125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 543.8082275390625,
+        "y": 651.051513671875,
+        "label": "",
+        "topBarPixelDistance": 3.61883544921875,
+        "bottomBarPixelDistance": 3.56781005859375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 961.7816772460938,
+        "y": 649.8452758789062,
+        "label": "",
+        "topBarPixelDistance": 4.22198486328125,
+        "bottomBarPixelDistance": 4.8250732421875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 647.5476684570312,
+        "y": 652.2578125,
+        "label": "",
+        "topBarPixelDistance": 4.82513427734375,
+        "bottomBarPixelDistance": 3.01568603515625,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Anselamimab_0.5_mg/m\u00b2 dose level "
+    },
+    "points": [
+      {
+        "x": 195,
+        "y": 655,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 195,
+        "y": 47,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 197,
+        "y": 655,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 976.1588745117188,
+        "y": 656.2183227539062,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 228.26292419433594,
+        "y": 652.2986450195312,
+        "label": "",
+        "topBarPixelDistance": 6.60662841796875,
+        "bottomBarPixelDistance": 3.00299072265625,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

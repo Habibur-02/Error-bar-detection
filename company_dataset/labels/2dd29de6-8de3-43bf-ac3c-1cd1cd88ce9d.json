@@ -1,0 +1,129 @@
+[
+  {
+    "label": {
+      "lineName": "Datopotamab Deruxtecan_Dato-DXd"
+    },
+    "points": [
+      {
+        "x": 271.750732421875,
+        "y": 162.271484375,
+        "label": "",
+        "topBarPixelDistance": 9,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 283.2247009277344,
+        "y": 170.21499633789062,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 346.7727966308594,
+        "y": 204.68984985351562,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 421.79486083984375,
+        "y": 231.168212890625,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 482.69512939453125,
+        "y": 255.88136291503906,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 8,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 485.34295654296875,
+        "y": 162.32444763183594,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 707.7612915039062,
+        "y": 243.52479553222656,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 12,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 709.5265502929688,
+        "y": 160.55921936035156,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 12,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 931.7860717773438,
+        "y": 237.29354858398438,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 9,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 1376.9051513671875,
+        "y": 234.64572143554688,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 12,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 1825.3101806640625,
+        "y": 240.82400512695312,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 245.27236938476562,
+        "y": 629.2264404296875,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 243.9749298095703,
+        "y": 110.67395782470703,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 262.92462158203125,
+        "y": 640.700439453125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1826.1903076171875,
+        "y": 639.8178100585938,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

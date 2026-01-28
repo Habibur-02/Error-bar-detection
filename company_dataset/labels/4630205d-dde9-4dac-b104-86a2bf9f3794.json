@@ -1,0 +1,358 @@
+[
+  {
+    "label": {
+      "lineName": "Patritumab deruxtecan_6.4_mg/kg_IV Q3W"
+    },
+    "points": [
+      {
+        "x": 1231.777587890625,
+        "y": 856.4115600585938,
+        "label": "",
+        "topBarPixelDistance": 13,
+        "bottomBarPixelDistance": 14,
+        "deviationPixelDistance": 26
+      },
+      {
+        "x": 927.7775268554688,
+        "y": 818.9115600585938,
+        "label": "",
+        "topBarPixelDistance": 18.5,
+        "bottomBarPixelDistance": 12,
+        "deviationPixelDistance": 33
+      },
+      {
+        "x": 623.2775268554688,
+        "y": 759.4115600585938,
+        "label": "",
+        "topBarPixelDistance": 18.5,
+        "bottomBarPixelDistance": 14,
+        "deviationPixelDistance": 18
+      },
+      {
+        "x": 336.7775573730469,
+        "y": 657.4115600585938,
+        "label": "",
+        "topBarPixelDistance": 13.5,
+        "bottomBarPixelDistance": 15.5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 323.7775573730469,
+        "y": 635.4115600585938,
+        "label": "",
+        "topBarPixelDistance": 13.49993896484375,
+        "bottomBarPixelDistance": 8.5,
+        "deviationPixelDistance": 30
+      },
+      {
+        "x": 328.7775573730469,
+        "y": 647.9115600585938,
+        "label": "",
+        "topBarPixelDistance": 14,
+        "bottomBarPixelDistance": 10.5,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 300.24591064453125,
+        "y": 1186.38037109375,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 299.8013000488281,
+        "y": 474.4735107421875,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 318.25146484375,
+        "y": 1187.765380859375,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1230.0413818359375,
+        "y": 1187.2718505859375,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 322.7775573730469,
+        "y": 621.9115600585938,
+        "label": "",
+        "topBarPixelDistance": 12.5,
+        "bottomBarPixelDistance": 7.00006103515625,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Patritumab deruxtecan_3.2_mg/kg_IV Q3W"
+    },
+    "points": [
+      {
+        "x": 1231.277587890625,
+        "y": 1033.41162109375,
+        "label": "",
+        "topBarPixelDistance": 48.50006103515625,
+        "bottomBarPixelDistance": 12,
+        "deviationPixelDistance": 14
+      },
+      {
+        "x": 927.2775268554688,
+        "y": 930.9114990234375,
+        "label": "",
+        "topBarPixelDistance": 37.5,
+        "bottomBarPixelDistance": 12,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 624.2775268554688,
+        "y": 845.4115600585938,
+        "label": "",
+        "topBarPixelDistance": 27,
+        "bottomBarPixelDistance": 12,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 334.7775573730469,
+        "y": 699.4115600585938,
+        "label": "",
+        "topBarPixelDistance": 16.5,
+        "bottomBarPixelDistance": 12,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 327.77752685546875,
+        "y": 690.9115600585938,
+        "label": "",
+        "topBarPixelDistance": 15.5,
+        "bottomBarPixelDistance": 10.5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 300.24591064453125,
+        "y": 1186.38037109375,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 299.8013000488281,
+        "y": 474.4735107421875,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 318.25146484375,
+        "y": 1187.765380859375,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1230.0413818359375,
+        "y": 1187.2718505859375,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 321.27752685546875,
+        "y": 679.9115600585938,
+        "label": "",
+        "topBarPixelDistance": 12.5,
+        "bottomBarPixelDistance": 11.5,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Patritumab deruxtecan_5.6_mg/kg_IV Q3W"
+    },
+    "points": [
+      {
+        "x": 1230.777587890625,
+        "y": 871.4115600585938,
+        "label": "",
+        "topBarPixelDistance": 38.5,
+        "bottomBarPixelDistance": 15,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 926.7775268554688,
+        "y": 819.4115600585938,
+        "label": "",
+        "topBarPixelDistance": 32.5,
+        "bottomBarPixelDistance": 15.5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 624.2775268554688,
+        "y": 763.4115600585938,
+        "label": "",
+        "topBarPixelDistance": 22,
+        "bottomBarPixelDistance": 14,
+        "deviationPixelDistance": 13
+      },
+      {
+        "x": 322.7775573730469,
+        "y": 643.9115600585938,
+        "label": "",
+        "topBarPixelDistance": 14,
+        "bottomBarPixelDistance": 14.2877197265625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 333.7775573730469,
+        "y": 656.9115600585938,
+        "label": "",
+        "topBarPixelDistance": 18.5,
+        "bottomBarPixelDistance": 15,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 300.24591064453125,
+        "y": 1186.38037109375,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 299.8013000488281,
+        "y": 474.4735107421875,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 318.25146484375,
+        "y": 1187.765380859375,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1230.0413818359375,
+        "y": 1187.2718505859375,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 318.3594970703125,
+        "y": 631.2720947265625,
+        "label": "",
+        "topBarPixelDistance": 12.1719970703125,
+        "bottomBarPixelDistance": 11.90155029296875,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Patritumab deruxtecan_4.8_mg/kg_IV Q3W"
+    },
+    "points": [
+      {
+        "x": 1231.277587890625,
+        "y": 915.9115600585938,
+        "label": "",
+        "topBarPixelDistance": 41.46319580078125,
+        "bottomBarPixelDistance": 10.5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 926.7775268554688,
+        "y": 848.9115600585938,
+        "label": "",
+        "topBarPixelDistance": 37.5,
+        "bottomBarPixelDistance": 9,
+        "deviationPixelDistance": 42
+      },
+      {
+        "x": 624.7775268554688,
+        "y": 787.9115600585938,
+        "label": "",
+        "topBarPixelDistance": 34,
+        "bottomBarPixelDistance": 10.5,
+        "deviationPixelDistance": 37
+      },
+      {
+        "x": 337.2775573730469,
+        "y": 674.4115600585938,
+        "label": "",
+        "topBarPixelDistance": 14.5,
+        "bottomBarPixelDistance": 9,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 325.27752685546875,
+        "y": 671.9115600585938,
+        "label": "",
+        "topBarPixelDistance": 14.5,
+        "bottomBarPixelDistance": 8.5,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 300.24591064453125,
+        "y": 1186.38037109375,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 299.8013000488281,
+        "y": 474.4735107421875,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 318.25146484375,
+        "y": 1187.765380859375,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1230.0413818359375,
+        "y": 1187.2718505859375,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 318.27752685546875,
+        "y": 665.9115600585938,
+        "label": "",
+        "topBarPixelDistance": 9.5,
+        "bottomBarPixelDistance": 6,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

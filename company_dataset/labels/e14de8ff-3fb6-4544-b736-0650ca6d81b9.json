@@ -1,0 +1,287 @@
+[
+  {
+    "label": {
+      "lineName": "Rozanolixizumab_CHN (Chinese)"
+    },
+    "points": [
+      {
+        "x": 191.78123474121094,
+        "y": 570.6948852539062,
+        "label": "",
+        "topBarPixelDistance": 40.854248046875,
+        "bottomBarPixelDistance": 8.3565673828125,
+        "deviationPixelDistance": 21
+      },
+      {
+        "x": 239.13499450683594,
+        "y": 481.5583801269531,
+        "label": "",
+        "topBarPixelDistance": 73.35189819335938,
+        "bottomBarPixelDistance": 7.42803955078125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 285.56024169921875,
+        "y": 453.7032470703125,
+        "label": "",
+        "topBarPixelDistance": 77.06591796875,
+        "bottomBarPixelDistance": 8.356536865234375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 379,
+        "y": 436,
+        "label": "",
+        "topBarPixelDistance": 73.29025268554688,
+        "bottomBarPixelDistance": 7.48968505859375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 472.18975830078125,
+        "y": 473.20184326171875,
+        "label": "",
+        "topBarPixelDistance": 34.35467529296875,
+        "bottomBarPixelDistance": 7.42803955078125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 659.2556762695312,
+        "y": 565.2723999023438,
+        "label": "",
+        "topBarPixelDistance": 38.9971923828125,
+        "bottomBarPixelDistance": 8.3565673828125,
+        "deviationPixelDistance": 33
+      },
+      {
+        "x": 99.33999633789062,
+        "y": 607.8800048828125,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 99.33999633789062,
+        "y": 159.87998962402344,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 99.33999633789062,
+        "y": 607.8800048828125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 751,
+        "y": 607,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Rozanolixizumab_White"
+    },
+    "points": [
+      {
+        "x": 130.936279296875,
+        "y": 606.1266479492188,
+        "label": "",
+        "topBarPixelDistance": 7.42803955078125,
+        "bottomBarPixelDistance": 6.49951171875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 144.86386108398438,
+        "y": 584.77099609375,
+        "label": "",
+        "topBarPixelDistance": 28.78363037109375,
+        "bottomBarPixelDistance": 7.42803955078125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 192.21762084960938,
+        "y": 516.9901123046875,
+        "label": "",
+        "topBarPixelDistance": 82.63693237304688,
+        "bottomBarPixelDistance": 8.3565673828125,
+        "deviationPixelDistance": 14
+      },
+      {
+        "x": 239.57138061523438,
+        "y": 376.7858581542969,
+        "label": "",
+        "topBarPixelDistance": 153.2033233642578,
+        "bottomBarPixelDistance": 6.499542236328125,
+        "deviationPixelDistance": 17
+      },
+      {
+        "x": 285.068115234375,
+        "y": 392.5704650878906,
+        "label": "",
+        "topBarPixelDistance": 144.8468017578125,
+        "bottomBarPixelDistance": 7.42803955078125,
+        "deviationPixelDistance": 22
+      },
+      {
+        "x": 379.775634765625,
+        "y": 359.144287109375,
+        "label": "",
+        "topBarPixelDistance": 177.344482421875,
+        "bottomBarPixelDistance": 6.49951171875,
+        "deviationPixelDistance": 229
+      },
+      {
+        "x": 472.62615966796875,
+        "y": 425.0681457519531,
+        "label": "",
+        "topBarPixelDistance": 131.84771728515625,
+        "bottomBarPixelDistance": 8.356536865234375,
+        "deviationPixelDistance": 179
+      },
+      {
+        "x": 659.2556762695312,
+        "y": 571.7719116210938,
+        "label": "",
+        "topBarPixelDistance": 35.28314208984375,
+        "bottomBarPixelDistance": 6.49957275390625,
+        "deviationPixelDistance": 40
+      },
+      {
+        "x": 99.33999633789062,
+        "y": 607.8800048828125,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 99.33999633789062,
+        "y": 159.87998962402344,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 99.33999633789062,
+        "y": 607.8800048828125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 751,
+        "y": 607,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Rozanolixizumab_JPN (Japanese)"
+    },
+    "points": [
+      {
+        "x": 144.87315368652344,
+        "y": 604.2695922851562,
+        "label": "",
+        "topBarPixelDistance": 7.42803955078125,
+        "bottomBarPixelDistance": 7.42803955078125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 192.22691345214844,
+        "y": 542.98828125,
+        "label": "",
+        "topBarPixelDistance": 52.9248046875,
+        "bottomBarPixelDistance": 6.49951171875,
+        "deviationPixelDistance": 48
+      },
+      {
+        "x": 239.33999633789062,
+        "y": 441.8800048828125,
+        "label": "",
+        "topBarPixelDistance": 108,
+        "bottomBarPixelDistance": 8,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 285.3399963378906,
+        "y": 406.8800048828125,
+        "label": "",
+        "topBarPixelDistance": 125,
+        "bottomBarPixelDistance": 9,
+        "deviationPixelDistance": 204
+      },
+      {
+        "x": 379.3399963378906,
+        "y": 386.8800048828125,
+        "label": "",
+        "topBarPixelDistance": 113,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 472.3399963378906,
+        "y": 437.8800048828125,
+        "label": "",
+        "topBarPixelDistance": 80,
+        "bottomBarPixelDistance": 9,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 659.3399658203125,
+        "y": 568.8800048828125,
+        "label": "",
+        "topBarPixelDistance": 41,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 10
+      },
+      {
+        "x": 99.33999633789062,
+        "y": 607.8800048828125,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 99.33999633789062,
+        "y": 159.87998962402344,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 99.33999633789062,
+        "y": 607.8800048828125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 751,
+        "y": 607,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

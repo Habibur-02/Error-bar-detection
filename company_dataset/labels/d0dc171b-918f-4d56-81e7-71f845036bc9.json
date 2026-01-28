@@ -1,0 +1,112 @@
+[
+  {
+    "label": {
+      "lineName": "Motavizumab_30_mg/kg"
+    },
+    "points": [
+      {
+        "x": 391,
+        "y": 726,
+        "label": "",
+        "topBarPixelDistance": 118.6458740234375,
+        "bottomBarPixelDistance": 79.08697509765625,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 857.1039428710938,
+        "y": 774.4121704101562,
+        "label": "",
+        "topBarPixelDistance": 37.41937255859375,
+        "bottomBarPixelDistance": 66.45159912109375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 236.71701049804688,
+        "y": 875.3541259765625,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 236.71701049804688,
+        "y": 103.46083068847656,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 313.70697021484375,
+        "y": 879.441650390625,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 858.849853515625,
+        "y": 879.441650390625,
+        "label": "xmax",
+        "topBarPixelDistance": 80.51336669921875,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Motavizumab_100_mg/kg"
+    },
+    "points": [
+      {
+        "x": 392.3294372558594,
+        "y": 439.3672790527344,
+        "label": "",
+        "topBarPixelDistance": 289.99998474121094,
+        "bottomBarPixelDistance": 291.6535339355469,
+        "deviationPixelDistance": 288
+      },
+      {
+        "x": 857.3098754882812,
+        "y": 541.5054931640625,
+        "label": "",
+        "topBarPixelDistance": 70.26370239257812,
+        "bottomBarPixelDistance": 140.923095703125,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 236.71701049804688,
+        "y": 875.3541259765625,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 236.71701049804688,
+        "y": 103.46083068847656,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 313.70697021484375,
+        "y": 879.441650390625,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 858.849853515625,
+        "y": 879.441650390625,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

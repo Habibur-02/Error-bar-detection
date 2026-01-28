@@ -1,0 +1,264 @@
+[
+  {
+    "label": {
+      "lineName": "Tozorakimab_300_mg SC (n = 12)"
+    },
+    "points": [
+      {
+        "x": 165.75657653808594,
+        "y": 746.5187377929688,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 165.75657653808594,
+        "y": 133.4397430419922,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 202.5413055419922,
+        "y": 749.2435302734375,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 853.7674560546875,
+        "y": 746.5187377929688,
+        "label": "xmax",
+        "topBarPixelDistance": 5.72930908203125,
+        "bottomBarPixelDistance": 0.34356689453125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 854.035400390625,
+        "y": 746.8623046875,
+        "label": "",
+        "topBarPixelDistance": 8.09716796875,
+        "bottomBarPixelDistance": 7.42236328125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 689.3888549804688,
+        "y": 743.7083129882812,
+        "label": "",
+        "topBarPixelDistance": 6.9000244140625,
+        "bottomBarPixelDistance": 2.54669189453125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 528.3888549804688,
+        "y": 740.7083129882812,
+        "label": "",
+        "topBarPixelDistance": 9.972900390625,
+        "bottomBarPixelDistance": 6.89617919921875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 445.3888854980469,
+        "y": 729.7083129882812,
+        "label": "",
+        "topBarPixelDistance": 13.81768798828125,
+        "bottomBarPixelDistance": 8.44952392578125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 364.3888854980469,
+        "y": 702.7083129882812,
+        "label": "",
+        "topBarPixelDistance": 25.27923583984375,
+        "bottomBarPixelDistance": 7.7841796875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 282.3888854980469,
+        "y": 607.7083129882812,
+        "label": "",
+        "topBarPixelDistance": 40.94049072265625,
+        "bottomBarPixelDistance": 10.341552734375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 244.38888549804688,
+        "y": 502.70831298828125,
+        "label": "",
+        "topBarPixelDistance": 64.35964965820312,
+        "bottomBarPixelDistance": 11.15521240234375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 224.38888549804688,
+        "y": 505.70831298828125,
+        "label": "",
+        "topBarPixelDistance": 97.68002319335938,
+        "bottomBarPixelDistance": 7.5831298828125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 219.38888549804688,
+        "y": 538.7083129882812,
+        "label": "",
+        "topBarPixelDistance": 95.78298950195312,
+        "bottomBarPixelDistance": 6.04766845703125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 207.38888549804688,
+        "y": 683.7083129882812,
+        "label": "",
+        "topBarPixelDistance": 103.611572265625,
+        "bottomBarPixelDistance": 8.23052978515625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 203.38888549804688,
+        "y": 744.7083129882812,
+        "label": "",
+        "topBarPixelDistance": 97.94488525390625,
+        "bottomBarPixelDistance": 4.24810791015625,
+        "deviationPixelDistance": 5.8468017578125
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Tozorakimab_600_mg SC (n = 12)"
+    },
+    "points": [
+      {
+        "x": 165.75657653808594,
+        "y": 746.5187377929688,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 165.75657653808594,
+        "y": 133.4397430419922,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 202.5413055419922,
+        "y": 749.2435302734375,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 853.7674560546875,
+        "y": 746.5187377929688,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 854.2706909179688,
+        "y": 748.0005493164062,
+        "label": "",
+        "topBarPixelDistance": 5.5401611328125,
+        "bottomBarPixelDistance": 6.4635009765625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 689.9124145507812,
+        "y": 742.4603881835938,
+        "label": "",
+        "topBarPixelDistance": 6.46356201171875,
+        "bottomBarPixelDistance": 5.5401611328125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 529.24755859375,
+        "y": 726.7632446289062,
+        "label": "",
+        "topBarPixelDistance": 15.6971435546875,
+        "bottomBarPixelDistance": 4.6168212890625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 446.14508056640625,
+        "y": 708.2960205078125,
+        "label": "",
+        "topBarPixelDistance": 32.317626953125,
+        "bottomBarPixelDistance": 3.69342041015625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 363.9659423828125,
+        "y": 653.8176879882812,
+        "label": "",
+        "topBarPixelDistance": 53.554931640625,
+        "bottomBarPixelDistance": 6.46356201171875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 282.7101745605469,
+        "y": 478.37908935546875,
+        "label": "",
+        "topBarPixelDistance": 99.72299194335938,
+        "bottomBarPixelDistance": 7.38690185546875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 245.77572631835938,
+        "y": 330.6413269042969,
+        "label": "",
+        "topBarPixelDistance": 155.12464904785156,
+        "bottomBarPixelDistance": 5.5401611328125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 226.38514709472656,
+        "y": 326.0245361328125,
+        "label": "",
+        "topBarPixelDistance": 149.58450317382812,
+        "bottomBarPixelDistance": 6.463531494140625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 218.99826049804688,
+        "y": 371.26922607421875,
+        "label": "",
+        "topBarPixelDistance": 148.59059143066406,
+        "bottomBarPixelDistance": 5.5401611328125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 208.84129333496094,
+        "y": 577.1787109375,
+        "label": "",
+        "topBarPixelDistance": 74.4801025390625,
+        "bottomBarPixelDistance": 4.8468017578125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 206.0712127685547,
+        "y": 634.4271240234375,
+        "label": "",
+        "topBarPixelDistance": 53.730224609375,
+        "bottomBarPixelDistance": 5.3328857421875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 203.30113220214844,
+        "y": 745.23046875,
+        "label": "",
+        "topBarPixelDistance": 99.3604736328125,
+        "bottomBarPixelDistance": 6.54583740234375,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

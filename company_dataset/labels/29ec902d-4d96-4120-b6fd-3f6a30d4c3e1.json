@@ -1,0 +1,651 @@
+[
+  {
+    "label": {
+      "lineName": "Cadonilimab_2_mg/kg"
+    },
+    "points": [
+      {
+        "x": 47,
+        "y": 216,
+        "label": "",
+        "topBarPixelDistance": 14.000000000000256,
+        "bottomBarPixelDistance": 0.9999999999997158,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 254,
+        "y": 479,
+        "label": "",
+        "topBarPixelDistance": 2.0000000000006253,
+        "bottomBarPixelDistance": 2.9999999999993747,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 136.96250152587874,
+        "y": 328.99999999999955,
+        "label": "",
+        "topBarPixelDistance": 16.999999999999943,
+        "bottomBarPixelDistance": 1,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 75.9625015258788,
+        "y": 263.99999999999966,
+        "label": "",
+        "topBarPixelDistance": 17,
+        "bottomBarPixelDistance": 1,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 50.962501525878835,
+        "y": 220.99999999999972,
+        "label": "",
+        "topBarPixelDistance": 5,
+        "bottomBarPixelDistance": 2,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 45.066670735677015,
+        "y": 476.9999999999993,
+        "label": "",
+        "topBarPixelDistance": 13.999999999999943,
+        "bottomBarPixelDistance": 2.285714285713766,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1.5384145883413451,
+        "y": 477.30766883263186,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 2.4000040690104156,
+        "y": 66.3333333333333,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 43.50003560384102,
+        "y": 514.9999999999985,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 665.1667022705059,
+        "y": 514.9999999999985,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Cadonilimab_0.5_mg/kg"
+    },
+    "points": [
+      {
+        "x": 52.47058644014242,
+        "y": 284.9999999999998,
+        "label": "",
+        "topBarPixelDistance": 15.29411764705884,
+        "bottomBarPixelDistance": 2.3529411764705515,
+        "deviationPixelDistance": 54
+      },
+      {
+        "x": 77.17646879308357,
+        "y": 315.58823529411734,
+        "label": "",
+        "topBarPixelDistance": 36.47058823529403,
+        "bottomBarPixelDistance": 2.3529411764706083,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 136.2105239065069,
+        "y": 341.84210526315763,
+        "label": "",
+        "topBarPixelDistance": 37.89473684210526,
+        "bottomBarPixelDistance": 1.0526315789473415,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 254,
+        "y": 389,
+        "label": "",
+        "topBarPixelDistance": 38.736842105263406,
+        "bottomBarPixelDistance": 0.21052631578919545,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 457,
+        "y": 472,
+        "label": "",
+        "topBarPixelDistance": 3.4705882352944855,
+        "bottomBarPixelDistance": 1.2352941176466743,
+        "deviationPixelDistance": 3.4705882352944855
+      },
+      {
+        "x": 47.764704087201245,
+        "y": 243.8235294117645,
+        "label": "",
+        "topBarPixelDistance": 10.588235294117652,
+        "bottomBarPixelDistance": 4.70588235294116,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1.5384145883413451,
+        "y": 477.30766883263186,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 2.4000040690104156,
+        "y": 66.3333333333333,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 43.50003560384102,
+        "y": 514.9999999999985,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 665.1667022705059,
+        "y": 514.9999999999985,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Cadonilimab_1_mg/kg"
+    },
+    "points": [
+      {
+        "x": 458.3529393813184,
+        "y": 344.9999999999996,
+        "label": "",
+        "topBarPixelDistance": 7.058823529411825,
+        "bottomBarPixelDistance": 3.5294117647058556,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 253.64705702837745,
+        "y": 341.4705882352937,
+        "label": "",
+        "topBarPixelDistance": 28.235294117647015,
+        "bottomBarPixelDistance": 3.5294117647058556,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 135.9999982048482,
+        "y": 307.3529411764702,
+        "label": "",
+        "topBarPixelDistance": 35.29411764705878,
+        "bottomBarPixelDistance": 1.1764705882353041,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 75.99999820484825,
+        "y": 324.9999999999996,
+        "label": "",
+        "topBarPixelDistance": 5.882352941176464,
+        "bottomBarPixelDistance": 1.1764705882352473,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 50.11764526367182,
+        "y": 246.17647058823502,
+        "label": "",
+        "topBarPixelDistance": 8.2352941176471,
+        "bottomBarPixelDistance": 3.529411764705827,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 47.76470408720123,
+        "y": 359.11764705882314,
+        "label": "",
+        "topBarPixelDistance": 18.823529411764753,
+        "bottomBarPixelDistance": 10.588235294117567,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 51.2941158519071,
+        "y": 250.88235294117615,
+        "label": "",
+        "topBarPixelDistance": 1.1764705882353041,
+        "bottomBarPixelDistance": 4.70588235294116,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1.5384145883413451,
+        "y": 477.30766883263186,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 2.4000040690104156,
+        "y": 66.3333333333333,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 43.50003560384102,
+        "y": 514.9999999999985,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 665.1667022705059,
+        "y": 514.9999999999985,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Cadonilimab_4_mg/kg"
+    },
+    "points": [
+      {
+        "x": 52.78570992606014,
+        "y": 176.42857142857102,
+        "label": "",
+        "topBarPixelDistance": 2.5,
+        "bottomBarPixelDistance": 1.25,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 47.18749999999991,
+        "y": 163.74999999999966,
+        "label": "",
+        "topBarPixelDistance": 1.2499999999999716,
+        "bottomBarPixelDistance": 2.5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 135.93749999999972,
+        "y": 227.49999999999955,
+        "label": "",
+        "topBarPixelDistance": 12.499999999999972,
+        "bottomBarPixelDistance": 1.7857142857142208,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 253.4374999999995,
+        "y": 257.4999999999995,
+        "label": "",
+        "topBarPixelDistance": 5,
+        "bottomBarPixelDistance": 1.25,
+        "deviationPixelDistance": 227
+      },
+      {
+        "x": 458.4374999999991,
+        "y": 297.49999999999943,
+        "label": "",
+        "topBarPixelDistance": 2.5,
+        "bottomBarPixelDistance": 1.2499999999999432,
+        "deviationPixelDistance": 23
+      },
+      {
+        "x": 77.18749999999984,
+        "y": 201.2499999999996,
+        "label": "",
+        "topBarPixelDistance": 7.5,
+        "bottomBarPixelDistance": 2.3214285714284983,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 47.07142421177444,
+        "y": 294.9999999999993,
+        "label": "",
+        "topBarPixelDistance": 5.714285714285722,
+        "bottomBarPixelDistance": 2.857142857142833,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1.5384145883413451,
+        "y": 477.30766883263186,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 2.4000040690104156,
+        "y": 66.3333333333333,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 43.50003560384102,
+        "y": 514.9999999999985,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 665.1667022705059,
+        "y": 514.9999999999985,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Cadonilimab_6_mg/kg"
+    },
+    "points": [
+      {
+        "x": 47.79999796549468,
+        "y": 159.66666666666632,
+        "label": "",
+        "topBarPixelDistance": 11.999999999999972,
+        "bottomBarPixelDistance": 1.3333333333333144,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 254.4666646321609,
+        "y": 250.33333333333277,
+        "label": "",
+        "topBarPixelDistance": 23.999999999999943,
+        "bottomBarPixelDistance": 1.3333333333333428,
+        "deviationPixelDistance": 227
+      },
+      {
+        "x": 458.49999564034493,
+        "y": 300.71428571428504,
+        "label": "",
+        "topBarPixelDistance": 25.714285714285666,
+        "bottomBarPixelDistance": 1.428571428571388,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 137.1333312988278,
+        "y": 211.6666666666662,
+        "label": "",
+        "topBarPixelDistance": 18.888888888888857,
+        "bottomBarPixelDistance": 2.2222222222222,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 77.13333129882795,
+        "y": 180.9999999999996,
+        "label": "",
+        "topBarPixelDistance": 14.666666666666629,
+        "bottomBarPixelDistance": 2.666666666666657,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 47.79999796549468,
+        "y": 140.9999999999997,
+        "label": "",
+        "topBarPixelDistance": 5.333333333333314,
+        "bottomBarPixelDistance": 6.666666666666657,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 46.466664632161354,
+        "y": 279.66666666666606,
+        "label": "",
+        "topBarPixelDistance": 12,
+        "bottomBarPixelDistance": 10.666666666666629,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1.5384145883413451,
+        "y": 477.30766883263186,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 2.4000040690104156,
+        "y": 66.3333333333333,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 43.50003560384102,
+        "y": 514.9999999999985,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 665.1667022705059,
+        "y": 514.9999999999985,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Cadonilimab_10_mg/kg"
+    },
+    "points": [
+      {
+        "x": 47.1874999999999,
+        "y": 117.49999999999974,
+        "label": "",
+        "topBarPixelDistance": 13.749999999999972,
+        "bottomBarPixelDistance": 6.249999999999986,
+        "deviationPixelDistance": 23
+      },
+      {
+        "x": 53.437499999999886,
+        "y": 123.74999999999973,
+        "label": "",
+        "topBarPixelDistance": 12.499999999999972,
+        "bottomBarPixelDistance": 1.25,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 77.18749999999983,
+        "y": 154.99999999999966,
+        "label": "",
+        "topBarPixelDistance": 13.749999999999972,
+        "bottomBarPixelDistance": 1.25,
+        "deviationPixelDistance": 26
+      },
+      {
+        "x": 135.93749999999972,
+        "y": 202.49999999999957,
+        "label": "",
+        "topBarPixelDistance": 27.499999999999943,
+        "bottomBarPixelDistance": 2.5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 254.68749999999946,
+        "y": 213.74999999999955,
+        "label": "",
+        "topBarPixelDistance": 22.499999999999943,
+        "bottomBarPixelDistance": 3.75,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 458.43749999999903,
+        "y": 287.4999999999994,
+        "label": "",
+        "topBarPixelDistance": 29.999999999999943,
+        "bottomBarPixelDistance": 2.5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1.5384145883413451,
+        "y": 477.30766883263186,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 2.4000040690104156,
+        "y": 66.3333333333333,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 43.50003560384102,
+        "y": 514.9999999999985,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 665.1667022705059,
+        "y": 514.9999999999985,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Cadonilimab_450_mg"
+    },
+    "points": [
+      {
+        "x": 47,
+        "y": 323,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 16,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 137.1333312988278,
+        "y": 199.66666666666623,
+        "label": "",
+        "topBarPixelDistance": 10.666666666666657,
+        "bottomBarPixelDistance": 2.666666666666657,
+        "deviationPixelDistance": 34
+      },
+      {
+        "x": 254.4666646321609,
+        "y": 223.66666666666617,
+        "label": "",
+        "topBarPixelDistance": 13.333333333333314,
+        "bottomBarPixelDistance": 4,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 458.4666646321604,
+        "y": 276.9999999999994,
+        "label": "",
+        "topBarPixelDistance": 23.999999999999943,
+        "bottomBarPixelDistance": 1.3333333333333144,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 78.46666463216128,
+        "y": 178.33333333333294,
+        "label": "",
+        "topBarPixelDistance": 10.666666666666657,
+        "bottomBarPixelDistance": 5.333333333333314,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 52.187499999999886,
+        "y": 138.74999999999972,
+        "label": "",
+        "topBarPixelDistance": 7.5,
+        "bottomBarPixelDistance": 4.999999999999972,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 51.799997965494676,
+        "y": 155.66666666666632,
+        "label": "",
+        "topBarPixelDistance": 5.666666666666629,
+        "bottomBarPixelDistance": 0.5833333333333428,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 47.79999796549468,
+        "y": 262.33333333333275,
+        "label": "",
+        "topBarPixelDistance": 9.833333333333286,
+        "bottomBarPixelDistance": 10.166666666666686,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1.5384145883413451,
+        "y": 477.30766883263186,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 2.4000040690104156,
+        "y": 66.3333333333333,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 43.50003560384102,
+        "y": 514.9999999999985,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 665.1667022705059,
+        "y": 514.9999999999985,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

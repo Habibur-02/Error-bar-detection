@@ -1,0 +1,749 @@
+[
+  {
+    "label": {
+      "lineName": "Vedolizumab_0.5_mg/kg"
+    },
+    "points": [
+      {
+        "x": 147.64972686767578,
+        "y": 321.3693428039551,
+        "label": "",
+        "topBarPixelDistance": 10,
+        "bottomBarPixelDistance": 8,
+        "deviationPixelDistance": 10
+      },
+      {
+        "x": 152.64972686767578,
+        "y": 326.3693428039551,
+        "label": "",
+        "topBarPixelDistance": 9,
+        "bottomBarPixelDistance": 17,
+        "deviationPixelDistance": 17
+      },
+      {
+        "x": 156.39972686767578,
+        "y": 335.1193428039551,
+        "label": "",
+        "topBarPixelDistance": 17,
+        "bottomBarPixelDistance": 24,
+        "deviationPixelDistance": 24
+      },
+      {
+        "x": 160.14972686767578,
+        "y": 343.8693428039551,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 176.39972686767578,
+        "y": 360.1193428039551,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 202.64972686767578,
+        "y": 378.8693428039551,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 256.3997268676758,
+        "y": 427.6193428039551,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 311.3997268676758,
+        "y": 475.1193428039551,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 363.8997268676758,
+        "y": 525.1193428039551,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 147.64972686767578,
+        "y": 313.8693428039551,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 145.57677374945743,
+        "y": 583.6053127712672,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 145.14972686767578,
+        "y": 47.61934280395508,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 145.14972686767578,
+        "y": 657.6193428039551,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 920.1497268676758,
+        "y": 653.8693428039551,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Vedolizumab_0.2_mg/kg"
+    },
+    "points": [
+      {
+        "x": 151.39972686767578,
+        "y": 363.8693428039551,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 8,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 152.64972686767578,
+        "y": 366.3693428039551,
+        "label": "",
+        "topBarPixelDistance": 46,
+        "bottomBarPixelDistance": 42,
+        "deviationPixelDistance": 46
+      },
+      {
+        "x": 156.39972686767578,
+        "y": 378.8693428039551,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 160.14972686767578,
+        "y": 387.6193428039551,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 8,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 176.39972686767578,
+        "y": 416.3693428039551,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 203.89972686767578,
+        "y": 456.3693428039551,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 257.6497268676758,
+        "y": 597.6193428039551,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 6,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 147.64972686767578,
+        "y": 350.1193428039551,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 145.57677374945743,
+        "y": 583.6053127712672,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 145.14972686767578,
+        "y": 47.61934280395508,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 145.14972686767578,
+        "y": 657.6193428039551,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 920.1497268676758,
+        "y": 653.8693428039551,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Vedolizumab_6.0_mg/kg"
+    },
+    "points": [
+      {
+        "x": 175.57677374945743,
+        "y": 205.82753499348956,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 204.46566263834632,
+        "y": 215.82753499348956,
+        "label": "",
+        "topBarPixelDistance": 32,
+        "bottomBarPixelDistance": 6,
+        "deviationPixelDistance": 32
+      },
+      {
+        "x": 257.79899597167963,
+        "y": 235.82753499348954,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 312.2434404161241,
+        "y": 260.27197943793396,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 366.68788486056854,
+        "y": 283.60531277126734,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 420.02121819390186,
+        "y": 308.04975721571174,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 473.3545515272352,
+        "y": 322.4942016601562,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 583.3545515272351,
+        "y": 369.1608683268229,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 724.4656626383462,
+        "y": 430.27197943793396,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 780.0212181939017,
+        "y": 432.4942016601562,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 835.5767737494573,
+        "y": 459.1608683268228,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 887.7989959716796,
+        "y": 490.27197943793396,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 21,
+        "deviationPixelDistance": 21
+      },
+      {
+        "x": 942.243440416124,
+        "y": 522.4942016601561,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 161.132329305013,
+        "y": 184.71642388237845,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 154.46566263834634,
+        "y": 189.16086832682288,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 153.35455152723523,
+        "y": 178.0497572157118,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 151.132329305013,
+        "y": 170.271979437934,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 148.91010708279077,
+        "y": 158.0497572157118,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 145.57677374945743,
+        "y": 583.6053127712672,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 145.14972686767578,
+        "y": 47.61934280395508,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 145.14972686767578,
+        "y": 657.6193428039551,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 920.1497268676758,
+        "y": 653.8693428039551,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Vedolizumab_10.0_mg/kg"
+    },
+    "points": [
+      {
+        "x": 153.918399810791,
+        "y": 146.39408874511716,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 9,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 154.918399810791,
+        "y": 153.39408874511716,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 14,
+        "deviationPixelDistance": 14
+      },
+      {
+        "x": 160.918399810791,
+        "y": 161.39408874511716,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 29,
+        "deviationPixelDistance": 29
+      },
+      {
+        "x": 174.918399810791,
+        "y": 172.39408874511716,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 28,
+        "deviationPixelDistance": 28
+      },
+      {
+        "x": 202.91839981079096,
+        "y": 190.39408874511716,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 33,
+        "deviationPixelDistance": 33
+      },
+      {
+        "x": 256.91839981079096,
+        "y": 205.39408874511713,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 24,
+        "deviationPixelDistance": 24
+      },
+      {
+        "x": 311.91839981079096,
+        "y": 231.39408874511713,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 364.91839981079096,
+        "y": 252.39408874511713,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 23,
+        "deviationPixelDistance": 23
+      },
+      {
+        "x": 419.9183998107909,
+        "y": 275.39408874511713,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 474.9183998107909,
+        "y": 296.39408874511713,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 33,
+        "deviationPixelDistance": 33
+      },
+      {
+        "x": 582.9183998107909,
+        "y": 340.39408874511713,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 724.9183998107909,
+        "y": 404.3940887451171,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 34,
+        "deviationPixelDistance": 34
+      },
+      {
+        "x": 779.9183998107908,
+        "y": 443.3940887451171,
+        "label": "",
+        "topBarPixelDistance": 20,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 20
+      },
+      {
+        "x": 832.9183998107908,
+        "y": 474.3940887451171,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 887.9183998107908,
+        "y": 516.3940887451171,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 941.5460526315787,
+        "y": 556.652044998972,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 8,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 145.57677374945743,
+        "y": 410.27197943793396,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 149.918399810791,
+        "y": 142.39408874511716,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 146.918399810791,
+        "y": 129.39408874511716,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 145.57677374945743,
+        "y": 583.6053127712672,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 145.14972686767578,
+        "y": 47.61934280395508,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 145.14972686767578,
+        "y": 657.6193428039551,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 920.1497268676758,
+        "y": 653.8693428039551,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Vedolizumab_2.0_mg/kg"
+    },
+    "points": [
+      {
+        "x": 161.132329305013,
+        "y": 236.93864610460065,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 9,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 175.57677374945743,
+        "y": 259.1608683268229,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 202.64972686767578,
+        "y": 278.8693428039551,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 258.8997268676758,
+        "y": 307.6193428039551,
+        "label": "",
+        "topBarPixelDistance": 108,
+        "bottomBarPixelDistance": 114,
+        "deviationPixelDistance": 114
+      },
+      {
+        "x": 311.3997268676758,
+        "y": 331.3693428039551,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 366.3997268676758,
+        "y": 368.8693428039551,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 420.1497268676758,
+        "y": 397.6193428039551,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 472.6497268676758,
+        "y": 441.3693428039551,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 581.3997268676758,
+        "y": 572.6193428039551,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 145.14972686767578,
+        "y": 531.3693428039551,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 155.57677374945743,
+        "y": 236.93864610460065,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 152.24344041612412,
+        "y": 225.82753499348954,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 148.91010708279077,
+        "y": 218.04975721571176,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 146.68788486056854,
+        "y": 214.71642388237845,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 145.57677374945743,
+        "y": 583.6053127712672,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 145.14972686767578,
+        "y": 47.61934280395508,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 145.14972686767578,
+        "y": 657.6193428039551,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 920.1497268676758,
+        "y": 653.8693428039551,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,463 @@
+[
+  {
+    "label": {
+      "lineName": "Cendakimab_3_mg/kg "
+    },
+    "points": [
+      {
+        "x": 174,
+        "y": 530.5,
+        "label": "",
+        "topBarPixelDistance": 9,
+        "bottomBarPixelDistance": 8,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 219,
+        "y": 549.5,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 3,
+        "deviationPixelDistance": 60
+      },
+      {
+        "x": 264,
+        "y": 546.5,
+        "label": "",
+        "topBarPixelDistance": 8,
+        "bottomBarPixelDistance": 5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 309,
+        "y": 547.5,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 398,
+        "y": 557.5,
+        "label": "",
+        "topBarPixelDistance": 8,
+        "bottomBarPixelDistance": 4,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 489,
+        "y": 562.5,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 109,
+        "y": 566.5,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 109,
+        "y": 93.5,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 130,
+        "y": 587.5,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 849,
+        "y": 587.5,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 847,
+        "y": 560.5,
+        "label": "",
+        "topBarPixelDistance": 5,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 669,
+        "y": 554.5,
+        "label": "",
+        "topBarPixelDistance": 4,
+        "bottomBarPixelDistance": 5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 161,
+        "y": 526.5,
+        "label": "",
+        "topBarPixelDistance": 10,
+        "bottomBarPixelDistance": 9,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 154,
+        "y": 520.5,
+        "label": "",
+        "topBarPixelDistance": 9,
+        "bottomBarPixelDistance": 9,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 148,
+        "y": 509.5,
+        "label": "",
+        "topBarPixelDistance": 8,
+        "bottomBarPixelDistance": 13,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 142,
+        "y": 496.5,
+        "label": "",
+        "topBarPixelDistance": 10,
+        "bottomBarPixelDistance": 11,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 135,
+        "y": 479.5,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 34,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 132,
+        "y": 467.5,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 4,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 131,
+        "y": 455.5,
+        "label": "",
+        "topBarPixelDistance": 10,
+        "bottomBarPixelDistance": 5,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Cendakimab_0.3_mg/kg"
+    },
+    "points": [
+      {
+        "x": 130,
+        "y": 561.5,
+        "label": "",
+        "topBarPixelDistance": 9,
+        "bottomBarPixelDistance": 12,
+        "deviationPixelDistance": 52
+      },
+      {
+        "x": 139,
+        "y": 562.5,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 145,
+        "y": 562.5,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 151,
+        "y": 562.5,
+        "label": "",
+        "topBarPixelDistance": 5,
+        "bottomBarPixelDistance": 6,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 161,
+        "y": 562.5,
+        "label": "",
+        "topBarPixelDistance": 4,
+        "bottomBarPixelDistance": 6,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 174,
+        "y": 563.5,
+        "label": "",
+        "topBarPixelDistance": 5,
+        "bottomBarPixelDistance": 6,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 219,
+        "y": 562.5,
+        "label": "",
+        "topBarPixelDistance": 2,
+        "bottomBarPixelDistance": 6,
+        "deviationPixelDistance": 42
+      },
+      {
+        "x": 264,
+        "y": 565.5,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 310,
+        "y": 564.5,
+        "label": "",
+        "topBarPixelDistance": 4,
+        "bottomBarPixelDistance": 6,
+        "deviationPixelDistance": 52
+      },
+      {
+        "x": 399,
+        "y": 565.5,
+        "label": "",
+        "topBarPixelDistance": 3,
+        "bottomBarPixelDistance": 6,
+        "deviationPixelDistance": 45
+      },
+      {
+        "x": 488,
+        "y": 565.5,
+        "label": "",
+        "topBarPixelDistance": 5,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 30
+      },
+      {
+        "x": 669,
+        "y": 565.5,
+        "label": "",
+        "topBarPixelDistance": 4,
+        "bottomBarPixelDistance": 6,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 847,
+        "y": 565.5,
+        "label": "",
+        "topBarPixelDistance": 3,
+        "bottomBarPixelDistance": 6,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 109,
+        "y": 566.5,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 109,
+        "y": 93.5,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 130,
+        "y": 587.5,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 849,
+        "y": 587.5,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Cendakimab_10_mg/kg"
+    },
+    "points": [
+      {
+        "x": 133.02017211914062,
+        "y": 328.5947570800781,
+        "label": "",
+        "topBarPixelDistance": 28.5087890625,
+        "bottomBarPixelDistance": 30.263153076171875,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 136.52894592285156,
+        "y": 337.8052673339844,
+        "label": "",
+        "topBarPixelDistance": 32.456146240234375,
+        "bottomBarPixelDistance": 29.824554443359375,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 142.23069763183594,
+        "y": 375.0859680175781,
+        "label": "",
+        "topBarPixelDistance": 22.368438720703125,
+        "bottomBarPixelDistance": 23.24560546875,
+        "deviationPixelDistance": 24
+      },
+      {
+        "x": 147.9324493408203,
+        "y": 411.0508728027344,
+        "label": "",
+        "topBarPixelDistance": 21.929840087890625,
+        "bottomBarPixelDistance": 22.8070068359375,
+        "deviationPixelDistance": 33
+      },
+      {
+        "x": 154.9499969482422,
+        "y": 428.5947265625,
+        "label": "",
+        "topBarPixelDistance": 15.789459228515625,
+        "bottomBarPixelDistance": 16.22808837890625,
+        "deviationPixelDistance": 15
+      },
+      {
+        "x": 161.09034729003906,
+        "y": 440.43682861328125,
+        "label": "",
+        "topBarPixelDistance": 12.28070068359375,
+        "bottomBarPixelDistance": 13.15789794921875,
+        "deviationPixelDistance": 10
+      },
+      {
+        "x": 174.2482452392578,
+        "y": 454.471923828125,
+        "label": "",
+        "topBarPixelDistance": 7.456146240234375,
+        "bottomBarPixelDistance": 6.140350341796875,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 218.54649353027344,
+        "y": 479.471923828125,
+        "label": "",
+        "topBarPixelDistance": 13.59649658203125,
+        "bottomBarPixelDistance": 13.59649658203125,
+        "deviationPixelDistance": 15
+      },
+      {
+        "x": 263.721923828125,
+        "y": 496.1385803222656,
+        "label": "",
+        "topBarPixelDistance": 7.456146240234375,
+        "bottomBarPixelDistance": 7.894744873046875,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 308.7939758300781,
+        "y": 506.3491516113281,
+        "label": "",
+        "topBarPixelDistance": 20.300079345703125,
+        "bottomBarPixelDistance": 13.239166259765625,
+        "deviationPixelDistance": 20
+      },
+      {
+        "x": 398.8204650878906,
+        "y": 526.6492309570312,
+        "label": "",
+        "topBarPixelDistance": 7.9434814453125,
+        "bottomBarPixelDistance": 9.708740234375,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 488.8469543457031,
+        "y": 539.0057983398438,
+        "label": "",
+        "topBarPixelDistance": 5.295654296875,
+        "bottomBarPixelDistance": 4.4130859375,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 109,
+        "y": 566.5,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 109,
+        "y": 93.5,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 130,
+        "y": 587.5,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 849,
+        "y": 587.5,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 847.1876220703125,
+        "y": 561.0711059570312,
+        "label": "",
+        "topBarPixelDistance": 5.295654296875,
+        "bottomBarPixelDistance": 3.53045654296875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 668.89990234375,
+        "y": 553.1276245117188,
+        "label": "",
+        "topBarPixelDistance": 3.53045654296875,
+        "bottomBarPixelDistance": 4.41302490234375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 130.3885955810547,
+        "y": 311.0508728027344,
+        "label": "",
+        "topBarPixelDistance": 25,
+        "bottomBarPixelDistance": 16.66668701171875,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

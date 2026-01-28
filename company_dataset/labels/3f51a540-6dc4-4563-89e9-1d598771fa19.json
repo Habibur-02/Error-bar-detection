@@ -1,0 +1,884 @@
+[
+  {
+    "label": {
+      "lineName": "Lacnotuzumab_3_mg/kg"
+    },
+    "points": [
+      {
+        "x": 226.0813751220703,
+        "y": 545.1397094726562,
+        "label": "",
+        "topBarPixelDistance": 103,
+        "bottomBarPixelDistance": 107,
+        "deviationPixelDistance": 107
+      },
+      {
+        "x": 234.41766357421875,
+        "y": 559.7276611328125,
+        "label": "",
+        "topBarPixelDistance": 16,
+        "bottomBarPixelDistance": 9,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 239.29135131835938,
+        "y": 567.1854858398438,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 248.703125,
+        "y": 570.71484375,
+        "label": "",
+        "topBarPixelDistance": 268,
+        "bottomBarPixelDistance": 263,
+        "deviationPixelDistance": 268
+      },
+      {
+        "x": 278.1148986816406,
+        "y": 578.9501342773438,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 10,
+        "deviationPixelDistance": 10
+      },
+      {
+        "x": 301.644287109375,
+        "y": 586.5972290039062,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 331.5966491699219,
+        "y": 590.5823974609375,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 381,
+        "y": 594,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 436.6656494140625,
+        "y": 597.9887084960938,
+        "label": "",
+        "topBarPixelDistance": 88,
+        "bottomBarPixelDistance": 87,
+        "deviationPixelDistance": 88
+      },
+      {
+        "x": 541.281005859375,
+        "y": 597.219482421875,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 647.4348754882812,
+        "y": 597.219482421875,
+        "label": "",
+        "topBarPixelDistance": 28,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 28
+      },
+      {
+        "x": 203.27256774902344,
+        "y": 599.1058959960938,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 203.27256774902344,
+        "y": 130.21701049804688,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 224.7976531982422,
+        "y": 616.3076171875,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1008.681640625,
+        "y": 616.181640625,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1008.931640625,
+        "y": 596.181640625,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 805.127197265625,
+        "y": 597.219482421875,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 225.91766357421875,
+        "y": 559.2276611328125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 226.0813751220703,
+        "y": 597.6397094726562,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 226.41766357421875,
+        "y": 551.2276611328125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Lacnotuzumab_1_mg/kg"
+    },
+    "points": [
+      {
+        "x": 226.27127075195312,
+        "y": 579.0828247070312,
+        "label": "",
+        "topBarPixelDistance": 103,
+        "bottomBarPixelDistance": 107,
+        "deviationPixelDistance": 107
+      },
+      {
+        "x": 234.41053771972656,
+        "y": 582.5480346679688,
+        "label": "",
+        "topBarPixelDistance": 16,
+        "bottomBarPixelDistance": 9,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 240.24388122558594,
+        "y": 585.88134765625,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 248.65695190429688,
+        "y": 586.5614624023438,
+        "label": "",
+        "topBarPixelDistance": 268,
+        "bottomBarPixelDistance": 263,
+        "deviationPixelDistance": 268
+      },
+      {
+        "x": 278.318603515625,
+        "y": 592.4659423828125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 10,
+        "deviationPixelDistance": 10
+      },
+      {
+        "x": 302.0028076171875,
+        "y": 597.2028198242188,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 331.7470703125,
+        "y": 596.9095458984375,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 383.710205078125,
+        "y": 595.9635620117188,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 436.3768615722656,
+        "y": 596.6301879882812,
+        "label": "",
+        "topBarPixelDistance": 88,
+        "bottomBarPixelDistance": 87,
+        "deviationPixelDistance": 88
+      },
+      {
+        "x": 541.710205078125,
+        "y": 597.296875,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 646.7823486328125,
+        "y": 597.3038330078125,
+        "label": "",
+        "topBarPixelDistance": 28,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 28
+      },
+      {
+        "x": 203.27256774902344,
+        "y": 599.1058959960938,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 203.27256774902344,
+        "y": 130.21701049804688,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 224.7976531982422,
+        "y": 616.3076171875,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1008.681640625,
+        "y": 616.181640625,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1008.9392700195312,
+        "y": 597.1614990234375,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 804.6395263671875,
+        "y": 597.3038330078125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Lacnotuzumab_0.01 _mg/kg"
+    },
+    "points": [
+      {
+        "x": 225.04640197753906,
+        "y": 598.4315795898438,
+        "label": "",
+        "topBarPixelDistance": 38,
+        "bottomBarPixelDistance": 36,
+        "deviationPixelDistance": 38
+      },
+      {
+        "x": 232.4538116455078,
+        "y": 597.3204345703125,
+        "label": "",
+        "topBarPixelDistance": 16,
+        "bottomBarPixelDistance": 9,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 240.60195922851562,
+        "y": 596.9500732421875,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 248.37974548339844,
+        "y": 597.3204345703125,
+        "label": "",
+        "topBarPixelDistance": 251,
+        "bottomBarPixelDistance": 259,
+        "deviationPixelDistance": 259
+      },
+      {
+        "x": 278.117431640625,
+        "y": 596.898193359375,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 301.2105407714844,
+        "y": 596.7396850585938,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 332.1326599121094,
+        "y": 597.067626953125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 383.09722900390625,
+        "y": 596.21484375,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 435.86810302734375,
+        "y": 596.9680786132812,
+        "label": "",
+        "topBarPixelDistance": 82,
+        "bottomBarPixelDistance": 83,
+        "deviationPixelDistance": 83
+      },
+      {
+        "x": 540.6783447265625,
+        "y": 598.2345581054688,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 647.5533447265625,
+        "y": 596.9845581054688,
+        "label": "",
+        "topBarPixelDistance": 34,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 34
+      },
+      {
+        "x": 805.0533447265625,
+        "y": 596.3595581054688,
+        "label": "",
+        "topBarPixelDistance": 8,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 203.27256774902344,
+        "y": 599.1058959960938,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 203.27256774902344,
+        "y": 130.21701049804688,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 224.7976531982422,
+        "y": 616.3076171875,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1008.681640625,
+        "y": 616.181640625,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1008.9271850585938,
+        "y": 596.127197265625,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Lacnotuzumab_0.03_mg/kg"
+    },
+    "points": [
+      {
+        "x": 225.56150817871094,
+        "y": 597.4842529296875,
+        "label": "",
+        "topBarPixelDistance": 241,
+        "bottomBarPixelDistance": 248,
+        "deviationPixelDistance": 248
+      },
+      {
+        "x": 232.834228515625,
+        "y": 597.0296630859375,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 241.01605224609375,
+        "y": 596.5751342773438,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 249.6524200439453,
+        "y": 596.5751342773438,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 277.834228515625,
+        "y": 597.9387817382812,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 24,
+        "deviationPixelDistance": 24
+      },
+      {
+        "x": 301.4705810546875,
+        "y": 596.5751342773438,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 331.5736999511719,
+        "y": 597.33837890625,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 383.9266357421875,
+        "y": 597.33837890625,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 435.69134521484375,
+        "y": 600.2796020507812,
+        "label": "",
+        "topBarPixelDistance": 88,
+        "bottomBarPixelDistance": 87,
+        "deviationPixelDistance": 88
+      },
+      {
+        "x": 542.1619262695312,
+        "y": 599.1030883789062,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 647.28076171875,
+        "y": 598.1473999023438,
+        "label": "",
+        "topBarPixelDistance": 28,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 28
+      },
+      {
+        "x": 805.6140747070312,
+        "y": 597.5918579101562,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1009.2635498046875,
+        "y": 596.6301879882812,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 203.27256774902344,
+        "y": 599.1058959960938,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 203.27256774902344,
+        "y": 130.21701049804688,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 224.7976531982422,
+        "y": 616.3076171875,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1008.681640625,
+        "y": 616.181640625,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Lacnotuzumab_0.3_mg/kg"
+    },
+    "points": [
+      {
+        "x": 225.3842315673828,
+        "y": 590.3524169921875,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 32,
+        "deviationPixelDistance": 32
+      },
+      {
+        "x": 231.8411865234375,
+        "y": 593.2233276367188,
+        "label": "",
+        "topBarPixelDistance": 34,
+        "bottomBarPixelDistance": 40,
+        "deviationPixelDistance": 40
+      },
+      {
+        "x": 240.41261291503906,
+        "y": 595.009033203125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 248.98403930664062,
+        "y": 596.7947387695312,
+        "label": "",
+        "topBarPixelDistance": 256,
+        "bottomBarPixelDistance": 261,
+        "deviationPixelDistance": 261
+      },
+      {
+        "x": 278.48699951171875,
+        "y": 598.9448852539062,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 301.95220947265625,
+        "y": 598.9146728515625,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 331.1188659667969,
+        "y": 598.9146728515625,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 383.20220947265625,
+        "y": 597.6646728515625,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 436.1226501464844,
+        "y": 597.4376220703125,
+        "label": "",
+        "topBarPixelDistance": 80,
+        "bottomBarPixelDistance": 85,
+        "deviationPixelDistance": 85
+      },
+      {
+        "x": 541.4109497070312,
+        "y": 597.2966918945312,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 647.8395385742188,
+        "y": 597.2966918945312,
+        "label": "",
+        "topBarPixelDistance": 28,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 28
+      },
+      {
+        "x": 804.982421875,
+        "y": 597.2966918945312,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 203.27256774902344,
+        "y": 599.1058959960938,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 203.27256774902344,
+        "y": 130.21701049804688,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 224.7976531982422,
+        "y": 616.3076171875,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1008.681640625,
+        "y": 616.181640625,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1008.0411376953125,
+        "y": 596.3139038085938,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Lacnotuzumab_0.1_mg/kg"
+    },
+    "points": [
+      {
+        "x": 225.34739685058594,
+        "y": 598.5252075195312,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 32,
+        "deviationPixelDistance": 32
+      },
+      {
+        "x": 232.01406860351562,
+        "y": 597.4140625,
+        "label": "",
+        "topBarPixelDistance": 34,
+        "bottomBarPixelDistance": 40,
+        "deviationPixelDistance": 40
+      },
+      {
+        "x": 239.922119140625,
+        "y": 596.6781005859375,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 248.7221221923828,
+        "y": 597.078125,
+        "label": "",
+        "topBarPixelDistance": 256,
+        "bottomBarPixelDistance": 261,
+        "deviationPixelDistance": 261
+      },
+      {
+        "x": 277.79766845703125,
+        "y": 597.3076171875,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 301.6795959472656,
+        "y": 596.014892578125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 331.6795959472656,
+        "y": 596.014892578125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 383.2252197265625,
+        "y": 594.8823852539062,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 435.36810302734375,
+        "y": 597.0252075195312,
+        "label": "",
+        "topBarPixelDistance": 80,
+        "bottomBarPixelDistance": 85,
+        "deviationPixelDistance": 85
+      },
+      {
+        "x": 541.682373046875,
+        "y": 597.932373046875,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 647.3089599609375,
+        "y": 597.4148559570312,
+        "label": "",
+        "topBarPixelDistance": 28,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 28
+      },
+      {
+        "x": 805.2659912109375,
+        "y": 597.5396728515625,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1009.7626953125,
+        "y": 595.7794189453125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 203.27256774902344,
+        "y": 599.1058959960938,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 203.27256774902344,
+        "y": 130.21701049804688,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 224.7976531982422,
+        "y": 616.3076171875,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1008.681640625,
+        "y": 616.181640625,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

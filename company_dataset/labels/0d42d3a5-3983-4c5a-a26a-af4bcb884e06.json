@@ -1,0 +1,359 @@
+[
+  {
+    "label": {
+      "lineName": "Afelimomab_1.0_mg/kg"
+    },
+    "points": [
+      {
+        "x": 864.7775268554688,
+        "y": 688.9115600585938,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 871.2775268554688,
+        "y": 757.4115600585938,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 860.7775268554688,
+        "y": 735.9115600585938,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 921.2775268554688,
+        "y": 939.4115600585938,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 983.2774658203125,
+        "y": 998.9115600585938,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1106.277587890625,
+        "y": 1017.4115600585938,
+        "label": "",
+        "topBarPixelDistance": 19,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 19
+      },
+      {
+        "x": 1353.2774658203125,
+        "y": 1020.4115600585938,
+        "label": "",
+        "topBarPixelDistance": 11,
+        "bottomBarPixelDistance": 9,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 1598.7774658203125,
+        "y": 1021.4115600585938,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 9,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 2092.07763671875,
+        "y": 1022.4115600585938,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 11,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 859.7875366210938,
+        "y": 1022.8715209960938,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 736.7440185546875,
+        "y": 1023.8914184570312,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 737.5264892578125,
+        "y": 57.60249328613281,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 859.2775268554688,
+        "y": 1023.4114990234375,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 2092.719482421875,
+        "y": 1022.1744995117188,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Afelimomab_3.0_mg/kg"
+    },
+    "points": [
+      {
+        "x": 859.2860717773438,
+        "y": 1022.5668334960938,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 17,
+        "deviationPixelDistance": 17
+      },
+      {
+        "x": 860.7775268554688,
+        "y": 376.41156005859375,
+        "label": "",
+        "topBarPixelDistance": 11,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 865.8758544921875,
+        "y": 190.35581970214844,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 870.7775268554688,
+        "y": 343.41156005859375,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 921.2775268554688,
+        "y": 849.9115600585938,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 8,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 983.2774658203125,
+        "y": 949.4115600585938,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1105.777587890625,
+        "y": 994.4115600585938,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 8,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 1351.777587890625,
+        "y": 1013.9114990234375,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 17,
+        "deviationPixelDistance": 17
+      },
+      {
+        "x": 1598.7774658203125,
+        "y": 1018.4115600585938,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 11,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 2091.938232421875,
+        "y": 1023.3391723632812,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 736.7440185546875,
+        "y": 1023.8914184570312,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 737.5264892578125,
+        "y": 57.60249328613281,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 859.2775268554688,
+        "y": 1023.4114990234375,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 2092.719482421875,
+        "y": 1022.1744995117188,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Afelimomab_0.3_mg/kg"
+    },
+    "points": [
+      {
+        "x": 871.2775268554688,
+        "y": 924.4114990234375,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 861.2775268554688,
+        "y": 925.4114990234375,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 866.2775268554688,
+        "y": 920.4114990234375,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 921.2774658203125,
+        "y": 1005.4115600585938,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 983.2774658203125,
+        "y": 1018.4115600585938,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1106.777587890625,
+        "y": 1022.9115600585938,
+        "label": "",
+        "topBarPixelDistance": 19,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 19
+      },
+      {
+        "x": 1352.552490234375,
+        "y": 1023.8215942382812,
+        "label": "",
+        "topBarPixelDistance": 14,
+        "bottomBarPixelDistance": 6,
+        "deviationPixelDistance": 14
+      },
+      {
+        "x": 1598.6925048828125,
+        "y": 1022.1115112304688,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 9,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 2091.57763671875,
+        "y": 1021.4115600585938,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 859.7775268554688,
+        "y": 1022.4115600585938,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 736.7440185546875,
+        "y": 1023.8914184570312,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 737.5264892578125,
+        "y": 57.60249328613281,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 859.2775268554688,
+        "y": 1023.4114990234375,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 2092.719482421875,
+        "y": 1022.1744995117188,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

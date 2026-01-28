@@ -1,0 +1,144 @@
+[
+  {
+    "label": {
+      "lineName": "C-pep_Placebo (n = 61)"
+    },
+    "points": [
+      {
+        "x": 219.95936584472656,
+        "y": 511.18975830078125,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 220.3170166015625,
+        "y": 116.95417022705078,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 235.85044860839844,
+        "y": 567.7696533203125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 820.1361694335938,
+        "y": 567.7696533203125,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 379.9466552734375,
+        "y": 197.0634002685547,
+        "label": "",
+        "topBarPixelDistance": 35.2994384765625,
+        "bottomBarPixelDistance": 36.46527099609375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 528.90380859375,
+        "y": 137.4705352783203,
+        "label": "",
+        "topBarPixelDistance": 48.57142639160156,
+        "bottomBarPixelDistance": 54.28572082519531,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 675.1775512695312,
+        "y": 234.92613220214844,
+        "label": "",
+        "topBarPixelDistance": 45.312744140625,
+        "bottomBarPixelDistance": 46.11582946777344,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 821.696044921875,
+        "y": 306.957275390625,
+        "label": "",
+        "topBarPixelDistance": 46.188995361328125,
+        "bottomBarPixelDistance": 41.503326416015625,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "C-pep_Otelixizumab (n = 118)"
+    },
+    "points": [
+      {
+        "x": 219.95936584472656,
+        "y": 511.18975830078125,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 220.3170166015625,
+        "y": 116.95417022705078,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 235.85044860839844,
+        "y": 567.7696533203125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 820.1361694335938,
+        "y": 567.7696533203125,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 399.40667724609375,
+        "y": 142.3646697998047,
+        "label": "",
+        "topBarPixelDistance": 29.565208435058594,
+        "bottomBarPixelDistance": 30.978988647460938,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 546.4276123046875,
+        "y": 194.494384765625,
+        "label": "",
+        "topBarPixelDistance": 32.5615234375,
+        "bottomBarPixelDistance": 31.882919311523438,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 692.9431762695312,
+        "y": 209.89955139160156,
+        "label": "",
+        "topBarPixelDistance": 34.482757568359375,
+        "bottomBarPixelDistance": 34.90357971191406,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 839.8323974609375,
+        "y": 320.1990966796875,
+        "label": "",
+        "topBarPixelDistance": 30.10516357421875,
+        "bottomBarPixelDistance": 29.037689208984375,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

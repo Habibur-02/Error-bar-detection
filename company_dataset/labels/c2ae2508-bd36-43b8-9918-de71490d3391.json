@@ -1,0 +1,89 @@
+[
+  {
+    "label": {
+      "lineName": "Daratumumab_16_mg/kg"
+    },
+    "points": [
+      {
+        "x": 244.3749999999996,
+        "y": 667.7767835344575,
+        "label": "",
+        "topBarPixelDistance": 57.5,
+        "bottomBarPixelDistance": 50,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 257.40668296813965,
+        "y": 258.6262893676758,
+        "label": "",
+        "topBarPixelDistance": 123.45847659640845,
+        "bottomBarPixelDistance": 117.65263451470264,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 370.6076267787382,
+        "y": 358.78718784877174,
+        "label": "",
+        "topBarPixelDistance": 105.71428571428555,
+        "bottomBarPixelDistance": 107.37485673692487,
+        "deviationPixelDistance": 107
+      },
+      {
+        "x": 618.6566829681396,
+        "y": 454.8762893676758,
+        "label": "",
+        "topBarPixelDistance": 87.5,
+        "bottomBarPixelDistance": 91.25,
+        "deviationPixelDistance": 90
+      },
+      {
+        "x": 1111.1566829681396,
+        "y": 541.1262893676758,
+        "label": "",
+        "topBarPixelDistance": 75,
+        "bottomBarPixelDistance": 81.94661276680984,
+        "deviationPixelDistance": 83
+      },
+      {
+        "x": 224.90668296813965,
+        "y": 728.6262893676758,
+        "label": "ymin",
+        "topBarPixelDistance": 32.500000000000114,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 224.90668296813965,
+        "y": 74.87628936767578,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 151.40263451470267,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 224.90668296813965,
+        "y": 751.1262893676758,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1108.6566829681396,
+        "y": 751.1262893676758,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 251.58370335896805,
+        "y": 262.9455905490451,
+        "label": "",
+        "topBarPixelDistance": 108.88888888888889,
+        "bottomBarPixelDistance": 104.4444444444444,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

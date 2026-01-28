@@ -1,0 +1,351 @@
+[
+  {
+    "label": {
+      "lineName": "Trastuzumab_emtansine_2.4_mg/kg"
+    },
+    "points": [
+      {
+        "x": 170,
+        "y": 134,
+        "label": "",
+        "topBarPixelDistance": 12.981919061569997,
+        "bottomBarPixelDistance": 27.01808093842999,
+        "deviationPixelDistance": 30
+      },
+      {
+        "x": 175.2734375,
+        "y": 135.712890625,
+        "label": "",
+        "topBarPixelDistance": 14.694809686569997,
+        "bottomBarPixelDistance": 23.40042840866809,
+        "deviationPixelDistance": 17
+      },
+      {
+        "x": 201.8746802920386,
+        "y": 150.5418904622395,
+        "label": "",
+        "topBarPixelDistance": 12,
+        "bottomBarPixelDistance": 18,
+        "deviationPixelDistance": 18
+      },
+      {
+        "x": 234,
+        "y": 161,
+        "label": "",
+        "topBarPixelDistance": 14,
+        "bottomBarPixelDistance": 23,
+        "deviationPixelDistance": 23
+      },
+      {
+        "x": 300.92229933965757,
+        "y": 200.06569998604903,
+        "label": "",
+        "topBarPixelDistance": 17,
+        "bottomBarPixelDistance": 26,
+        "deviationPixelDistance": 26
+      },
+      {
+        "x": 399.96993291945665,
+        "y": 214.3514142717633,
+        "label": "",
+        "topBarPixelDistance": 18.095238095238102,
+        "bottomBarPixelDistance": 22.857142857142833,
+        "deviationPixelDistance": 22
+      },
+      {
+        "x": 497,
+        "y": 236,
+        "label": "",
+        "topBarPixelDistance": 17.8390619187129,
+        "bottomBarPixelDistance": 26.92284284319186,
+        "deviationPixelDistance": 26
+      },
+      {
+        "x": 629,
+        "y": 275,
+        "label": "",
+        "topBarPixelDistance": 20.648585728236725,
+        "bottomBarPixelDistance": 43.16093808128704,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 728,
+        "y": 323,
+        "label": "",
+        "topBarPixelDistance": 24.839061918712957,
+        "bottomBarPixelDistance": 50.39903331938228,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 857,
+        "y": 414,
+        "label": "",
+        "topBarPixelDistance": 32.981919061570125,
+        "bottomBarPixelDistance": 119.39903331938217,
+        "deviationPixelDistance": 34
+      },
+      {
+        "x": 129.02343749999997,
+        "y": 614.4628906249999,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 129.0234375,
+        "y": 83.212890625,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 162.7734375,
+        "y": 639.462890625,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 856.5234375,
+        "y": 639.462890625,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Trastuzumab_emtansine_1.8_mg/kg"
+    },
+    "points": [
+      {
+        "x": 165,
+        "y": 166,
+        "label": "",
+        "topBarPixelDistance": 4.981919061570011,
+        "bottomBarPixelDistance": 6,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 198,
+        "y": 160,
+        "label": "",
+        "topBarPixelDistance": 3.74382382347477,
+        "bottomBarPixelDistance": 4.827604747953785,
+        "deviationPixelDistance": 22
+      },
+      {
+        "x": 229,
+        "y": 188,
+        "label": "",
+        "topBarPixelDistance": 3.172395252046215,
+        "bottomBarPixelDistance": 6,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 393,
+        "y": 241,
+        "label": "",
+        "topBarPixelDistance": 4.7438238234747985,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 495.20802089146184,
+        "y": 266.73236665271565,
+        "label": "",
+        "topBarPixelDistance": 2.857142857142833,
+        "bottomBarPixelDistance": 3.809523809523796,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 625.6842113676522,
+        "y": 330.54189046223945,
+        "label": "",
+        "topBarPixelDistance": 6.666666666666686,
+        "bottomBarPixelDistance": 3.809523809523796,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 722.8270685105093,
+        "y": 385.77998570033463,
+        "label": "",
+        "topBarPixelDistance": 2.9343000139510877,
+        "bottomBarPixelDistance": 6.589509509858431,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 299.0234375,
+        "y": 201.962890625,
+        "label": "",
+        "topBarPixelDistance": 5.7067144484747985,
+        "bottomBarPixelDistance": 3.81709507533472,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 170.44611612955723,
+        "y": 146.7323666527157,
+        "label": "",
+        "topBarPixelDistance": 5.714285714285722,
+        "bottomBarPixelDistance": 4.761904761904759,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 129.02343749999997,
+        "y": 614.4628906249999,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 129.0234375,
+        "y": 83.212890625,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 162.7734375,
+        "y": 639.462890625,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 856.5234375,
+        "y": 639.462890625,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Trastuzumab_emtansine_3.6_mg/kg"
+    },
+    "points": [
+      {
+        "x": 173.30325172061004,
+        "y": 101.97046189081097,
+        "label": "",
+        "topBarPixelDistance": 12.38095238095238,
+        "bottomBarPixelDistance": 8.494271414620485,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 207,
+        "y": 128,
+        "label": "",
+        "topBarPixelDistance": 6.981919061569997,
+        "bottomBarPixelDistance": 6.351414271763332,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 238,
+        "y": 137,
+        "label": "",
+        "topBarPixelDistance": 6.458109537760464,
+        "bottomBarPixelDistance": 9.732366652715712,
+        "deviationPixelDistance": 10
+      },
+      {
+        "x": 305.68420410156233,
+        "y": 154.35141427176333,
+        "label": "",
+        "topBarPixelDistance": 10.476190476190482,
+        "bottomBarPixelDistance": 12.684747605096646,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 403,
+        "y": 190,
+        "label": "",
+        "topBarPixelDistance": 7.077157156808113,
+        "bottomBarPixelDistance": 12.922842843191859,
+        "deviationPixelDistance": 14
+      },
+      {
+        "x": 502,
+        "y": 213,
+        "label": "",
+        "topBarPixelDistance": 13,
+        "bottomBarPixelDistance": 17,
+        "deviationPixelDistance": 17
+      },
+      {
+        "x": 632,
+        "y": 250,
+        "label": "",
+        "topBarPixelDistance": 21,
+        "bottomBarPixelDistance": 20,
+        "deviationPixelDistance": 21
+      },
+      {
+        "x": 732.3508853004089,
+        "y": 288.6371285574775,
+        "label": "",
+        "topBarPixelDistance": 23,
+        "bottomBarPixelDistance": 30.20855712890608,
+        "deviationPixelDistance": 23
+      },
+      {
+        "x": 861,
+        "y": 335,
+        "label": "",
+        "topBarPixelDistance": 30.17239525204627,
+        "bottomBarPixelDistance": 66.01808093842988,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 129.02343749999997,
+        "y": 614.4628906249999,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 129.0234375,
+        "y": 83.212890625,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 162.7734375,
+        "y": 639.462890625,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 856.5234375,
+        "y": 639.462890625,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 179.9699183872767,
+        "y": 105.77998570033478,
+        "label": "",
+        "topBarPixelDistance": 6.666666666666671,
+        "bottomBarPixelDistance": 5.714285714285708,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

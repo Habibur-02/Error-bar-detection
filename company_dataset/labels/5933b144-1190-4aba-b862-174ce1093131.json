@@ -1,0 +1,97 @@
+[
+  {
+    "label": {
+      "lineName": "Olaratumab_20_mg/kg"
+    },
+    "points": [
+      {
+        "x": 234.59840393066406,
+        "y": 460.91790771484375,
+        "label": "",
+        "topBarPixelDistance": 48.73785400390625,
+        "bottomBarPixelDistance": 51.87994384765625,
+        "deviationPixelDistance": 52
+      },
+      {
+        "x": 235.4798583984375,
+        "y": 187.37786865234375,
+        "label": "",
+        "topBarPixelDistance": 95.58616638183594,
+        "bottomBarPixelDistance": 95.94073486328125,
+        "deviationPixelDistance": 97
+      },
+      {
+        "x": 280,
+        "y": 255,
+        "label": "",
+        "topBarPixelDistance": 100.3486328125,
+        "bottomBarPixelDistance": 100.88702392578125,
+        "deviationPixelDistance": 101
+      },
+      {
+        "x": 328,
+        "y": 300,
+        "label": "",
+        "topBarPixelDistance": 82.68315124511719,
+        "bottomBarPixelDistance": 81.4827880859375,
+        "deviationPixelDistance": 83
+      },
+      {
+        "x": 424.360107421875,
+        "y": 359.41748046875,
+        "label": "",
+        "topBarPixelDistance": 64.62490844726562,
+        "bottomBarPixelDistance": 67.7669677734375,
+        "deviationPixelDistance": 67
+      },
+      {
+        "x": 712.091796875,
+        "y": 455.6222229003906,
+        "label": "",
+        "topBarPixelDistance": 54.9161376953125,
+        "bottomBarPixelDistance": 53.64520263671875,
+        "deviationPixelDistance": 53
+      },
+      {
+        "x": 903.6187133789062,
+        "y": 487.3962707519531,
+        "label": "",
+        "topBarPixelDistance": 42.5595703125,
+        "bottomBarPixelDistance": 41.288604736328125,
+        "deviationPixelDistance": 43
+      },
+      {
+        "x": 195.76344299316406,
+        "y": 579.7440185546875,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 196.6448974609375,
+        "y": 43.51203155517578,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 233.71578979492188,
+        "y": 604.4571533203125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 999.6292724609375,
+        "y": 605.3397827148438,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

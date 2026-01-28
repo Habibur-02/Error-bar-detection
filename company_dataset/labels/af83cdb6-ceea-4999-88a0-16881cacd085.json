@@ -1,0 +1,311 @@
+[
+  {
+    "label": {
+      "lineName": "Nimotuzumab_100_mg"
+    },
+    "points": [
+      {
+        "x": 968,
+        "y": 451,
+        "label": "",
+        "topBarPixelDistance": 8.609998914930543,
+        "bottomBarPixelDistance": 9.167778862847229,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 498.52815416124133,
+        "y": 437.945556640625,
+        "label": "",
+        "topBarPixelDistance": 8.888888888888914,
+        "bottomBarPixelDistance": 7.7777777777777715,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 380.75037638346356,
+        "y": 431.2788899739583,
+        "label": "",
+        "topBarPixelDistance": 7.7777777777777715,
+        "bottomBarPixelDistance": 7.7777777777777715,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 264.0837097167969,
+        "y": 417.945556640625,
+        "label": "",
+        "topBarPixelDistance": 8.888888888888914,
+        "bottomBarPixelDistance": 7.7777777777777715,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 185.194820827908,
+        "y": 404.61222330729163,
+        "label": "",
+        "topBarPixelDistance": 8.005890427974236,
+        "bottomBarPixelDistance": 7.783583256236284,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 160.75037638346353,
+        "y": 402.39000108506946,
+        "label": "",
+        "topBarPixelDistance": 7.888931363646805,
+        "bottomBarPixelDistance": 6.847910741616374,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 146.3687615645559,
+        "y": 396.6063328793174,
+        "label": "",
+        "topBarPixelDistance": 7.368421052631561,
+        "bottomBarPixelDistance": 6.3157894736842195,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 149.52665630139802,
+        "y": 396.6063328793174,
+        "label": "",
+        "topBarPixelDistance": 7.368421052631561,
+        "bottomBarPixelDistance": 8.42105263157896,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 145.194820827908,
+        "y": 451.2788899739583,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 148.5281541612413,
+        "y": 73.50111219618056,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 83.10522068313684,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 145.194820827908,
+        "y": 450.16777886284723,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 969.7651133817783,
+        "y": 451.20709587545946,
+        "label": "xmax",
+        "topBarPixelDistance": 11.111111111111086,
+        "bottomBarPixelDistance": 1.1111111111111427,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Nimotuzumab_400_mg"
+    },
+    "points": [
+      {
+        "x": 968.588642793543,
+        "y": 391.2070958754595,
+        "label": "",
+        "topBarPixelDistance": 10.588235294117624,
+        "bottomBarPixelDistance": 12.941176470588232,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 499.1768780876608,
+        "y": 320.6188605813419,
+        "label": "",
+        "topBarPixelDistance": 17.64705882352945,
+        "bottomBarPixelDistance": 17.64705882352939,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 380.3533486758961,
+        "y": 279.4423899931066,
+        "label": "",
+        "topBarPixelDistance": 23.888688692736565,
+        "bottomBarPixelDistance": 25.882352941176464,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 263.882760440602,
+        "y": 222.97180175781247,
+        "label": "",
+        "topBarPixelDistance": 32.68125835217927,
+        "bottomBarPixelDistance": 35.73979427939966,
+        "deviationPixelDistance": 37
+      },
+      {
+        "x": 185.0592310288373,
+        "y": 168.85415469898896,
+        "label": "",
+        "topBarPixelDistance": 42.77413760914524,
+        "bottomBarPixelDistance": 44.59428344348632,
+        "deviationPixelDistance": 46
+      },
+      {
+        "x": 160.35334867589611,
+        "y": 160.6188605813419,
+        "label": "",
+        "topBarPixelDistance": 24.01252770202447,
+        "bottomBarPixelDistance": 24.40852492955446,
+        "deviationPixelDistance": 25
+      },
+      {
+        "x": 149.7651133817785,
+        "y": 133.56003705193012,
+        "label": "",
+        "topBarPixelDistance": 28.532651541033758,
+        "bottomBarPixelDistance": 32.5199800379136,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 146.2357016170726,
+        "y": 124.14827234604778,
+        "label": "",
+        "topBarPixelDistance": 32.805097361467205,
+        "bottomBarPixelDistance": 6,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 145.194820827908,
+        "y": 451.2788899739583,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 148.5281541612413,
+        "y": 73.50111219618056,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 83.10522068313684,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 145.194820827908,
+        "y": 450.16777886284723,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 969.7651133817783,
+        "y": 451.20709587545946,
+        "label": "xmax",
+        "topBarPixelDistance": 11.111111111111086,
+        "bottomBarPixelDistance": 1.1111111111111427,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Nimotuzumab_200_mg"
+    },
+    "points": [
+      {
+        "x": 969.5266563013979,
+        "y": 441.86949077405427,
+        "label": "",
+        "topBarPixelDistance": 9.468459279913645,
+        "bottomBarPixelDistance": 5.531540720086355,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 499.0003405119243,
+        "y": 405.02738551089635,
+        "label": "",
+        "topBarPixelDistance": 15.970717759160266,
+        "bottomBarPixelDistance": 11.807060018617506,
+        "deviationPixelDistance": 14
+      },
+      {
+        "x": 381.10560366981906,
+        "y": 385.02738551089635,
+        "label": "",
+        "topBarPixelDistance": 20.415162203604666,
+        "bottomBarPixelDistance": 16.251504463061963,
+        "deviationPixelDistance": 21
+      },
+      {
+        "x": 265.31612998560854,
+        "y": 362.9221223530016,
+        "label": "",
+        "topBarPixelDistance": 20.532121267932155,
+        "bottomBarPixelDistance": 15.023434287623388,
+        "deviationPixelDistance": 20
+      },
+      {
+        "x": 185.31612998560854,
+        "y": 322.9221223530016,
+        "label": "",
+        "topBarPixelDistance": 25.26315789473682,
+        "bottomBarPixelDistance": 20,
+        "deviationPixelDistance": 24
+      },
+      {
+        "x": 161.10560366981906,
+        "y": 318.71159603721213,
+        "label": "",
+        "topBarPixelDistance": 24.21052631578948,
+        "bottomBarPixelDistance": 21.0526315789474,
+        "deviationPixelDistance": 22
+      },
+      {
+        "x": 151.63191945929276,
+        "y": 316.6063328793174,
+        "label": "",
+        "topBarPixelDistance": 23.15789473684208,
+        "bottomBarPixelDistance": 20,
+        "deviationPixelDistance": 25
+      },
+      {
+        "x": 146.3687615645559,
+        "y": 311.34317498458057,
+        "label": "",
+        "topBarPixelDistance": 25.26315789473682,
+        "bottomBarPixelDistance": 17.89473684210526,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 145.194820827908,
+        "y": 451.2788899739583,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 148.5281541612413,
+        "y": 73.50111219618056,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 83.10522068313684,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 145.194820827908,
+        "y": 450.16777886284723,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 969.7651133817783,
+        "y": 451.20709587545946,
+        "label": "xmax",
+        "topBarPixelDistance": 11.111111111111086,
+        "bottomBarPixelDistance": 1.1111111111111427,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

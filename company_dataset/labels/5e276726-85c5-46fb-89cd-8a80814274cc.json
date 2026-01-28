@@ -1,0 +1,357 @@
+[
+  {
+    "label": {
+      "lineName": "Clesrovimab_50_mg"
+    },
+    "points": [
+      {
+        "x": 996.431640625,
+        "y": 646.0441284179688,
+        "label": "",
+        "topBarPixelDistance": 74,
+        "bottomBarPixelDistance": 80,
+        "deviationPixelDistance": 80
+      },
+      {
+        "x": 662.681640625,
+        "y": 511.04412841796875,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 240.181640625,
+        "y": 308.54412841796875,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 201.431640625,
+        "y": 292.29412841796875,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 163.2075958251953,
+        "y": 890.779052734375,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 162.681640625,
+        "y": 209.556640625,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 201.77902221679688,
+        "y": 889.3504638671875,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 997.4933471679688,
+        "y": 890.779052734375,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Clesrovimab_75_mg"
+    },
+    "points": [
+      {
+        "x": 996.431640625,
+        "y": 567.2941284179688,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 663.931640625,
+        "y": 438.54412841796875,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 240.181640625,
+        "y": 272.29412841796875,
+        "label": "",
+        "topBarPixelDistance": 18,
+        "bottomBarPixelDistance": 13,
+        "deviationPixelDistance": 18
+      },
+      {
+        "x": 201.431640625,
+        "y": 227.2941436767578,
+        "label": "",
+        "topBarPixelDistance": 21,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 21
+      },
+      {
+        "x": 163.2075958251953,
+        "y": 890.779052734375,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 162.681640625,
+        "y": 209.556640625,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 201.77902221679688,
+        "y": 889.3504638671875,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 997.4933471679688,
+        "y": 890.779052734375,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Clesrovimab_100_mg-Full-term infants"
+    },
+    "points": [
+      {
+        "x": 990.3504638671875,
+        "y": 582.2075805664062,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 656.92529296875,
+        "y": 407.2353210449219,
+        "label": "",
+        "topBarPixelDistance": 19,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 19
+      },
+      {
+        "x": 233.92530822753906,
+        "y": 249.23532104492188,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 195.181640625,
+        "y": 210.806640625,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 163.2075958251953,
+        "y": 890.779052734375,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 162.681640625,
+        "y": 209.556640625,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 201.77902221679688,
+        "y": 889.3504638671875,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 997.4933471679688,
+        "y": 890.779052734375,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Clesrovimab_20_mg"
+    },
+    "points": [
+      {
+        "x": 993.931640625,
+        "y": 727.2941284179688,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 237.65036010742188,
+        "y": 284.2947998046875,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 19,
+        "deviationPixelDistance": 19
+      },
+      {
+        "x": 198.76145935058594,
+        "y": 475.4059143066406,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 163.2075958251953,
+        "y": 890.779052734375,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 162.681640625,
+        "y": 209.556640625,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 201.77902221679688,
+        "y": 889.3504638671875,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 997.4933471679688,
+        "y": 890.779052734375,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 661.431640625,
+        "y": 687.2941284179688,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Clesrovimab_100_mg-Preterm infants"
+    },
+    "points": [
+      {
+        "x": 1008.921875,
+        "y": 547.921875,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 674.6361694335938,
+        "y": 400.7790222167969,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 251.2947998046875,
+        "y": 220.6281280517578,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 212.681640625,
+        "y": 188.5441436767578,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 163.2075958251953,
+        "y": 890.779052734375,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 162.681640625,
+        "y": 209.556640625,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 201.77902221679688,
+        "y": 889.3504638671875,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 997.4933471679688,
+        "y": 890.779052734375,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

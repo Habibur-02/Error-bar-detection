@@ -1,0 +1,383 @@
+[
+  {
+    "label": {
+      "lineName": "Freneslerbart_150_mg "
+    },
+    "points": [
+      {
+        "x": 126.4453125,
+        "y": 612.4453125,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 16,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 131.6059112548828,
+        "y": 576.8836669921875,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 142.71701049804688,
+        "y": 543.5503540039062,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 166.05035400390625,
+        "y": 532.4392700195312,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 206.05035400390625,
+        "y": 540.217041015625,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 246.05035400390625,
+        "y": 550.217041015625,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 286.05035400390625,
+        "y": 557.9948120117188,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 366.806640625,
+        "y": 576.181640625,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 446.806640625,
+        "y": 584.931640625,
+        "label": "",
+        "topBarPixelDistance": 22,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 22
+      },
+      {
+        "x": 606.806640625,
+        "y": 599.931640625,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 766.806640625,
+        "y": 606.181640625,
+        "label": "",
+        "topBarPixelDistance": 15,
+        "bottomBarPixelDistance": 30,
+        "deviationPixelDistance": 30
+      },
+      {
+        "x": 125.4453125,
+        "y": 614.4453125,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 126.05035400390625,
+        "y": 75.77256774902344,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 125.4453125,
+        "y": 614.4453125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 766.9453125,
+        "y": 615.4453125,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Freneslerbart_300_mg"
+    },
+    "points": [
+      {
+        "x": 126.4453125,
+        "y": 614.4453125,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 16,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 130.4453125,
+        "y": 529.4453125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 142.4453125,
+        "y": 453.4453125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 165.4453125,
+        "y": 442.4453125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 206.4453125,
+        "y": 465.4453125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 246.4453125,
+        "y": 483.4453125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 286.4453125,
+        "y": 502.4453125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 366.4453125,
+        "y": 533.4453125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 446.4453125,
+        "y": 562.4453125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 29,
+        "deviationPixelDistance": 29
+      },
+      {
+        "x": 606.806640625,
+        "y": 587.431640625,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 767.4453125,
+        "y": 601.4453125,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 125.4453125,
+        "y": 614.4453125,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 126.05035400390625,
+        "y": 75.77256774902344,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 125.4453125,
+        "y": 614.4453125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 766.9453125,
+        "y": 615.4453125,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Freneslerbart_600_mg "
+    },
+    "points": [
+      {
+        "x": 130.4453125,
+        "y": 461.4453125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 142.4453125,
+        "y": 377.4453125,
+        "label": "",
+        "topBarPixelDistance": 8,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 165.4453125,
+        "y": 296.4453125,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 206.4453125,
+        "y": 367.4453125,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 246.4453125,
+        "y": 402.4453125,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 286.4453125,
+        "y": 432.4453125,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 366.4453125,
+        "y": 487.4453125,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 446.4453125,
+        "y": 523.4453125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 606.4453125,
+        "y": 574.4453125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 768.4453125,
+        "y": 590.4453125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 126.4453125,
+        "y": 614.4453125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 125.4453125,
+        "y": 614.4453125,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 126.05035400390625,
+        "y": 75.77256774902344,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 125.4453125,
+        "y": 614.4453125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 766.9453125,
+        "y": 615.4453125,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

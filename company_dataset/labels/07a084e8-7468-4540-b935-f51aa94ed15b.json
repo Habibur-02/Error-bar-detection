@@ -1,0 +1,287 @@
+[
+  {
+    "label": {
+      "lineName": "Vanucizumab_30/qw"
+    },
+    "points": [
+      {
+        "x": 150.21754455566406,
+        "y": 257.9115905761719,
+        "label": "",
+        "topBarPixelDistance": 4.5000152587890625,
+        "bottomBarPixelDistance": 4.5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 153.21754455566406,
+        "y": 222.9115753173828,
+        "label": "",
+        "topBarPixelDistance": 8,
+        "bottomBarPixelDistance": 6.5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 160.57754516601562,
+        "y": 226.9115753173828,
+        "label": "",
+        "topBarPixelDistance": 6.5,
+        "bottomBarPixelDistance": 5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 188,
+        "y": 232,
+        "label": "",
+        "topBarPixelDistance": 9.088424682617188,
+        "bottomBarPixelDistance": 8.411575317382812,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 311.2775573730469,
+        "y": 254.4115753173828,
+        "label": "",
+        "topBarPixelDistance": 10.5,
+        "bottomBarPixelDistance": 7.0000152587890625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 435,
+        "y": 272,
+        "label": "",
+        "topBarPixelDistance": 11.58843994140625,
+        "bottomBarPixelDistance": 6.526824951171875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 135.19581604003906,
+        "y": 539.119384765625,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 134.60354614257812,
+        "y": 79.69243621826172,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 146.89698791503906,
+        "y": 541.36962890625,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 719.28857421875,
+        "y": 541.2672119140625,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 147.71754455566406,
+        "y": 271.9115905761719,
+        "label": "",
+        "topBarPixelDistance": 4.5,
+        "bottomBarPixelDistance": 4.93035888671875,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Vanucizumab_20/qw"
+    },
+    "points": [
+      {
+        "x": 149.07754516601562,
+        "y": 266.4115905761719,
+        "label": "",
+        "topBarPixelDistance": 7.5,
+        "bottomBarPixelDistance": 5.5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 158.57754516601562,
+        "y": 240.4115753173828,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 3.5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 149.57754516601562,
+        "y": 241.4115753173828,
+        "label": "",
+        "topBarPixelDistance": 8.5,
+        "bottomBarPixelDistance": 5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 188,
+        "y": 254,
+        "label": "",
+        "topBarPixelDistance": 12.588424682617188,
+        "bottomBarPixelDistance": 6.411590576171875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 311.2775573730469,
+        "y": 272.91156005859375,
+        "label": "",
+        "topBarPixelDistance": 9.5,
+        "bottomBarPixelDistance": 6.5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 435,
+        "y": 297,
+        "label": "",
+        "topBarPixelDistance": 16.58843994140625,
+        "bottomBarPixelDistance": 8.41156005859375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 135.19581604003906,
+        "y": 539.119384765625,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 134.60354614257812,
+        "y": 79.69243621826172,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 146.89698791503906,
+        "y": 541.36962890625,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 719.28857421875,
+        "y": 541.2672119140625,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 147.57754516601562,
+        "y": 291.4115905761719,
+        "label": "",
+        "topBarPixelDistance": 9.487762451171875,
+        "bottomBarPixelDistance": 6.64129638671875,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Vanucizumab_10/qw"
+    },
+    "points": [
+      {
+        "x": 146.57754516601562,
+        "y": 317.4115905761719,
+        "label": "",
+        "topBarPixelDistance": 12.5,
+        "bottomBarPixelDistance": 5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 148.07754516601562,
+        "y": 269.9115905761719,
+        "label": "",
+        "topBarPixelDistance": 4,
+        "bottomBarPixelDistance": 4,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 159.07754516601562,
+        "y": 262.41156005859375,
+        "label": "",
+        "topBarPixelDistance": 13.499984741210938,
+        "bottomBarPixelDistance": 5.5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 150.57754516601562,
+        "y": 261.41156005859375,
+        "label": "",
+        "topBarPixelDistance": 7.4999847412109375,
+        "bottomBarPixelDistance": 5.5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 188.07754516601562,
+        "y": 276.4115905761719,
+        "label": "",
+        "topBarPixelDistance": 15.5,
+        "bottomBarPixelDistance": 2.5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 310.7775573730469,
+        "y": 301.9115905761719,
+        "label": "",
+        "topBarPixelDistance": 17.5,
+        "bottomBarPixelDistance": 6.5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 435,
+        "y": 328,
+        "label": "",
+        "topBarPixelDistance": 16.08843994140625,
+        "bottomBarPixelDistance": 7.91156005859375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 135.19581604003906,
+        "y": 539.119384765625,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 134.60354614257812,
+        "y": 79.69243621826172,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 146.89698791503906,
+        "y": 541.36962890625,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 719.28857421875,
+        "y": 541.2672119140625,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

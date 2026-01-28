@@ -1,0 +1,557 @@
+[
+  {
+    "label": {
+      "lineName": "Fianlimab_40_mg/kg"
+    },
+    "points": [
+      {
+        "x": 270.57550048828125,
+        "y": 193.0755157470703,
+        "label": "",
+        "topBarPixelDistance": 32.010772705078125,
+        "bottomBarPixelDistance": 3.7035064697265625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 297.2421875,
+        "y": 194.7421875,
+        "label": "",
+        "topBarPixelDistance": 26.534591674804688,
+        "bottomBarPixelDistance": 13.465408325195312,
+        "deviationPixelDistance": 35
+      },
+      {
+        "x": 352.2421875,
+        "y": 196.40884399414062,
+        "label": "",
+        "topBarPixelDistance": 13.244293212890625,
+        "bottomBarPixelDistance": 8.630706787109375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 435.57550048828125,
+        "y": 208.0755157470703,
+        "label": "",
+        "topBarPixelDistance": 12.410964965820312,
+        "bottomBarPixelDistance": 11.026535034179688,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 518.25830078125,
+        "y": 218.44580078125,
+        "label": "",
+        "topBarPixelDistance": 14.0625,
+        "bottomBarPixelDistance": 10.9375,
+        "deviationPixelDistance": 23
+      },
+      {
+        "x": 844.890625,
+        "y": 253.890625,
+        "label": "",
+        "topBarPixelDistance": 28.278594970703125,
+        "bottomBarPixelDistance": 14.27459716796875,
+        "deviationPixelDistance": 24
+      },
+      {
+        "x": 2000.890625,
+        "y": 291.890625,
+        "label": "",
+        "topBarPixelDistance": 25.105804443359375,
+        "bottomBarPixelDistance": 11.2578125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 282.2421875,
+        "y": 194.7421875,
+        "label": "",
+        "topBarPixelDistance": 29.391738891601562,
+        "bottomBarPixelDistance": 9.179702758789062,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 270.13330078125,
+        "y": 869.1494140625,
+        "label": "",
+        "topBarPixelDistance": 11.42852783203125,
+        "bottomBarPixelDistance": 11.26434326171875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 225.77847290039062,
+        "y": 953.0203857421875,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 226.890625,
+        "y": 83.890625,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 267.86328125,
+        "y": 983.36328125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 2082.484130859375,
+        "y": 985.8176879882812,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Fianlimab_3_mg/kg "
+    },
+    "points": [
+      {
+        "x": 282.03924560546875,
+        "y": 407.06146240234375,
+        "label": "",
+        "topBarPixelDistance": 18.423583984375,
+        "bottomBarPixelDistance": 5.1058349609375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 297.59478759765625,
+        "y": 409.28369140625,
+        "label": "",
+        "topBarPixelDistance": 18.685028076171875,
+        "bottomBarPixelDistance": 6.80517578125,
+        "deviationPixelDistance": 21
+      },
+      {
+        "x": 352.03924560546875,
+        "y": 422.6170349121094,
+        "label": "",
+        "topBarPixelDistance": 11.510955810546875,
+        "bottomBarPixelDistance": 8.207366943359375,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 436.48370361328125,
+        "y": 434.8392333984375,
+        "label": "",
+        "topBarPixelDistance": 15.282440185546875,
+        "bottomBarPixelDistance": 5.844329833984375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 518.7059326171875,
+        "y": 447.06146240234375,
+        "label": "",
+        "topBarPixelDistance": 19.053955078125,
+        "bottomBarPixelDistance": 6.29815673828125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 844.890625,
+        "y": 461.890625,
+        "label": "",
+        "topBarPixelDistance": 11.347900390625,
+        "bottomBarPixelDistance": 12.595733642578125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 2000.890625,
+        "y": 531.890625,
+        "label": "",
+        "topBarPixelDistance": 26.6688232421875,
+        "bottomBarPixelDistance": 6.1180419921875,
+        "deviationPixelDistance": 14
+      },
+      {
+        "x": 272.03924560546875,
+        "y": 408.1725769042969,
+        "label": "",
+        "topBarPixelDistance": 21.4954833984375,
+        "bottomBarPixelDistance": 7.56951904296875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 270.57550048828125,
+        "y": 864.7421264648438,
+        "label": "",
+        "topBarPixelDistance": 10,
+        "bottomBarPixelDistance": 11.4853515625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 225.77847290039062,
+        "y": 953.0203857421875,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 226.890625,
+        "y": 83.890625,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 267.86328125,
+        "y": 983.36328125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 2082.484130859375,
+        "y": 985.8176879882812,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Fianlimab_20_mg/kg"
+    },
+    "points": [
+      {
+        "x": 267.86328125,
+        "y": 270.8632507324219,
+        "label": "",
+        "topBarPixelDistance": 12.972625732421875,
+        "bottomBarPixelDistance": 15.027374267578125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 282.86328125,
+        "y": 273.3632507324219,
+        "label": "",
+        "topBarPixelDistance": 14.26995849609375,
+        "bottomBarPixelDistance": 11.4443359375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 300.36328125,
+        "y": 273.3632507324219,
+        "label": "",
+        "topBarPixelDistance": 12.84136962890625,
+        "bottomBarPixelDistance": 12.8729248046875,
+        "deviationPixelDistance": 90
+      },
+      {
+        "x": 351.6819763183594,
+        "y": 285.11328125,
+        "label": "",
+        "topBarPixelDistance": 14.591400146484375,
+        "bottomBarPixelDistance": 12.55145263671875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 436.6819763183594,
+        "y": 297.61328125,
+        "label": "",
+        "topBarPixelDistance": 14.250030517578125,
+        "bottomBarPixelDistance": 15.749969482421875,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 516.6820068359375,
+        "y": 305.11328125,
+        "label": "",
+        "topBarPixelDistance": 14.250030517578125,
+        "bottomBarPixelDistance": 15.749969482421875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 846.6820068359375,
+        "y": 322.61328125,
+        "label": "",
+        "topBarPixelDistance": 12.72265625,
+        "bottomBarPixelDistance": 13.27734375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1999.1820068359375,
+        "y": 365.11328125,
+        "label": "",
+        "topBarPixelDistance": 11.22265625,
+        "bottomBarPixelDistance": 16.77734375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 270.36328125,
+        "y": 865.86328125,
+        "label": "",
+        "topBarPixelDistance": 9.97265625,
+        "bottomBarPixelDistance": 16.02734375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 225.77847290039062,
+        "y": 953.0203857421875,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 226.890625,
+        "y": 83.890625,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 267.86328125,
+        "y": 983.36328125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 2082.484130859375,
+        "y": 985.8176879882812,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Fianlimab_10_mg/kg "
+    },
+    "points": [
+      {
+        "x": 281.87060546875,
+        "y": 321.890625,
+        "label": "",
+        "topBarPixelDistance": 17.0401611328125,
+        "bottomBarPixelDistance": 11.53125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 297.87060546875,
+        "y": 321.890625,
+        "label": "",
+        "topBarPixelDistance": 12.75445556640625,
+        "bottomBarPixelDistance": 12.9598388671875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 351.87060546875,
+        "y": 331.890625,
+        "label": "",
+        "topBarPixelDistance": 13.983978271484375,
+        "bottomBarPixelDistance": 14.766021728515625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 433.87060546875,
+        "y": 347.890625,
+        "label": "",
+        "topBarPixelDistance": 14.808990478515625,
+        "bottomBarPixelDistance": 11.441009521484375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 517.87060546875,
+        "y": 357.890625,
+        "label": "",
+        "topBarPixelDistance": 7.77734375,
+        "bottomBarPixelDistance": 7.972625732421875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 843.87548828125,
+        "y": 376.4088439941406,
+        "label": "",
+        "topBarPixelDistance": 16.518218994140625,
+        "bottomBarPixelDistance": 9.481781005859375,
+        "deviationPixelDistance": 55
+      },
+      {
+        "x": 2001.36328125,
+        "y": 420.8632507324219,
+        "label": "",
+        "topBarPixelDistance": 16.972625732421875,
+        "bottomBarPixelDistance": 11.027374267578125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 225.77847290039062,
+        "y": 953.0203857421875,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 226.890625,
+        "y": 83.890625,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 267.86328125,
+        "y": 983.36328125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 2082.484130859375,
+        "y": 985.8176879882812,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 271.87060546875,
+        "y": 317.890625,
+        "label": "",
+        "topBarPixelDistance": 13.0401611328125,
+        "bottomBarPixelDistance": 11.24554443359375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 267.87060546875,
+        "y": 865.890625,
+        "label": "",
+        "topBarPixelDistance": 6.75445556640625,
+        "bottomBarPixelDistance": 16.10272216796875,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Fianlimab_1_mg/kg"
+    },
+    "points": [
+      {
+        "x": 273.7632751464844,
+        "y": 865.86328125,
+        "label": "",
+        "topBarPixelDistance": 11.66668701171875,
+        "bottomBarPixelDistance": 8.33331298828125,
+        "deviationPixelDistance": 392
+      },
+      {
+        "x": 298.00885009765625,
+        "y": 480.89215087890625,
+        "label": "",
+        "topBarPixelDistance": 16.141693115234375,
+        "bottomBarPixelDistance": 9.572601318359375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 351.3421630859375,
+        "y": 482.558837890625,
+        "label": "",
+        "topBarPixelDistance": 12.094085693359375,
+        "bottomBarPixelDistance": 12.191619873046875,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 436.3421630859375,
+        "y": 500.89215087890625,
+        "label": "",
+        "topBarPixelDistance": 20.81683349609375,
+        "bottomBarPixelDistance": 9.18316650390625,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 517,
+        "y": 503,
+        "label": "",
+        "topBarPixelDistance": 12.9246826171875,
+        "bottomBarPixelDistance": 12.0753173828125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 845.6790161132812,
+        "y": 537.3218994140625,
+        "label": "",
+        "topBarPixelDistance": 20.42974853515625,
+        "bottomBarPixelDistance": 11.2369384765625,
+        "deviationPixelDistance": 15
+      },
+      {
+        "x": 2001.0421142578125,
+        "y": 606.7088623046875,
+        "label": "",
+        "topBarPixelDistance": 24.8182373046875,
+        "bottomBarPixelDistance": 11.1817626953125,
+        "deviationPixelDistance": 226
+      },
+      {
+        "x": 280.86474609375,
+        "y": 471.8504638671875,
+        "label": "",
+        "topBarPixelDistance": 9.9571533203125,
+        "bottomBarPixelDistance": 11.471435546875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 272.57061767578125,
+        "y": 459.890625,
+        "label": "",
+        "topBarPixelDistance": 7.997314453125,
+        "bottomBarPixelDistance": 16.288421630859375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 225.77847290039062,
+        "y": 953.0203857421875,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 226.890625,
+        "y": 83.890625,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 267.86328125,
+        "y": 983.36328125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 2082.484130859375,
+        "y": 985.8176879882812,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

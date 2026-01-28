@@ -1,0 +1,144 @@
+[
+  {
+    "label": {
+      "lineName": "HbA1c_Atorvastatin"
+    },
+    "points": [
+      {
+        "x": 254.50672912597656,
+        "y": 369.8604431152344,
+        "label": "",
+        "topBarPixelDistance": 197.4671630859375,
+        "bottomBarPixelDistance": 4.512237548828125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 347.5555114746094,
+        "y": 503.8285827636719,
+        "label": "",
+        "topBarPixelDistance": 129.92495727539062,
+        "bottomBarPixelDistance": 3.40130615234375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 440.73370361328125,
+        "y": 469.75469970703125,
+        "label": "",
+        "topBarPixelDistance": 144.77212524414062,
+        "bottomBarPixelDistance": 2.7236328125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 533.3946533203125,
+        "y": 475.62274169921875,
+        "label": "",
+        "topBarPixelDistance": 153.48654174804688,
+        "bottomBarPixelDistance": 3.121063232421875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 206.05873107910156,
+        "y": 681.037353515625,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 208.05137634277344,
+        "y": 125.06537628173828,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 207.2599334716797,
+        "y": 681.037353515625,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1043.2724609375,
+        "y": 681.3390502929688,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "HbA1c_Placebo"
+    },
+    "points": [
+      {
+        "x": 719.3468627929688,
+        "y": 404.9950256347656,
+        "label": "",
+        "topBarPixelDistance": 176.7496795654297,
+        "bottomBarPixelDistance": 2.43829345703125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 812.1883544921875,
+        "y": 492.49322509765625,
+        "label": "",
+        "topBarPixelDistance": 166.58984375,
+        "bottomBarPixelDistance": 4.498046875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 904.7110595703125,
+        "y": 485.38531494140625,
+        "label": "",
+        "topBarPixelDistance": 223.74322509765625,
+        "bottomBarPixelDistance": 4.1771240234375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 997.6234130859375,
+        "y": 441.7716064453125,
+        "label": "",
+        "topBarPixelDistance": 206.58807373046875,
+        "bottomBarPixelDistance": 3.68524169921875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 206.05873107910156,
+        "y": 681.037353515625,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 208.05137634277344,
+        "y": 125.06537628173828,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 207.2599334716797,
+        "y": 681.037353515625,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1043.2724609375,
+        "y": 681.3390502929688,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

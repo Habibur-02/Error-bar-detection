@@ -1,0 +1,224 @@
+[
+  {
+    "label": {
+      "lineName": "C-pep_Placebo"
+    },
+    "points": [
+      {
+        "x": 230,
+        "y": 533,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 32.51422119140625,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 242,
+        "y": 553,
+        "label": "",
+        "topBarPixelDistance": 10.954833984375,
+        "bottomBarPixelDistance": 25.34881591796875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 269,
+        "y": 539,
+        "label": "",
+        "topBarPixelDistance": 8.3226318359375,
+        "bottomBarPixelDistance": 30.18121337890625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 294,
+        "y": 532,
+        "label": "",
+        "topBarPixelDistance": 8,
+        "bottomBarPixelDistance": 41.5816650390625,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 359,
+        "y": 522,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 43.36395263671875,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 484.29364013671875,
+        "y": 445.4373474121094,
+        "label": "",
+        "topBarPixelDistance": 9.20989990234375,
+        "bottomBarPixelDistance": 52.350921630859375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 609.9002075195312,
+        "y": 436.0620422363281,
+        "label": "",
+        "topBarPixelDistance": 7.578887939453125,
+        "bottomBarPixelDistance": 73.1424560546875,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 798,
+        "y": 454,
+        "label": "",
+        "topBarPixelDistance": 8.864990234375,
+        "bottomBarPixelDistance": 56.053466796875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 989.8487548828125,
+        "y": 458.3836364746094,
+        "label": "",
+        "topBarPixelDistance": 8.866607666015625,
+        "bottomBarPixelDistance": 58.211273193359375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 187.4960479736328,
+        "y": 673.6884765625,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 192.71812438964844,
+        "y": 154.73678588867188,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 222.8475341796875,
+        "y": 677.3455200195312,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 994.8458862304688,
+        "y": 676.0482788085938,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "C-pep_CYA"
+    },
+    "points": [
+      {
+        "x": 227.98121643066406,
+        "y": 461.1317138671875,
+        "label": "",
+        "topBarPixelDistance": 40.76177978515625,
+        "bottomBarPixelDistance": 13.0303955078125,
+        "deviationPixelDistance": 10
+      },
+      {
+        "x": 245,
+        "y": 443,
+        "label": "",
+        "topBarPixelDistance": 58.380157470703125,
+        "bottomBarPixelDistance": 11.449462890625,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 268.07476806640625,
+        "y": 435.405029296875,
+        "label": "",
+        "topBarPixelDistance": 60.808563232421875,
+        "bottomBarPixelDistance": 12.362152099609375,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 294,
+        "y": 446,
+        "label": "",
+        "topBarPixelDistance": 54.168548583984375,
+        "bottomBarPixelDistance": 11.658355712890625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 357.1812438964844,
+        "y": 449.4748840332031,
+        "label": "",
+        "topBarPixelDistance": 48.496612548828125,
+        "bottomBarPixelDistance": 13.094085693359375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 484.2423400878906,
+        "y": 428.621337890625,
+        "label": "",
+        "topBarPixelDistance": 36.857421875,
+        "bottomBarPixelDistance": 9.699310302734375,
+        "deviationPixelDistance": 22
+      },
+      {
+        "x": 608,
+        "y": 412,
+        "label": "",
+        "topBarPixelDistance": 55.525421142578125,
+        "bottomBarPixelDistance": 14.22802734375,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 798,
+        "y": 417,
+        "label": "",
+        "topBarPixelDistance": 38.8778076171875,
+        "bottomBarPixelDistance": 12.234649658203125,
+        "deviationPixelDistance": 29
+      },
+      {
+        "x": 987.005859375,
+        "y": 383.0921325683594,
+        "label": "",
+        "topBarPixelDistance": 64.60787963867188,
+        "bottomBarPixelDistance": 14.123016357421875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 187.4960479736328,
+        "y": 673.6884765625,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 192.71812438964844,
+        "y": 154.73678588867188,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 222.8475341796875,
+        "y": 677.3455200195312,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 994.8458862304688,
+        "y": 676.0482788085938,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

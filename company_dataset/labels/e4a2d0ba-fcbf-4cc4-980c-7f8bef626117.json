@@ -1,0 +1,264 @@
+[
+  {
+    "label": {
+      "lineName": "Belatacept_4-week schedule "
+    },
+    "points": [
+      {
+        "x": 479.6585693359375,
+        "y": 322.4366455078125,
+        "label": "",
+        "topBarPixelDistance": 16.0372314453125,
+        "bottomBarPixelDistance": 15.519927978515625,
+        "deviationPixelDistance": 17
+      },
+      {
+        "x": 397,
+        "y": 307,
+        "label": "",
+        "topBarPixelDistance": 13.01654052734375,
+        "bottomBarPixelDistance": 9.228668212890625,
+        "deviationPixelDistance": 14
+      },
+      {
+        "x": 316.6994323730469,
+        "y": 285.1888427734375,
+        "label": "",
+        "topBarPixelDistance": 13.45062255859375,
+        "bottomBarPixelDistance": 8.79461669921875,
+        "deviationPixelDistance": 13
+      },
+      {
+        "x": 235.99588012695312,
+        "y": 262.42626953125,
+        "label": "",
+        "topBarPixelDistance": 8.794601440429688,
+        "bottomBarPixelDistance": 7.242645263671875,
+        "deviationPixelDistance": 30
+      },
+      {
+        "x": 201,
+        "y": 242,
+        "label": "",
+        "topBarPixelDistance": 10.613555908203125,
+        "bottomBarPixelDistance": 4.9063720703125,
+        "deviationPixelDistance": 21
+      },
+      {
+        "x": 177,
+        "y": 218,
+        "label": "",
+        "topBarPixelDistance": 5.754791259765625,
+        "bottomBarPixelDistance": 7.1784820556640625,
+        "deviationPixelDistance": 19
+      },
+      {
+        "x": 167.19090270996094,
+        "y": 321.634765625,
+        "label": "",
+        "topBarPixelDistance": 23.279876708984375,
+        "bottomBarPixelDistance": 55.8717041015625,
+        "deviationPixelDistance": 53
+      },
+      {
+        "x": 164.8718719482422,
+        "y": 609.6991577148438,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 165.75462341308594,
+        "y": 98.66725158691406,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 164.8718719482422,
+        "y": 607.9339599609375,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 893.0449829101562,
+        "y": 607.9346923828125,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 169.77755737304688,
+        "y": 202.64874267578125,
+        "label": "",
+        "topBarPixelDistance": 2.0693206787109375,
+        "bottomBarPixelDistance": 17.5892333984375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 167.70823669433594,
+        "y": 186.6114959716797,
+        "label": "",
+        "topBarPixelDistance": 8.794631958007812,
+        "bottomBarPixelDistance": 5.6906280517578125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 169.26022338867188,
+        "y": 195.92344665527344,
+        "label": "",
+        "topBarPixelDistance": 5.690643310546875,
+        "bottomBarPixelDistance": 7.2426300048828125,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Belatacept_8-week schedule"
+    },
+    "points": [
+      {
+        "x": 802.7999877929688,
+        "y": 445.29998779296875,
+        "label": "",
+        "topBarPixelDistance": 27,
+        "bottomBarPixelDistance": 80,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 641.7999877929688,
+        "y": 396.29998779296875,
+        "label": "",
+        "topBarPixelDistance": 21,
+        "bottomBarPixelDistance": 41,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 559.7999877929688,
+        "y": 378.29998779296875,
+        "label": "",
+        "topBarPixelDistance": 14,
+        "bottomBarPixelDistance": 24,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 478.79998779296875,
+        "y": 350.29998779296875,
+        "label": "",
+        "topBarPixelDistance": 12,
+        "bottomBarPixelDistance": 17,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 397.79998779296875,
+        "y": 329.29998779296875,
+        "label": "",
+        "topBarPixelDistance": 14,
+        "bottomBarPixelDistance": 21,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 316.79998779296875,
+        "y": 306.29998779296875,
+        "label": "",
+        "topBarPixelDistance": 12,
+        "bottomBarPixelDistance": 17,
+        "deviationPixelDistance": 15
+      },
+      {
+        "x": 234.8000030517578,
+        "y": 275.29998779296875,
+        "label": "",
+        "topBarPixelDistance": 9,
+        "bottomBarPixelDistance": 18,
+        "deviationPixelDistance": 22
+      },
+      {
+        "x": 201,
+        "y": 256,
+        "label": "",
+        "topBarPixelDistance": 12.699996948242188,
+        "bottomBarPixelDistance": 12.29998779296875,
+        "deviationPixelDistance": 14
+      },
+      {
+        "x": 177,
+        "y": 230,
+        "label": "",
+        "topBarPixelDistance": 8.699996948242188,
+        "bottomBarPixelDistance": 16.300003051757812,
+        "deviationPixelDistance": 10
+      },
+      {
+        "x": 168.8000030517578,
+        "y": 210.3000030517578,
+        "label": "",
+        "topBarPixelDistance": 10,
+        "bottomBarPixelDistance": 14,
+        "deviationPixelDistance": 14
+      },
+      {
+        "x": 166.8000030517578,
+        "y": 196.3000030517578,
+        "label": "",
+        "topBarPixelDistance": 12,
+        "bottomBarPixelDistance": 12,
+        "deviationPixelDistance": 15
+      },
+      {
+        "x": 165.8000030517578,
+        "y": 186.3000030517578,
+        "label": "",
+        "topBarPixelDistance": 8,
+        "bottomBarPixelDistance": 11,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 166,
+        "y": 450,
+        "label": "",
+        "topBarPixelDistance": 26.70001220703125,
+        "bottomBarPixelDistance": 66.29998779296875,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 164.8718719482422,
+        "y": 609.6991577148438,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 165.75462341308594,
+        "y": 98.66725158691406,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 164.8718719482422,
+        "y": 607.9339599609375,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 893.0449829101562,
+        "y": 607.9346923828125,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "label": {
+      "lineName": "Teprotumumab"
+    },
+    "points": [
+      {
+        "x": 129.62362925211588,
+        "y": 715.1681009928384,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 129.62362925211588,
+        "y": 68.50143432617186,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 186.66666666666657,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 129.62362925211588,
+        "y": 716.8347676595051,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1031.2902959187825,
+        "y": 716.8347676595051,
+        "label": "xmax",
+        "topBarPixelDistance": 52.331899007161496,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 141.2902959187825,
+        "y": 290.16810099283845,
+        "label": "",
+        "topBarPixelDistance": 153.3333333333333,
+        "bottomBarPixelDistance": 153.33333333333326,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 259.6236292521158,
+        "y": 426.8347676595051,
+        "label": "",
+        "topBarPixelDistance": 80,
+        "bottomBarPixelDistance": 78.33333333333331,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 644.6236292521156,
+        "y": 523.5014343261716,
+        "label": "",
+        "topBarPixelDistance": 105.49713134765636,
+        "bottomBarPixelDistance": 106.50286865234364,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1030,
+        "y": 584,
+        "label": "",
+        "topBarPixelDistance": 83.49713134765636,
+        "bottomBarPixelDistance": 80.50286865234364,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 136.2902959187825,
+        "y": 268.50143432617176,
+        "label": "",
+        "topBarPixelDistance": 196.66666666666657,
+        "bottomBarPixelDistance": 196.66666666666663,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

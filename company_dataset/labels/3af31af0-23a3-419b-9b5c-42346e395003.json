@@ -1,0 +1,1344 @@
+[
+  {
+    "label": {
+      "lineName": "375 mg Q14D SC Non-Japanese"
+    },
+    "points": [
+      {
+        "x": 164.27499389648438,
+        "y": 503.73004150390625,
+        "label": "",
+        "topBarPixelDistance": 5.14495849609375,
+        "bottomBarPixelDistance": 3.91754150390625,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 168.02499389648438,
+        "y": 502.48004150390625,
+        "label": "",
+        "topBarPixelDistance": 5.39495849609375,
+        "bottomBarPixelDistance": 3.66754150390625,
+        "deviationPixelDistance": 26
+      },
+      {
+        "x": 172.39999389648438,
+        "y": 498.41754150390625,
+        "label": "",
+        "topBarPixelDistance": 5.58245849609375,
+        "bottomBarPixelDistance": 4.41754150390625,
+        "deviationPixelDistance": 21
+      },
+      {
+        "x": 186.46249389648438,
+        "y": 475.29254150390625,
+        "label": "",
+        "topBarPixelDistance": 21.25,
+        "bottomBarPixelDistance": 9.375,
+        "deviationPixelDistance": 71
+      },
+      {
+        "x": 209.27499389648438,
+        "y": 453.73004150390625,
+        "label": "",
+        "topBarPixelDistance": 21.25,
+        "bottomBarPixelDistance": 16.556640625,
+        "deviationPixelDistance": 27
+      },
+      {
+        "x": 232.10784912109375,
+        "y": 440.4128723144531,
+        "label": "",
+        "topBarPixelDistance": 40.233245849609375,
+        "bottomBarPixelDistance": 44.314849853515625,
+        "deviationPixelDistance": 34
+      },
+      {
+        "x": 488.50115966796875,
+        "y": 440.0534973144531,
+        "label": "",
+        "topBarPixelDistance": 34.042572021484375,
+        "bottomBarPixelDistance": 31.44207763671875,
+        "deviationPixelDistance": 25
+      },
+      {
+        "x": 581.8817749023438,
+        "y": 454.00146484375,
+        "label": "",
+        "topBarPixelDistance": 25.552032470703125,
+        "bottomBarPixelDistance": 25.338531494140625,
+        "deviationPixelDistance": 33
+      },
+      {
+        "x": 674.9185791015625,
+        "y": 463.3094787597656,
+        "label": "",
+        "topBarPixelDistance": 25.445281982421875,
+        "bottomBarPixelDistance": 23.74078369140625,
+        "deviationPixelDistance": 31
+      },
+      {
+        "x": 815.2393188476562,
+        "y": 484.4461975097656,
+        "label": "",
+        "topBarPixelDistance": 13.390289306640625,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 26
+      },
+      {
+        "x": 256.30609130859375,
+        "y": 413.5906982421875,
+        "label": "",
+        "topBarPixelDistance": 35.276947021484375,
+        "bottomBarPixelDistance": 72.30319213867188,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 302.3702392578125,
+        "y": 411.8414306640625,
+        "label": "",
+        "topBarPixelDistance": 53.352752685546875,
+        "bottomBarPixelDistance": 41.690948486328125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 142.38180541992188,
+        "y": 504.4695739746094,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 142,
+        "y": 26,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 163.77137756347656,
+        "y": 504.9453125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 814,
+        "y": 504,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "375 mg Q14D SC Japanese"
+    },
+    "points": [
+      {
+        "x": 174.89999389648438,
+        "y": 489.04254150390625,
+        "label": "",
+        "topBarPixelDistance": 7.1875,
+        "bottomBarPixelDistance": 6.875,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 186.77499389648438,
+        "y": 479.98004150390625,
+        "label": "",
+        "topBarPixelDistance": 25.3125,
+        "bottomBarPixelDistance": 17.8125,
+        "deviationPixelDistance": 26
+      },
+      {
+        "x": 209.2749786376953,
+        "y": 452.48004150390625,
+        "label": "",
+        "topBarPixelDistance": 33.125,
+        "bottomBarPixelDistance": 18.125,
+        "deviationPixelDistance": 21
+      },
+      {
+        "x": 231.7749786376953,
+        "y": 426.23004150390625,
+        "label": "",
+        "topBarPixelDistance": 33.4375,
+        "bottomBarPixelDistance": 27.5,
+        "deviationPixelDistance": 71
+      },
+      {
+        "x": 256.1499938964844,
+        "y": 406.85504150390625,
+        "label": "",
+        "topBarPixelDistance": 67.5,
+        "bottomBarPixelDistance": 30,
+        "deviationPixelDistance": 27
+      },
+      {
+        "x": 301.77496337890625,
+        "y": 389.66754150390625,
+        "label": "",
+        "topBarPixelDistance": 36.25,
+        "bottomBarPixelDistance": 16.5625,
+        "deviationPixelDistance": 34
+      },
+      {
+        "x": 489.2749938964844,
+        "y": 387.79254150390625,
+        "label": "",
+        "topBarPixelDistance": 25,
+        "bottomBarPixelDistance": 27.8125,
+        "deviationPixelDistance": 25
+      },
+      {
+        "x": 581.7749633789062,
+        "y": 415.29254150390625,
+        "label": "",
+        "topBarPixelDistance": 29.6875,
+        "bottomBarPixelDistance": 30,
+        "deviationPixelDistance": 33
+      },
+      {
+        "x": 674.8999633789062,
+        "y": 438.73004150390625,
+        "label": "",
+        "topBarPixelDistance": 30,
+        "bottomBarPixelDistance": 31,
+        "deviationPixelDistance": 31
+      },
+      {
+        "x": 815.4354858398438,
+        "y": 469.2342834472656,
+        "label": "",
+        "topBarPixelDistance": 26.1290283203125,
+        "bottomBarPixelDistance": 7.308258056640625,
+        "deviationPixelDistance": 26
+      },
+      {
+        "x": 172.39999389648438,
+        "y": 499.98004150390625,
+        "label": "",
+        "topBarPixelDistance": 5.3125,
+        "bottomBarPixelDistance": 5.625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 167.71249389648438,
+        "y": 502.16754150390625,
+        "label": "",
+        "topBarPixelDistance": 4.6875,
+        "bottomBarPixelDistance": 4.6875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 167.39999389648438,
+        "y": 504.04254150390625,
+        "label": "",
+        "topBarPixelDistance": 5.3125,
+        "bottomBarPixelDistance": 4.6875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 142.38180541992188,
+        "y": 504.4695739746094,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 142,
+        "y": 26,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 163.77137756347656,
+        "y": 504.9453125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 814,
+        "y": 504,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "250 mg Q14D SC Non-Japanese"
+    },
+    "points": [
+      {
+        "x": 175.08473205566406,
+        "y": 493.2467956542969,
+        "label": "",
+        "topBarPixelDistance": 7.966094970703125,
+        "bottomBarPixelDistance": 6.27117919921875,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 186.6101531982422,
+        "y": 477.1451110839844,
+        "label": "",
+        "topBarPixelDistance": 5.084747314453125,
+        "bottomBarPixelDistance": 8.81353759765625,
+        "deviationPixelDistance": 23
+      },
+      {
+        "x": 209.30213928222656,
+        "y": 462.98431396484375,
+        "label": "",
+        "topBarPixelDistance": 17.659576416015625,
+        "bottomBarPixelDistance": 33.82977294921875,
+        "deviationPixelDistance": 10
+      },
+      {
+        "x": 233.13192749023438,
+        "y": 452.77154541015625,
+        "label": "",
+        "topBarPixelDistance": 17.727264404296875,
+        "bottomBarPixelDistance": 29.574462890625,
+        "deviationPixelDistance": 38
+      },
+      {
+        "x": 256.3504638671875,
+        "y": 441.8392639160156,
+        "label": "",
+        "topBarPixelDistance": 17.142852783203125,
+        "bottomBarPixelDistance": 27.853057861328125,
+        "deviationPixelDistance": 20
+      },
+      {
+        "x": 302.06475830078125,
+        "y": 439.55352783203125,
+        "label": "",
+        "topBarPixelDistance": 20,
+        "bottomBarPixelDistance": 24.5714111328125,
+        "deviationPixelDistance": 22
+      },
+      {
+        "x": 488.7314147949219,
+        "y": 446.98211669921875,
+        "label": "",
+        "topBarPixelDistance": 18.28570556640625,
+        "bottomBarPixelDistance": 23.741912841796875,
+        "deviationPixelDistance": 22
+      },
+      {
+        "x": 581.4437866210938,
+        "y": 465.479248046875,
+        "label": "",
+        "topBarPixelDistance": 11.047607421875,
+        "bottomBarPixelDistance": 12.571441650390625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 674.9999389648438,
+        "y": 474.7783203125,
+        "label": "",
+        "topBarPixelDistance": 10.66668701171875,
+        "bottomBarPixelDistance": 5.5238037109375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 814.238037109375,
+        "y": 486.58782958984375,
+        "label": "",
+        "topBarPixelDistance": 4.952362060546875,
+        "bottomBarPixelDistance": 6.4761962890625,
+        "deviationPixelDistance": 53
+      },
+      {
+        "x": 164.4195098876953,
+        "y": 504.1112976074219,
+        "label": "",
+        "topBarPixelDistance": 5.084747314453125,
+        "bottomBarPixelDistance": 5.59320068359375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 170.1694793701172,
+        "y": 498.84002685546875,
+        "label": "",
+        "topBarPixelDistance": 5.423736572265625,
+        "bottomBarPixelDistance": 5.423736572265625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 142.38180541992188,
+        "y": 504.4695739746094,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 142,
+        "y": 26,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 163.77137756347656,
+        "y": 504.9453125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 814,
+        "y": 504,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "125 mg Q7D SC Non-Japanese"
+    },
+    "points": [
+      {
+        "x": 165.39512634277344,
+        "y": 504.1112976074219,
+        "label": "",
+        "topBarPixelDistance": 4.080780029296875,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 186.07579040527344,
+        "y": 491.182373046875,
+        "label": "",
+        "topBarPixelDistance": 4.631591796875,
+        "bottomBarPixelDistance": 5.0526123046875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 209.78973388671875,
+        "y": 483.3580017089844,
+        "label": "",
+        "topBarPixelDistance": 19.23077392578125,
+        "bottomBarPixelDistance": 8.693023681640625,
+        "deviationPixelDistance": 207
+      },
+      {
+        "x": 232.09742736816406,
+        "y": 476.4349365234375,
+        "label": "",
+        "topBarPixelDistance": 19.4871826171875,
+        "bottomBarPixelDistance": 17.948699951171875,
+        "deviationPixelDistance": 17
+      },
+      {
+        "x": 256.9692077636719,
+        "y": 476.17852783203125,
+        "label": "",
+        "topBarPixelDistance": 20.5128173828125,
+        "bottomBarPixelDistance": 16.153839111328125,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 302.86663818359375,
+        "y": 471.5631408691406,
+        "label": "",
+        "topBarPixelDistance": 27.755096435546875,
+        "bottomBarPixelDistance": 17.435882568359375,
+        "deviationPixelDistance": 17
+      },
+      {
+        "x": 489.1020202636719,
+        "y": 482.5747375488281,
+        "label": "",
+        "topBarPixelDistance": 5.918365478515625,
+        "bottomBarPixelDistance": 9,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 582.3673706054688,
+        "y": 488.0849304199219,
+        "label": "",
+        "topBarPixelDistance": 5.71429443359375,
+        "bottomBarPixelDistance": 6.530609130859375,
+        "deviationPixelDistance": 102
+      },
+      {
+        "x": 674.8163452148438,
+        "y": 492.9828796386719,
+        "label": "",
+        "topBarPixelDistance": 4.95587158203125,
+        "bottomBarPixelDistance": 5.71429443359375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 814.8163452148438,
+        "y": 497.880859375,
+        "label": "",
+        "topBarPixelDistance": 5.918365478515625,
+        "bottomBarPixelDistance": 5.918365478515625,
+        "deviationPixelDistance": 27
+      },
+      {
+        "x": 172.18106079101562,
+        "y": 499.6034240722656,
+        "label": "",
+        "topBarPixelDistance": 6.105255126953125,
+        "bottomBarPixelDistance": 5.0526123046875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 142.38180541992188,
+        "y": 504.4695739746094,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 142,
+        "y": 26,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 163.77137756347656,
+        "y": 504.9453125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 814,
+        "y": 504,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "250 mg Q14D IV Non-Japanese"
+    },
+    "points": [
+      {
+        "x": 179.14285278320312,
+        "y": 178.0767822265625,
+        "label": "",
+        "topBarPixelDistance": 21.2244873046875,
+        "bottomBarPixelDistance": 21.2244873046875,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 165.46939086914062,
+        "y": 162.3625030517578,
+        "label": "",
+        "topBarPixelDistance": 29.591842651367188,
+        "bottomBarPixelDistance": 21.020401000976562,
+        "deviationPixelDistance": 58
+      },
+      {
+        "x": 173.63265991210938,
+        "y": 172.77066040039062,
+        "label": "",
+        "topBarPixelDistance": 23.061233520507812,
+        "bottomBarPixelDistance": 35.71427917480469,
+        "deviationPixelDistance": 25
+      },
+      {
+        "x": 189.551025390625,
+        "y": 235.42372131347656,
+        "label": "",
+        "topBarPixelDistance": 23.06121826171875,
+        "bottomBarPixelDistance": 22.448989868164062,
+        "deviationPixelDistance": 26
+      },
+      {
+        "x": 213.6326446533203,
+        "y": 260.11761474609375,
+        "label": "",
+        "topBarPixelDistance": 41.42857360839844,
+        "bottomBarPixelDistance": 16.73468017578125,
+        "deviationPixelDistance": 58
+      },
+      {
+        "x": 235.87754821777344,
+        "y": 309.50537109375,
+        "label": "",
+        "topBarPixelDistance": 19.183685302734375,
+        "bottomBarPixelDistance": 16.530609130859375,
+        "deviationPixelDistance": 27
+      },
+      {
+        "x": 260.16326904296875,
+        "y": 327.0563659667969,
+        "label": "",
+        "topBarPixelDistance": 34.081634521484375,
+        "bottomBarPixelDistance": 14.48980712890625,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 305.4693908691406,
+        "y": 359.50537109375,
+        "label": "",
+        "topBarPixelDistance": 23.469390869140625,
+        "bottomBarPixelDistance": 20,
+        "deviationPixelDistance": 35
+      },
+      {
+        "x": 493.5367431640625,
+        "y": 451.4482116699219,
+        "label": "",
+        "topBarPixelDistance": 8.5714111328125,
+        "bottomBarPixelDistance": 8.979583740234375,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 585.1693725585938,
+        "y": 472.0604553222656,
+        "label": "",
+        "topBarPixelDistance": 8.7755126953125,
+        "bottomBarPixelDistance": 4.693878173828125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 678.7591552734375,
+        "y": 482.9747314453125,
+        "label": "",
+        "topBarPixelDistance": 5.306121826171875,
+        "bottomBarPixelDistance": 5.714263916015625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 816.9102172851562,
+        "y": 496.2237243652344,
+        "label": "",
+        "topBarPixelDistance": 5.51019287109375,
+        "bottomBarPixelDistance": 6.3265380859375,
+        "deviationPixelDistance": 25
+      },
+      {
+        "x": 142.38180541992188,
+        "y": 504.4695739746094,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 142,
+        "y": 26,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 163.77137756347656,
+        "y": 504.9453125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 814,
+        "y": 504,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "250 mg Q14D SC Japanese"
+    },
+    "points": [
+      {
+        "x": 174.67039489746094,
+        "y": 493.7721862792969,
+        "label": "",
+        "topBarPixelDistance": 9.1199951171875,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 186.2052001953125,
+        "y": 477.6431884765625,
+        "label": "",
+        "topBarPixelDistance": 17.402587890625,
+        "bottomBarPixelDistance": 23,
+        "deviationPixelDistance": 23
+      },
+      {
+        "x": 209.0931854248047,
+        "y": 464.6652526855469,
+        "label": "",
+        "topBarPixelDistance": 28.15533447265625,
+        "bottomBarPixelDistance": 22.06884765625,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 232.9766845703125,
+        "y": 453.7914733886719,
+        "label": "",
+        "topBarPixelDistance": 27.184478759765625,
+        "bottomBarPixelDistance": 28.349517822265625,
+        "deviationPixelDistance": 20
+      },
+      {
+        "x": 255.69512939453125,
+        "y": 442.5293273925781,
+        "label": "",
+        "topBarPixelDistance": 32.621368408203125,
+        "bottomBarPixelDistance": 27.378631591796875,
+        "deviationPixelDistance": 19
+      },
+      {
+        "x": 302.1028747558594,
+        "y": 427.577880859375,
+        "label": "",
+        "topBarPixelDistance": 38.35150146484375,
+        "bottomBarPixelDistance": 36.371856689453125,
+        "deviationPixelDistance": 24
+      },
+      {
+        "x": 489.79022216796875,
+        "y": 450.2012023925781,
+        "label": "",
+        "topBarPixelDistance": 15.155548095703125,
+        "bottomBarPixelDistance": 19.223297119140625,
+        "deviationPixelDistance": 23
+      },
+      {
+        "x": 582.7999267578125,
+        "y": 467.10797119140625,
+        "label": "",
+        "topBarPixelDistance": 13.395660400390625,
+        "bottomBarPixelDistance": 11.650482177734375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 674.643310546875,
+        "y": 477.7178955078125,
+        "label": "",
+        "topBarPixelDistance": 13.87225341796875,
+        "bottomBarPixelDistance": 4.661468505859375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 815.183837890625,
+        "y": 486.0962829589844,
+        "label": "",
+        "topBarPixelDistance": 5.4053955078125,
+        "bottomBarPixelDistance": 4.8648681640625,
+        "deviationPixelDistance": 43
+      },
+      {
+        "x": 169.23040771484375,
+        "y": 500.0121765136719,
+        "label": "",
+        "topBarPixelDistance": 5.120025634765625,
+        "bottomBarPixelDistance": 5.759979248046875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 165.7104034423828,
+        "y": 504.3321838378906,
+        "label": "",
+        "topBarPixelDistance": 6.079986572265625,
+        "bottomBarPixelDistance": 5.1199951171875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 142.38180541992188,
+        "y": 504.4695739746094,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 142,
+        "y": 26,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 163.77137756347656,
+        "y": 504.9453125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 814,
+        "y": 504,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "250 mg Q14D IV Japanese"
+    },
+    "points": [
+      {
+        "x": 166.92750549316406,
+        "y": 126.4140625,
+        "label": "",
+        "topBarPixelDistance": 57,
+        "bottomBarPixelDistance": 59,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 173.42750549316406,
+        "y": 148.9140625,
+        "label": "",
+        "topBarPixelDistance": 61.75,
+        "bottomBarPixelDistance": 58.5,
+        "deviationPixelDistance": 58
+      },
+      {
+        "x": 178.67750549316406,
+        "y": 144.9140625,
+        "label": "",
+        "topBarPixelDistance": 35.75,
+        "bottomBarPixelDistance": 29,
+        "deviationPixelDistance": 25
+      },
+      {
+        "x": 189.92750549316406,
+        "y": 205.9140625,
+        "label": "",
+        "topBarPixelDistance": 29.75,
+        "bottomBarPixelDistance": 26,
+        "deviationPixelDistance": 26
+      },
+      {
+        "x": 212.92750549316406,
+        "y": 279.9140625,
+        "label": "",
+        "topBarPixelDistance": 41.25,
+        "bottomBarPixelDistance": 56,
+        "deviationPixelDistance": 58
+      },
+      {
+        "x": 236.67750549316406,
+        "y": 326.9140625,
+        "label": "",
+        "topBarPixelDistance": 30.25,
+        "bottomBarPixelDistance": 27,
+        "deviationPixelDistance": 27
+      },
+      {
+        "x": 258.927490234375,
+        "y": 337.4140625,
+        "label": "",
+        "topBarPixelDistance": 22.5,
+        "bottomBarPixelDistance": 39,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 305.6967468261719,
+        "y": 376.56903076171875,
+        "label": "",
+        "topBarPixelDistance": 36.467559814453125,
+        "bottomBarPixelDistance": 29.963897705078125,
+        "deviationPixelDistance": 35
+      },
+      {
+        "x": 491.86468505859375,
+        "y": 462.484130859375,
+        "label": "",
+        "topBarPixelDistance": 4.8485107421875,
+        "bottomBarPixelDistance": 13.73736572265625,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 584.7940063476562,
+        "y": 476.6255187988281,
+        "label": "",
+        "topBarPixelDistance": 13.93939208984375,
+        "bottomBarPixelDistance": 6.06060791015625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 679.529296875,
+        "y": 484.8356628417969,
+        "label": "",
+        "topBarPixelDistance": 12.3232421875,
+        "bottomBarPixelDistance": 9.89898681640625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 817.1051025390625,
+        "y": 497.76495361328125,
+        "label": "",
+        "topBarPixelDistance": 19.393951416015625,
+        "bottomBarPixelDistance": 8.2828369140625,
+        "deviationPixelDistance": 25
+      },
+      {
+        "x": 142.38180541992188,
+        "y": 504.4695739746094,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 142,
+        "y": 26,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 163.77137756347656,
+        "y": 504.9453125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 814,
+        "y": 504,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "125 mg Q14D SC Japanese"
+    },
+    "points": [
+      {
+        "x": 168.77137756347656,
+        "y": 503.4453125,
+        "label": "",
+        "topBarPixelDistance": 5.16986083984375,
+        "bottomBarPixelDistance": 6.64697265625,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 174.05908203125,
+        "y": 497.52972412109375,
+        "label": "",
+        "topBarPixelDistance": 4.87445068359375,
+        "bottomBarPixelDistance": 4.87445068359375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 186.17135620117188,
+        "y": 491.6213073730469,
+        "label": "",
+        "topBarPixelDistance": 7.899444580078125,
+        "bottomBarPixelDistance": 12.259979248046875,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 209.27137756347656,
+        "y": 484.4453125,
+        "label": "",
+        "topBarPixelDistance": 8.797149658203125,
+        "bottomBarPixelDistance": 20.64630126953125,
+        "deviationPixelDistance": 210
+      },
+      {
+        "x": 233.07000732421875,
+        "y": 477.8394775390625,
+        "label": "",
+        "topBarPixelDistance": 8.43804931640625,
+        "bottomBarPixelDistance": 24.5960693359375,
+        "deviationPixelDistance": 18
+      },
+      {
+        "x": 255.9562530517578,
+        "y": 475.359619140625,
+        "label": "",
+        "topBarPixelDistance": 25.414306640625,
+        "bottomBarPixelDistance": 24.085693359375,
+        "deviationPixelDistance": 18
+      },
+      {
+        "x": 301.9979248046875,
+        "y": 470.56793212890625,
+        "label": "",
+        "topBarPixelDistance": 19.12261962890625,
+        "bottomBarPixelDistance": 20.87738037109375,
+        "deviationPixelDistance": 22
+      },
+      {
+        "x": 488.2799987792969,
+        "y": 483.48907470703125,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 5.5,
+        "deviationPixelDistance": 10
+      },
+      {
+        "x": 581.8743896484375,
+        "y": 487.41302490234375,
+        "label": "",
+        "topBarPixelDistance": 6.511627197265625,
+        "bottomBarPixelDistance": 6.74420166015625,
+        "deviationPixelDistance": 102
+      },
+      {
+        "x": 675.2952880859375,
+        "y": 492.259521484375,
+        "label": "",
+        "topBarPixelDistance": 5.11627197265625,
+        "bottomBarPixelDistance": 6.046539306640625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 815.6260986328125,
+        "y": 497.9461975097656,
+        "label": "",
+        "topBarPixelDistance": 5.919219970703125,
+        "bottomBarPixelDistance": 4.5458984375,
+        "deviationPixelDistance": 24
+      },
+      {
+        "x": 164.66342163085938,
+        "y": 504.1112976074219,
+        "label": "",
+        "topBarPixelDistance": 5.16986083984375,
+        "bottomBarPixelDistance": 5.760711669921875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 142.38180541992188,
+        "y": 504.4695739746094,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 142,
+        "y": 26,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 163.77137756347656,
+        "y": 504.9453125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 814,
+        "y": 504,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "125 mg Q14D SC Non-Japanese"
+    },
+    "points": [
+      {
+        "x": 174.19998168945312,
+        "y": 498.3332214355469,
+        "label": "",
+        "topBarPixelDistance": 10.909088134765625,
+        "bottomBarPixelDistance": 7.04547119140625,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 164.66342163085938,
+        "y": 503.13568115234375,
+        "label": "",
+        "topBarPixelDistance": 5.227264404296875,
+        "bottomBarPixelDistance": 6.590911865234375,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 186.92726135253906,
+        "y": 491.06048583984375,
+        "label": "",
+        "topBarPixelDistance": 16.81817626953125,
+        "bottomBarPixelDistance": 10.909088134765625,
+        "deviationPixelDistance": 18
+      },
+      {
+        "x": 209,
+        "y": 484,
+        "label": "",
+        "topBarPixelDistance": 20.666778564453125,
+        "bottomBarPixelDistance": 10.69683837890625,
+        "deviationPixelDistance": 210
+      },
+      {
+        "x": 231.92726135253906,
+        "y": 476.06048583984375,
+        "label": "",
+        "topBarPixelDistance": 27.272735595703125,
+        "bottomBarPixelDistance": 10.45452880859375,
+        "deviationPixelDistance": 18
+      },
+      {
+        "x": 256.0181579589844,
+        "y": 475.1513977050781,
+        "label": "",
+        "topBarPixelDistance": 25.909088134765625,
+        "bottomBarPixelDistance": 25.68182373046875,
+        "deviationPixelDistance": 19
+      },
+      {
+        "x": 302.3818054199219,
+        "y": 472.19683837890625,
+        "label": "",
+        "topBarPixelDistance": 21.363616943359375,
+        "bottomBarPixelDistance": 18.409088134765625,
+        "deviationPixelDistance": 22
+      },
+      {
+        "x": 488.6363220214844,
+        "y": 479.753662109375,
+        "label": "",
+        "topBarPixelDistance": 5.45452880859375,
+        "bottomBarPixelDistance": 5,
+        "deviationPixelDistance": 15
+      },
+      {
+        "x": 582.1143188476562,
+        "y": 486.8360900878906,
+        "label": "",
+        "topBarPixelDistance": 5.984161376953125,
+        "bottomBarPixelDistance": 5.31781005859375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 675.0071411132812,
+        "y": 492.4139404296875,
+        "label": "",
+        "topBarPixelDistance": 5.995208740234375,
+        "bottomBarPixelDistance": 5.51556396484375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 815.5347290039062,
+        "y": 498.64892578125,
+        "label": "",
+        "topBarPixelDistance": 5.515594482421875,
+        "bottomBarPixelDistance": 5.755401611328125,
+        "deviationPixelDistance": 27
+      },
+      {
+        "x": 167.15452575683594,
+        "y": 503.3332214355469,
+        "label": "",
+        "topBarPixelDistance": 5.227294921875,
+        "bottomBarPixelDistance": 5.68182373046875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 142.38180541992188,
+        "y": 504.4695739746094,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 142,
+        "y": 26,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 163.77137756347656,
+        "y": 504.9453125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 814,
+        "y": 504,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "125 mg Q7D SC Japanese"
+    },
+    "points": [
+      {
+        "x": 163.68780517578125,
+        "y": 504.1112976074219,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 186.65213012695312,
+        "y": 496.13775634765625,
+        "label": "",
+        "topBarPixelDistance": 5.93939208984375,
+        "bottomBarPixelDistance": 8.242431640625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 209.09420776367188,
+        "y": 490.46881103515625,
+        "label": "",
+        "topBarPixelDistance": 7.438018798828125,
+        "bottomBarPixelDistance": 8.09918212890625,
+        "deviationPixelDistance": 207
+      },
+      {
+        "x": 233,
+        "y": 487,
+        "label": "",
+        "topBarPixelDistance": 17.5850830078125,
+        "bottomBarPixelDistance": 14.100311279296875,
+        "deviationPixelDistance": 17
+      },
+      {
+        "x": 256.3460693359375,
+        "y": 485.8194274902344,
+        "label": "",
+        "topBarPixelDistance": 16.62921142578125,
+        "bottomBarPixelDistance": 12.808990478515625,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 302.6382141113281,
+        "y": 479.75201416015625,
+        "label": "",
+        "topBarPixelDistance": 12.808990478515625,
+        "bottomBarPixelDistance": 15.05615234375,
+        "deviationPixelDistance": 17
+      },
+      {
+        "x": 488.7056579589844,
+        "y": 480.65087890625,
+        "label": "",
+        "topBarPixelDistance": 5.84271240234375,
+        "bottomBarPixelDistance": 10.23974609375,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 582.4135131835938,
+        "y": 487.02386474609375,
+        "label": "",
+        "topBarPixelDistance": 5.842681884765625,
+        "bottomBarPixelDistance": 5.61798095703125,
+        "deviationPixelDistance": 102
+      },
+      {
+        "x": 675.065185546875,
+        "y": 491.83966064453125,
+        "label": "",
+        "topBarPixelDistance": 5.393280029296875,
+        "bottomBarPixelDistance": 5.16851806640625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 815.9640502929688,
+        "y": 497.9070739746094,
+        "label": "",
+        "topBarPixelDistance": 5.393280029296875,
+        "bottomBarPixelDistance": 5.617950439453125,
+        "deviationPixelDistance": 27
+      },
+      {
+        "x": 172.22787475585938,
+        "y": 502.56201171875,
+        "label": "",
+        "topBarPixelDistance": 5.212127685546875,
+        "bottomBarPixelDistance": 6.18182373046875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 142.38180541992188,
+        "y": 504.4695739746094,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 142,
+        "y": 26,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 163.77137756347656,
+        "y": 504.9453125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 814,
+        "y": 504,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

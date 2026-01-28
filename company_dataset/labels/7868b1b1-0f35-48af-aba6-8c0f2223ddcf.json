@@ -1,0 +1,216 @@
+[
+  {
+    "label": {
+      "lineName": "Aprutumab Ixadotin_0.2_mg/kg (patient 1)*"
+    },
+    "points": [
+      {
+        "x": 258.82763671875,
+        "y": 321.3433532714844,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 9,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 449.79998779296875,
+        "y": 357.29998779296875,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 10,
+        "deviationPixelDistance": 10
+      },
+      {
+        "x": 716.7999877929688,
+        "y": 399.29998779296875,
+        "label": "",
+        "topBarPixelDistance": 139,
+        "bottomBarPixelDistance": 142,
+        "deviationPixelDistance": 142
+      },
+      {
+        "x": 183.79998779296875,
+        "y": 644.2999877929688,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 182.79998779296875,
+        "y": 112.75999450683594,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 183.86964416503906,
+        "y": 644.2111206054688,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 980.7999877929688,
+        "y": 645.2999877929688,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 196.1060791015625,
+        "y": 227.85415649414062,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 187.73202514648438,
+        "y": 244.95115661621094,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 184.2428436279297,
+        "y": 228.55198669433594,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 221.926025390625,
+        "y": 306.709716796875,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 335.5896911621094,
+        "y": 345.4187316894531,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Aprutumab Ixadotin_0.2_mg/kg (patient 2)*"
+    },
+    "points": [
+      {
+        "x": 184.386962890625,
+        "y": 320.30523681640625,
+        "label": "",
+        "topBarPixelDistance": 78,
+        "bottomBarPixelDistance": 71,
+        "deviationPixelDistance": 78
+      },
+      {
+        "x": 184.386962890625,
+        "y": 423.7713623046875,
+        "label": "",
+        "topBarPixelDistance": 117,
+        "bottomBarPixelDistance": 116,
+        "deviationPixelDistance": 117
+      },
+      {
+        "x": 221.117431640625,
+        "y": 335.8820495605469,
+        "label": "",
+        "topBarPixelDistance": 18,
+        "bottomBarPixelDistance": 10,
+        "deviationPixelDistance": 18
+      },
+      {
+        "x": 257.800048828125,
+        "y": 345.3899841308594,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 10,
+        "deviationPixelDistance": 10
+      },
+      {
+        "x": 448.800048828125,
+        "y": 388.3899841308594,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 8,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 715.800048828125,
+        "y": 410.3899841308594,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 982,
+        "y": 445,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 8,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 187.49095153808594,
+        "y": 312.0848693847656,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 184.904296875,
+        "y": 308.4635314941406,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 183.79998779296875,
+        "y": 644.2999877929688,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 182.79998779296875,
+        "y": 112.75999450683594,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 183.86964416503906,
+        "y": 644.2111206054688,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 980.7999877929688,
+        "y": 645.2999877929688,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

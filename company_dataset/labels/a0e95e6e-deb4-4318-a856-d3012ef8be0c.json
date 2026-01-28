@@ -1,0 +1,121 @@
+[
+  {
+    "label": {
+      "lineName": "Ficlatuzumab_10_mg/kg"
+    },
+    "points": [
+      {
+        "x": 205.64549255371094,
+        "y": 347.8966979980469,
+        "label": "",
+        "topBarPixelDistance": 41.469207763671875,
+        "bottomBarPixelDistance": 84.12319946289062,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 363.7608947753906,
+        "y": 402.6169738769531,
+        "label": "",
+        "topBarPixelDistance": 59.459625244140625,
+        "bottomBarPixelDistance": 211.86740112304688,
+        "deviationPixelDistance": 10
+      },
+      {
+        "x": 678.3438720703125,
+        "y": 347.6289367675781,
+        "label": "",
+        "topBarPixelDistance": 67.07855224609375,
+        "bottomBarPixelDistance": 354.43914794921875,
+        "deviationPixelDistance": 10
+      },
+      {
+        "x": 726.88427734375,
+        "y": 550.6298217773438,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 727.7701416015625,
+        "y": 335.2723693847656,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 49.62364196777344,
+        "y": 59.4824333190918,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 682.1655883789062,
+        "y": 60.365047454833984,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 521.2388305664062,
+        "y": 300.8504638671875,
+        "label": "",
+        "topBarPixelDistance": 52.21467590332031,
+        "bottomBarPixelDistance": 136.80496215820312,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 364.38189697265625,
+        "y": 245.64395141601562,
+        "label": "",
+        "topBarPixelDistance": 37.86192321777344,
+        "bottomBarPixelDistance": 35.201812744140625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 364.38189697265625,
+        "y": 257.5221862792969,
+        "label": "",
+        "topBarPixelDistance": 40.88307189941406,
+        "bottomBarPixelDistance": 55.057891845703125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 70.57439422607422,
+        "y": 288.65496826171875,
+        "label": "",
+        "topBarPixelDistance": 27.251190185546875,
+        "bottomBarPixelDistance": 35.5450439453125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 58.72605514526367,
+        "y": 273.25213623046875,
+        "label": "",
+        "topBarPixelDistance": 22.511856079101562,
+        "bottomBarPixelDistance": 36.7298583984375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 50.43221664428711,
+        "y": 273.25213623046875,
+        "label": "",
+        "topBarPixelDistance": 29.620864868164062,
+        "bottomBarPixelDistance": 26.06634521484375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 50.215003967285156,
+        "y": 704.2044067382812,
+        "label": "",
+        "topBarPixelDistance": 13.23919677734375,
+        "bottomBarPixelDistance": 14.82891845703125,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

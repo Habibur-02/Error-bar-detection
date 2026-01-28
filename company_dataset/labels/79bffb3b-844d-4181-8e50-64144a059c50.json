@@ -1,0 +1,184 @@
+[
+  {
+    "label": {
+      "lineName": "Rituximab IV"
+    },
+    "points": [
+      {
+        "x": 264.4166564941396,
+        "y": 660.2638753255183,
+        "label": "",
+        "topBarPixelDistance": 53.33333333333326,
+        "bottomBarPixelDistance": 49.999999999999886,
+        "deviationPixelDistance": 35
+      },
+      {
+        "x": 340.8975774591614,
+        "y": 232.45294744318147,
+        "label": "",
+        "topBarPixelDistance": 129.0909090909089,
+        "bottomBarPixelDistance": 134.54545454545433,
+        "deviationPixelDistance": 132
+      },
+      {
+        "x": 398.86398315429636,
+        "y": 296.956380208333,
+        "label": "",
+        "topBarPixelDistance": 86.66666666666657,
+        "bottomBarPixelDistance": 88.3333333333332,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 468.52536882672945,
+        "y": 364.0331813267295,
+        "label": "",
+        "topBarPixelDistance": 64.28571428571422,
+        "bottomBarPixelDistance": 61.42857142857139,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 737.1431321364176,
+        "y": 471.53620793269187,
+        "label": "",
+        "topBarPixelDistance": 83.07692307692298,
+        "bottomBarPixelDistance": 83.07692307692304,
+        "deviationPixelDistance": 85
+      },
+      {
+        "x": 1280.8975774591609,
+        "y": 579.7256747159086,
+        "label": "",
+        "topBarPixelDistance": 68.18946678321669,
+        "bottomBarPixelDistance": 66.15384615384619,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1755.4430320046154,
+        "y": 676.089311079545,
+        "label": "",
+        "topBarPixelDistance": 69.09090909090912,
+        "bottomBarPixelDistance": 65.45454545454538,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 211.33789062499994,
+        "y": 775.0488281249998,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 211.33789062499994,
+        "y": 97.04882812499997,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 270.53064982096305,
+        "y": 821.9563802083319,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1763.3378906249995,
+        "y": 821.0488281249998,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Rituximab SC"
+    },
+    "points": [
+      {
+        "x": 280.2200552133408,
+        "y": 516.1515925480759,
+        "label": "",
+        "topBarPixelDistance": 125.51682692307702,
+        "bottomBarPixelDistance": 129.0286276223768,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 414.0662090594944,
+        "y": 417.69005408653766,
+        "label": "",
+        "topBarPixelDistance": 136.14619755244757,
+        "bottomBarPixelDistance": 136.58107517482438,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 482.7157592773427,
+        "y": 297.9074928977266,
+        "label": "",
+        "topBarPixelDistance": 179.99999999999972,
+        "bottomBarPixelDistance": 170.9090909090902,
+        "deviationPixelDistance": 13
+      },
+      {
+        "x": 752,
+        "y": 313,
+        "label": "",
+        "topBarPixelDistance": 166.07917668269266,
+        "bottomBarPixelDistance": 173.92082331730649,
+        "deviationPixelDistance": 175
+      },
+      {
+        "x": 1297.4316067165753,
+        "y": 462.66601562499835,
+        "label": "",
+        "topBarPixelDistance": 119.9999999999996,
+        "bottomBarPixelDistance": 117.77777777777732,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1770,
+        "y": 594,
+        "label": "",
+        "topBarPixelDistance": 103.36523437500125,
+        "bottomBarPixelDistance": 101.04882812499795,
+        "deviationPixelDistance": 104
+      },
+      {
+        "x": 211.33789062499994,
+        "y": 775.0488281249998,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 211.33789062499994,
+        "y": 97.04882812499997,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 270.53064982096305,
+        "y": 821.9563802083319,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1763.3378906249995,
+        "y": 821.0488281249998,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

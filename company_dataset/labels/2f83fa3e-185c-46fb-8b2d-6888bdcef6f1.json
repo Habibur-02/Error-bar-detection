@@ -1,0 +1,256 @@
+[
+  {
+    "label": {
+      "lineName": "HbA1c_IDDM patients with C "
+    },
+    "points": [
+      {
+        "x": 164.7368621826172,
+        "y": 85.28545379638672,
+        "label": "",
+        "topBarPixelDistance": 19.875328063964844,
+        "bottomBarPixelDistance": 80.66706085205078,
+        "deviationPixelDistance": 14
+      },
+      {
+        "x": 238.92080688476562,
+        "y": 286.5471496582031,
+        "label": "",
+        "topBarPixelDistance": 54.694915771484375,
+        "bottomBarPixelDistance": 38.16558837890625,
+        "deviationPixelDistance": 15
+      },
+      {
+        "x": 316.1285095214844,
+        "y": 280.6580505371094,
+        "label": "",
+        "topBarPixelDistance": 54.833343505859375,
+        "bottomBarPixelDistance": 44.352325439453125,
+        "deviationPixelDistance": 45
+      },
+      {
+        "x": 393.13848876953125,
+        "y": 283.6195373535156,
+        "label": "",
+        "topBarPixelDistance": 48.81451416015625,
+        "bottomBarPixelDistance": 47.730682373046875,
+        "deviationPixelDistance": 14
+      },
+      {
+        "x": 469.575927734375,
+        "y": 270.3202819824219,
+        "label": "",
+        "topBarPixelDistance": 54.59538269042969,
+        "bottomBarPixelDistance": 54.4598388671875,
+        "deviationPixelDistance": 56
+      },
+      {
+        "x": 546.1431274414062,
+        "y": 274.2994384765625,
+        "label": "",
+        "topBarPixelDistance": 54.608673095703125,
+        "bottomBarPixelDistance": 54.2850341796875,
+        "deviationPixelDistance": 55
+      },
+      {
+        "x": 623.3875122070312,
+        "y": 261.835693359375,
+        "label": "",
+        "topBarPixelDistance": 56.845245361328125,
+        "bottomBarPixelDistance": 57.02899169921875,
+        "deviationPixelDistance": 13
+      },
+      {
+        "x": 700.287841796875,
+        "y": 255.70620727539062,
+        "label": "",
+        "topBarPixelDistance": 57.66871643066406,
+        "bottomBarPixelDistance": 56.8507080078125,
+        "deviationPixelDistance": 13
+      },
+      {
+        "x": 777.6764526367188,
+        "y": 243.11268615722656,
+        "label": "",
+        "topBarPixelDistance": 70.34684753417969,
+        "bottomBarPixelDistance": 69.85832214355469,
+        "deviationPixelDistance": 13
+      },
+      {
+        "x": 854.1207275390625,
+        "y": 227.39202880859375,
+        "label": "",
+        "topBarPixelDistance": 76.79034423828125,
+        "bottomBarPixelDistance": 77.2557373046875,
+        "deviationPixelDistance": 13
+      },
+      {
+        "x": 931.1965942382812,
+        "y": 230.70506286621094,
+        "label": "",
+        "topBarPixelDistance": 82.84822082519531,
+        "bottomBarPixelDistance": 83.71748352050781,
+        "deviationPixelDistance": 14
+      },
+      {
+        "x": 163.42910766601562,
+        "y": 486.5824279785156,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 162.56639099121094,
+        "y": 37.29703140258789,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 163.42910766601562,
+        "y": 487.03759765625,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 932.45263671875,
+        "y": 489.8381652832031,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "HbA1c_Insulin therapy "
+    },
+    "points": [
+      {
+        "x": 164.1971893310547,
+        "y": 84.06063079833984,
+        "label": "",
+        "topBarPixelDistance": 18.041763305664062,
+        "bottomBarPixelDistance": 81.57508850097656,
+        "deviationPixelDistance": 14
+      },
+      {
+        "x": 239.22177124023438,
+        "y": 286.4754333496094,
+        "label": "",
+        "topBarPixelDistance": 39.26567077636719,
+        "bottomBarPixelDistance": 59.86492919921875,
+        "deviationPixelDistance": 15
+      },
+      {
+        "x": 315.7073059082031,
+        "y": 294.5402526855469,
+        "label": "",
+        "topBarPixelDistance": 59.30780029296875,
+        "bottomBarPixelDistance": 53.061248779296875,
+        "deviationPixelDistance": 62
+      },
+      {
+        "x": 392.7430114746094,
+        "y": 283.6360168457031,
+        "label": "",
+        "topBarPixelDistance": 48.44868469238281,
+        "bottomBarPixelDistance": 53.937957763671875,
+        "deviationPixelDistance": 14
+      },
+      {
+        "x": 469.87640380859375,
+        "y": 288.02996826171875,
+        "label": "",
+        "topBarPixelDistance": 49.26422119140625,
+        "bottomBarPixelDistance": 39.027496337890625,
+        "deviationPixelDistance": 47
+      },
+      {
+        "x": 546.90771484375,
+        "y": 289.23455810546875,
+        "label": "",
+        "topBarPixelDistance": 63.530548095703125,
+        "bottomBarPixelDistance": 51.891357421875,
+        "deviationPixelDistance": 59
+      },
+      {
+        "x": 623.3910522460938,
+        "y": 283.8136291503906,
+        "label": "",
+        "topBarPixelDistance": 37.74250793457031,
+        "bottomBarPixelDistance": 38.495361328125,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 700.986572265625,
+        "y": 283.93817138671875,
+        "label": "",
+        "topBarPixelDistance": 64.51612854003906,
+        "bottomBarPixelDistance": 64.392578125,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 777.4319458007812,
+        "y": 275.8419189453125,
+        "label": "",
+        "topBarPixelDistance": 56.110931396484375,
+        "bottomBarPixelDistance": 54.20947265625,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 854.9364624023438,
+        "y": 282.88153076171875,
+        "label": "",
+        "topBarPixelDistance": 13.503662109375,
+        "bottomBarPixelDistance": 59.872314453125,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 931.6543579101562,
+        "y": 285.1578063964844,
+        "label": "",
+        "topBarPixelDistance": 12.906982421875,
+        "bottomBarPixelDistance": 54.2498779296875,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 163.42910766601562,
+        "y": 486.5824279785156,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 162.56639099121094,
+        "y": 37.29703140258789,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 163.42910766601562,
+        "y": 487.03759765625,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 932.45263671875,
+        "y": 489.8381652832031,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

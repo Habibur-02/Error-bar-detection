@@ -1,0 +1,105 @@
+[
+  {
+    "label": {
+      "lineName": "Cetuximab_250_mg/m2"
+    },
+    "points": [
+      {
+        "x": 172.03569585626775,
+        "y": 292.5159801136363,
+        "label": "",
+        "topBarPixelDistance": 102,
+        "bottomBarPixelDistance": 95,
+        "deviationPixelDistance": 54.545454545454504
+      },
+      {
+        "x": 162.94478676535866,
+        "y": 563.4250710227273,
+        "label": "",
+        "topBarPixelDistance": 13,
+        "bottomBarPixelDistance": 8,
+        "deviationPixelDistance": 50.90909090909088
+      },
+      {
+        "x": 186.58115040172228,
+        "y": 309.7887073863636,
+        "label": "",
+        "topBarPixelDistance": 193,
+        "bottomBarPixelDistance": 193,
+        "deviationPixelDistance": 54.54545454545456
+      },
+      {
+        "x": 201.439453125,
+        "y": 294.267578125,
+        "label": "",
+        "topBarPixelDistance": 57.523298997145474,
+        "bottomBarPixelDistance": 187,
+        "deviationPixelDistance": 58
+      },
+      {
+        "x": 278.439453125,
+        "y": 382.267578125,
+        "label": "",
+        "topBarPixelDistance": 50.65820253812353,
+        "bottomBarPixelDistance": 50.11102823110724,
+        "deviationPixelDistance": 50
+      },
+      {
+        "x": 395.439453125,
+        "y": 416.267578125,
+        "label": "",
+        "topBarPixelDistance": 40.11523437500006,
+        "bottomBarPixelDistance": 39.88476562499994,
+        "deviationPixelDistance": 39.85033702850353
+      },
+      {
+        "x": 627.439453125,
+        "y": 471.267578125,
+        "label": "",
+        "topBarPixelDistance": 44.85351562500006,
+        "bottomBarPixelDistance": 47.146484374999886,
+        "deviationPixelDistance": 45.292529766376276
+      },
+      {
+        "x": 976.439453125,
+        "y": 544.267578125,
+        "label": "",
+        "topBarPixelDistance": 60.909090909090935,
+        "bottomBarPixelDistance": 66,
+        "deviationPixelDistance": 63
+      },
+      {
+        "x": 153.439453125,
+        "y": 670.267578125,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 152,
+        "y": 85,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 162.439453125,
+        "y": 671.267578125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 977.1249961853027,
+        "y": 671.25,
+        "label": "xmax",
+        "topBarPixelDistance": 62.029474431818244,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 62.732421875
+      }
+    ]
+  }
+]

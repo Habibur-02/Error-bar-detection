@@ -1,0 +1,81 @@
+[
+  {
+    "label": {
+      "lineName": "Stapokibart"
+    },
+    "points": [
+      {
+        "x": 277.7427978515625,
+        "y": 601.864990234375,
+        "label": "",
+        "topBarPixelDistance": 5.48162841796875,
+        "bottomBarPixelDistance": 3.52386474609375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 339.06878662109375,
+        "y": 147.38539123535156,
+        "label": "",
+        "topBarPixelDistance": 26.066360473632812,
+        "bottomBarPixelDistance": 25.5924072265625,
+        "deviationPixelDistance": 28
+      },
+      {
+        "x": 401.1540832519531,
+        "y": 226.5323028564453,
+        "label": "",
+        "topBarPixelDistance": 21.800949096679688,
+        "bottomBarPixelDistance": 19.90521240234375,
+        "deviationPixelDistance": 21
+      },
+      {
+        "x": 527.220458984375,
+        "y": 143.11997985839844,
+        "label": "",
+        "topBarPixelDistance": 27.01422119140625,
+        "bottomBarPixelDistance": 27.01422119140625,
+        "deviationPixelDistance": 29
+      },
+      {
+        "x": 1028.416748046875,
+        "y": 600.3167724609375,
+        "label": "",
+        "topBarPixelDistance": 4.00201416015625,
+        "bottomBarPixelDistance": 2.501220703125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 276.56817626953125,
+        "y": 601.864990234375,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 275.4999694824219,
+        "y": 61.1953010559082,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 276.959716796875,
+        "y": 601.864990234375,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1029.2498779296875,
+        "y": 602.4452514648438,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

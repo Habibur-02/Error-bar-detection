@@ -1,0 +1,476 @@
+[
+  {
+    "label": {
+      "lineName": "Anifrolumab_3.0_mg/kg "
+    },
+    "points": [
+      {
+        "x": 175.32248942057288,
+        "y": 771.7200520833331,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 174.52908833821613,
+        "y": 87.10938771565753,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 222,
+        "y": 803,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1137,
+        "y": 803,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 224.11589050292943,
+        "y": 243.66406631469698,
+        "label": "",
+        "topBarPixelDistance": 11,
+        "bottomBarPixelDistance": 13,
+        "deviationPixelDistance": 13
+      },
+      {
+        "x": 232.11589050292943,
+        "y": 263.664066314697,
+        "label": "",
+        "topBarPixelDistance": 12,
+        "bottomBarPixelDistance": 17,
+        "deviationPixelDistance": 19
+      },
+      {
+        "x": 281,
+        "y": 306,
+        "label": "",
+        "topBarPixelDistance": 10.335933685303075,
+        "bottomBarPixelDistance": 13.664066314696925,
+        "deviationPixelDistance": 76
+      },
+      {
+        "x": 338.1158905029293,
+        "y": 347.66406631469687,
+        "label": "",
+        "topBarPixelDistance": 10,
+        "bottomBarPixelDistance": 9,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 396.11589050292923,
+        "y": 396.6640663146968,
+        "label": "",
+        "topBarPixelDistance": 11,
+        "bottomBarPixelDistance": 12,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 453.1158905029292,
+        "y": 478.66406631469675,
+        "label": "",
+        "topBarPixelDistance": 28,
+        "bottomBarPixelDistance": 60.99999999999994,
+        "deviationPixelDistance": 7
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Anifrolumab_1.0_mg/kg"
+    },
+    "points": [
+      {
+        "x": 175.32248942057288,
+        "y": 771.7200520833331,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 174.52908833821613,
+        "y": 87.10938771565753,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 222,
+        "y": 803,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1137,
+        "y": 803,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 232.4196951729909,
+        "y": 330.32272338867165,
+        "label": "",
+        "topBarPixelDistance": 11.428571428571445,
+        "bottomBarPixelDistance": 9.523809523809518,
+        "deviationPixelDistance": 85
+      },
+      {
+        "x": 338.13398088727655,
+        "y": 541.751294817243,
+        "label": "",
+        "topBarPixelDistance": 36.190476190476204,
+        "bottomBarPixelDistance": 97.142857142857,
+        "deviationPixelDistance": 10
+      },
+      {
+        "x": 280.99112374441944,
+        "y": 393.1798662458145,
+        "label": "",
+        "topBarPixelDistance": 10.476190476190482,
+        "bottomBarPixelDistance": 13.333333333333314,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 222.8958856491814,
+        "y": 308.4179614839098,
+        "label": "",
+        "topBarPixelDistance": 4.761904761904759,
+        "bottomBarPixelDistance": 7.619047619047592,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Anifrolumab_20.0_mg/kg"
+    },
+    "points": [
+      {
+        "x": 175.32248942057288,
+        "y": 771.7200520833331,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 174.52908833821613,
+        "y": 87.10938771565753,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 222,
+        "y": 803,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1137,
+        "y": 803,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 223.93118465647945,
+        "y": 143.6937130198757,
+        "label": "",
+        "topBarPixelDistance": 11.764705882352928,
+        "bottomBarPixelDistance": 12.941176470588204,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 232.1664787741265,
+        "y": 162.51724243164037,
+        "label": "",
+        "topBarPixelDistance": 9.41176470588232,
+        "bottomBarPixelDistance": 8.235294117647044,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 280.4017728917735,
+        "y": 203.69371301987562,
+        "label": "",
+        "topBarPixelDistance": 9.894522274242036,
+        "bottomBarPixelDistance": 14.811360078699124,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 337,
+        "y": 225,
+        "label": "",
+        "topBarPixelDistance": 22.482757568359688,
+        "bottomBarPixelDistance": 32.81136007869907,
+        "deviationPixelDistance": 13
+      },
+      {
+        "x": 395.6958905388321,
+        "y": 249.576065961052,
+        "label": "",
+        "topBarPixelDistance": 27.05882352941171,
+        "bottomBarPixelDistance": 35,
+        "deviationPixelDistance": 35
+      },
+      {
+        "x": 452.1664787741261,
+        "y": 246.04665419634614,
+        "label": "",
+        "topBarPixelDistance": 25,
+        "bottomBarPixelDistance": 43.5294117647058,
+        "deviationPixelDistance": 25
+      },
+      {
+        "x": 681.5782434800082,
+        "y": 314.2819483139931,
+        "label": "",
+        "topBarPixelDistance": 24.42393403894806,
+        "bottomBarPixelDistance": 50.58823529411757,
+        "deviationPixelDistance": 25
+      },
+      {
+        "x": 908.6370670094195,
+        "y": 434.28194831399287,
+        "label": "",
+        "topBarPixelDistance": 45.88235294117641,
+        "bottomBarPixelDistance": 9.41176470588232,
+        "deviationPixelDistance": 9
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Anifrolumab_10.0_mg/kg"
+    },
+    "points": [
+      {
+        "x": 175.32248942057288,
+        "y": 771.7200520833331,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 174.52908833821613,
+        "y": 87.10938771565753,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 222,
+        "y": 803,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1137,
+        "y": 803,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 222,
+        "y": 177,
+        "label": "",
+        "topBarPixelDistance": 8.600404627183138,
+        "bottomBarPixelDistance": 16.105477725757993,
+        "deviationPixelDistance": 55
+      },
+      {
+        "x": 230,
+        "y": 199,
+        "label": "",
+        "topBarPixelDistance": 7.070992862477283,
+        "bottomBarPixelDistance": 9.399595372816805,
+        "deviationPixelDistance": 51
+      },
+      {
+        "x": 280.4017728917735,
+        "y": 237.81136007869912,
+        "label": "",
+        "topBarPixelDistance": 12.941176470588232,
+        "bottomBarPixelDistance": 12.941176470588204,
+        "deviationPixelDistance": 18
+      },
+      {
+        "x": 337,
+        "y": 247,
+        "label": "",
+        "topBarPixelDistance": 8.0121693330656,
+        "bottomBarPixelDistance": 21.39959537281669,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 395.69589053883215,
+        "y": 268.3995953728167,
+        "label": "",
+        "topBarPixelDistance": 12,
+        "bottomBarPixelDistance": 30.588235294117624,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 453.3429493623615,
+        "y": 276.63488949046376,
+        "label": "",
+        "topBarPixelDistance": 23.529411764705856,
+        "bottomBarPixelDistance": 39.99999999999994,
+        "deviationPixelDistance": 43
+      },
+      {
+        "x": 680.4017728917729,
+        "y": 389.5760659610518,
+        "label": "",
+        "topBarPixelDistance": 59.99999999999994,
+        "bottomBarPixelDistance": 4.70588235294116,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 908.6370670094196,
+        "y": 696.6348894904631,
+        "label": "",
+        "topBarPixelDistance": 10.588235294117567,
+        "bottomBarPixelDistance": 4.705882352941217,
+        "deviationPixelDistance": 33
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Anifrolumab_0.3_mg/kg"
+    },
+    "points": [
+      {
+        "x": 175.32248942057288,
+        "y": 771.7200520833331,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 174.52908833821613,
+        "y": 87.10938771565753,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 222,
+        "y": 803,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1137,
+        "y": 803,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 223.84826660156236,
+        "y": 383.65605672200496,
+        "label": "",
+        "topBarPixelDistance": 10.476190476190482,
+        "bottomBarPixelDistance": 15.23809523809524,
+        "deviationPixelDistance": 81
+      },
+      {
+        "x": 231.46731422060995,
+        "y": 417.94177100771924,
+        "label": "",
+        "topBarPixelDistance": 15.23809523809524,
+        "bottomBarPixelDistance": 20.952380952380906,
+        "deviationPixelDistance": 79
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Anifrolumab_0.1_mg/kg "
+    },
+    "points": [
+      {
+        "x": 175.32248942057288,
+        "y": 771.7200520833331,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 174.52908833821613,
+        "y": 87.10938771565753,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 222,
+        "y": 803,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1137,
+        "y": 803,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 222,
+        "y": 455,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 230,
+        "y": 496,
+        "label": "",
+        "topBarPixelDistance": 6.629657563709429,
+        "bottomBarPixelDistance": 6,
+        "deviationPixelDistance": 8
+      }
+    ]
+  }
+]

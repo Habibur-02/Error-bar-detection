@@ -1,0 +1,113 @@
+[
+  {
+    "label": {
+      "lineName": "Dalotuzumab_ Week 1"
+    },
+    "points": [
+      {
+        "x": 174.4947967529297,
+        "y": 574.1058959960938,
+        "label": "",
+        "topBarPixelDistance": 14.4444580078125,
+        "bottomBarPixelDistance": 16.6666259765625,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 182.27256774902344,
+        "y": 347.4392395019531,
+        "label": "",
+        "topBarPixelDistance": 45.5555419921875,
+        "bottomBarPixelDistance": 45.555572509765625,
+        "deviationPixelDistance": 48
+      },
+      {
+        "x": 195.6059112548828,
+        "y": 342.99481201171875,
+        "label": "",
+        "topBarPixelDistance": 55.555572509765625,
+        "bottomBarPixelDistance": 56.666656494140625,
+        "deviationPixelDistance": 57
+      },
+      {
+        "x": 211.16146850585938,
+        "y": 341.8836975097656,
+        "label": "",
+        "topBarPixelDistance": 76.66668701171875,
+        "bottomBarPixelDistance": 76.66665649414062,
+        "deviationPixelDistance": 49
+      },
+      {
+        "x": 287.828125,
+        "y": 406.328125,
+        "label": "",
+        "topBarPixelDistance": 28.888885498046875,
+        "bottomBarPixelDistance": 32.22222900390625,
+        "deviationPixelDistance": 28
+      },
+      {
+        "x": 317.828125,
+        "y": 438.55035400390625,
+        "label": "",
+        "topBarPixelDistance": 20,
+        "bottomBarPixelDistance": 24.4444580078125,
+        "deviationPixelDistance": 24
+      },
+      {
+        "x": 404.49481201171875,
+        "y": 456.328125,
+        "label": "",
+        "topBarPixelDistance": 27.77777099609375,
+        "bottomBarPixelDistance": 27.777801513671875,
+        "deviationPixelDistance": 30
+      },
+      {
+        "x": 636.717041015625,
+        "y": 522.9948120117188,
+        "label": "",
+        "topBarPixelDistance": 25.555572509765625,
+        "bottomBarPixelDistance": 26.66668701171875,
+        "deviationPixelDistance": 27
+      },
+      {
+        "x": 984.6361694335938,
+        "y": 541.7075805664062,
+        "label": "",
+        "topBarPixelDistance": 16.49053955078125,
+        "bottomBarPixelDistance": 16.8427734375,
+        "deviationPixelDistance": 19
+      },
+      {
+        "x": 163.07550048828125,
+        "y": 657.4088134765625,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 163.07550048828125,
+        "y": 75.7421875,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 173.07550048828125,
+        "y": 657.4088134765625,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 2,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 986.4088134765625,
+        "y": 659.0755004882812,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

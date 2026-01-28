@@ -1,0 +1,390 @@
+[
+  {
+    "label": {
+      "lineName": "Narnatumab_15_mg/kg-qw"
+    },
+    "points": [
+      {
+        "x": 213.1342315673828,
+        "y": 245.84786987304688,
+        "label": "",
+        "topBarPixelDistance": 28,
+        "bottomBarPixelDistance": 28,
+        "deviationPixelDistance": 28
+      },
+      {
+        "x": 209.95240783691406,
+        "y": 241.3024139404297,
+        "label": "",
+        "topBarPixelDistance": 76,
+        "bottomBarPixelDistance": 83,
+        "deviationPixelDistance": 83
+      },
+      {
+        "x": 222.6796875,
+        "y": 257.2115173339844,
+        "label": "",
+        "topBarPixelDistance": 33,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 33
+      },
+      {
+        "x": 250,
+        "y": 288,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 291.9080505371094,
+        "y": 338.0870056152344,
+        "label": "",
+        "topBarPixelDistance": 31,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 31
+      },
+      {
+        "x": 372.43438720703125,
+        "y": 384.92913818359375,
+        "label": "",
+        "topBarPixelDistance": 17,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 17
+      },
+      {
+        "x": 495.5037841796875,
+        "y": 443.0323791503906,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 206.75936889648438,
+        "y": 684.9866333007812,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 207.9453125,
+        "y": 108.4453125,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 207.66845703125,
+        "y": 684.9866333007812,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 858.9453125,
+        "y": 686.4453125,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Narnatumab_5_mg/kg-qw"
+    },
+    "points": [
+      {
+        "x": 211.32839965820312,
+        "y": 376.2544860839844,
+        "label": "",
+        "topBarPixelDistance": 8,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 213.50230407714844,
+        "y": 398.42840576171875,
+        "label": "",
+        "topBarPixelDistance": 11,
+        "bottomBarPixelDistance": 10,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 223.234375,
+        "y": 407.2922668457031,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 6,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 250.07647705078125,
+        "y": 429.9238586425781,
+        "label": "",
+        "topBarPixelDistance": 8,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 291.6554260253906,
+        "y": 472.02911376953125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 372.7117919921875,
+        "y": 507.5733337402344,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 6,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 495.3041076660156,
+        "y": 542.3887329101562,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 206.75936889648438,
+        "y": 684.9866333007812,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 207.9453125,
+        "y": 108.4453125,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 207.66845703125,
+        "y": 684.9866333007812,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 858.9453125,
+        "y": 686.4453125,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 210.89361572265625,
+        "y": 383.6457824707031,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Narnatumab_10_mg/kg-qw"
+    },
+    "points": [
+      {
+        "x": 209.91265869140625,
+        "y": 322.4776611328125,
+        "label": "",
+        "topBarPixelDistance": 50,
+        "bottomBarPixelDistance": 48,
+        "deviationPixelDistance": 50
+      },
+      {
+        "x": 210.41265869140625,
+        "y": 328.4776611328125,
+        "label": "",
+        "topBarPixelDistance": 57,
+        "bottomBarPixelDistance": 56,
+        "deviationPixelDistance": 57
+      },
+      {
+        "x": 213.41265869140625,
+        "y": 335.4776611328125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 35,
+        "deviationPixelDistance": 35
+      },
+      {
+        "x": 223.35606384277344,
+        "y": 347.8560485839844,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 250.41488647460938,
+        "y": 373.1501770019531,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 291.5913391113281,
+        "y": 409.03253173828125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 206.75936889648438,
+        "y": 684.9866333007812,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 207.9453125,
+        "y": 108.4453125,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 207.66845703125,
+        "y": 684.9866333007812,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 858.9453125,
+        "y": 686.4453125,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 217.91265869140625,
+        "y": 342.9776611328125,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Narnatumab_20_mg/kg-qw "
+    },
+    "points": [
+      {
+        "x": 209.2033233642578,
+        "y": 211.24081420898438,
+        "label": "",
+        "topBarPixelDistance": 34,
+        "bottomBarPixelDistance": 32,
+        "deviationPixelDistance": 34
+      },
+      {
+        "x": 219.2033233642578,
+        "y": 225.61581420898438,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 16,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 291.2972412109375,
+        "y": 309.3736877441406,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 373.06195068359375,
+        "y": 370.5501708984375,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 9,
+        "deviationPixelDistance": 9
+      },
+      {
+        "x": 494.3377380371094,
+        "y": 432.11273193359375,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 206.75936889648438,
+        "y": 684.9866333007812,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 207.9453125,
+        "y": 108.4453125,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 207.66845703125,
+        "y": 684.9866333007812,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 858.9453125,
+        "y": 686.4453125,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 250.4533233642578,
+        "y": 263.7408142089844,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 213.5783233642578,
+        "y": 218.11581420898438,
+        "label": "",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

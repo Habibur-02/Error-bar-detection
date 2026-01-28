@@ -1,0 +1,144 @@
+[
+  {
+    "label": {
+      "lineName": "HbA1c_placebo"
+    },
+    "points": [
+      {
+        "x": 162.44342041015625,
+        "y": 631.6312866210938,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 163.3333282470703,
+        "y": 163.22915649414062,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 347.2774963378906,
+        "y": 707.850830078125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 959.2120361328125,
+        "y": 708.9260864257812,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 777.3333129882812,
+        "y": 461.2291564941406,
+        "label": "",
+        "topBarPixelDistance": 52.96282958984375,
+        "bottomBarPixelDistance": 51.370147705078125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 407.94195556640625,
+        "y": 485.849365234375,
+        "label": "",
+        "topBarPixelDistance": 51.037750244140625,
+        "bottomBarPixelDistance": 54.73504638671875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 592.9269409179688,
+        "y": 459.42291259765625,
+        "label": "",
+        "topBarPixelDistance": 49.435821533203125,
+        "bottomBarPixelDistance": 57.2884521484375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 223.43142700195312,
+        "y": 492.6541442871094,
+        "label": "",
+        "topBarPixelDistance": 51.355865478515625,
+        "bottomBarPixelDistance": 54.315765380859375,
+        "deviationPixelDistance": 52.25225830078125
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "HbA1c_teplizumab"
+    },
+    "points": [
+      {
+        "x": 162.44342041015625,
+        "y": 631.6312866210938,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 163.3333282470703,
+        "y": 163.22915649414062,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 347.2774963378906,
+        "y": 707.850830078125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 959.2120361328125,
+        "y": 708.9260864257812,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 776.4920654296875,
+        "y": 456.0303955078125,
+        "label": "",
+        "topBarPixelDistance": 47.7706298828125,
+        "bottomBarPixelDistance": 54.635284423828125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 591.6151123046875,
+        "y": 443.6150207519531,
+        "label": "",
+        "topBarPixelDistance": 48.310211181640625,
+        "bottomBarPixelDistance": 52.861907958984375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 406.80328369140625,
+        "y": 486.6257629394531,
+        "label": "",
+        "topBarPixelDistance": 53.087188720703125,
+        "bottomBarPixelDistance": 52.774566650390625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 223.0198211669922,
+        "y": 530.6514282226562,
+        "label": "",
+        "topBarPixelDistance": 49.431304931640625,
+        "bottomBarPixelDistance": 49.8687744140625,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

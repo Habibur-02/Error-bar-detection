@@ -1,0 +1,200 @@
+[
+  {
+    "label": {
+      "lineName": "Talquetamab_405_microgram/kg"
+    },
+    "points": [
+      {
+        "x": 191.66231155395522,
+        "y": 698.8693428039556,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 192.91231155395522,
+        "y": 86.36934280395515,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 218.61482892717657,
+        "y": 794.2088317871102,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1050.0434003557489,
+        "y": 795.6374032156816,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 223.57348632812509,
+        "y": 425.3611043294273,
+        "label": "",
+        "topBarPixelDistance": 48.00000000000006,
+        "bottomBarPixelDistance": 129.33333333333343,
+        "deviationPixelDistance": 259
+      },
+      {
+        "x": 278.2401529947918,
+        "y": 325.36110432942723,
+        "label": "",
+        "topBarPixelDistance": 50.666666666666686,
+        "bottomBarPixelDistance": 93.33333333333337,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 336.9068196614585,
+        "y": 285.36110432942723,
+        "label": "",
+        "topBarPixelDistance": 49.33333333333337,
+        "bottomBarPixelDistance": 114.66666666666669,
+        "deviationPixelDistance": 10
+      },
+      {
+        "x": 396.9068196614585,
+        "y": 272.02777099609386,
+        "label": "",
+        "topBarPixelDistance": 49.33333333333334,
+        "bottomBarPixelDistance": 125.33333333333337,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 515.5734863281252,
+        "y": 246.69443766276052,
+        "label": "",
+        "topBarPixelDistance": 58.666666666666686,
+        "bottomBarPixelDistance": 194.66666666666677,
+        "deviationPixelDistance": 57
+      },
+      {
+        "x": 634.240152994792,
+        "y": 302.69443766276055,
+        "label": "",
+        "topBarPixelDistance": 52.00000000000003,
+        "bottomBarPixelDistance": 141.33333333333337,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 222.24015299479177,
+        "y": 470.6944376627606,
+        "label": "",
+        "topBarPixelDistance": 69.33333333333337,
+        "bottomBarPixelDistance": 86.66666666666674,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Talquetamab_800_microgram/kg"
+    },
+    "points": [
+      {
+        "x": 191.66231155395522,
+        "y": 698.8693428039556,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 192.91231155395522,
+        "y": 86.36934280395515,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 218.61482892717657,
+        "y": 794.2088317871102,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1050.0434003557489,
+        "y": 795.6374032156816,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 221.8103705512154,
+        "y": 349.1608513726131,
+        "label": "",
+        "topBarPixelDistance": 63.56142992164666,
+        "bottomBarPixelDistance": 10,
+        "deviationPixelDistance": 10
+      },
+      {
+        "x": 222.92148166232653,
+        "y": 299.160851372613,
+        "label": "",
+        "topBarPixelDistance": 45.140377290067704,
+        "bottomBarPixelDistance": 120.12278060466923,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 278.4770372178821,
+        "y": 250.2719624837241,
+        "label": "",
+        "topBarPixelDistance": 43.61990945381038,
+        "bottomBarPixelDistance": 74.8473803202312,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 336.2548149956599,
+        "y": 229.160851372613,
+        "label": "",
+        "topBarPixelDistance": 43.561429921646635,
+        "bottomBarPixelDistance": 87.20849143134231,
+        "deviationPixelDistance": 32
+      },
+      {
+        "x": 515.4123115539555,
+        "y": 265.1193428039553,
+        "label": "",
+        "topBarPixelDistance": 20.000000000000057,
+        "bottomBarPixelDistance": 34.99999999999994,
+        "deviationPixelDistance": 57
+      },
+      {
+        "x": 692.9123115539556,
+        "y": 266.3693428039553,
+        "label": "",
+        "topBarPixelDistance": 40.000000000000085,
+        "bottomBarPixelDistance": 67.5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1050.412311553956,
+        "y": 275.1193428039553,
+        "label": "",
+        "topBarPixelDistance": 41.250000000000085,
+        "bottomBarPixelDistance": 73.75,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 396.66231155395536,
+        "y": 227.61934280395525,
+        "label": "",
+        "topBarPixelDistance": 52.50000000000006,
+        "bottomBarPixelDistance": 122.50000000000006,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

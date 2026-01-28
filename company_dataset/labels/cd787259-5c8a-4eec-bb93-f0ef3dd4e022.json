@@ -1,0 +1,73 @@
+[
+  {
+    "label": {
+      "lineName": "Blinatumomab_15_mg/m2"
+    },
+    "points": [
+      {
+        "x": 208.37499618530273,
+        "y": 564.2500007152557,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 209.33336893717444,
+        "y": 79.66665903727213,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 308.37499618530273,
+        "y": 610.5000007152557,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 907.1249961853027,
+        "y": 613.0000007152557,
+        "label": "xmax",
+        "topBarPixelDistance": 96.47058984812611,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 308.3749961853026,
+        "y": 336.7500007152556,
+        "label": "",
+        "topBarPixelDistance": 112.50000000000011,
+        "bottomBarPixelDistance": 112.49999999999966,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 507.12499618530256,
+        "y": 323.0000007152556,
+        "label": "",
+        "topBarPixelDistance": 164.66666738192245,
+        "bottomBarPixelDistance": 165.99999928474404,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 705.8000001907344,
+        "y": 380.9999999999998,
+        "label": "",
+        "topBarPixelDistance": 63,
+        "bottomBarPixelDistance": 63.99999999999994,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 905.0263153879259,
+        "y": 403.526314183285,
+        "label": "",
+        "topBarPixelDistance": 113.68421052631567,
+        "bottomBarPixelDistance": 112.63157894736838,
+        "deviationPixelDistance": 112.22222208976746
+      }
+    ]
+  }
+]

@@ -1,0 +1,414 @@
+[
+  {
+    "label": {
+      "lineName": "Sontuzumab_1_mg/kg"
+    },
+    "points": [
+      {
+        "x": 182.90899658203125,
+        "y": 342.7491455078125,
+        "label": "",
+        "topBarPixelDistance": 11.6463623046875,
+        "bottomBarPixelDistance": 15.88140869140625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 195.08474731445312,
+        "y": 361.8068542480469,
+        "label": "",
+        "topBarPixelDistance": 15.88140869140625,
+        "bottomBarPixelDistance": 19.057708740234375,
+        "deviationPixelDistance": 19
+      },
+      {
+        "x": 210.43679809570312,
+        "y": 357.5718078613281,
+        "label": "",
+        "topBarPixelDistance": 10.587615966796875,
+        "bottomBarPixelDistance": 13.763885498046875,
+        "deviationPixelDistance": 13
+      },
+      {
+        "x": 243,
+        "y": 371,
+        "label": "",
+        "topBarPixelDistance": 12.36944580078125,
+        "bottomBarPixelDistance": 14.099609375,
+        "deviationPixelDistance": 13
+      },
+      {
+        "x": 308.3722229003906,
+        "y": 378.2176513671875,
+        "label": "",
+        "topBarPixelDistance": 16.410797119140625,
+        "bottomBarPixelDistance": 22.76336669921875,
+        "deviationPixelDistance": 21
+      },
+      {
+        "x": 566.7775268554688,
+        "y": 443.41156005859375,
+        "label": "",
+        "topBarPixelDistance": 37,
+        "bottomBarPixelDistance": 100.5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 761,
+        "y": 472,
+        "label": "",
+        "topBarPixelDistance": 28.58843994140625,
+        "bottomBarPixelDistance": 58.91156005859375,
+        "deviationPixelDistance": 6
+      },
+      {
+        "x": 1020.5775146484375,
+        "y": 500.91156005859375,
+        "label": "",
+        "topBarPixelDistance": 35,
+        "bottomBarPixelDistance": 88.5,
+        "deviationPixelDistance": 13
+      },
+      {
+        "x": 178,
+        "y": 685,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 178,
+        "y": 96,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 179,
+        "y": 685,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 955,
+        "y": 685,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Sontuzumab_3_mg/kg"
+    },
+    "points": [
+      {
+        "x": 178,
+        "y": 685,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 178,
+        "y": 96,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 179,
+        "y": 685,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 955,
+        "y": 685,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1020.5775146484375,
+        "y": 414.91656494140625,
+        "label": "",
+        "topBarPixelDistance": 32.5,
+        "bottomBarPixelDistance": 72,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 761.362548828125,
+        "y": 383.79656982421875,
+        "label": "",
+        "topBarPixelDistance": 26,
+        "bottomBarPixelDistance": 41.5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 566.1375732421875,
+        "y": 349.30157470703125,
+        "label": "",
+        "topBarPixelDistance": 20,
+        "bottomBarPixelDistance": 30.5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 372.91253662109375,
+        "y": 318.80657958984375,
+        "label": "",
+        "topBarPixelDistance": 18.5,
+        "bottomBarPixelDistance": 24,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 308.04754638671875,
+        "y": 297.68157958984375,
+        "label": "",
+        "topBarPixelDistance": 15,
+        "bottomBarPixelDistance": 19,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 243.24278259277344,
+        "y": 294.2691345214844,
+        "label": "",
+        "topBarPixelDistance": 19.33978271484375,
+        "bottomBarPixelDistance": 32.01068115234375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 210.89866638183594,
+        "y": 289.6009216308594,
+        "label": "",
+        "topBarPixelDistance": 16.005340576171875,
+        "bottomBarPixelDistance": 22.00732421875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 195.5602264404297,
+        "y": 281.93170166015625,
+        "label": "",
+        "topBarPixelDistance": 17.339111328125,
+        "bottomBarPixelDistance": 22.34075927734375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 190.55856323242188,
+        "y": 279.9310302734375,
+        "label": "",
+        "topBarPixelDistance": 16.6722412109375,
+        "bottomBarPixelDistance": 23.007659912109375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 182.55589294433594,
+        "y": 257.9237060546875,
+        "label": "",
+        "topBarPixelDistance": 8.669570922851562,
+        "bottomBarPixelDistance": 7.0023193359375,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Sontuzumab_16_mg/kg"
+    },
+    "points": [
+      {
+        "x": 179,
+        "y": 143,
+        "label": "",
+        "topBarPixelDistance": 27.088424682617188,
+        "bottomBarPixelDistance": 44.41157531738281,
+        "deviationPixelDistance": 47
+      },
+      {
+        "x": 188.7775421142578,
+        "y": 158.4115753173828,
+        "label": "",
+        "topBarPixelDistance": 11,
+        "bottomBarPixelDistance": 12,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 195.2775421142578,
+        "y": 161.9115753173828,
+        "label": "",
+        "topBarPixelDistance": 14,
+        "bottomBarPixelDistance": 14,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 211.7775421142578,
+        "y": 174.4115753173828,
+        "label": "",
+        "topBarPixelDistance": 22,
+        "bottomBarPixelDistance": 29,
+        "deviationPixelDistance": 29
+      },
+      {
+        "x": 243.7775421142578,
+        "y": 173.9115753173828,
+        "label": "",
+        "topBarPixelDistance": 19,
+        "bottomBarPixelDistance": 26,
+        "deviationPixelDistance": 29
+      },
+      {
+        "x": 372.7775573730469,
+        "y": 208.4115753173828,
+        "label": "",
+        "topBarPixelDistance": 15,
+        "bottomBarPixelDistance": 20.5,
+        "deviationPixelDistance": 22
+      },
+      {
+        "x": 566,
+        "y": 237,
+        "label": "",
+        "topBarPixelDistance": 11,
+        "bottomBarPixelDistance": 16,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 178,
+        "y": 685,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 178,
+        "y": 96,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 179,
+        "y": 685,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 955,
+        "y": 685,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Sontuzumab_9_mg/kg"
+    },
+    "points": [
+      {
+        "x": 189.7775421142578,
+        "y": 210.4115753173828,
+        "label": "",
+        "topBarPixelDistance": 11,
+        "bottomBarPixelDistance": 10.5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 179.7775421142578,
+        "y": 207.9115753173828,
+        "label": "",
+        "topBarPixelDistance": 9,
+        "bottomBarPixelDistance": 6.5,
+        "deviationPixelDistance": 46
+      },
+      {
+        "x": 195.2775421142578,
+        "y": 201.4115753173828,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 9.5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 211.2775421142578,
+        "y": 216.4115753173828,
+        "label": "",
+        "topBarPixelDistance": 17,
+        "bottomBarPixelDistance": 20.5,
+        "deviationPixelDistance": 22
+      },
+      {
+        "x": 244.2775421142578,
+        "y": 220.4115753173828,
+        "label": "",
+        "topBarPixelDistance": 7.5,
+        "bottomBarPixelDistance": 9.5,
+        "deviationPixelDistance": 52
+      },
+      {
+        "x": 373.2775573730469,
+        "y": 258.91156005859375,
+        "label": "",
+        "topBarPixelDistance": 10.999984741210938,
+        "bottomBarPixelDistance": 12.5,
+        "deviationPixelDistance": 15
+      },
+      {
+        "x": 566.7775268554688,
+        "y": 282.91156005859375,
+        "label": "",
+        "topBarPixelDistance": 11.5,
+        "bottomBarPixelDistance": 12.5,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 178,
+        "y": 685,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 178,
+        "y": 96,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 179,
+        "y": 685,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 955,
+        "y": 685,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

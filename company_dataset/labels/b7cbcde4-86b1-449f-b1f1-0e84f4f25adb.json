@@ -1,0 +1,160 @@
+[
+  {
+    "label": {
+      "lineName": "C-pep_Golimumab"
+    },
+    "points": [
+      {
+        "x": 256,
+        "y": 166,
+        "label": "",
+        "topBarPixelDistance": 4.11138916015625,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 412.04388427734375,
+        "y": 163.38861083984375,
+        "label": "",
+        "topBarPixelDistance": 24,
+        "bottomBarPixelDistance": 28,
+        "deviationPixelDistance": 28
+      },
+      {
+        "x": 596,
+        "y": 170,
+        "label": "",
+        "topBarPixelDistance": 29,
+        "bottomBarPixelDistance": 31,
+        "deviationPixelDistance": 31
+      },
+      {
+        "x": 753.8888549804688,
+        "y": 179.38861083984375,
+        "label": "",
+        "topBarPixelDistance": 30.5,
+        "bottomBarPixelDistance": 34,
+        "deviationPixelDistance": 10
+      },
+      {
+        "x": 936.8888549804688,
+        "y": 210.38861083984375,
+        "label": "",
+        "topBarPixelDistance": 32,
+        "bottomBarPixelDistance": 33,
+        "deviationPixelDistance": 34
+      },
+      {
+        "x": 256.0007019042969,
+        "y": 494.6907958984375,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 256.2484130859375,
+        "y": 86.93546295166016,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 256.38592529296875,
+        "y": 495.07598876953125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 936.5084228515625,
+        "y": 495.544921875,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "C-pep_Placebo"
+    },
+    "points": [
+      {
+        "x": 936.8888549804688,
+        "y": 327.88861083984375,
+        "label": "",
+        "topBarPixelDistance": 55,
+        "bottomBarPixelDistance": 56.5,
+        "deviationPixelDistance": 57
+      },
+      {
+        "x": 753.8888549804688,
+        "y": 307.38861083984375,
+        "label": "",
+        "topBarPixelDistance": 51,
+        "bottomBarPixelDistance": 55,
+        "deviationPixelDistance": 56
+      },
+      {
+        "x": 596.2831420898438,
+        "y": 293.8910827636719,
+        "label": "",
+        "topBarPixelDistance": 44.57194519042969,
+        "bottomBarPixelDistance": 46.7784423828125,
+        "deviationPixelDistance": 48
+      },
+      {
+        "x": 413,
+        "y": 252,
+        "label": "",
+        "topBarPixelDistance": 42,
+        "bottomBarPixelDistance": 43,
+        "deviationPixelDistance": 43
+      },
+      {
+        "x": 256,
+        "y": 166,
+        "label": "",
+        "topBarPixelDistance": 5.56365966796875,
+        "bottomBarPixelDistance": 7.352996826171875,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 256.0007019042969,
+        "y": 494.6907958984375,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 256.2484130859375,
+        "y": 86.93546295166016,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 256.38592529296875,
+        "y": 495.07598876953125,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 936.5084228515625,
+        "y": 495.544921875,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

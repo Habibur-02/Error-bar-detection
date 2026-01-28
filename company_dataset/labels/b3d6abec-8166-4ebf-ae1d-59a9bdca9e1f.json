@@ -1,0 +1,344 @@
+[
+  {
+    "label": {
+      "lineName": "Tocilizumab_EU"
+    },
+    "points": [
+      {
+        "x": 1999.5205078125,
+        "y": 1007.5423583984375,
+        "label": "",
+        "topBarPixelDistance": 4.746826171875,
+        "bottomBarPixelDistance": 4.74688720703125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1778.792724609375,
+        "y": 1006.751220703125,
+        "label": "",
+        "topBarPixelDistance": 1.55059814453125,
+        "bottomBarPixelDistance": 4.74688720703125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1559.6470947265625,
+        "y": 1006.751220703125,
+        "label": "",
+        "topBarPixelDistance": 4.2083740234375,
+        "bottomBarPixelDistance": 6.2559814453125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1340.103759765625,
+        "y": 995.3485107421875,
+        "label": "",
+        "topBarPixelDistance": 17.00457763671875,
+        "bottomBarPixelDistance": 11.77239990234375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 220.08082580566406,
+        "y": 1008.0562133789062,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 219.94024658203125,
+        "y": 66.2350845336914,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 272.8402404785156,
+        "y": 1045.09228515625,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 2002.4539794921875,
+        "y": 1045.09228515625,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1121.0062255859375,
+        "y": 964.6094970703125,
+        "label": "",
+        "topBarPixelDistance": 17.65863037109375,
+        "bottomBarPixelDistance": 16.35052490234375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 900.1036987304688,
+        "y": 917.1143798828125,
+        "label": "",
+        "topBarPixelDistance": 14.13079833984375,
+        "bottomBarPixelDistance": 19.62066650390625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 712.3993530273438,
+        "y": 870.0247802734375,
+        "label": "",
+        "topBarPixelDistance": 22.23675537109375,
+        "bottomBarPixelDistance": 21.582763671875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 494.56927490234375,
+        "y": 767.049072265625,
+        "label": "",
+        "topBarPixelDistance": 31.86407470703125,
+        "bottomBarPixelDistance": 38.23681640625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 369.6806335449219,
+        "y": 655.266845703125,
+        "label": "",
+        "topBarPixelDistance": 48.069091796875,
+        "bottomBarPixelDistance": 48.05413818359375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 337.5843200683594,
+        "y": 591.07421875,
+        "label": "",
+        "topBarPixelDistance": 49.19775390625,
+        "bottomBarPixelDistance": 53.829345703125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 306.04034423828125,
+        "y": 492.4872131347656,
+        "label": "",
+        "topBarPixelDistance": 65.97622680664062,
+        "bottomBarPixelDistance": 72.43978881835938,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 290.639404296875,
+        "y": 426.1037902832031,
+        "label": "",
+        "topBarPixelDistance": 70.27996826171875,
+        "bottomBarPixelDistance": 79.43429565429688,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 283.2044677734375,
+        "y": 349.0989990234375,
+        "label": "",
+        "topBarPixelDistance": 90.41802978515625,
+        "bottomBarPixelDistance": 93.01052856445312,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 272.2250061035156,
+        "y": 315.2981262207031,
+        "label": "",
+        "topBarPixelDistance": 104.73251342773438,
+        "bottomBarPixelDistance": 75.13424682617188,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 274.2108154296875,
+        "y": 304.7054443359375,
+        "label": "",
+        "topBarPixelDistance": 105.52272033691406,
+        "bottomBarPixelDistance": 112.598388671875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 274.2649841308594,
+        "y": 1008.05810546875,
+        "label": "",
+        "topBarPixelDistance": 4.3289794921875,
+        "bottomBarPixelDistance": 4.32904052734375,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Tocilizumab_US"
+    },
+    "points": [
+      {
+        "x": 220.08082580566406,
+        "y": 1008.0562133789062,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 219.94024658203125,
+        "y": 66.2350845336914,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 272.8402404785156,
+        "y": 1045.09228515625,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 2002.4539794921875,
+        "y": 1045.09228515625,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1999.9000244140625,
+        "y": 1007.2531127929688,
+        "label": "",
+        "topBarPixelDistance": 4.4219970703125,
+        "bottomBarPixelDistance": 3.53558349609375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1780.73583984375,
+        "y": 1007.888427734375,
+        "label": "",
+        "topBarPixelDistance": 3.53668212890625,
+        "bottomBarPixelDistance": 4.4208984375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1559.692626953125,
+        "y": 1007.0042724609375,
+        "label": "",
+        "topBarPixelDistance": 3.53668212890625,
+        "bottomBarPixelDistance": 4.42083740234375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1339.533447265625,
+        "y": 992.8574829101562,
+        "label": "",
+        "topBarPixelDistance": 11.4942626953125,
+        "bottomBarPixelDistance": 13.26263427734375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 1121.1427001953125,
+        "y": 961.0272827148438,
+        "label": "",
+        "topBarPixelDistance": 15.03094482421875,
+        "bottomBarPixelDistance": 19.4517822265625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 900.9835205078125,
+        "y": 911.5135498046875,
+        "label": "",
+        "topBarPixelDistance": 20.3359375,
+        "bottomBarPixelDistance": 22.988525390625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 711.7704467773438,
+        "y": 861.11572265625,
+        "label": "",
+        "topBarPixelDistance": 23.8726806640625,
+        "bottomBarPixelDistance": 24.7568359375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 494.2638244628906,
+        "y": 758.5515747070312,
+        "label": "",
+        "topBarPixelDistance": 38.0194091796875,
+        "bottomBarPixelDistance": 40.6719970703125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 370.4795837402344,
+        "y": 638.3040161132812,
+        "label": "",
+        "topBarPixelDistance": 57.47125244140625,
+        "bottomBarPixelDistance": 60.123779296875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 335.996826171875,
+        "y": 557.8442993164062,
+        "label": "",
+        "topBarPixelDistance": 67.19717407226562,
+        "bottomBarPixelDistance": 71.61798095703125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 305.7227478027344,
+        "y": 448.3393859863281,
+        "label": "",
+        "topBarPixelDistance": 91.06985473632812,
+        "bottomBarPixelDistance": 94.60653686523438,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 289.8076171875,
+        "y": 396.17315673828125,
+        "label": "",
+        "topBarPixelDistance": 86.64898681640625,
+        "bottomBarPixelDistance": 91.06985473632812,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 283.618408203125,
+        "y": 343.1227722167969,
+        "label": "",
+        "topBarPixelDistance": 101.679931640625,
+        "bottomBarPixelDistance": 102.5640869140625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 276.5450134277344,
+        "y": 303.3349609375,
+        "label": "",
+        "topBarPixelDistance": 96.37486267089844,
+        "bottomBarPixelDistance": 102.56411743164062,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 275.6608581542969,
+        "y": 291.8407287597656,
+        "label": "",
+        "topBarPixelDistance": 91.06985473632812,
+        "bottomBarPixelDistance": 95.49069213867188,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 276.5450134277344,
+        "y": 270.6205749511719,
+        "label": "",
+        "topBarPixelDistance": 100.79576110839844,
+        "bottomBarPixelDistance": 106.98495483398438,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 274.06048583984375,
+        "y": 1008.8963623046875,
+        "label": "",
+        "topBarPixelDistance": 0.8841552734375,
+        "bottomBarPixelDistance": 0.88421630859375,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,470 @@
+[
+  {
+    "label": {
+      "lineName": "Barzolvolimab_1_mg/kg"
+    },
+    "points": [
+      {
+        "x": 232.0371856689453,
+        "y": 625.7149047851562,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 232.0371856689453,
+        "y": 131.16455078125,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 242.93637084960938,
+        "y": 627.0773315429688,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 725.2251586914062,
+        "y": 627.0773315429688,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 655.2152099609375,
+        "y": 436.4046325683594,
+        "label": "",
+        "topBarPixelDistance": 41.753631591796875,
+        "bottomBarPixelDistance": 39.665985107421875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 517.4281616210938,
+        "y": 366.46728515625,
+        "label": "",
+        "topBarPixelDistance": 19.832977294921875,
+        "bottomBarPixelDistance": 21.920654296875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 447.4908142089844,
+        "y": 344.5466003417969,
+        "label": "",
+        "topBarPixelDistance": 11.48223876953125,
+        "bottomBarPixelDistance": 12.526092529296875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 379.64111328125,
+        "y": 324.713623046875,
+        "label": "",
+        "topBarPixelDistance": 8.350738525390625,
+        "bottomBarPixelDistance": 8.350738525390625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 309.7037658691406,
+        "y": 308.0121765136719,
+        "label": "",
+        "topBarPixelDistance": 6.77294921875,
+        "bottomBarPixelDistance": 8.771087646484375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 272.12548828125,
+        "y": 299.66143798828125,
+        "label": "",
+        "topBarPixelDistance": 8.26678466796875,
+        "bottomBarPixelDistance": 7.79541015625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 260.6432189941406,
+        "y": 289.2230224609375,
+        "label": "",
+        "topBarPixelDistance": 5.600372314453125,
+        "bottomBarPixelDistance": 13.052459716796875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 251.24864196777344,
+        "y": 297.5737609863281,
+        "label": "",
+        "topBarPixelDistance": 9.8060302734375,
+        "bottomBarPixelDistance": 36.826080322265625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 249.1609649658203,
+        "y": 275.653076171875,
+        "label": "",
+        "topBarPixelDistance": 14.828369140625,
+        "bottomBarPixelDistance": 4.860748291015625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 239.76638793945312,
+        "y": 268.34619140625,
+        "label": "",
+        "topBarPixelDistance": 5.448944091796875,
+        "bottomBarPixelDistance": 11.131378173828125,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Barzolvolimab_3_mg/kg"
+    },
+    "points": [
+      {
+        "x": 232.0371856689453,
+        "y": 625.7149047851562,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 232.0371856689453,
+        "y": 131.16455078125,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 242.93637084960938,
+        "y": 627.0773315429688,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 725.2251586914062,
+        "y": 627.0773315429688,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 653.8314208984375,
+        "y": 304.650634765625,
+        "label": "",
+        "topBarPixelDistance": 8.0831298828125,
+        "bottomBarPixelDistance": 8.0831298828125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 517.57275390625,
+        "y": 291.94854736328125,
+        "label": "",
+        "topBarPixelDistance": 6.92840576171875,
+        "bottomBarPixelDistance": 9.16094970703125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 449.2535095214844,
+        "y": 285.5922546386719,
+        "label": "",
+        "topBarPixelDistance": 11.496856689453125,
+        "bottomBarPixelDistance": 9.19281005859375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 379.7132873535156,
+        "y": 276.3968505859375,
+        "label": "",
+        "topBarPixelDistance": 12.6436767578125,
+        "bottomBarPixelDistance": 12.0689697265625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 310.8752746582031,
+        "y": 259.6159973144531,
+        "label": "",
+        "topBarPixelDistance": 7.9317779541015625,
+        "bottomBarPixelDistance": 7.58544921875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 270.4595642089844,
+        "y": 250.37811279296875,
+        "label": "",
+        "topBarPixelDistance": 9.038726806640625,
+        "bottomBarPixelDistance": 8.202667236328125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 260.06695556640625,
+        "y": 242.2949676513672,
+        "label": "",
+        "topBarPixelDistance": 8.426849365234375,
+        "bottomBarPixelDistance": 7.6651153564453125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 249.67434692382812,
+        "y": 234.2118377685547,
+        "label": "",
+        "topBarPixelDistance": 7.240264892578125,
+        "bottomBarPixelDistance": 6.5528411865234375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 241.20753479003906,
+        "y": 223.52330017089844,
+        "label": "",
+        "topBarPixelDistance": 6.8965606689453125,
+        "bottomBarPixelDistance": 9.770111083984375,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Barzolvolimab_9_mg/kg"
+    },
+    "points": [
+      {
+        "x": 232.0371856689453,
+        "y": 625.7149047851562,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 232.0371856689453,
+        "y": 131.16455078125,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 242.93637084960938,
+        "y": 627.0773315429688,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 725.2251586914062,
+        "y": 627.0773315429688,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 243,
+        "y": 206,
+        "label": "",
+        "topBarPixelDistance": 4.824188232421875,
+        "bottomBarPixelDistance": 53.20050048828125,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 242.39825439453125,
+        "y": 183.48033142089844,
+        "label": "",
+        "topBarPixelDistance": 37.860076904296875,
+        "bottomBarPixelDistance": 11.52264404296875,
+        "deviationPixelDistance": 10
+      },
+      {
+        "x": 260.8393859863281,
+        "y": 197.94158935546875,
+        "label": "",
+        "topBarPixelDistance": 5.4077606201171875,
+        "bottomBarPixelDistance": 10.2301025390625,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 272.4288024902344,
+        "y": 207.8753662109375,
+        "label": "",
+        "topBarPixelDistance": 9.10595703125,
+        "bottomBarPixelDistance": 5.7946929931640625,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 253.09783935546875,
+        "y": 188.007080078125,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 310.5082702636719,
+        "y": 221.12039184570312,
+        "label": "",
+        "topBarPixelDistance": 6,
+        "bottomBarPixelDistance": 8.278152465820312,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 379.2168884277344,
+        "y": 231.88198852539062,
+        "label": "",
+        "topBarPixelDistance": 7,
+        "bottomBarPixelDistance": 7,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 448,
+        "y": 235,
+        "label": "",
+        "topBarPixelDistance": 9.740524291992188,
+        "bottomBarPixelDistance": 12.610458374023438,
+        "deviationPixelDistance": 7
+      },
+      {
+        "x": 516,
+        "y": 243,
+        "label": "",
+        "topBarPixelDistance": 12.773635864257812,
+        "bottomBarPixelDistance": 9.577346801757812,
+        "deviationPixelDistance": 11
+      },
+      {
+        "x": 655.7069091796875,
+        "y": 254.2329864501953,
+        "label": "",
+        "topBarPixelDistance": 13.245040893554688,
+        "bottomBarPixelDistance": 10,
+        "deviationPixelDistance": 10
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Barzolvolimab_0.3_mg/kg"
+    },
+    "points": [
+      {
+        "x": 232.0371856689453,
+        "y": 625.7149047851562,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 232.0371856689453,
+        "y": 131.16455078125,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 242.93637084960938,
+        "y": 627.0773315429688,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 725.2251586914062,
+        "y": 627.0773315429688,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 654.341796875,
+        "y": 556.9146728515625,
+        "label": "",
+        "topBarPixelDistance": 8.57757568359375,
+        "bottomBarPixelDistance": 10.00714111328125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 517.1008911132812,
+        "y": 541.1891479492188,
+        "label": "",
+        "topBarPixelDistance": 7.86279296875,
+        "bottomBarPixelDistance": 9.2923583984375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 448.48046875,
+        "y": 521.1748657226562,
+        "label": "",
+        "topBarPixelDistance": 11.436767578125,
+        "bottomBarPixelDistance": 11.43670654296875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 379.0162658691406,
+        "y": 460.007568359375,
+        "label": "",
+        "topBarPixelDistance": 25.32305908203125,
+        "bottomBarPixelDistance": 25.427459716796875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 310.96551513671875,
+        "y": 374.65576171875,
+        "label": "",
+        "topBarPixelDistance": 7.87689208984375,
+        "bottomBarPixelDistance": 8.56341552734375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 271.7627868652344,
+        "y": 340.28033447265625,
+        "label": "",
+        "topBarPixelDistance": 7.308868408203125,
+        "bottomBarPixelDistance": 8.865264892578125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 260.7698974609375,
+        "y": 329.2874450683594,
+        "label": "",
+        "topBarPixelDistance": 7.446807861328125,
+        "bottomBarPixelDistance": 6.737579345703125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 250.8408203125,
+        "y": 319.0037536621094,
+        "label": "",
+        "topBarPixelDistance": 5.67376708984375,
+        "bottomBarPixelDistance": 8.156036376953125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 245.16705322265625,
+        "y": 312.9753723144531,
+        "label": "",
+        "topBarPixelDistance": 5.673736572265625,
+        "bottomBarPixelDistance": 6.73760986328125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 239.847900390625,
+        "y": 306.23779296875,
+        "label": "",
+        "topBarPixelDistance": 6.737579345703125,
+        "bottomBarPixelDistance": 8.510650634765625,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]

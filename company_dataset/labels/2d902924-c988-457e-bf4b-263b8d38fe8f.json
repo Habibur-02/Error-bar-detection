@@ -1,0 +1,533 @@
+[
+  {
+    "label": {
+      "lineName": "Onvatilimab_Mean 0.15 mpk DAY 1"
+    },
+    "points": [
+      {
+        "x": 899.0643920898438,
+        "y": 1034.98681640625,
+        "label": "",
+        "topBarPixelDistance": 39.009033203125,
+        "bottomBarPixelDistance": 127.09619140625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 596.5924682617188,
+        "y": 903.9012451171875,
+        "label": "",
+        "topBarPixelDistance": 17.42498779296875,
+        "bottomBarPixelDistance": 104.06585693359375,
+        "deviationPixelDistance": 19
+      },
+      {
+        "x": 446,
+        "y": 803,
+        "label": "",
+        "topBarPixelDistance": 23.00970458984375,
+        "bottomBarPixelDistance": 50.07843017578125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 408.3059387207031,
+        "y": 742.72021484375,
+        "label": "",
+        "topBarPixelDistance": 32.4298095703125,
+        "bottomBarPixelDistance": 69.69989013671875,
+        "deviationPixelDistance": 34
+      },
+      {
+        "x": 370.55181884765625,
+        "y": 720.4549560546875,
+        "label": "",
+        "topBarPixelDistance": 28.55755615234375,
+        "bottomBarPixelDistance": 56.14715576171875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 331.82965087890625,
+        "y": 687.05712890625,
+        "label": "",
+        "topBarPixelDistance": 25.16943359375,
+        "bottomBarPixelDistance": 43.078369140625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 313.4366149902344,
+        "y": 630.9099731445312,
+        "label": "",
+        "topBarPixelDistance": 38.72216796875,
+        "bottomBarPixelDistance": 69.21588134765625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 295,
+        "y": 634,
+        "label": "",
+        "topBarPixelDistance": 42.29620361328125,
+        "bottomBarPixelDistance": 120.8209228515625,
+        "deviationPixelDistance": 86
+      },
+      {
+        "x": 296.6990051269531,
+        "y": 1270.644287109375,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 296.107666015625,
+        "y": 144.130615234375,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 295.81640625,
+        "y": 1270.864990234375,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 2251,
+        "y": 1270,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Onvatilimab_Mean 0.3 mpk DAY 29"
+    },
+    "points": [
+      {
+        "x": 2101.588623046875,
+        "y": 1059.9029541015625,
+        "label": "",
+        "topBarPixelDistance": 52.07415771484375,
+        "bottomBarPixelDistance": 195.057373046875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 898,
+        "y": 634,
+        "label": "",
+        "topBarPixelDistance": 44.53839111328125,
+        "bottomBarPixelDistance": 123.157958984375,
+        "deviationPixelDistance": 19
+      },
+      {
+        "x": 596.5828247070312,
+        "y": 537.72509765625,
+        "label": "",
+        "topBarPixelDistance": 30.00970458984375,
+        "bottomBarPixelDistance": 49.3707275390625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 446.582763671875,
+        "y": 476.1181335449219,
+        "label": "",
+        "topBarPixelDistance": 33.88189697265625,
+        "bottomBarPixelDistance": 57.115203857421875,
+        "deviationPixelDistance": 12
+      },
+      {
+        "x": 409.7967224121094,
+        "y": 436.42791748046875,
+        "label": "",
+        "topBarPixelDistance": 19.361083984375,
+        "bottomBarPixelDistance": 35.333953857421875,
+        "deviationPixelDistance": 14
+      },
+      {
+        "x": 372.0426025390625,
+        "y": 422.8751525878906,
+        "label": "",
+        "topBarPixelDistance": 19.845123291015625,
+        "bottomBarPixelDistance": 30.009674072265625,
+        "deviationPixelDistance": 19
+      },
+      {
+        "x": 333.3204345703125,
+        "y": 415.61474609375,
+        "label": "",
+        "topBarPixelDistance": 18.8770751953125,
+        "bottomBarPixelDistance": 26.137451171875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 314.9273986816406,
+        "y": 405.9342041015625,
+        "label": "",
+        "topBarPixelDistance": 17.90899658203125,
+        "bottomBarPixelDistance": 59.051300048828125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 295.5663146972656,
+        "y": 413.6786193847656,
+        "label": "",
+        "topBarPixelDistance": 27.105499267578125,
+        "bottomBarPixelDistance": 50.338836669921875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 296.6990051269531,
+        "y": 1270.644287109375,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 296.107666015625,
+        "y": 144.130615234375,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 295.81640625,
+        "y": 1270.864990234375,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 2251,
+        "y": 1270,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Onvatilimab_Mean 0.6 mpk DAY1"
+    },
+    "points": [
+      {
+        "x": 2102,
+        "y": 817,
+        "label": "",
+        "topBarPixelDistance": 24.81109619140625,
+        "bottomBarPixelDistance": 46.68048095703125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 898.034912109375,
+        "y": 377.6524658203125,
+        "label": "",
+        "topBarPixelDistance": 12.100677490234375,
+        "bottomBarPixelDistance": 37.27008056640625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 596.9700317382812,
+        "y": 308.9206237792969,
+        "label": "",
+        "topBarPixelDistance": 12.584716796875,
+        "bottomBarPixelDistance": 26.137451171875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 447.4056396484375,
+        "y": 297.7879943847656,
+        "label": "",
+        "topBarPixelDistance": 13.0687255859375,
+        "bottomBarPixelDistance": 23.71734619140625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 409,
+        "y": 289,
+        "label": "",
+        "topBarPixelDistance": 13.47723388671875,
+        "bottomBarPixelDistance": 17.0164794921875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 372.3814392089844,
+        "y": 278.4269104003906,
+        "label": "",
+        "topBarPixelDistance": 9.196502685546875,
+        "bottomBarPixelDistance": 15.4888916015625,
+        "deviationPixelDistance": 20
+      },
+      {
+        "x": 334.12982177734375,
+        "y": 272.7524108886719,
+        "label": "",
+        "topBarPixelDistance": 10.09613037109375,
+        "bottomBarPixelDistance": 17.307708740234375,
+        "deviationPixelDistance": 16
+      },
+      {
+        "x": 313.9375,
+        "y": 272.7524108886719,
+        "label": "",
+        "topBarPixelDistance": 12.5,
+        "bottomBarPixelDistance": 19.23077392578125,
+        "deviationPixelDistance": 15
+      },
+      {
+        "x": 296.3894348144531,
+        "y": 261.93511962890625,
+        "label": "",
+        "topBarPixelDistance": 12.740386962890625,
+        "bottomBarPixelDistance": 21.153839111328125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 296.6990051269531,
+        "y": 1270.644287109375,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 296.107666015625,
+        "y": 144.130615234375,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 295.81640625,
+        "y": 1270.864990234375,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 2251,
+        "y": 1270,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Onvatilimab_Mean 0.15 mpk DAY 29"
+    },
+    "points": [
+      {
+        "x": 898.4994506835938,
+        "y": 1001.673828125,
+        "label": "",
+        "topBarPixelDistance": 28.67620849609375,
+        "bottomBarPixelDistance": 46.3487548828125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 596.9656372070312,
+        "y": 890.52685546875,
+        "label": "",
+        "topBarPixelDistance": 30.67694091796875,
+        "bottomBarPixelDistance": 44.6815185546875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 446.08868408203125,
+        "y": 794.374755859375,
+        "label": "",
+        "topBarPixelDistance": 23.34112548828125,
+        "bottomBarPixelDistance": 29.0096435546875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 410.07666015625,
+        "y": 788.7061767578125,
+        "label": "",
+        "topBarPixelDistance": 24.00799560546875,
+        "bottomBarPixelDistance": 25.341796875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 371.7305603027344,
+        "y": 744.3580932617188,
+        "label": "",
+        "topBarPixelDistance": 18.3394775390625,
+        "bottomBarPixelDistance": 14.004638671875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 334.05133056640625,
+        "y": 676.6688842773438,
+        "label": "",
+        "topBarPixelDistance": 23.674560546875,
+        "bottomBarPixelDistance": 31.34375,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 315.3784484863281,
+        "y": 645.3250732421875,
+        "label": "",
+        "topBarPixelDistance": 19.6732177734375,
+        "bottomBarPixelDistance": 25.341796875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 295.7052001953125,
+        "y": 531.2870483398438,
+        "label": "",
+        "topBarPixelDistance": 50.350128173828125,
+        "bottomBarPixelDistance": 144.71490478515625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 296.6990051269531,
+        "y": 1270.644287109375,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 296.107666015625,
+        "y": 144.130615234375,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 295.81640625,
+        "y": 1270.864990234375,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 2251,
+        "y": 1270,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  },
+  {
+    "label": {
+      "lineName": "Onvatilimab_Mean 0.3 mpk DAY 1"
+    },
+    "points": [
+      {
+        "x": 897.6400146484375,
+        "y": 808.6849975585938,
+        "label": "",
+        "topBarPixelDistance": 39.5,
+        "bottomBarPixelDistance": 96.5,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 596.2665405273438,
+        "y": 568.6142578125,
+        "label": "",
+        "topBarPixelDistance": 45.01324462890625,
+        "bottomBarPixelDistance": 125.33099365234375,
+        "deviationPixelDistance": 8
+      },
+      {
+        "x": 444.8190612792969,
+        "y": 540.2736206054688,
+        "label": "",
+        "topBarPixelDistance": 21.18353271484375,
+        "bottomBarPixelDistance": 42.7080078125,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 406.8667297363281,
+        "y": 527.9170532226562,
+        "label": "",
+        "topBarPixelDistance": 18.02349853515625,
+        "bottomBarPixelDistance": 39.0916748046875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 369.7969970703125,
+        "y": 484.66900634765625,
+        "label": "",
+        "topBarPixelDistance": 21.72607421875,
+        "bottomBarPixelDistance": 39.2613525390625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 329.1968078613281,
+        "y": 453.777587890625,
+        "label": "",
+        "topBarPixelDistance": 14.067962646484375,
+        "bottomBarPixelDistance": 32.398651123046875,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 311.5445556640625,
+        "y": 443.18621826171875,
+        "label": "",
+        "topBarPixelDistance": 15.577301025390625,
+        "bottomBarPixelDistance": 30.889312744140625,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 293.00970458984375,
+        "y": 438.7731628417969,
+        "label": "",
+        "topBarPixelDistance": 10.680206298828125,
+        "bottomBarPixelDistance": 43.53082275390625,
+        "deviationPixelDistance": 187
+      },
+      {
+        "x": 296.6990051269531,
+        "y": 1270.644287109375,
+        "label": "ymin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 296.107666015625,
+        "y": 144.130615234375,
+        "label": "ymax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 295.81640625,
+        "y": 1270.864990234375,
+        "label": "xmin",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      },
+      {
+        "x": 2251,
+        "y": 1270,
+        "label": "xmax",
+        "topBarPixelDistance": 0,
+        "bottomBarPixelDistance": 0,
+        "deviationPixelDistance": 0
+      }
+    ]
+  }
+]
