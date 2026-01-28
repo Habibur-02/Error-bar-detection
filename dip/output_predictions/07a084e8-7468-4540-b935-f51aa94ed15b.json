@@ -1,0 +1,482 @@
+{
+  "image_file": "07a084e8-7468-4540-b935-f51aa94ed15b.png",
+  "error_bars": [
+    {
+      "lineName": "Vanucizumab_30/qw",
+      "points": [
+        {
+          "data_point": {
+            "x": 150,
+            "y": 257
+          },
+          "upper_error_bar": {
+            "x": 150,
+            "y": 227.0
+          },
+          "lower_error_bar": {
+            "x": 150,
+            "y": 277.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 153,
+            "y": 222
+          },
+          "upper_error_bar": {
+            "x": 153,
+            "y": 213.0
+          },
+          "lower_error_bar": {
+            "x": 153,
+            "y": 232.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 160,
+            "y": 226
+          },
+          "upper_error_bar": {
+            "x": 160,
+            "y": 218.0
+          },
+          "lower_error_bar": {
+            "x": 160,
+            "y": 245.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 188,
+            "y": 232
+          },
+          "upper_error_bar": {
+            "x": 188,
+            "y": 221.0
+          },
+          "lower_error_bar": {
+            "x": 188,
+            "y": 283.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 311,
+            "y": 254
+          },
+          "upper_error_bar": {
+            "x": 311,
+            "y": 241.0
+          },
+          "lower_error_bar": {
+            "x": 311,
+            "y": 280.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 435,
+            "y": 272
+          },
+          "upper_error_bar": {
+            "x": 435,
+            "y": 264.0
+          },
+          "lower_error_bar": {
+            "x": 435,
+            "y": 306.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 135,
+            "y": 539
+          },
+          "upper_error_bar": {
+            "x": 135,
+            "y": 539.0
+          },
+          "lower_error_bar": {
+            "x": 135,
+            "y": 539.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 134,
+            "y": 79
+          },
+          "upper_error_bar": {
+            "x": 134,
+            "y": 79.0
+          },
+          "lower_error_bar": {
+            "x": 134,
+            "y": 79.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 146,
+            "y": 541
+          },
+          "upper_error_bar": {
+            "x": 146,
+            "y": 541.0
+          },
+          "lower_error_bar": {
+            "x": 146,
+            "y": 550.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 719,
+            "y": 541
+          },
+          "upper_error_bar": {
+            "x": 719,
+            "y": 541.0
+          },
+          "lower_error_bar": {
+            "x": 719,
+            "y": 546.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 147,
+            "y": 271
+          },
+          "upper_error_bar": {
+            "x": 147,
+            "y": 265.0
+          },
+          "lower_error_bar": {
+            "x": 147,
+            "y": 278.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Vanucizumab_20/qw",
+      "points": [
+        {
+          "data_point": {
+            "x": 149,
+            "y": 266
+          },
+          "upper_error_bar": {
+            "x": 149,
+            "y": 254.0
+          },
+          "lower_error_bar": {
+            "x": 149,
+            "y": 277.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 158,
+            "y": 240
+          },
+          "upper_error_bar": {
+            "x": 158,
+            "y": 218.0
+          },
+          "lower_error_bar": {
+            "x": 158,
+            "y": 245.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 149,
+            "y": 241
+          },
+          "upper_error_bar": {
+            "x": 149,
+            "y": 229.0
+          },
+          "lower_error_bar": {
+            "x": 149,
+            "y": 253.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 188,
+            "y": 254
+          },
+          "upper_error_bar": {
+            "x": 188,
+            "y": 221.0
+          },
+          "lower_error_bar": {
+            "x": 188,
+            "y": 283.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 311,
+            "y": 272
+          },
+          "upper_error_bar": {
+            "x": 311,
+            "y": 241.0
+          },
+          "lower_error_bar": {
+            "x": 311,
+            "y": 280.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 435,
+            "y": 297
+          },
+          "upper_error_bar": {
+            "x": 435,
+            "y": 264.0
+          },
+          "lower_error_bar": {
+            "x": 435,
+            "y": 306.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 135,
+            "y": 539
+          },
+          "upper_error_bar": {
+            "x": 135,
+            "y": 539.0
+          },
+          "lower_error_bar": {
+            "x": 135,
+            "y": 539.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 134,
+            "y": 79
+          },
+          "upper_error_bar": {
+            "x": 134,
+            "y": 79.0
+          },
+          "lower_error_bar": {
+            "x": 134,
+            "y": 79.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 146,
+            "y": 541
+          },
+          "upper_error_bar": {
+            "x": 146,
+            "y": 541.0
+          },
+          "lower_error_bar": {
+            "x": 146,
+            "y": 550.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 719,
+            "y": 541
+          },
+          "upper_error_bar": {
+            "x": 719,
+            "y": 541.0
+          },
+          "lower_error_bar": {
+            "x": 719,
+            "y": 546.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 147,
+            "y": 291
+          },
+          "upper_error_bar": {
+            "x": 147,
+            "y": 280.0
+          },
+          "lower_error_bar": {
+            "x": 147,
+            "y": 299.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Vanucizumab_10/qw",
+      "points": [
+        {
+          "data_point": {
+            "x": 146,
+            "y": 317
+          },
+          "upper_error_bar": {
+            "x": 146,
+            "y": 303.0
+          },
+          "lower_error_bar": {
+            "x": 146,
+            "y": 325.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 148,
+            "y": 269
+          },
+          "upper_error_bar": {
+            "x": 148,
+            "y": 229.0
+          },
+          "lower_error_bar": {
+            "x": 148,
+            "y": 274.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 159,
+            "y": 262
+          },
+          "upper_error_bar": {
+            "x": 159,
+            "y": 255.0
+          },
+          "lower_error_bar": {
+            "x": 159,
+            "y": 269.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 150,
+            "y": 261
+          },
+          "upper_error_bar": {
+            "x": 150,
+            "y": 253.0
+          },
+          "lower_error_bar": {
+            "x": 150,
+            "y": 277.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 188,
+            "y": 276
+          },
+          "upper_error_bar": {
+            "x": 188,
+            "y": 221.0
+          },
+          "lower_error_bar": {
+            "x": 188,
+            "y": 283.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 310,
+            "y": 301
+          },
+          "upper_error_bar": {
+            "x": 310,
+            "y": 282.0
+          },
+          "lower_error_bar": {
+            "x": 310,
+            "y": 309.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 435,
+            "y": 328
+          },
+          "upper_error_bar": {
+            "x": 435,
+            "y": 310.0
+          },
+          "lower_error_bar": {
+            "x": 435,
+            "y": 337.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 135,
+            "y": 539
+          },
+          "upper_error_bar": {
+            "x": 135,
+            "y": 539.0
+          },
+          "lower_error_bar": {
+            "x": 135,
+            "y": 539.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 134,
+            "y": 79
+          },
+          "upper_error_bar": {
+            "x": 134,
+            "y": 79.0
+          },
+          "lower_error_bar": {
+            "x": 134,
+            "y": 79.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 146,
+            "y": 541
+          },
+          "upper_error_bar": {
+            "x": 146,
+            "y": 541.0
+          },
+          "lower_error_bar": {
+            "x": 146,
+            "y": 550.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 719,
+            "y": 541
+          },
+          "upper_error_bar": {
+            "x": 719,
+            "y": 541.0
+          },
+          "lower_error_bar": {
+            "x": 719,
+            "y": 546.0
+          }
+        }
+      ]
+    }
+  ]
+}

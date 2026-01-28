@@ -1,0 +1,505 @@
+{
+  "image_file": "6ab7d9cc-313e-4e28-82c4-1800c4695f1d.png",
+  "error_bars": [
+    {
+      "lineName": "Ascrinvacumab_4.5_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 332,
+            "y": 287
+          },
+          "upper_error_bar": {
+            "x": 332,
+            "y": 280.0
+          },
+          "lower_error_bar": {
+            "x": 332,
+            "y": 294.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 333,
+            "y": 258
+          },
+          "upper_error_bar": {
+            "x": 333,
+            "y": 206.0
+          },
+          "lower_error_bar": {
+            "x": 333,
+            "y": 258.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 369,
+            "y": 258
+          },
+          "upper_error_bar": {
+            "x": 369,
+            "y": 241.0
+          },
+          "lower_error_bar": {
+            "x": 369,
+            "y": 265.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 404,
+            "y": 268
+          },
+          "upper_error_bar": {
+            "x": 404,
+            "y": 251.0
+          },
+          "lower_error_bar": {
+            "x": 404,
+            "y": 274.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 477,
+            "y": 295
+          },
+          "upper_error_bar": {
+            "x": 477,
+            "y": 280.0
+          },
+          "lower_error_bar": {
+            "x": 477,
+            "y": 301.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 584,
+            "y": 310
+          },
+          "upper_error_bar": {
+            "x": 584,
+            "y": 297.0
+          },
+          "lower_error_bar": {
+            "x": 584,
+            "y": 316.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 693,
+            "y": 327
+          },
+          "upper_error_bar": {
+            "x": 693,
+            "y": 308.0
+          },
+          "lower_error_bar": {
+            "x": 693,
+            "y": 334.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 836,
+            "y": 337
+          },
+          "upper_error_bar": {
+            "x": 836,
+            "y": 330.0
+          },
+          "lower_error_bar": {
+            "x": 836,
+            "y": 343.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1086,
+            "y": 348
+          },
+          "upper_error_bar": {
+            "x": 1086,
+            "y": 326.0
+          },
+          "lower_error_bar": {
+            "x": 1086,
+            "y": 356.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1338,
+            "y": 364
+          },
+          "upper_error_bar": {
+            "x": 1338,
+            "y": 343.0
+          },
+          "lower_error_bar": {
+            "x": 1338,
+            "y": 371.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 333,
+            "y": 638
+          },
+          "upper_error_bar": {
+            "x": 333,
+            "y": 633.0
+          },
+          "lower_error_bar": {
+            "x": 333,
+            "y": 643.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 350,
+            "y": 251
+          },
+          "upper_error_bar": {
+            "x": 350,
+            "y": 234.0
+          },
+          "lower_error_bar": {
+            "x": 350,
+            "y": 258.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 343,
+            "y": 250
+          },
+          "upper_error_bar": {
+            "x": 343,
+            "y": 229.0
+          },
+          "lower_error_bar": {
+            "x": 343,
+            "y": 258.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 295,
+            "y": 679
+          },
+          "upper_error_bar": {
+            "x": 295,
+            "y": 679.0
+          },
+          "lower_error_bar": {
+            "x": 295,
+            "y": 684.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 294,
+            "y": 127
+          },
+          "upper_error_bar": {
+            "x": 294,
+            "y": 127.0
+          },
+          "lower_error_bar": {
+            "x": 294,
+            "y": 127.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 331,
+            "y": 683
+          },
+          "upper_error_bar": {
+            "x": 331,
+            "y": 669.0
+          },
+          "lower_error_bar": {
+            "x": 331,
+            "y": 691.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1338,
+            "y": 683
+          },
+          "upper_error_bar": {
+            "x": 1338,
+            "y": 683.0
+          },
+          "lower_error_bar": {
+            "x": 1338,
+            "y": 692.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Ascrinvacumab_10_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 333,
+            "y": 618
+          },
+          "upper_error_bar": {
+            "x": 333,
+            "y": 618.0
+          },
+          "lower_error_bar": {
+            "x": 333,
+            "y": 633.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 340,
+            "y": 210
+          },
+          "upper_error_bar": {
+            "x": 340,
+            "y": 201.0
+          },
+          "lower_error_bar": {
+            "x": 340,
+            "y": 215.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 335,
+            "y": 215
+          },
+          "upper_error_bar": {
+            "x": 335,
+            "y": 210.0
+          },
+          "lower_error_bar": {
+            "x": 335,
+            "y": 269.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 333,
+            "y": 236
+          },
+          "upper_error_bar": {
+            "x": 333,
+            "y": 206.0
+          },
+          "lower_error_bar": {
+            "x": 333,
+            "y": 236.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 333,
+            "y": 224
+          },
+          "upper_error_bar": {
+            "x": 333,
+            "y": 206.0
+          },
+          "lower_error_bar": {
+            "x": 333,
+            "y": 224.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 348,
+            "y": 221
+          },
+          "upper_error_bar": {
+            "x": 348,
+            "y": 216.0
+          },
+          "lower_error_bar": {
+            "x": 348,
+            "y": 226.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 372,
+            "y": 228
+          },
+          "upper_error_bar": {
+            "x": 372,
+            "y": 217.0
+          },
+          "lower_error_bar": {
+            "x": 372,
+            "y": 242.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 406,
+            "y": 236
+          },
+          "upper_error_bar": {
+            "x": 406,
+            "y": 226.0
+          },
+          "lower_error_bar": {
+            "x": 406,
+            "y": 241.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 479,
+            "y": 251
+          },
+          "upper_error_bar": {
+            "x": 479,
+            "y": 245.0
+          },
+          "lower_error_bar": {
+            "x": 479,
+            "y": 265.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 586,
+            "y": 264
+          },
+          "upper_error_bar": {
+            "x": 586,
+            "y": 256.0
+          },
+          "lower_error_bar": {
+            "x": 586,
+            "y": 270.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 693,
+            "y": 280
+          },
+          "upper_error_bar": {
+            "x": 693,
+            "y": 273.0
+          },
+          "lower_error_bar": {
+            "x": 693,
+            "y": 286.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 835,
+            "y": 288
+          },
+          "upper_error_bar": {
+            "x": 835,
+            "y": 281.0
+          },
+          "lower_error_bar": {
+            "x": 835,
+            "y": 293.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1086,
+            "y": 297
+          },
+          "upper_error_bar": {
+            "x": 1086,
+            "y": 291.0
+          },
+          "lower_error_bar": {
+            "x": 1086,
+            "y": 308.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1338,
+            "y": 306
+          },
+          "upper_error_bar": {
+            "x": 1338,
+            "y": 301.0
+          },
+          "lower_error_bar": {
+            "x": 1338,
+            "y": 312.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 295,
+            "y": 679
+          },
+          "upper_error_bar": {
+            "x": 295,
+            "y": 679.0
+          },
+          "lower_error_bar": {
+            "x": 295,
+            "y": 684.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 294,
+            "y": 127
+          },
+          "upper_error_bar": {
+            "x": 294,
+            "y": 127.0
+          },
+          "lower_error_bar": {
+            "x": 294,
+            "y": 127.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 331,
+            "y": 683
+          },
+          "upper_error_bar": {
+            "x": 331,
+            "y": 669.0
+          },
+          "lower_error_bar": {
+            "x": 331,
+            "y": 691.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1338,
+            "y": 683
+          },
+          "upper_error_bar": {
+            "x": 1338,
+            "y": 683.0
+          },
+          "lower_error_bar": {
+            "x": 1338,
+            "y": 692.0
+          }
+        }
+      ]
+    }
+  ]
+}

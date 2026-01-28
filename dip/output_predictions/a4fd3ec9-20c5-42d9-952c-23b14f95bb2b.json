@@ -1,0 +1,650 @@
+{
+  "image_file": "a4fd3ec9-20c5-42d9-952c-23b14f95bb2b.png",
+  "error_bars": [
+    {
+      "lineName": "Begelomab_3_mg",
+      "points": [
+        {
+          "data_point": {
+            "x": 456,
+            "y": 1317
+          },
+          "upper_error_bar": {
+            "x": 456,
+            "y": 1289.0
+          },
+          "lower_error_bar": {
+            "x": 456,
+            "y": 1334.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 253,
+            "y": 1322
+          },
+          "upper_error_bar": {
+            "x": 253,
+            "y": 1199.0
+          },
+          "lower_error_bar": {
+            "x": 253,
+            "y": 1329.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 251,
+            "y": 78
+          },
+          "upper_error_bar": {
+            "x": 251,
+            "y": 71.0
+          },
+          "lower_error_bar": {
+            "x": 251,
+            "y": 195.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 251,
+            "y": 1322
+          },
+          "upper_error_bar": {
+            "x": 251,
+            "y": 1199.0
+          },
+          "lower_error_bar": {
+            "x": 251,
+            "y": 1330.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1869,
+            "y": 1323
+          },
+          "upper_error_bar": {
+            "x": 1869,
+            "y": 1323.0
+          },
+          "lower_error_bar": {
+            "x": 1869,
+            "y": 1331.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 488,
+            "y": 1094
+          },
+          "upper_error_bar": {
+            "x": 488,
+            "y": 1078.0
+          },
+          "lower_error_bar": {
+            "x": 488,
+            "y": 1111.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 656,
+            "y": 1265
+          },
+          "upper_error_bar": {
+            "x": 656,
+            "y": 1247.0
+          },
+          "lower_error_bar": {
+            "x": 656,
+            "y": 1278.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 688,
+            "y": 1091
+          },
+          "upper_error_bar": {
+            "x": 688,
+            "y": 1075.0
+          },
+          "lower_error_bar": {
+            "x": 688,
+            "y": 1109.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 859,
+            "y": 1234
+          },
+          "upper_error_bar": {
+            "x": 859,
+            "y": 1218.0
+          },
+          "lower_error_bar": {
+            "x": 859,
+            "y": 1250.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 890,
+            "y": 1089
+          },
+          "upper_error_bar": {
+            "x": 890,
+            "y": 1075.0
+          },
+          "lower_error_bar": {
+            "x": 890,
+            "y": 1107.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1059,
+            "y": 1226
+          },
+          "upper_error_bar": {
+            "x": 1059,
+            "y": 1212.0
+          },
+          "lower_error_bar": {
+            "x": 1059,
+            "y": 1244.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1090,
+            "y": 1062
+          },
+          "upper_error_bar": {
+            "x": 1090,
+            "y": 1047.0
+          },
+          "lower_error_bar": {
+            "x": 1090,
+            "y": 1087.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1266,
+            "y": 1230
+          },
+          "upper_error_bar": {
+            "x": 1266,
+            "y": 1230.0
+          },
+          "lower_error_bar": {
+            "x": 1266,
+            "y": 1244.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1296,
+            "y": 1126
+          },
+          "upper_error_bar": {
+            "x": 1296,
+            "y": 1110.0
+          },
+          "lower_error_bar": {
+            "x": 1296,
+            "y": 1142.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Begelomab_4.5_mg",
+      "points": [
+        {
+          "data_point": {
+            "x": 253,
+            "y": 1322
+          },
+          "upper_error_bar": {
+            "x": 253,
+            "y": 1199.0
+          },
+          "lower_error_bar": {
+            "x": 253,
+            "y": 1329.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 251,
+            "y": 78
+          },
+          "upper_error_bar": {
+            "x": 251,
+            "y": 71.0
+          },
+          "lower_error_bar": {
+            "x": 251,
+            "y": 195.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 251,
+            "y": 1322
+          },
+          "upper_error_bar": {
+            "x": 251,
+            "y": 1199.0
+          },
+          "lower_error_bar": {
+            "x": 251,
+            "y": 1330.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1869,
+            "y": 1323
+          },
+          "upper_error_bar": {
+            "x": 1869,
+            "y": 1323.0
+          },
+          "lower_error_bar": {
+            "x": 1869,
+            "y": 1331.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 457,
+            "y": 1320
+          },
+          "upper_error_bar": {
+            "x": 457,
+            "y": 1247.0
+          },
+          "lower_error_bar": {
+            "x": 457,
+            "y": 1334.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 489,
+            "y": 762
+          },
+          "upper_error_bar": {
+            "x": 489,
+            "y": 745.0
+          },
+          "lower_error_bar": {
+            "x": 489,
+            "y": 774.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 657,
+            "y": 1040
+          },
+          "upper_error_bar": {
+            "x": 657,
+            "y": 965.0
+          },
+          "lower_error_bar": {
+            "x": 657,
+            "y": 1053.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 689,
+            "y": 456
+          },
+          "upper_error_bar": {
+            "x": 689,
+            "y": 437.0
+          },
+          "lower_error_bar": {
+            "x": 689,
+            "y": 456.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 857,
+            "y": 988
+          },
+          "upper_error_bar": {
+            "x": 857,
+            "y": 957.0
+          },
+          "lower_error_bar": {
+            "x": 857,
+            "y": 1000.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 891,
+            "y": 502
+          },
+          "upper_error_bar": {
+            "x": 891,
+            "y": 481.0
+          },
+          "lower_error_bar": {
+            "x": 891,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1059,
+            "y": 800
+          },
+          "upper_error_bar": {
+            "x": 1059,
+            "y": 733.0
+          },
+          "lower_error_bar": {
+            "x": 1059,
+            "y": 810.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1091,
+            "y": 146
+          },
+          "upper_error_bar": {
+            "x": 1091,
+            "y": 128.0
+          },
+          "lower_error_bar": {
+            "x": 1091,
+            "y": 208.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1265,
+            "y": 858
+          },
+          "upper_error_bar": {
+            "x": 1265,
+            "y": 731.0
+          },
+          "lower_error_bar": {
+            "x": 1265,
+            "y": 869.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1297,
+            "y": 262
+          },
+          "upper_error_bar": {
+            "x": 1297,
+            "y": 246.0
+          },
+          "lower_error_bar": {
+            "x": 1297,
+            "y": 281.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1465,
+            "y": 962
+          },
+          "upper_error_bar": {
+            "x": 1465,
+            "y": 941.0
+          },
+          "lower_error_bar": {
+            "x": 1465,
+            "y": 972.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Begelomab_2_mg",
+      "points": [
+        {
+          "data_point": {
+            "x": 455,
+            "y": 1318
+          },
+          "upper_error_bar": {
+            "x": 455,
+            "y": 1318.0
+          },
+          "lower_error_bar": {
+            "x": 455,
+            "y": 1334.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 489,
+            "y": 1304
+          },
+          "upper_error_bar": {
+            "x": 489,
+            "y": 1288.0
+          },
+          "lower_error_bar": {
+            "x": 489,
+            "y": 1322.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 657,
+            "y": 1312
+          },
+          "upper_error_bar": {
+            "x": 657,
+            "y": 1295.0
+          },
+          "lower_error_bar": {
+            "x": 657,
+            "y": 1329.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 687,
+            "y": 1256
+          },
+          "upper_error_bar": {
+            "x": 687,
+            "y": 1241.0
+          },
+          "lower_error_bar": {
+            "x": 687,
+            "y": 1272.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 859,
+            "y": 1296
+          },
+          "upper_error_bar": {
+            "x": 859,
+            "y": 1279.0
+          },
+          "lower_error_bar": {
+            "x": 859,
+            "y": 1310.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 891,
+            "y": 1223
+          },
+          "upper_error_bar": {
+            "x": 891,
+            "y": 1207.0
+          },
+          "lower_error_bar": {
+            "x": 891,
+            "y": 1237.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1060,
+            "y": 1284
+          },
+          "upper_error_bar": {
+            "x": 1060,
+            "y": 1269.0
+          },
+          "lower_error_bar": {
+            "x": 1060,
+            "y": 1300.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1090,
+            "y": 1173
+          },
+          "upper_error_bar": {
+            "x": 1090,
+            "y": 1159.0
+          },
+          "lower_error_bar": {
+            "x": 1090,
+            "y": 1191.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1265,
+            "y": 1271
+          },
+          "upper_error_bar": {
+            "x": 1265,
+            "y": 1256.0
+          },
+          "lower_error_bar": {
+            "x": 1265,
+            "y": 1287.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1296,
+            "y": 1276
+          },
+          "upper_error_bar": {
+            "x": 1296,
+            "y": 1259.0
+          },
+          "lower_error_bar": {
+            "x": 1296,
+            "y": 1289.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1465,
+            "y": 1289
+          },
+          "upper_error_bar": {
+            "x": 1465,
+            "y": 1275.0
+          },
+          "lower_error_bar": {
+            "x": 1465,
+            "y": 1306.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1666,
+            "y": 1309
+          },
+          "upper_error_bar": {
+            "x": 1666,
+            "y": 1294.0
+          },
+          "lower_error_bar": {
+            "x": 1666,
+            "y": 1331.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 253,
+            "y": 1322
+          },
+          "upper_error_bar": {
+            "x": 253,
+            "y": 1199.0
+          },
+          "lower_error_bar": {
+            "x": 253,
+            "y": 1329.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 251,
+            "y": 78
+          },
+          "upper_error_bar": {
+            "x": 251,
+            "y": 71.0
+          },
+          "lower_error_bar": {
+            "x": 251,
+            "y": 195.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 251,
+            "y": 1322
+          },
+          "upper_error_bar": {
+            "x": 251,
+            "y": 1199.0
+          },
+          "lower_error_bar": {
+            "x": 251,
+            "y": 1330.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1869,
+            "y": 1323
+          },
+          "upper_error_bar": {
+            "x": 1869,
+            "y": 1323.0
+          },
+          "lower_error_bar": {
+            "x": 1869,
+            "y": 1331.0
+          }
+        }
+      ]
+    }
+  ]
+}

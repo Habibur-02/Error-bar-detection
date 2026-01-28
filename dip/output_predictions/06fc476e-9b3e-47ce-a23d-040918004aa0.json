@@ -1,0 +1,393 @@
+{
+  "image_file": "06fc476e-9b3e-47ce-a23d-040918004aa0.png",
+  "error_bars": [
+    {
+      "lineName": "C-pep_Placebo",
+      "points": [
+        {
+          "data_point": {
+            "x": 237,
+            "y": 519
+          },
+          "upper_error_bar": {
+            "x": 237,
+            "y": 474.0
+          },
+          "lower_error_bar": {
+            "x": 237,
+            "y": 557.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 251,
+            "y": 530
+          },
+          "upper_error_bar": {
+            "x": 251,
+            "y": 522.0
+          },
+          "lower_error_bar": {
+            "x": 251,
+            "y": 568.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 280,
+            "y": 557
+          },
+          "upper_error_bar": {
+            "x": 280,
+            "y": 547.0
+          },
+          "lower_error_bar": {
+            "x": 280,
+            "y": 591.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 302,
+            "y": 549
+          },
+          "upper_error_bar": {
+            "x": 302,
+            "y": 540.0
+          },
+          "lower_error_bar": {
+            "x": 302,
+            "y": 591.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 366,
+            "y": 528
+          },
+          "upper_error_bar": {
+            "x": 366,
+            "y": 519.0
+          },
+          "lower_error_bar": {
+            "x": 366,
+            "y": 566.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 492,
+            "y": 508
+          },
+          "upper_error_bar": {
+            "x": 492,
+            "y": 496.0
+          },
+          "lower_error_bar": {
+            "x": 492,
+            "y": 548.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 615,
+            "y": 483
+          },
+          "upper_error_bar": {
+            "x": 615,
+            "y": 471.0
+          },
+          "lower_error_bar": {
+            "x": 615,
+            "y": 494.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 805,
+            "y": 478
+          },
+          "upper_error_bar": {
+            "x": 805,
+            "y": 468.0
+          },
+          "lower_error_bar": {
+            "x": 805,
+            "y": 525.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 994,
+            "y": 453
+          },
+          "upper_error_bar": {
+            "x": 994,
+            "y": 399.0
+          },
+          "lower_error_bar": {
+            "x": 994,
+            "y": 482.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 198,
+            "y": 713
+          },
+          "upper_error_bar": {
+            "x": 198,
+            "y": 713.0
+          },
+          "lower_error_bar": {
+            "x": 198,
+            "y": 718.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 201,
+            "y": 195
+          },
+          "upper_error_bar": {
+            "x": 201,
+            "y": 195.0
+          },
+          "lower_error_bar": {
+            "x": 201,
+            "y": 195.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 232,
+            "y": 719
+          },
+          "upper_error_bar": {
+            "x": 232,
+            "y": 719.0
+          },
+          "lower_error_bar": {
+            "x": 232,
+            "y": 736.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1005,
+            "y": 716
+          },
+          "upper_error_bar": {
+            "x": 1005,
+            "y": 716.0
+          },
+          "lower_error_bar": {
+            "x": 1005,
+            "y": 730.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "C-pep_CYA",
+      "points": [
+        {
+          "data_point": {
+            "x": 237,
+            "y": 500
+          },
+          "upper_error_bar": {
+            "x": 237,
+            "y": 474.0
+          },
+          "lower_error_bar": {
+            "x": 237,
+            "y": 557.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 255,
+            "y": 506
+          },
+          "upper_error_bar": {
+            "x": 255,
+            "y": 479.0
+          },
+          "lower_error_bar": {
+            "x": 255,
+            "y": 519.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 280,
+            "y": 494
+          },
+          "upper_error_bar": {
+            "x": 280,
+            "y": 468.0
+          },
+          "lower_error_bar": {
+            "x": 280,
+            "y": 509.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 303,
+            "y": 493
+          },
+          "upper_error_bar": {
+            "x": 303,
+            "y": 460.0
+          },
+          "lower_error_bar": {
+            "x": 303,
+            "y": 508.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 364,
+            "y": 454
+          },
+          "upper_error_bar": {
+            "x": 364,
+            "y": 437.0
+          },
+          "lower_error_bar": {
+            "x": 364,
+            "y": 466.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 489,
+            "y": 432
+          },
+          "upper_error_bar": {
+            "x": 489,
+            "y": 374.0
+          },
+          "lower_error_bar": {
+            "x": 489,
+            "y": 447.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 613,
+            "y": 432
+          },
+          "upper_error_bar": {
+            "x": 613,
+            "y": 417.0
+          },
+          "lower_error_bar": {
+            "x": 613,
+            "y": 445.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 801,
+            "y": 431
+          },
+          "upper_error_bar": {
+            "x": 801,
+            "y": 392.0
+          },
+          "lower_error_bar": {
+            "x": 801,
+            "y": 445.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 993,
+            "y": 431
+          },
+          "upper_error_bar": {
+            "x": 993,
+            "y": 385.0
+          },
+          "lower_error_bar": {
+            "x": 993,
+            "y": 462.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 875,
+            "y": 79
+          },
+          "upper_error_bar": {
+            "x": 875,
+            "y": 65.0
+          },
+          "lower_error_bar": {
+            "x": 875,
+            "y": 92.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 198,
+            "y": 713
+          },
+          "upper_error_bar": {
+            "x": 198,
+            "y": 713.0
+          },
+          "lower_error_bar": {
+            "x": 198,
+            "y": 718.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 201,
+            "y": 195
+          },
+          "upper_error_bar": {
+            "x": 201,
+            "y": 195.0
+          },
+          "lower_error_bar": {
+            "x": 201,
+            "y": 195.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 232,
+            "y": 719
+          },
+          "upper_error_bar": {
+            "x": 232,
+            "y": 719.0
+          },
+          "lower_error_bar": {
+            "x": 232,
+            "y": 736.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1005,
+            "y": 716
+          },
+          "upper_error_bar": {
+            "x": 1005,
+            "y": 716.0
+          },
+          "lower_error_bar": {
+            "x": 1005,
+            "y": 730.0
+          }
+        }
+      ]
+    }
+  ]
+}

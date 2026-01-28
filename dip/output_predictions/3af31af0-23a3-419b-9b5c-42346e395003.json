@@ -1,0 +1,2281 @@
+{
+  "image_file": "3af31af0-23a3-419b-9b5c-42346e395003.png",
+  "error_bars": [
+    {
+      "lineName": "375 mg Q14D SC Non-Japanese",
+      "points": [
+        {
+          "data_point": {
+            "x": 164,
+            "y": 503
+          },
+          "upper_error_bar": {
+            "x": 164,
+            "y": 497.0
+          },
+          "lower_error_bar": {
+            "x": 164,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 168,
+            "y": 502
+          },
+          "upper_error_bar": {
+            "x": 168,
+            "y": 491.0
+          },
+          "lower_error_bar": {
+            "x": 168,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 172,
+            "y": 498
+          },
+          "upper_error_bar": {
+            "x": 172,
+            "y": 491.0
+          },
+          "lower_error_bar": {
+            "x": 172,
+            "y": 512.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 186,
+            "y": 475
+          },
+          "upper_error_bar": {
+            "x": 186,
+            "y": 453.0
+          },
+          "lower_error_bar": {
+            "x": 186,
+            "y": 508.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 209,
+            "y": 453
+          },
+          "upper_error_bar": {
+            "x": 209,
+            "y": 430.0
+          },
+          "lower_error_bar": {
+            "x": 209,
+            "y": 508.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 232,
+            "y": 440
+          },
+          "upper_error_bar": {
+            "x": 232,
+            "y": 435.0
+          },
+          "lower_error_bar": {
+            "x": 232,
+            "y": 447.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 488,
+            "y": 440
+          },
+          "upper_error_bar": {
+            "x": 488,
+            "y": 430.0
+          },
+          "lower_error_bar": {
+            "x": 488,
+            "y": 458.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 581,
+            "y": 454
+          },
+          "upper_error_bar": {
+            "x": 581,
+            "y": 447.0
+          },
+          "lower_error_bar": {
+            "x": 581,
+            "y": 480.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 674,
+            "y": 463
+          },
+          "upper_error_bar": {
+            "x": 674,
+            "y": 406.0
+          },
+          "lower_error_bar": {
+            "x": 674,
+            "y": 469.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 815,
+            "y": 484
+          },
+          "upper_error_bar": {
+            "x": 815,
+            "y": 440.0
+          },
+          "lower_error_bar": {
+            "x": 815,
+            "y": 490.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 256,
+            "y": 413
+          },
+          "upper_error_bar": {
+            "x": 256,
+            "y": 375.0
+          },
+          "lower_error_bar": {
+            "x": 256,
+            "y": 502.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 302,
+            "y": 411
+          },
+          "upper_error_bar": {
+            "x": 302,
+            "y": 405.0
+          },
+          "lower_error_bar": {
+            "x": 302,
+            "y": 450.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 142,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 142,
+            "y": 504.0
+          },
+          "lower_error_bar": {
+            "x": 142,
+            "y": 504.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 142,
+            "y": 26
+          },
+          "upper_error_bar": {
+            "x": 142,
+            "y": 26.0
+          },
+          "lower_error_bar": {
+            "x": 142,
+            "y": 26.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 163,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 163,
+            "y": 498.0
+          },
+          "lower_error_bar": {
+            "x": 163,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 814,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 814,
+            "y": 490.0
+          },
+          "lower_error_bar": {
+            "x": 814,
+            "y": 514.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "375 mg Q14D SC Japanese",
+      "points": [
+        {
+          "data_point": {
+            "x": 174,
+            "y": 489
+          },
+          "upper_error_bar": {
+            "x": 174,
+            "y": 480.0
+          },
+          "lower_error_bar": {
+            "x": 174,
+            "y": 494.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 186,
+            "y": 479
+          },
+          "upper_error_bar": {
+            "x": 186,
+            "y": 472.0
+          },
+          "lower_error_bar": {
+            "x": 186,
+            "y": 508.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 209,
+            "y": 452
+          },
+          "upper_error_bar": {
+            "x": 209,
+            "y": 430.0
+          },
+          "lower_error_bar": {
+            "x": 209,
+            "y": 508.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 231,
+            "y": 426
+          },
+          "upper_error_bar": {
+            "x": 231,
+            "y": 397.0
+          },
+          "lower_error_bar": {
+            "x": 231,
+            "y": 505.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 256,
+            "y": 406
+          },
+          "upper_error_bar": {
+            "x": 256,
+            "y": 375.0
+          },
+          "lower_error_bar": {
+            "x": 256,
+            "y": 502.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 301,
+            "y": 389
+          },
+          "upper_error_bar": {
+            "x": 301,
+            "y": 380.0
+          },
+          "lower_error_bar": {
+            "x": 301,
+            "y": 437.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 489,
+            "y": 387
+          },
+          "upper_error_bar": {
+            "x": 489,
+            "y": 380.0
+          },
+          "lower_error_bar": {
+            "x": 489,
+            "y": 396.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 581,
+            "y": 415
+          },
+          "upper_error_bar": {
+            "x": 581,
+            "y": 384.0
+          },
+          "lower_error_bar": {
+            "x": 581,
+            "y": 447.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 674,
+            "y": 438
+          },
+          "upper_error_bar": {
+            "x": 674,
+            "y": 406.0
+          },
+          "lower_error_bar": {
+            "x": 674,
+            "y": 469.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 815,
+            "y": 469
+          },
+          "upper_error_bar": {
+            "x": 815,
+            "y": 440.0
+          },
+          "lower_error_bar": {
+            "x": 815,
+            "y": 490.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 172,
+            "y": 499
+          },
+          "upper_error_bar": {
+            "x": 172,
+            "y": 494.0
+          },
+          "lower_error_bar": {
+            "x": 172,
+            "y": 512.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 167,
+            "y": 502
+          },
+          "upper_error_bar": {
+            "x": 167,
+            "y": 493.0
+          },
+          "lower_error_bar": {
+            "x": 167,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 167,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 167,
+            "y": 493.0
+          },
+          "lower_error_bar": {
+            "x": 167,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 142,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 142,
+            "y": 504.0
+          },
+          "lower_error_bar": {
+            "x": 142,
+            "y": 504.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 142,
+            "y": 26
+          },
+          "upper_error_bar": {
+            "x": 142,
+            "y": 26.0
+          },
+          "lower_error_bar": {
+            "x": 142,
+            "y": 26.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 163,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 163,
+            "y": 498.0
+          },
+          "lower_error_bar": {
+            "x": 163,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 814,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 814,
+            "y": 490.0
+          },
+          "lower_error_bar": {
+            "x": 814,
+            "y": 514.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "250 mg Q14D SC Non-Japanese",
+      "points": [
+        {
+          "data_point": {
+            "x": 175,
+            "y": 493
+          },
+          "upper_error_bar": {
+            "x": 175,
+            "y": 485.0
+          },
+          "lower_error_bar": {
+            "x": 175,
+            "y": 510.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 186,
+            "y": 477
+          },
+          "upper_error_bar": {
+            "x": 186,
+            "y": 472.0
+          },
+          "lower_error_bar": {
+            "x": 186,
+            "y": 508.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 209,
+            "y": 462
+          },
+          "upper_error_bar": {
+            "x": 209,
+            "y": 430.0
+          },
+          "lower_error_bar": {
+            "x": 209,
+            "y": 508.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 233,
+            "y": 452
+          },
+          "upper_error_bar": {
+            "x": 233,
+            "y": 442.0
+          },
+          "lower_error_bar": {
+            "x": 233,
+            "y": 463.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 256,
+            "y": 441
+          },
+          "upper_error_bar": {
+            "x": 256,
+            "y": 375.0
+          },
+          "lower_error_bar": {
+            "x": 256,
+            "y": 502.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 302,
+            "y": 439
+          },
+          "upper_error_bar": {
+            "x": 302,
+            "y": 405.0
+          },
+          "lower_error_bar": {
+            "x": 302,
+            "y": 450.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 488,
+            "y": 446
+          },
+          "upper_error_bar": {
+            "x": 488,
+            "y": 436.0
+          },
+          "lower_error_bar": {
+            "x": 488,
+            "y": 458.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 581,
+            "y": 465
+          },
+          "upper_error_bar": {
+            "x": 581,
+            "y": 453.0
+          },
+          "lower_error_bar": {
+            "x": 581,
+            "y": 480.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 674,
+            "y": 474
+          },
+          "upper_error_bar": {
+            "x": 674,
+            "y": 469.0
+          },
+          "lower_error_bar": {
+            "x": 674,
+            "y": 484.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 814,
+            "y": 486
+          },
+          "upper_error_bar": {
+            "x": 814,
+            "y": 480.0
+          },
+          "lower_error_bar": {
+            "x": 814,
+            "y": 514.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 164,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 164,
+            "y": 497.0
+          },
+          "lower_error_bar": {
+            "x": 164,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 170,
+            "y": 498
+          },
+          "upper_error_bar": {
+            "x": 170,
+            "y": 490.0
+          },
+          "lower_error_bar": {
+            "x": 170,
+            "y": 514.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 142,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 142,
+            "y": 504.0
+          },
+          "lower_error_bar": {
+            "x": 142,
+            "y": 504.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 142,
+            "y": 26
+          },
+          "upper_error_bar": {
+            "x": 142,
+            "y": 26.0
+          },
+          "lower_error_bar": {
+            "x": 142,
+            "y": 26.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 163,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 163,
+            "y": 498.0
+          },
+          "lower_error_bar": {
+            "x": 163,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 814,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 814,
+            "y": 490.0
+          },
+          "lower_error_bar": {
+            "x": 814,
+            "y": 514.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "125 mg Q7D SC Non-Japanese",
+      "points": [
+        {
+          "data_point": {
+            "x": 165,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 165,
+            "y": 496.0
+          },
+          "lower_error_bar": {
+            "x": 165,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 186,
+            "y": 491
+          },
+          "upper_error_bar": {
+            "x": 186,
+            "y": 472.0
+          },
+          "lower_error_bar": {
+            "x": 186,
+            "y": 508.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 209,
+            "y": 483
+          },
+          "upper_error_bar": {
+            "x": 209,
+            "y": 430.0
+          },
+          "lower_error_bar": {
+            "x": 209,
+            "y": 508.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 232,
+            "y": 476
+          },
+          "upper_error_bar": {
+            "x": 232,
+            "y": 468.0
+          },
+          "lower_error_bar": {
+            "x": 232,
+            "y": 495.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 256,
+            "y": 476
+          },
+          "upper_error_bar": {
+            "x": 256,
+            "y": 375.0
+          },
+          "lower_error_bar": {
+            "x": 256,
+            "y": 502.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 302,
+            "y": 471
+          },
+          "upper_error_bar": {
+            "x": 302,
+            "y": 450.0
+          },
+          "lower_error_bar": {
+            "x": 302,
+            "y": 495.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 489,
+            "y": 482
+          },
+          "upper_error_bar": {
+            "x": 489,
+            "y": 476.0
+          },
+          "lower_error_bar": {
+            "x": 489,
+            "y": 492.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 582,
+            "y": 488
+          },
+          "upper_error_bar": {
+            "x": 582,
+            "y": 482.0
+          },
+          "lower_error_bar": {
+            "x": 582,
+            "y": 495.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 674,
+            "y": 492
+          },
+          "upper_error_bar": {
+            "x": 674,
+            "y": 484.0
+          },
+          "lower_error_bar": {
+            "x": 674,
+            "y": 500.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 814,
+            "y": 497
+          },
+          "upper_error_bar": {
+            "x": 814,
+            "y": 490.0
+          },
+          "lower_error_bar": {
+            "x": 814,
+            "y": 514.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 172,
+            "y": 499
+          },
+          "upper_error_bar": {
+            "x": 172,
+            "y": 494.0
+          },
+          "lower_error_bar": {
+            "x": 172,
+            "y": 512.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 142,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 142,
+            "y": 504.0
+          },
+          "lower_error_bar": {
+            "x": 142,
+            "y": 504.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 142,
+            "y": 26
+          },
+          "upper_error_bar": {
+            "x": 142,
+            "y": 26.0
+          },
+          "lower_error_bar": {
+            "x": 142,
+            "y": 26.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 163,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 163,
+            "y": 498.0
+          },
+          "lower_error_bar": {
+            "x": 163,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 814,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 814,
+            "y": 490.0
+          },
+          "lower_error_bar": {
+            "x": 814,
+            "y": 514.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "250 mg Q14D IV Non-Japanese",
+      "points": [
+        {
+          "data_point": {
+            "x": 179,
+            "y": 178
+          },
+          "upper_error_bar": {
+            "x": 179,
+            "y": 172.0
+          },
+          "lower_error_bar": {
+            "x": 179,
+            "y": 183.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 165,
+            "y": 162
+          },
+          "upper_error_bar": {
+            "x": 165,
+            "y": 117.0
+          },
+          "lower_error_bar": {
+            "x": 165,
+            "y": 162.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 173,
+            "y": 172
+          },
+          "upper_error_bar": {
+            "x": 173,
+            "y": 155.0
+          },
+          "lower_error_bar": {
+            "x": 173,
+            "y": 209.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 189,
+            "y": 235
+          },
+          "upper_error_bar": {
+            "x": 189,
+            "y": 213.0
+          },
+          "lower_error_bar": {
+            "x": 189,
+            "y": 240.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 213,
+            "y": 260
+          },
+          "upper_error_bar": {
+            "x": 213,
+            "y": 218.0
+          },
+          "lower_error_bar": {
+            "x": 213,
+            "y": 269.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 235,
+            "y": 309
+          },
+          "upper_error_bar": {
+            "x": 235,
+            "y": 297.0
+          },
+          "lower_error_bar": {
+            "x": 235,
+            "y": 333.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 260,
+            "y": 327
+          },
+          "upper_error_bar": {
+            "x": 260,
+            "y": 322.0
+          },
+          "lower_error_bar": {
+            "x": 260,
+            "y": 338.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 305,
+            "y": 359
+          },
+          "upper_error_bar": {
+            "x": 305,
+            "y": 335.0
+          },
+          "lower_error_bar": {
+            "x": 305,
+            "y": 380.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 493,
+            "y": 451
+          },
+          "upper_error_bar": {
+            "x": 493,
+            "y": 443.0
+          },
+          "lower_error_bar": {
+            "x": 493,
+            "y": 456.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 585,
+            "y": 472
+          },
+          "upper_error_bar": {
+            "x": 585,
+            "y": 458.0
+          },
+          "lower_error_bar": {
+            "x": 585,
+            "y": 479.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 678,
+            "y": 482
+          },
+          "upper_error_bar": {
+            "x": 678,
+            "y": 472.0
+          },
+          "lower_error_bar": {
+            "x": 678,
+            "y": 499.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 816,
+            "y": 496
+          },
+          "upper_error_bar": {
+            "x": 816,
+            "y": 490.0
+          },
+          "lower_error_bar": {
+            "x": 816,
+            "y": 508.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 142,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 142,
+            "y": 504.0
+          },
+          "lower_error_bar": {
+            "x": 142,
+            "y": 504.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 142,
+            "y": 26
+          },
+          "upper_error_bar": {
+            "x": 142,
+            "y": 26.0
+          },
+          "lower_error_bar": {
+            "x": 142,
+            "y": 26.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 163,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 163,
+            "y": 498.0
+          },
+          "lower_error_bar": {
+            "x": 163,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 814,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 814,
+            "y": 490.0
+          },
+          "lower_error_bar": {
+            "x": 814,
+            "y": 514.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "250 mg Q14D SC Japanese",
+      "points": [
+        {
+          "data_point": {
+            "x": 174,
+            "y": 493
+          },
+          "upper_error_bar": {
+            "x": 174,
+            "y": 486.0
+          },
+          "lower_error_bar": {
+            "x": 174,
+            "y": 510.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 186,
+            "y": 477
+          },
+          "upper_error_bar": {
+            "x": 186,
+            "y": 472.0
+          },
+          "lower_error_bar": {
+            "x": 186,
+            "y": 508.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 209,
+            "y": 464
+          },
+          "upper_error_bar": {
+            "x": 209,
+            "y": 430.0
+          },
+          "lower_error_bar": {
+            "x": 209,
+            "y": 508.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 232,
+            "y": 453
+          },
+          "upper_error_bar": {
+            "x": 232,
+            "y": 447.0
+          },
+          "lower_error_bar": {
+            "x": 232,
+            "y": 468.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 255,
+            "y": 442
+          },
+          "upper_error_bar": {
+            "x": 255,
+            "y": 375.0
+          },
+          "lower_error_bar": {
+            "x": 255,
+            "y": 502.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 302,
+            "y": 427
+          },
+          "upper_error_bar": {
+            "x": 302,
+            "y": 405.0
+          },
+          "lower_error_bar": {
+            "x": 302,
+            "y": 450.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 489,
+            "y": 450
+          },
+          "upper_error_bar": {
+            "x": 489,
+            "y": 443.0
+          },
+          "lower_error_bar": {
+            "x": 489,
+            "y": 461.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 582,
+            "y": 467
+          },
+          "upper_error_bar": {
+            "x": 582,
+            "y": 453.0
+          },
+          "lower_error_bar": {
+            "x": 582,
+            "y": 480.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 674,
+            "y": 477
+          },
+          "upper_error_bar": {
+            "x": 674,
+            "y": 472.0
+          },
+          "lower_error_bar": {
+            "x": 674,
+            "y": 484.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 815,
+            "y": 486
+          },
+          "upper_error_bar": {
+            "x": 815,
+            "y": 440.0
+          },
+          "lower_error_bar": {
+            "x": 815,
+            "y": 520.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 169,
+            "y": 500
+          },
+          "upper_error_bar": {
+            "x": 169,
+            "y": 491.0
+          },
+          "lower_error_bar": {
+            "x": 169,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 165,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 165,
+            "y": 496.0
+          },
+          "lower_error_bar": {
+            "x": 165,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 142,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 142,
+            "y": 504.0
+          },
+          "lower_error_bar": {
+            "x": 142,
+            "y": 504.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 142,
+            "y": 26
+          },
+          "upper_error_bar": {
+            "x": 142,
+            "y": 26.0
+          },
+          "lower_error_bar": {
+            "x": 142,
+            "y": 26.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 163,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 163,
+            "y": 498.0
+          },
+          "lower_error_bar": {
+            "x": 163,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 814,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 814,
+            "y": 490.0
+          },
+          "lower_error_bar": {
+            "x": 814,
+            "y": 514.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "250 mg Q14D IV Japanese",
+      "points": [
+        {
+          "data_point": {
+            "x": 166,
+            "y": 126
+          },
+          "upper_error_bar": {
+            "x": 166,
+            "y": 118.0
+          },
+          "lower_error_bar": {
+            "x": 166,
+            "y": 126.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 173,
+            "y": 148
+          },
+          "upper_error_bar": {
+            "x": 173,
+            "y": 86.0
+          },
+          "lower_error_bar": {
+            "x": 173,
+            "y": 155.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 178,
+            "y": 144
+          },
+          "upper_error_bar": {
+            "x": 178,
+            "y": 107.0
+          },
+          "lower_error_bar": {
+            "x": 178,
+            "y": 165.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 189,
+            "y": 205
+          },
+          "upper_error_bar": {
+            "x": 189,
+            "y": 176.0
+          },
+          "lower_error_bar": {
+            "x": 189,
+            "y": 210.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 212,
+            "y": 279
+          },
+          "upper_error_bar": {
+            "x": 212,
+            "y": 263.0
+          },
+          "lower_error_bar": {
+            "x": 212,
+            "y": 336.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 236,
+            "y": 326
+          },
+          "upper_error_bar": {
+            "x": 236,
+            "y": 313.0
+          },
+          "lower_error_bar": {
+            "x": 236,
+            "y": 332.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 258,
+            "y": 337
+          },
+          "upper_error_bar": {
+            "x": 258,
+            "y": 329.0
+          },
+          "lower_error_bar": {
+            "x": 258,
+            "y": 343.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 305,
+            "y": 376
+          },
+          "upper_error_bar": {
+            "x": 305,
+            "y": 362.0
+          },
+          "lower_error_bar": {
+            "x": 305,
+            "y": 381.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 491,
+            "y": 462
+          },
+          "upper_error_bar": {
+            "x": 491,
+            "y": 456.0
+          },
+          "lower_error_bar": {
+            "x": 491,
+            "y": 467.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 584,
+            "y": 476
+          },
+          "upper_error_bar": {
+            "x": 584,
+            "y": 457.0
+          },
+          "lower_error_bar": {
+            "x": 584,
+            "y": 483.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 679,
+            "y": 484
+          },
+          "upper_error_bar": {
+            "x": 679,
+            "y": 472.0
+          },
+          "lower_error_bar": {
+            "x": 679,
+            "y": 499.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 817,
+            "y": 497
+          },
+          "upper_error_bar": {
+            "x": 817,
+            "y": 490.0
+          },
+          "lower_error_bar": {
+            "x": 817,
+            "y": 508.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 142,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 142,
+            "y": 504.0
+          },
+          "lower_error_bar": {
+            "x": 142,
+            "y": 504.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 142,
+            "y": 26
+          },
+          "upper_error_bar": {
+            "x": 142,
+            "y": 26.0
+          },
+          "lower_error_bar": {
+            "x": 142,
+            "y": 26.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 163,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 163,
+            "y": 498.0
+          },
+          "lower_error_bar": {
+            "x": 163,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 814,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 814,
+            "y": 490.0
+          },
+          "lower_error_bar": {
+            "x": 814,
+            "y": 514.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "125 mg Q14D SC Japanese",
+      "points": [
+        {
+          "data_point": {
+            "x": 168,
+            "y": 503
+          },
+          "upper_error_bar": {
+            "x": 168,
+            "y": 491.0
+          },
+          "lower_error_bar": {
+            "x": 168,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 174,
+            "y": 497
+          },
+          "upper_error_bar": {
+            "x": 174,
+            "y": 491.0
+          },
+          "lower_error_bar": {
+            "x": 174,
+            "y": 510.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 186,
+            "y": 491
+          },
+          "upper_error_bar": {
+            "x": 186,
+            "y": 472.0
+          },
+          "lower_error_bar": {
+            "x": 186,
+            "y": 508.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 209,
+            "y": 484
+          },
+          "upper_error_bar": {
+            "x": 209,
+            "y": 430.0
+          },
+          "lower_error_bar": {
+            "x": 209,
+            "y": 508.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 233,
+            "y": 477
+          },
+          "upper_error_bar": {
+            "x": 233,
+            "y": 467.0
+          },
+          "lower_error_bar": {
+            "x": 233,
+            "y": 494.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 255,
+            "y": 475
+          },
+          "upper_error_bar": {
+            "x": 255,
+            "y": 375.0
+          },
+          "lower_error_bar": {
+            "x": 255,
+            "y": 502.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 301,
+            "y": 470
+          },
+          "upper_error_bar": {
+            "x": 301,
+            "y": 450.0
+          },
+          "lower_error_bar": {
+            "x": 301,
+            "y": 495.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 488,
+            "y": 483
+          },
+          "upper_error_bar": {
+            "x": 488,
+            "y": 476.0
+          },
+          "lower_error_bar": {
+            "x": 488,
+            "y": 492.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 581,
+            "y": 487
+          },
+          "upper_error_bar": {
+            "x": 581,
+            "y": 482.0
+          },
+          "lower_error_bar": {
+            "x": 581,
+            "y": 495.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 675,
+            "y": 492
+          },
+          "upper_error_bar": {
+            "x": 675,
+            "y": 484.0
+          },
+          "lower_error_bar": {
+            "x": 675,
+            "y": 500.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 815,
+            "y": 497
+          },
+          "upper_error_bar": {
+            "x": 815,
+            "y": 490.0
+          },
+          "lower_error_bar": {
+            "x": 815,
+            "y": 520.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 164,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 164,
+            "y": 497.0
+          },
+          "lower_error_bar": {
+            "x": 164,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 142,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 142,
+            "y": 504.0
+          },
+          "lower_error_bar": {
+            "x": 142,
+            "y": 504.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 142,
+            "y": 26
+          },
+          "upper_error_bar": {
+            "x": 142,
+            "y": 26.0
+          },
+          "lower_error_bar": {
+            "x": 142,
+            "y": 26.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 163,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 163,
+            "y": 498.0
+          },
+          "lower_error_bar": {
+            "x": 163,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 814,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 814,
+            "y": 490.0
+          },
+          "lower_error_bar": {
+            "x": 814,
+            "y": 514.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "125 mg Q14D SC Non-Japanese",
+      "points": [
+        {
+          "data_point": {
+            "x": 174,
+            "y": 498
+          },
+          "upper_error_bar": {
+            "x": 174,
+            "y": 491.0
+          },
+          "lower_error_bar": {
+            "x": 174,
+            "y": 510.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 164,
+            "y": 503
+          },
+          "upper_error_bar": {
+            "x": 164,
+            "y": 497.0
+          },
+          "lower_error_bar": {
+            "x": 164,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 186,
+            "y": 491
+          },
+          "upper_error_bar": {
+            "x": 186,
+            "y": 472.0
+          },
+          "lower_error_bar": {
+            "x": 186,
+            "y": 508.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 209,
+            "y": 484
+          },
+          "upper_error_bar": {
+            "x": 209,
+            "y": 430.0
+          },
+          "lower_error_bar": {
+            "x": 209,
+            "y": 508.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 231,
+            "y": 476
+          },
+          "upper_error_bar": {
+            "x": 231,
+            "y": 397.0
+          },
+          "lower_error_bar": {
+            "x": 231,
+            "y": 505.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 256,
+            "y": 475
+          },
+          "upper_error_bar": {
+            "x": 256,
+            "y": 375.0
+          },
+          "lower_error_bar": {
+            "x": 256,
+            "y": 502.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 302,
+            "y": 472
+          },
+          "upper_error_bar": {
+            "x": 302,
+            "y": 450.0
+          },
+          "lower_error_bar": {
+            "x": 302,
+            "y": 495.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 488,
+            "y": 479
+          },
+          "upper_error_bar": {
+            "x": 488,
+            "y": 473.0
+          },
+          "lower_error_bar": {
+            "x": 488,
+            "y": 492.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 582,
+            "y": 486
+          },
+          "upper_error_bar": {
+            "x": 582,
+            "y": 480.0
+          },
+          "lower_error_bar": {
+            "x": 582,
+            "y": 495.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 675,
+            "y": 492
+          },
+          "upper_error_bar": {
+            "x": 675,
+            "y": 484.0
+          },
+          "lower_error_bar": {
+            "x": 675,
+            "y": 500.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 815,
+            "y": 498
+          },
+          "upper_error_bar": {
+            "x": 815,
+            "y": 490.0
+          },
+          "lower_error_bar": {
+            "x": 815,
+            "y": 520.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 167,
+            "y": 503
+          },
+          "upper_error_bar": {
+            "x": 167,
+            "y": 493.0
+          },
+          "lower_error_bar": {
+            "x": 167,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 142,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 142,
+            "y": 504.0
+          },
+          "lower_error_bar": {
+            "x": 142,
+            "y": 504.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 142,
+            "y": 26
+          },
+          "upper_error_bar": {
+            "x": 142,
+            "y": 26.0
+          },
+          "lower_error_bar": {
+            "x": 142,
+            "y": 26.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 163,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 163,
+            "y": 498.0
+          },
+          "lower_error_bar": {
+            "x": 163,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 814,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 814,
+            "y": 490.0
+          },
+          "lower_error_bar": {
+            "x": 814,
+            "y": 514.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "125 mg Q7D SC Japanese",
+      "points": [
+        {
+          "data_point": {
+            "x": 163,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 163,
+            "y": 498.0
+          },
+          "lower_error_bar": {
+            "x": 163,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 186,
+            "y": 496
+          },
+          "upper_error_bar": {
+            "x": 186,
+            "y": 472.0
+          },
+          "lower_error_bar": {
+            "x": 186,
+            "y": 508.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 209,
+            "y": 490
+          },
+          "upper_error_bar": {
+            "x": 209,
+            "y": 430.0
+          },
+          "lower_error_bar": {
+            "x": 209,
+            "y": 508.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 233,
+            "y": 487
+          },
+          "upper_error_bar": {
+            "x": 233,
+            "y": 467.0
+          },
+          "lower_error_bar": {
+            "x": 233,
+            "y": 494.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 256,
+            "y": 485
+          },
+          "upper_error_bar": {
+            "x": 256,
+            "y": 375.0
+          },
+          "lower_error_bar": {
+            "x": 256,
+            "y": 502.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 302,
+            "y": 479
+          },
+          "upper_error_bar": {
+            "x": 302,
+            "y": 450.0
+          },
+          "lower_error_bar": {
+            "x": 302,
+            "y": 495.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 488,
+            "y": 480
+          },
+          "upper_error_bar": {
+            "x": 488,
+            "y": 473.0
+          },
+          "lower_error_bar": {
+            "x": 488,
+            "y": 492.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 582,
+            "y": 487
+          },
+          "upper_error_bar": {
+            "x": 582,
+            "y": 482.0
+          },
+          "lower_error_bar": {
+            "x": 582,
+            "y": 495.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 675,
+            "y": 491
+          },
+          "upper_error_bar": {
+            "x": 675,
+            "y": 484.0
+          },
+          "lower_error_bar": {
+            "x": 675,
+            "y": 500.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 815,
+            "y": 497
+          },
+          "upper_error_bar": {
+            "x": 815,
+            "y": 490.0
+          },
+          "lower_error_bar": {
+            "x": 815,
+            "y": 520.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 172,
+            "y": 502
+          },
+          "upper_error_bar": {
+            "x": 172,
+            "y": 494.0
+          },
+          "lower_error_bar": {
+            "x": 172,
+            "y": 512.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 142,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 142,
+            "y": 504.0
+          },
+          "lower_error_bar": {
+            "x": 142,
+            "y": 504.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 142,
+            "y": 26
+          },
+          "upper_error_bar": {
+            "x": 142,
+            "y": 26.0
+          },
+          "lower_error_bar": {
+            "x": 142,
+            "y": 26.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 163,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 163,
+            "y": 498.0
+          },
+          "lower_error_bar": {
+            "x": 163,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 814,
+            "y": 504
+          },
+          "upper_error_bar": {
+            "x": 814,
+            "y": 490.0
+          },
+          "lower_error_bar": {
+            "x": 814,
+            "y": 514.0
+          }
+        }
+      ]
+    }
+  ]
+}

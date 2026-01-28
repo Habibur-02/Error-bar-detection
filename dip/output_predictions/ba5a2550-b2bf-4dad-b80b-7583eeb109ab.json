@@ -1,0 +1,239 @@
+{
+  "image_file": "ba5a2550-b2bf-4dad-b80b-7583eeb109ab.png",
+  "error_bars": [
+    {
+      "lineName": "C-pep_Placebo (n = 61)",
+      "points": [
+        {
+          "data_point": {
+            "x": 219,
+            "y": 511
+          },
+          "upper_error_bar": {
+            "x": 219,
+            "y": 511.0
+          },
+          "lower_error_bar": {
+            "x": 219,
+            "y": 569.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 220,
+            "y": 116
+          },
+          "upper_error_bar": {
+            "x": 220,
+            "y": 63.0
+          },
+          "lower_error_bar": {
+            "x": 220,
+            "y": 116.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 235,
+            "y": 567
+          },
+          "upper_error_bar": {
+            "x": 235,
+            "y": 567.0
+          },
+          "lower_error_bar": {
+            "x": 235,
+            "y": 577.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 820,
+            "y": 567
+          },
+          "upper_error_bar": {
+            "x": 820,
+            "y": 567.0
+          },
+          "lower_error_bar": {
+            "x": 820,
+            "y": 577.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 379,
+            "y": 197
+          },
+          "upper_error_bar": {
+            "x": 379,
+            "y": 191.0
+          },
+          "lower_error_bar": {
+            "x": 379,
+            "y": 203.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 528,
+            "y": 137
+          },
+          "upper_error_bar": {
+            "x": 528,
+            "y": 90.0
+          },
+          "lower_error_bar": {
+            "x": 528,
+            "y": 142.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 675,
+            "y": 234
+          },
+          "upper_error_bar": {
+            "x": 675,
+            "y": 187.0
+          },
+          "lower_error_bar": {
+            "x": 675,
+            "y": 282.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 821,
+            "y": 306
+          },
+          "upper_error_bar": {
+            "x": 821,
+            "y": 258.0
+          },
+          "lower_error_bar": {
+            "x": 821,
+            "y": 349.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "C-pep_Otelixizumab (n = 118)",
+      "points": [
+        {
+          "data_point": {
+            "x": 219,
+            "y": 511
+          },
+          "upper_error_bar": {
+            "x": 219,
+            "y": 511.0
+          },
+          "lower_error_bar": {
+            "x": 219,
+            "y": 569.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 220,
+            "y": 116
+          },
+          "upper_error_bar": {
+            "x": 220,
+            "y": 63.0
+          },
+          "lower_error_bar": {
+            "x": 220,
+            "y": 116.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 235,
+            "y": 567
+          },
+          "upper_error_bar": {
+            "x": 235,
+            "y": 567.0
+          },
+          "lower_error_bar": {
+            "x": 235,
+            "y": 577.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 820,
+            "y": 567
+          },
+          "upper_error_bar": {
+            "x": 820,
+            "y": 567.0
+          },
+          "lower_error_bar": {
+            "x": 820,
+            "y": 577.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 399,
+            "y": 142
+          },
+          "upper_error_bar": {
+            "x": 399,
+            "y": 110.0
+          },
+          "lower_error_bar": {
+            "x": 399,
+            "y": 175.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 546,
+            "y": 194
+          },
+          "upper_error_bar": {
+            "x": 546,
+            "y": 163.0
+          },
+          "lower_error_bar": {
+            "x": 546,
+            "y": 224.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 692,
+            "y": 209
+          },
+          "upper_error_bar": {
+            "x": 692,
+            "y": 173.0
+          },
+          "lower_error_bar": {
+            "x": 692,
+            "y": 246.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 839,
+            "y": 320
+          },
+          "upper_error_bar": {
+            "x": 839,
+            "y": 289.0
+          },
+          "lower_error_bar": {
+            "x": 839,
+            "y": 351.0
+          }
+        }
+      ]
+    }
+  ]
+}

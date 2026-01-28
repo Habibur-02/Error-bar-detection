@@ -1,0 +1,608 @@
+{
+  "image_file": "4f921224-2545-4369-a8a3-a58dc9c976b0.png",
+  "error_bars": [
+    {
+      "lineName": "Onartuzumab_4_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 141,
+            "y": 237
+          },
+          "upper_error_bar": {
+            "x": 141,
+            "y": 226.0
+          },
+          "lower_error_bar": {
+            "x": 141,
+            "y": 254.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 149,
+            "y": 246
+          },
+          "upper_error_bar": {
+            "x": 149,
+            "y": 234.0
+          },
+          "lower_error_bar": {
+            "x": 149,
+            "y": 258.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 157,
+            "y": 261
+          },
+          "upper_error_bar": {
+            "x": 157,
+            "y": 250.0
+          },
+          "lower_error_bar": {
+            "x": 157,
+            "y": 270.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 192,
+            "y": 284
+          },
+          "upper_error_bar": {
+            "x": 192,
+            "y": 276.0
+          },
+          "lower_error_bar": {
+            "x": 192,
+            "y": 294.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 251,
+            "y": 300
+          },
+          "upper_error_bar": {
+            "x": 251,
+            "y": 278.0
+          },
+          "lower_error_bar": {
+            "x": 251,
+            "y": 325.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 303,
+            "y": 317
+          },
+          "upper_error_bar": {
+            "x": 303,
+            "y": 308.0
+          },
+          "lower_error_bar": {
+            "x": 303,
+            "y": 328.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 523,
+            "y": 359
+          },
+          "upper_error_bar": {
+            "x": 523,
+            "y": 349.0
+          },
+          "lower_error_bar": {
+            "x": 523,
+            "y": 372.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 690,
+            "y": 379
+          },
+          "upper_error_bar": {
+            "x": 690,
+            "y": 366.0
+          },
+          "lower_error_bar": {
+            "x": 690,
+            "y": 387.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 910,
+            "y": 416
+          },
+          "upper_error_bar": {
+            "x": 910,
+            "y": 402.0
+          },
+          "lower_error_bar": {
+            "x": 910,
+            "y": 434.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1297,
+            "y": 483
+          },
+          "upper_error_bar": {
+            "x": 1297,
+            "y": 466.0
+          },
+          "lower_error_bar": {
+            "x": 1297,
+            "y": 503.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 139,
+            "y": 569
+          },
+          "upper_error_bar": {
+            "x": 139,
+            "y": 569.0
+          },
+          "lower_error_bar": {
+            "x": 139,
+            "y": 615.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 141,
+            "y": 143
+          },
+          "upper_error_bar": {
+            "x": 141,
+            "y": 93.0
+          },
+          "lower_error_bar": {
+            "x": 141,
+            "y": 150.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 137,
+            "y": 601
+          },
+          "upper_error_bar": {
+            "x": 137,
+            "y": 567.0
+          },
+          "lower_error_bar": {
+            "x": 137,
+            "y": 625.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1295,
+            "y": 601
+          },
+          "upper_error_bar": {
+            "x": 1295,
+            "y": 503.0
+          },
+          "lower_error_bar": {
+            "x": 1295,
+            "y": 616.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Onartuzumab_30_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 158,
+            "y": 118
+          },
+          "upper_error_bar": {
+            "x": 158,
+            "y": 85.0
+          },
+          "lower_error_bar": {
+            "x": 158,
+            "y": 128.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 192,
+            "y": 133
+          },
+          "upper_error_bar": {
+            "x": 192,
+            "y": 116.0
+          },
+          "lower_error_bar": {
+            "x": 192,
+            "y": 152.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 251,
+            "y": 163
+          },
+          "upper_error_bar": {
+            "x": 251,
+            "y": 145.0
+          },
+          "lower_error_bar": {
+            "x": 251,
+            "y": 183.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 302,
+            "y": 177
+          },
+          "upper_error_bar": {
+            "x": 302,
+            "y": 170.0
+          },
+          "lower_error_bar": {
+            "x": 302,
+            "y": 241.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 525,
+            "y": 204
+          },
+          "upper_error_bar": {
+            "x": 525,
+            "y": 183.0
+          },
+          "lower_error_bar": {
+            "x": 525,
+            "y": 271.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 691,
+            "y": 225
+          },
+          "upper_error_bar": {
+            "x": 691,
+            "y": 220.0
+          },
+          "lower_error_bar": {
+            "x": 691,
+            "y": 230.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 910,
+            "y": 243
+          },
+          "upper_error_bar": {
+            "x": 910,
+            "y": 224.0
+          },
+          "lower_error_bar": {
+            "x": 910,
+            "y": 265.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 151,
+            "y": 88
+          },
+          "upper_error_bar": {
+            "x": 151,
+            "y": 76.0
+          },
+          "lower_error_bar": {
+            "x": 151,
+            "y": 124.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 146,
+            "y": 103
+          },
+          "upper_error_bar": {
+            "x": 146,
+            "y": 83.0
+          },
+          "lower_error_bar": {
+            "x": 146,
+            "y": 113.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 140,
+            "y": 101
+          },
+          "upper_error_bar": {
+            "x": 140,
+            "y": 76.0
+          },
+          "lower_error_bar": {
+            "x": 140,
+            "y": 150.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 139,
+            "y": 569
+          },
+          "upper_error_bar": {
+            "x": 139,
+            "y": 569.0
+          },
+          "lower_error_bar": {
+            "x": 139,
+            "y": 615.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 141,
+            "y": 143
+          },
+          "upper_error_bar": {
+            "x": 141,
+            "y": 93.0
+          },
+          "lower_error_bar": {
+            "x": 141,
+            "y": 150.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 137,
+            "y": 601
+          },
+          "upper_error_bar": {
+            "x": 137,
+            "y": 567.0
+          },
+          "lower_error_bar": {
+            "x": 137,
+            "y": 625.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1295,
+            "y": 601
+          },
+          "upper_error_bar": {
+            "x": 1295,
+            "y": 503.0
+          },
+          "lower_error_bar": {
+            "x": 1295,
+            "y": 616.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Onartuzumab_15_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 160,
+            "y": 154
+          },
+          "upper_error_bar": {
+            "x": 160,
+            "y": 110.0
+          },
+          "lower_error_bar": {
+            "x": 160,
+            "y": 195.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 192,
+            "y": 189
+          },
+          "upper_error_bar": {
+            "x": 192,
+            "y": 156.0
+          },
+          "lower_error_bar": {
+            "x": 192,
+            "y": 205.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 251,
+            "y": 197
+          },
+          "upper_error_bar": {
+            "x": 251,
+            "y": 183.0
+          },
+          "lower_error_bar": {
+            "x": 251,
+            "y": 239.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 691,
+            "y": 239
+          },
+          "upper_error_bar": {
+            "x": 691,
+            "y": 231.0
+          },
+          "lower_error_bar": {
+            "x": 691,
+            "y": 259.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 910,
+            "y": 259
+          },
+          "upper_error_bar": {
+            "x": 910,
+            "y": 224.0
+          },
+          "lower_error_bar": {
+            "x": 910,
+            "y": 265.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1296,
+            "y": 295
+          },
+          "upper_error_bar": {
+            "x": 1296,
+            "y": 290.0
+          },
+          "lower_error_bar": {
+            "x": 1296,
+            "y": 300.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 524,
+            "y": 239
+          },
+          "upper_error_bar": {
+            "x": 524,
+            "y": 183.0
+          },
+          "lower_error_bar": {
+            "x": 524,
+            "y": 270.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 303,
+            "y": 211
+          },
+          "upper_error_bar": {
+            "x": 303,
+            "y": 170.0
+          },
+          "lower_error_bar": {
+            "x": 303,
+            "y": 241.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 151,
+            "y": 162
+          },
+          "upper_error_bar": {
+            "x": 151,
+            "y": 139.0
+          },
+          "lower_error_bar": {
+            "x": 151,
+            "y": 185.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 139,
+            "y": 163
+          },
+          "upper_error_bar": {
+            "x": 139,
+            "y": 76.0
+          },
+          "lower_error_bar": {
+            "x": 139,
+            "y": 163.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 139,
+            "y": 569
+          },
+          "upper_error_bar": {
+            "x": 139,
+            "y": 569.0
+          },
+          "lower_error_bar": {
+            "x": 139,
+            "y": 615.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 141,
+            "y": 143
+          },
+          "upper_error_bar": {
+            "x": 141,
+            "y": 93.0
+          },
+          "lower_error_bar": {
+            "x": 141,
+            "y": 150.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 137,
+            "y": 601
+          },
+          "upper_error_bar": {
+            "x": 137,
+            "y": 567.0
+          },
+          "lower_error_bar": {
+            "x": 137,
+            "y": 625.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1295,
+            "y": 601
+          },
+          "upper_error_bar": {
+            "x": 1295,
+            "y": 503.0
+          },
+          "lower_error_bar": {
+            "x": 1295,
+            "y": 616.0
+          }
+        }
+      ]
+    }
+  ]
+}

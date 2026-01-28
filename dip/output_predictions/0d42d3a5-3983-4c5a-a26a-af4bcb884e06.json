@@ -1,0 +1,608 @@
+{
+  "image_file": "0d42d3a5-3983-4c5a-a26a-af4bcb884e06.png",
+  "error_bars": [
+    {
+      "lineName": "Afelimomab_1.0_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 864,
+            "y": 688
+          },
+          "upper_error_bar": {
+            "x": 864,
+            "y": 680.0
+          },
+          "lower_error_bar": {
+            "x": 864,
+            "y": 718.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 871,
+            "y": 757
+          },
+          "upper_error_bar": {
+            "x": 871,
+            "y": 749.0
+          },
+          "lower_error_bar": {
+            "x": 871,
+            "y": 769.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 860,
+            "y": 735
+          },
+          "upper_error_bar": {
+            "x": 860,
+            "y": 735.0
+          },
+          "lower_error_bar": {
+            "x": 860,
+            "y": 735.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 921,
+            "y": 939
+          },
+          "upper_error_bar": {
+            "x": 921,
+            "y": 931.0
+          },
+          "lower_error_bar": {
+            "x": 921,
+            "y": 947.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 983,
+            "y": 998
+          },
+          "upper_error_bar": {
+            "x": 983,
+            "y": 991.0
+          },
+          "lower_error_bar": {
+            "x": 983,
+            "y": 1035.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1106,
+            "y": 1017
+          },
+          "upper_error_bar": {
+            "x": 1106,
+            "y": 1009.0
+          },
+          "lower_error_bar": {
+            "x": 1106,
+            "y": 1035.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1353,
+            "y": 1020
+          },
+          "upper_error_bar": {
+            "x": 1353,
+            "y": 1005.0
+          },
+          "lower_error_bar": {
+            "x": 1353,
+            "y": 1035.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1598,
+            "y": 1021
+          },
+          "upper_error_bar": {
+            "x": 1598,
+            "y": 1009.0
+          },
+          "lower_error_bar": {
+            "x": 1598,
+            "y": 1035.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 2092,
+            "y": 1022
+          },
+          "upper_error_bar": {
+            "x": 2092,
+            "y": 1009.0
+          },
+          "lower_error_bar": {
+            "x": 2092,
+            "y": 1035.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 859,
+            "y": 1022
+          },
+          "upper_error_bar": {
+            "x": 859,
+            "y": 1022.0
+          },
+          "lower_error_bar": {
+            "x": 859,
+            "y": 1035.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 736,
+            "y": 1023
+          },
+          "upper_error_bar": {
+            "x": 736,
+            "y": 1023.0
+          },
+          "lower_error_bar": {
+            "x": 736,
+            "y": 1035.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 737,
+            "y": 57
+          },
+          "upper_error_bar": {
+            "x": 737,
+            "y": 52.0
+          },
+          "lower_error_bar": {
+            "x": 737,
+            "y": 57.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 859,
+            "y": 1023
+          },
+          "upper_error_bar": {
+            "x": 859,
+            "y": 1023.0
+          },
+          "lower_error_bar": {
+            "x": 859,
+            "y": 1035.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 2092,
+            "y": 1022
+          },
+          "upper_error_bar": {
+            "x": 2092,
+            "y": 1009.0
+          },
+          "lower_error_bar": {
+            "x": 2092,
+            "y": 1035.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Afelimomab_3.0_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 859,
+            "y": 1022
+          },
+          "upper_error_bar": {
+            "x": 859,
+            "y": 1022.0
+          },
+          "lower_error_bar": {
+            "x": 859,
+            "y": 1035.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 860,
+            "y": 376
+          },
+          "upper_error_bar": {
+            "x": 860,
+            "y": 327.0
+          },
+          "lower_error_bar": {
+            "x": 860,
+            "y": 376.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 865,
+            "y": 190
+          },
+          "upper_error_bar": {
+            "x": 865,
+            "y": 182.0
+          },
+          "lower_error_bar": {
+            "x": 865,
+            "y": 276.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 870,
+            "y": 343
+          },
+          "upper_error_bar": {
+            "x": 870,
+            "y": 301.0
+          },
+          "lower_error_bar": {
+            "x": 870,
+            "y": 363.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 921,
+            "y": 849
+          },
+          "upper_error_bar": {
+            "x": 921,
+            "y": 833.0
+          },
+          "lower_error_bar": {
+            "x": 921,
+            "y": 858.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 983,
+            "y": 949
+          },
+          "upper_error_bar": {
+            "x": 983,
+            "y": 941.0
+          },
+          "lower_error_bar": {
+            "x": 983,
+            "y": 957.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1105,
+            "y": 994
+          },
+          "upper_error_bar": {
+            "x": 1105,
+            "y": 986.0
+          },
+          "lower_error_bar": {
+            "x": 1105,
+            "y": 1002.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1351,
+            "y": 1013
+          },
+          "upper_error_bar": {
+            "x": 1351,
+            "y": 1005.0
+          },
+          "lower_error_bar": {
+            "x": 1351,
+            "y": 1035.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1598,
+            "y": 1018
+          },
+          "upper_error_bar": {
+            "x": 1598,
+            "y": 1009.0
+          },
+          "lower_error_bar": {
+            "x": 1598,
+            "y": 1035.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 2091,
+            "y": 1023
+          },
+          "upper_error_bar": {
+            "x": 2091,
+            "y": 1008.0
+          },
+          "lower_error_bar": {
+            "x": 2091,
+            "y": 1035.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 736,
+            "y": 1023
+          },
+          "upper_error_bar": {
+            "x": 736,
+            "y": 1023.0
+          },
+          "lower_error_bar": {
+            "x": 736,
+            "y": 1035.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 737,
+            "y": 57
+          },
+          "upper_error_bar": {
+            "x": 737,
+            "y": 52.0
+          },
+          "lower_error_bar": {
+            "x": 737,
+            "y": 57.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 859,
+            "y": 1023
+          },
+          "upper_error_bar": {
+            "x": 859,
+            "y": 1023.0
+          },
+          "lower_error_bar": {
+            "x": 859,
+            "y": 1035.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 2092,
+            "y": 1022
+          },
+          "upper_error_bar": {
+            "x": 2092,
+            "y": 1009.0
+          },
+          "lower_error_bar": {
+            "x": 2092,
+            "y": 1035.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Afelimomab_0.3_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 871,
+            "y": 924
+          },
+          "upper_error_bar": {
+            "x": 871,
+            "y": 916.0
+          },
+          "lower_error_bar": {
+            "x": 871,
+            "y": 931.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 861,
+            "y": 925
+          },
+          "upper_error_bar": {
+            "x": 861,
+            "y": 925.0
+          },
+          "lower_error_bar": {
+            "x": 861,
+            "y": 1034.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 866,
+            "y": 920
+          },
+          "upper_error_bar": {
+            "x": 866,
+            "y": 909.0
+          },
+          "lower_error_bar": {
+            "x": 866,
+            "y": 930.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 921,
+            "y": 1005
+          },
+          "upper_error_bar": {
+            "x": 921,
+            "y": 994.0
+          },
+          "lower_error_bar": {
+            "x": 921,
+            "y": 1011.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 983,
+            "y": 1018
+          },
+          "upper_error_bar": {
+            "x": 983,
+            "y": 991.0
+          },
+          "lower_error_bar": {
+            "x": 983,
+            "y": 1035.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1106,
+            "y": 1022
+          },
+          "upper_error_bar": {
+            "x": 1106,
+            "y": 1009.0
+          },
+          "lower_error_bar": {
+            "x": 1106,
+            "y": 1035.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1352,
+            "y": 1023
+          },
+          "upper_error_bar": {
+            "x": 1352,
+            "y": 1005.0
+          },
+          "lower_error_bar": {
+            "x": 1352,
+            "y": 1035.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1598,
+            "y": 1022
+          },
+          "upper_error_bar": {
+            "x": 1598,
+            "y": 1009.0
+          },
+          "lower_error_bar": {
+            "x": 1598,
+            "y": 1035.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 2091,
+            "y": 1021
+          },
+          "upper_error_bar": {
+            "x": 2091,
+            "y": 1008.0
+          },
+          "lower_error_bar": {
+            "x": 2091,
+            "y": 1035.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 859,
+            "y": 1022
+          },
+          "upper_error_bar": {
+            "x": 859,
+            "y": 1022.0
+          },
+          "lower_error_bar": {
+            "x": 859,
+            "y": 1035.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 736,
+            "y": 1023
+          },
+          "upper_error_bar": {
+            "x": 736,
+            "y": 1023.0
+          },
+          "lower_error_bar": {
+            "x": 736,
+            "y": 1035.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 737,
+            "y": 57
+          },
+          "upper_error_bar": {
+            "x": 737,
+            "y": 52.0
+          },
+          "lower_error_bar": {
+            "x": 737,
+            "y": 57.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 859,
+            "y": 1023
+          },
+          "upper_error_bar": {
+            "x": 859,
+            "y": 1023.0
+          },
+          "lower_error_bar": {
+            "x": 859,
+            "y": 1035.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 2092,
+            "y": 1022
+          },
+          "upper_error_bar": {
+            "x": 2092,
+            "y": 1009.0
+          },
+          "lower_error_bar": {
+            "x": 2092,
+            "y": 1035.0
+          }
+        }
+      ]
+    }
+  ]
+}

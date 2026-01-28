@@ -1,0 +1,206 @@
+{
+  "image_file": "a0e95e6e-deb4-4318-a856-d3012ef8be0c.png",
+  "error_bars": [
+    {
+      "lineName": "Ficlatuzumab_10_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 205,
+            "y": 347
+          },
+          "upper_error_bar": {
+            "x": 205,
+            "y": 329.0
+          },
+          "lower_error_bar": {
+            "x": 205,
+            "y": 364.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 363,
+            "y": 402
+          },
+          "upper_error_bar": {
+            "x": 363,
+            "y": 402.0
+          },
+          "lower_error_bar": {
+            "x": 363,
+            "y": 434.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 678,
+            "y": 347
+          },
+          "upper_error_bar": {
+            "x": 678,
+            "y": 333.0
+          },
+          "lower_error_bar": {
+            "x": 678,
+            "y": 359.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 726,
+            "y": 550
+          },
+          "upper_error_bar": {
+            "x": 726,
+            "y": 550.0
+          },
+          "lower_error_bar": {
+            "x": 726,
+            "y": 550.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 727,
+            "y": 335
+          },
+          "upper_error_bar": {
+            "x": 727,
+            "y": 335.0
+          },
+          "lower_error_bar": {
+            "x": 727,
+            "y": 335.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 49,
+            "y": 59
+          },
+          "upper_error_bar": {
+            "x": 49,
+            "y": 37.0
+          },
+          "lower_error_bar": {
+            "x": 49,
+            "y": 66.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 682,
+            "y": 60
+          },
+          "upper_error_bar": {
+            "x": 682,
+            "y": 37.0
+          },
+          "lower_error_bar": {
+            "x": 682,
+            "y": 66.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 521,
+            "y": 300
+          },
+          "upper_error_bar": {
+            "x": 521,
+            "y": 288.0
+          },
+          "lower_error_bar": {
+            "x": 521,
+            "y": 313.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 364,
+            "y": 245
+          },
+          "upper_error_bar": {
+            "x": 364,
+            "y": 236.0
+          },
+          "lower_error_bar": {
+            "x": 364,
+            "y": 269.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 364,
+            "y": 257
+          },
+          "upper_error_bar": {
+            "x": 364,
+            "y": 236.0
+          },
+          "lower_error_bar": {
+            "x": 364,
+            "y": 269.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 70,
+            "y": 288
+          },
+          "upper_error_bar": {
+            "x": 70,
+            "y": 259.0
+          },
+          "lower_error_bar": {
+            "x": 70,
+            "y": 301.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 58,
+            "y": 273
+          },
+          "upper_error_bar": {
+            "x": 58,
+            "y": 249.0
+          },
+          "lower_error_bar": {
+            "x": 58,
+            "y": 303.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 50,
+            "y": 273
+          },
+          "upper_error_bar": {
+            "x": 50,
+            "y": 239.0
+          },
+          "lower_error_bar": {
+            "x": 50,
+            "y": 312.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 50,
+            "y": 704
+          },
+          "upper_error_bar": {
+            "x": 50,
+            "y": 665.0
+          },
+          "lower_error_bar": {
+            "x": 50,
+            "y": 734.0
+          }
+        }
+      ]
+    }
+  ]
+}

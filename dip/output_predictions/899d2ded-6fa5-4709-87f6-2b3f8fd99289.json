@@ -1,0 +1,379 @@
+{
+  "image_file": "899d2ded-6fa5-4709-87f6-2b3f8fd99289.png",
+  "error_bars": [
+    {
+      "lineName": "Rituximab Rituxan",
+      "points": [
+        {
+          "data_point": {
+            "x": 1498,
+            "y": 619
+          },
+          "upper_error_bar": {
+            "x": 1498,
+            "y": 593.0
+          },
+          "lower_error_bar": {
+            "x": 1498,
+            "y": 650.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 884,
+            "y": 576
+          },
+          "upper_error_bar": {
+            "x": 884,
+            "y": 559.0
+          },
+          "lower_error_bar": {
+            "x": 884,
+            "y": 605.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 447,
+            "y": 469
+          },
+          "upper_error_bar": {
+            "x": 447,
+            "y": 459.0
+          },
+          "lower_error_bar": {
+            "x": 447,
+            "y": 527.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 358,
+            "y": 418
+          },
+          "upper_error_bar": {
+            "x": 358,
+            "y": 411.0
+          },
+          "lower_error_bar": {
+            "x": 358,
+            "y": 489.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 294,
+            "y": 354
+          },
+          "upper_error_bar": {
+            "x": 294,
+            "y": 332.0
+          },
+          "lower_error_bar": {
+            "x": 294,
+            "y": 438.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 274,
+            "y": 290
+          },
+          "upper_error_bar": {
+            "x": 274,
+            "y": 152.0
+          },
+          "lower_error_bar": {
+            "x": 274,
+            "y": 290.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 182,
+            "y": 703
+          },
+          "upper_error_bar": {
+            "x": 182,
+            "y": 703.0
+          },
+          "lower_error_bar": {
+            "x": 182,
+            "y": 735.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 182,
+            "y": 49
+          },
+          "upper_error_bar": {
+            "x": 182,
+            "y": 49.0
+          },
+          "lower_error_bar": {
+            "x": 182,
+            "y": 49.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 182,
+            "y": 703
+          },
+          "upper_error_bar": {
+            "x": 182,
+            "y": 703.0
+          },
+          "lower_error_bar": {
+            "x": 182,
+            "y": 735.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1498,
+            "y": 703
+          },
+          "upper_error_bar": {
+            "x": 1498,
+            "y": 650.0
+          },
+          "lower_error_bar": {
+            "x": 1498,
+            "y": 735.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 274,
+            "y": 308
+          },
+          "upper_error_bar": {
+            "x": 274,
+            "y": 308.0
+          },
+          "lower_error_bar": {
+            "x": 274,
+            "y": 308.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 275,
+            "y": 492
+          },
+          "upper_error_bar": {
+            "x": 275,
+            "y": 485.0
+          },
+          "lower_error_bar": {
+            "x": 275,
+            "y": 498.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 270,
+            "y": 702
+          },
+          "upper_error_bar": {
+            "x": 270,
+            "y": 568.0
+          },
+          "lower_error_bar": {
+            "x": 270,
+            "y": 708.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Rituximab MabThera",
+      "points": [
+        {
+          "data_point": {
+            "x": 1498,
+            "y": 617
+          },
+          "upper_error_bar": {
+            "x": 1498,
+            "y": 593.0
+          },
+          "lower_error_bar": {
+            "x": 1498,
+            "y": 650.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 884,
+            "y": 571
+          },
+          "upper_error_bar": {
+            "x": 884,
+            "y": 559.0
+          },
+          "lower_error_bar": {
+            "x": 884,
+            "y": 579.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 446,
+            "y": 469
+          },
+          "upper_error_bar": {
+            "x": 446,
+            "y": 461.0
+          },
+          "lower_error_bar": {
+            "x": 446,
+            "y": 479.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 359,
+            "y": 421
+          },
+          "upper_error_bar": {
+            "x": 359,
+            "y": 412.0
+          },
+          "lower_error_bar": {
+            "x": 359,
+            "y": 428.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 295,
+            "y": 348
+          },
+          "upper_error_bar": {
+            "x": 295,
+            "y": 334.0
+          },
+          "lower_error_bar": {
+            "x": 295,
+            "y": 353.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 275,
+            "y": 290
+          },
+          "upper_error_bar": {
+            "x": 275,
+            "y": 268.0
+          },
+          "lower_error_bar": {
+            "x": 275,
+            "y": 308.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 182,
+            "y": 703
+          },
+          "upper_error_bar": {
+            "x": 182,
+            "y": 703.0
+          },
+          "lower_error_bar": {
+            "x": 182,
+            "y": 735.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 182,
+            "y": 49
+          },
+          "upper_error_bar": {
+            "x": 182,
+            "y": 49.0
+          },
+          "lower_error_bar": {
+            "x": 182,
+            "y": 49.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 182,
+            "y": 703
+          },
+          "upper_error_bar": {
+            "x": 182,
+            "y": 703.0
+          },
+          "lower_error_bar": {
+            "x": 182,
+            "y": 735.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1498,
+            "y": 703
+          },
+          "upper_error_bar": {
+            "x": 1498,
+            "y": 650.0
+          },
+          "lower_error_bar": {
+            "x": 1498,
+            "y": 735.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 274,
+            "y": 479
+          },
+          "upper_error_bar": {
+            "x": 274,
+            "y": 479.0
+          },
+          "lower_error_bar": {
+            "x": 274,
+            "y": 526.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 274,
+            "y": 306
+          },
+          "upper_error_bar": {
+            "x": 274,
+            "y": 306.0
+          },
+          "lower_error_bar": {
+            "x": 274,
+            "y": 306.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 271,
+            "y": 700
+          },
+          "upper_error_bar": {
+            "x": 271,
+            "y": 700.0
+          },
+          "lower_error_bar": {
+            "x": 271,
+            "y": 705.0
+          }
+        }
+      ]
+    }
+  ]
+}

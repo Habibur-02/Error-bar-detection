@@ -1,0 +1,220 @@
+{
+  "image_file": "468f1840-77bb-4199-93b2-4638a22a1d78.png",
+  "error_bars": [
+    {
+      "lineName": "Ramucirumab Monotherapy (part B)",
+      "points": [
+        {
+          "data_point": {
+            "x": 1421,
+            "y": 768
+          },
+          "upper_error_bar": {
+            "x": 1421,
+            "y": 750.0
+          },
+          "lower_error_bar": {
+            "x": 1421,
+            "y": 787.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1154,
+            "y": 741
+          },
+          "upper_error_bar": {
+            "x": 1154,
+            "y": 716.0
+          },
+          "lower_error_bar": {
+            "x": 1154,
+            "y": 772.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 797,
+            "y": 698
+          },
+          "upper_error_bar": {
+            "x": 797,
+            "y": 683.0
+          },
+          "lower_error_bar": {
+            "x": 797,
+            "y": 726.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 439,
+            "y": 629
+          },
+          "upper_error_bar": {
+            "x": 439,
+            "y": 611.0
+          },
+          "lower_error_bar": {
+            "x": 439,
+            "y": 650.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 351,
+            "y": 579
+          },
+          "upper_error_bar": {
+            "x": 351,
+            "y": 543.0
+          },
+          "lower_error_bar": {
+            "x": 351,
+            "y": 625.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 263,
+            "y": 521
+          },
+          "upper_error_bar": {
+            "x": 263,
+            "y": 467.0
+          },
+          "lower_error_bar": {
+            "x": 263,
+            "y": 580.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 199,
+            "y": 477
+          },
+          "upper_error_bar": {
+            "x": 199,
+            "y": 408.0
+          },
+          "lower_error_bar": {
+            "x": 199,
+            "y": 499.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 191,
+            "y": 467
+          },
+          "upper_error_bar": {
+            "x": 191,
+            "y": 403.0
+          },
+          "lower_error_bar": {
+            "x": 191,
+            "y": 529.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 177,
+            "y": 455
+          },
+          "upper_error_bar": {
+            "x": 177,
+            "y": 386.0
+          },
+          "lower_error_bar": {
+            "x": 177,
+            "y": 531.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 175,
+            "y": 429
+          },
+          "upper_error_bar": {
+            "x": 175,
+            "y": 416.0
+          },
+          "lower_error_bar": {
+            "x": 175,
+            "y": 487.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 175,
+            "y": 834
+          },
+          "upper_error_bar": {
+            "x": 175,
+            "y": 804.0
+          },
+          "lower_error_bar": {
+            "x": 175,
+            "y": 865.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 137,
+            "y": 835
+          },
+          "upper_error_bar": {
+            "x": 137,
+            "y": 835.0
+          },
+          "lower_error_bar": {
+            "x": 137,
+            "y": 857.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 137,
+            "y": 227
+          },
+          "upper_error_bar": {
+            "x": 137,
+            "y": 125.0
+          },
+          "lower_error_bar": {
+            "x": 137,
+            "y": 227.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 175,
+            "y": 857
+          },
+          "upper_error_bar": {
+            "x": 175,
+            "y": 804.0
+          },
+          "lower_error_bar": {
+            "x": 175,
+            "y": 865.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1423,
+            "y": 855
+          },
+          "upper_error_bar": {
+            "x": 1423,
+            "y": 797.0
+          },
+          "lower_error_bar": {
+            "x": 1423,
+            "y": 864.0
+          }
+        }
+      ]
+    }
+  ]
+}

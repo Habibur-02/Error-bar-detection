@@ -1,0 +1,599 @@
+{
+  "image_file": "4630205d-dde9-4dac-b104-86a2bf9f3794.png",
+  "error_bars": [
+    {
+      "lineName": "Patritumab deruxtecan_6.4_mg/kg_IV Q3W",
+      "points": [
+        {
+          "data_point": {
+            "x": 1231,
+            "y": 856
+          },
+          "upper_error_bar": {
+            "x": 1231,
+            "y": 839.0
+          },
+          "lower_error_bar": {
+            "x": 1231,
+            "y": 890.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 927,
+            "y": 818
+          },
+          "upper_error_bar": {
+            "x": 927,
+            "y": 798.0
+          },
+          "lower_error_bar": {
+            "x": 927,
+            "y": 833.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 623,
+            "y": 759
+          },
+          "upper_error_bar": {
+            "x": 623,
+            "y": 739.0
+          },
+          "lower_error_bar": {
+            "x": 623,
+            "y": 782.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 336,
+            "y": 657
+          },
+          "upper_error_bar": {
+            "x": 336,
+            "y": 648.0
+          },
+          "lower_error_bar": {
+            "x": 336,
+            "y": 666.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 323,
+            "y": 635
+          },
+          "upper_error_bar": {
+            "x": 323,
+            "y": 615.0
+          },
+          "lower_error_bar": {
+            "x": 323,
+            "y": 649.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 328,
+            "y": 647
+          },
+          "upper_error_bar": {
+            "x": 328,
+            "y": 626.0
+          },
+          "lower_error_bar": {
+            "x": 328,
+            "y": 655.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 300,
+            "y": 1186
+          },
+          "upper_error_bar": {
+            "x": 300,
+            "y": 1186.0
+          },
+          "lower_error_bar": {
+            "x": 300,
+            "y": 1210.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 299,
+            "y": 474
+          },
+          "upper_error_bar": {
+            "x": 299,
+            "y": 468.0
+          },
+          "lower_error_bar": {
+            "x": 299,
+            "y": 480.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 318,
+            "y": 1187
+          },
+          "upper_error_bar": {
+            "x": 318,
+            "y": 1065.0
+          },
+          "lower_error_bar": {
+            "x": 318,
+            "y": 1193.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1230,
+            "y": 1187
+          },
+          "upper_error_bar": {
+            "x": 1230,
+            "y": 1047.0
+          },
+          "lower_error_bar": {
+            "x": 1230,
+            "y": 1197.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 322,
+            "y": 621
+          },
+          "upper_error_bar": {
+            "x": 322,
+            "y": 603.0
+          },
+          "lower_error_bar": {
+            "x": 322,
+            "y": 650.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Patritumab deruxtecan_3.2_mg/kg_IV Q3W",
+      "points": [
+        {
+          "data_point": {
+            "x": 1231,
+            "y": 1033
+          },
+          "upper_error_bar": {
+            "x": 1231,
+            "y": 983.0
+          },
+          "lower_error_bar": {
+            "x": 1231,
+            "y": 1044.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 927,
+            "y": 930
+          },
+          "upper_error_bar": {
+            "x": 927,
+            "y": 891.0
+          },
+          "lower_error_bar": {
+            "x": 927,
+            "y": 935.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 624,
+            "y": 845
+          },
+          "upper_error_bar": {
+            "x": 624,
+            "y": 816.0
+          },
+          "lower_error_bar": {
+            "x": 624,
+            "y": 850.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 334,
+            "y": 699
+          },
+          "upper_error_bar": {
+            "x": 334,
+            "y": 684.0
+          },
+          "lower_error_bar": {
+            "x": 334,
+            "y": 704.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 327,
+            "y": 690
+          },
+          "upper_error_bar": {
+            "x": 327,
+            "y": 684.0
+          },
+          "lower_error_bar": {
+            "x": 327,
+            "y": 700.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 300,
+            "y": 1186
+          },
+          "upper_error_bar": {
+            "x": 300,
+            "y": 1186.0
+          },
+          "lower_error_bar": {
+            "x": 300,
+            "y": 1210.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 299,
+            "y": 474
+          },
+          "upper_error_bar": {
+            "x": 299,
+            "y": 468.0
+          },
+          "lower_error_bar": {
+            "x": 299,
+            "y": 480.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 318,
+            "y": 1187
+          },
+          "upper_error_bar": {
+            "x": 318,
+            "y": 1065.0
+          },
+          "lower_error_bar": {
+            "x": 318,
+            "y": 1193.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1230,
+            "y": 1187
+          },
+          "upper_error_bar": {
+            "x": 1230,
+            "y": 1047.0
+          },
+          "lower_error_bar": {
+            "x": 1230,
+            "y": 1197.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 321,
+            "y": 679
+          },
+          "upper_error_bar": {
+            "x": 321,
+            "y": 663.0
+          },
+          "lower_error_bar": {
+            "x": 321,
+            "y": 686.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Patritumab deruxtecan_5.6_mg/kg_IV Q3W",
+      "points": [
+        {
+          "data_point": {
+            "x": 1230,
+            "y": 871
+          },
+          "upper_error_bar": {
+            "x": 1230,
+            "y": 838.0
+          },
+          "lower_error_bar": {
+            "x": 1230,
+            "y": 889.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 926,
+            "y": 819
+          },
+          "upper_error_bar": {
+            "x": 926,
+            "y": 797.0
+          },
+          "lower_error_bar": {
+            "x": 926,
+            "y": 833.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 624,
+            "y": 763
+          },
+          "upper_error_bar": {
+            "x": 624,
+            "y": 739.0
+          },
+          "lower_error_bar": {
+            "x": 624,
+            "y": 792.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 322,
+            "y": 643
+          },
+          "upper_error_bar": {
+            "x": 322,
+            "y": 603.0
+          },
+          "lower_error_bar": {
+            "x": 322,
+            "y": 650.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 333,
+            "y": 656
+          },
+          "upper_error_bar": {
+            "x": 333,
+            "y": 651.0
+          },
+          "lower_error_bar": {
+            "x": 333,
+            "y": 661.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 300,
+            "y": 1186
+          },
+          "upper_error_bar": {
+            "x": 300,
+            "y": 1186.0
+          },
+          "lower_error_bar": {
+            "x": 300,
+            "y": 1210.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 299,
+            "y": 474
+          },
+          "upper_error_bar": {
+            "x": 299,
+            "y": 468.0
+          },
+          "lower_error_bar": {
+            "x": 299,
+            "y": 480.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 318,
+            "y": 1187
+          },
+          "upper_error_bar": {
+            "x": 318,
+            "y": 1065.0
+          },
+          "lower_error_bar": {
+            "x": 318,
+            "y": 1193.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1230,
+            "y": 1187
+          },
+          "upper_error_bar": {
+            "x": 1230,
+            "y": 1047.0
+          },
+          "lower_error_bar": {
+            "x": 1230,
+            "y": 1197.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 318,
+            "y": 631
+          },
+          "upper_error_bar": {
+            "x": 318,
+            "y": 619.0
+          },
+          "lower_error_bar": {
+            "x": 318,
+            "y": 650.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Patritumab deruxtecan_4.8_mg/kg_IV Q3W",
+      "points": [
+        {
+          "data_point": {
+            "x": 1231,
+            "y": 915
+          },
+          "upper_error_bar": {
+            "x": 1231,
+            "y": 890.0
+          },
+          "lower_error_bar": {
+            "x": 1231,
+            "y": 924.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 926,
+            "y": 848
+          },
+          "upper_error_bar": {
+            "x": 926,
+            "y": 837.0
+          },
+          "lower_error_bar": {
+            "x": 926,
+            "y": 856.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 624,
+            "y": 787
+          },
+          "upper_error_bar": {
+            "x": 624,
+            "y": 739.0
+          },
+          "lower_error_bar": {
+            "x": 624,
+            "y": 792.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 337,
+            "y": 674
+          },
+          "upper_error_bar": {
+            "x": 337,
+            "y": 666.0
+          },
+          "lower_error_bar": {
+            "x": 337,
+            "y": 679.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 325,
+            "y": 671
+          },
+          "upper_error_bar": {
+            "x": 325,
+            "y": 662.0
+          },
+          "lower_error_bar": {
+            "x": 325,
+            "y": 684.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 300,
+            "y": 1186
+          },
+          "upper_error_bar": {
+            "x": 300,
+            "y": 1186.0
+          },
+          "lower_error_bar": {
+            "x": 300,
+            "y": 1210.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 299,
+            "y": 474
+          },
+          "upper_error_bar": {
+            "x": 299,
+            "y": 468.0
+          },
+          "lower_error_bar": {
+            "x": 299,
+            "y": 480.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 318,
+            "y": 1187
+          },
+          "upper_error_bar": {
+            "x": 318,
+            "y": 1065.0
+          },
+          "lower_error_bar": {
+            "x": 318,
+            "y": 1193.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1230,
+            "y": 1187
+          },
+          "upper_error_bar": {
+            "x": 1230,
+            "y": 1047.0
+          },
+          "lower_error_bar": {
+            "x": 1230,
+            "y": 1197.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 318,
+            "y": 665
+          },
+          "upper_error_bar": {
+            "x": 318,
+            "y": 660.0
+          },
+          "lower_error_bar": {
+            "x": 318,
+            "y": 683.0
+          }
+        }
+      ]
+    }
+  ]
+}

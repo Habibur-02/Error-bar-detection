@@ -1,0 +1,786 @@
+{
+  "image_file": "48839eee-9958-4484-a28a-51554deb33ab.png",
+  "error_bars": [
+    {
+      "lineName": "Ozekibart_0.3_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 447,
+            "y": 1138
+          },
+          "upper_error_bar": {
+            "x": 447,
+            "y": 1138.0
+          },
+          "lower_error_bar": {
+            "x": 447,
+            "y": 1176.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 447,
+            "y": 59
+          },
+          "upper_error_bar": {
+            "x": 447,
+            "y": 59.0
+          },
+          "lower_error_bar": {
+            "x": 447,
+            "y": 195.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 446,
+            "y": 1137
+          },
+          "upper_error_bar": {
+            "x": 446,
+            "y": 1137.0
+          },
+          "lower_error_bar": {
+            "x": 446,
+            "y": 1176.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1522,
+            "y": 1137
+          },
+          "upper_error_bar": {
+            "x": 1522,
+            "y": 1132.0
+          },
+          "lower_error_bar": {
+            "x": 1522,
+            "y": 1176.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 450,
+            "y": 524
+          },
+          "upper_error_bar": {
+            "x": 450,
+            "y": 512.0
+          },
+          "lower_error_bar": {
+            "x": 450,
+            "y": 547.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 459,
+            "y": 534
+          },
+          "upper_error_bar": {
+            "x": 459,
+            "y": 517.0
+          },
+          "lower_error_bar": {
+            "x": 459,
+            "y": 549.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 499,
+            "y": 560
+          },
+          "upper_error_bar": {
+            "x": 499,
+            "y": 546.0
+          },
+          "lower_error_bar": {
+            "x": 499,
+            "y": 576.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 550,
+            "y": 603
+          },
+          "upper_error_bar": {
+            "x": 550,
+            "y": 588.0
+          },
+          "lower_error_bar": {
+            "x": 550,
+            "y": 617.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 807,
+            "y": 764
+          },
+          "upper_error_bar": {
+            "x": 807,
+            "y": 750.0
+          },
+          "lower_error_bar": {
+            "x": 807,
+            "y": 780.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1523,
+            "y": 1044
+          },
+          "upper_error_bar": {
+            "x": 1523,
+            "y": 1028.0
+          },
+          "lower_error_bar": {
+            "x": 1523,
+            "y": 1057.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Ozekibart_10_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 447,
+            "y": 1138
+          },
+          "upper_error_bar": {
+            "x": 447,
+            "y": 1138.0
+          },
+          "lower_error_bar": {
+            "x": 447,
+            "y": 1176.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 447,
+            "y": 59
+          },
+          "upper_error_bar": {
+            "x": 447,
+            "y": 59.0
+          },
+          "lower_error_bar": {
+            "x": 447,
+            "y": 195.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 446,
+            "y": 1137
+          },
+          "upper_error_bar": {
+            "x": 446,
+            "y": 1137.0
+          },
+          "lower_error_bar": {
+            "x": 446,
+            "y": 1176.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1522,
+            "y": 1137
+          },
+          "upper_error_bar": {
+            "x": 1522,
+            "y": 1132.0
+          },
+          "lower_error_bar": {
+            "x": 1522,
+            "y": 1176.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 449,
+            "y": 206
+          },
+          "upper_error_bar": {
+            "x": 449,
+            "y": 195.0
+          },
+          "lower_error_bar": {
+            "x": 449,
+            "y": 235.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 498,
+            "y": 246
+          },
+          "upper_error_bar": {
+            "x": 498,
+            "y": 236.0
+          },
+          "lower_error_bar": {
+            "x": 498,
+            "y": 262.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 551,
+            "y": 279
+          },
+          "upper_error_bar": {
+            "x": 551,
+            "y": 269.0
+          },
+          "lower_error_bar": {
+            "x": 551,
+            "y": 295.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 807,
+            "y": 362
+          },
+          "upper_error_bar": {
+            "x": 807,
+            "y": 348.0
+          },
+          "lower_error_bar": {
+            "x": 807,
+            "y": 373.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1166,
+            "y": 419
+          },
+          "upper_error_bar": {
+            "x": 1166,
+            "y": 405.0
+          },
+          "lower_error_bar": {
+            "x": 1166,
+            "y": 431.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1522,
+            "y": 475
+          },
+          "upper_error_bar": {
+            "x": 1522,
+            "y": 465.0
+          },
+          "lower_error_bar": {
+            "x": 1522,
+            "y": 502.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 458,
+            "y": 207
+          },
+          "upper_error_bar": {
+            "x": 458,
+            "y": 196.0
+          },
+          "lower_error_bar": {
+            "x": 458,
+            "y": 230.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Ozekibart_30_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 447,
+            "y": 1138
+          },
+          "upper_error_bar": {
+            "x": 447,
+            "y": 1138.0
+          },
+          "lower_error_bar": {
+            "x": 447,
+            "y": 1176.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 447,
+            "y": 59
+          },
+          "upper_error_bar": {
+            "x": 447,
+            "y": 59.0
+          },
+          "lower_error_bar": {
+            "x": 447,
+            "y": 195.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 446,
+            "y": 1137
+          },
+          "upper_error_bar": {
+            "x": 446,
+            "y": 1137.0
+          },
+          "lower_error_bar": {
+            "x": 446,
+            "y": 1176.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1522,
+            "y": 1137
+          },
+          "upper_error_bar": {
+            "x": 1522,
+            "y": 1132.0
+          },
+          "lower_error_bar": {
+            "x": 1522,
+            "y": 1176.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1524,
+            "y": 346
+          },
+          "upper_error_bar": {
+            "x": 1524,
+            "y": 331.0
+          },
+          "lower_error_bar": {
+            "x": 1524,
+            "y": 360.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1167,
+            "y": 304
+          },
+          "upper_error_bar": {
+            "x": 1167,
+            "y": 291.0
+          },
+          "lower_error_bar": {
+            "x": 1167,
+            "y": 320.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 808,
+            "y": 244
+          },
+          "upper_error_bar": {
+            "x": 808,
+            "y": 230.0
+          },
+          "lower_error_bar": {
+            "x": 808,
+            "y": 263.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 551,
+            "y": 175
+          },
+          "upper_error_bar": {
+            "x": 551,
+            "y": 160.0
+          },
+          "lower_error_bar": {
+            "x": 551,
+            "y": 191.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 499,
+            "y": 149
+          },
+          "upper_error_bar": {
+            "x": 499,
+            "y": 136.0
+          },
+          "lower_error_bar": {
+            "x": 499,
+            "y": 170.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 459,
+            "y": 112
+          },
+          "upper_error_bar": {
+            "x": 459,
+            "y": 90.0
+          },
+          "lower_error_bar": {
+            "x": 459,
+            "y": 134.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 448,
+            "y": 98
+          },
+          "upper_error_bar": {
+            "x": 448,
+            "y": 57.0
+          },
+          "lower_error_bar": {
+            "x": 448,
+            "y": 196.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Ozekibart_1_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 447,
+            "y": 1138
+          },
+          "upper_error_bar": {
+            "x": 447,
+            "y": 1138.0
+          },
+          "lower_error_bar": {
+            "x": 447,
+            "y": 1176.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 447,
+            "y": 59
+          },
+          "upper_error_bar": {
+            "x": 447,
+            "y": 59.0
+          },
+          "lower_error_bar": {
+            "x": 447,
+            "y": 195.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 446,
+            "y": 1137
+          },
+          "upper_error_bar": {
+            "x": 446,
+            "y": 1137.0
+          },
+          "lower_error_bar": {
+            "x": 446,
+            "y": 1176.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1522,
+            "y": 1137
+          },
+          "upper_error_bar": {
+            "x": 1522,
+            "y": 1132.0
+          },
+          "lower_error_bar": {
+            "x": 1522,
+            "y": 1176.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 449,
+            "y": 414
+          },
+          "upper_error_bar": {
+            "x": 449,
+            "y": 397.0
+          },
+          "lower_error_bar": {
+            "x": 449,
+            "y": 447.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 459,
+            "y": 432
+          },
+          "upper_error_bar": {
+            "x": 459,
+            "y": 397.0
+          },
+          "lower_error_bar": {
+            "x": 459,
+            "y": 460.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 498,
+            "y": 473
+          },
+          "upper_error_bar": {
+            "x": 498,
+            "y": 447.0
+          },
+          "lower_error_bar": {
+            "x": 498,
+            "y": 512.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 550,
+            "y": 511
+          },
+          "upper_error_bar": {
+            "x": 550,
+            "y": 482.0
+          },
+          "lower_error_bar": {
+            "x": 550,
+            "y": 555.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 807,
+            "y": 609
+          },
+          "upper_error_bar": {
+            "x": 807,
+            "y": 550.0
+          },
+          "lower_error_bar": {
+            "x": 807,
+            "y": 732.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1166,
+            "y": 781
+          },
+          "upper_error_bar": {
+            "x": 1166,
+            "y": 781.0
+          },
+          "lower_error_bar": {
+            "x": 1166,
+            "y": 796.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1523,
+            "y": 880
+          },
+          "upper_error_bar": {
+            "x": 1523,
+            "y": 865.0
+          },
+          "lower_error_bar": {
+            "x": 1523,
+            "y": 892.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Ozekibart_3_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 447,
+            "y": 1138
+          },
+          "upper_error_bar": {
+            "x": 447,
+            "y": 1138.0
+          },
+          "lower_error_bar": {
+            "x": 447,
+            "y": 1176.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 447,
+            "y": 59
+          },
+          "upper_error_bar": {
+            "x": 447,
+            "y": 59.0
+          },
+          "lower_error_bar": {
+            "x": 447,
+            "y": 195.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 446,
+            "y": 1137
+          },
+          "upper_error_bar": {
+            "x": 446,
+            "y": 1137.0
+          },
+          "lower_error_bar": {
+            "x": 446,
+            "y": 1176.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1522,
+            "y": 1137
+          },
+          "upper_error_bar": {
+            "x": 1522,
+            "y": 1132.0
+          },
+          "lower_error_bar": {
+            "x": 1522,
+            "y": 1176.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 447,
+            "y": 334
+          },
+          "upper_error_bar": {
+            "x": 447,
+            "y": 316.0
+          },
+          "lower_error_bar": {
+            "x": 447,
+            "y": 352.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 460,
+            "y": 344
+          },
+          "upper_error_bar": {
+            "x": 460,
+            "y": 330.0
+          },
+          "lower_error_bar": {
+            "x": 460,
+            "y": 352.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 499,
+            "y": 383
+          },
+          "upper_error_bar": {
+            "x": 499,
+            "y": 354.0
+          },
+          "lower_error_bar": {
+            "x": 499,
+            "y": 406.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 551,
+            "y": 416
+          },
+          "upper_error_bar": {
+            "x": 551,
+            "y": 391.0
+          },
+          "lower_error_bar": {
+            "x": 551,
+            "y": 433.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 807,
+            "y": 508
+          },
+          "upper_error_bar": {
+            "x": 807,
+            "y": 476.0
+          },
+          "lower_error_bar": {
+            "x": 807,
+            "y": 539.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1166,
+            "y": 606
+          },
+          "upper_error_bar": {
+            "x": 1166,
+            "y": 545.0
+          },
+          "lower_error_bar": {
+            "x": 1166,
+            "y": 606.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1523,
+            "y": 699
+          },
+          "upper_error_bar": {
+            "x": 1523,
+            "y": 611.0
+          },
+          "lower_error_bar": {
+            "x": 1523,
+            "y": 710.0
+          }
+        }
+      ]
+    }
+  ]
+}

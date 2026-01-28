@@ -1,0 +1,267 @@
+{
+  "image_file": "ee98a855-18f3-46ee-9667-0b78ad539bda.png",
+  "error_bars": [
+    {
+      "lineName": "C-pep_Placebo n=29",
+      "points": [
+        {
+          "data_point": {
+            "x": 715,
+            "y": 392
+          },
+          "upper_error_bar": {
+            "x": 715,
+            "y": 291.0
+          },
+          "lower_error_bar": {
+            "x": 715,
+            "y": 450.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 467,
+            "y": 323
+          },
+          "upper_error_bar": {
+            "x": 467,
+            "y": 219.0
+          },
+          "lower_error_bar": {
+            "x": 467,
+            "y": 377.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 333,
+            "y": 293
+          },
+          "upper_error_bar": {
+            "x": 333,
+            "y": 225.0
+          },
+          "lower_error_bar": {
+            "x": 333,
+            "y": 354.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 257,
+            "y": 315
+          },
+          "upper_error_bar": {
+            "x": 257,
+            "y": 205.0
+          },
+          "lower_error_bar": {
+            "x": 257,
+            "y": 369.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 219,
+            "y": 366
+          },
+          "upper_error_bar": {
+            "x": 219,
+            "y": 358.0
+          },
+          "lower_error_bar": {
+            "x": 219,
+            "y": 366.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 219,
+            "y": 502
+          },
+          "upper_error_bar": {
+            "x": 219,
+            "y": 358.0
+          },
+          "lower_error_bar": {
+            "x": 219,
+            "y": 519.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 219,
+            "y": 95
+          },
+          "upper_error_bar": {
+            "x": 219,
+            "y": 95.0
+          },
+          "lower_error_bar": {
+            "x": 219,
+            "y": 95.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 219,
+            "y": 502
+          },
+          "upper_error_bar": {
+            "x": 219,
+            "y": 358.0
+          },
+          "lower_error_bar": {
+            "x": 219,
+            "y": 519.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 716,
+            "y": 503
+          },
+          "upper_error_bar": {
+            "x": 716,
+            "y": 450.0
+          },
+          "lower_error_bar": {
+            "x": 716,
+            "y": 518.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "C-pep_Fenofibrate n=27",
+      "points": [
+        {
+          "data_point": {
+            "x": 716,
+            "y": 354
+          },
+          "upper_error_bar": {
+            "x": 716,
+            "y": 291.0
+          },
+          "lower_error_bar": {
+            "x": 716,
+            "y": 450.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 467,
+            "y": 292
+          },
+          "upper_error_bar": {
+            "x": 467,
+            "y": 219.0
+          },
+          "lower_error_bar": {
+            "x": 467,
+            "y": 377.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 333,
+            "y": 283
+          },
+          "upper_error_bar": {
+            "x": 333,
+            "y": 225.0
+          },
+          "lower_error_bar": {
+            "x": 333,
+            "y": 354.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 257,
+            "y": 262
+          },
+          "upper_error_bar": {
+            "x": 257,
+            "y": 205.0
+          },
+          "lower_error_bar": {
+            "x": 257,
+            "y": 369.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 219,
+            "y": 367
+          },
+          "upper_error_bar": {
+            "x": 219,
+            "y": 358.0
+          },
+          "lower_error_bar": {
+            "x": 219,
+            "y": 367.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 219,
+            "y": 502
+          },
+          "upper_error_bar": {
+            "x": 219,
+            "y": 358.0
+          },
+          "lower_error_bar": {
+            "x": 219,
+            "y": 519.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 219,
+            "y": 95
+          },
+          "upper_error_bar": {
+            "x": 219,
+            "y": 95.0
+          },
+          "lower_error_bar": {
+            "x": 219,
+            "y": 95.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 219,
+            "y": 502
+          },
+          "upper_error_bar": {
+            "x": 219,
+            "y": 358.0
+          },
+          "lower_error_bar": {
+            "x": 219,
+            "y": 519.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 716,
+            "y": 503
+          },
+          "upper_error_bar": {
+            "x": 716,
+            "y": 450.0
+          },
+          "lower_error_bar": {
+            "x": 716,
+            "y": 518.0
+          }
+        }
+      ]
+    }
+  ]
+}

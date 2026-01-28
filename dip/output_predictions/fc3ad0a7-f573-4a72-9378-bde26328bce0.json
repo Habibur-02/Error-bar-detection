@@ -1,0 +1,398 @@
+{
+  "image_file": "fc3ad0a7-f573-4a72-9378-bde26328bce0.png",
+  "error_bars": [
+    {
+      "lineName": "C-pep_Placebo",
+      "points": [
+        {
+          "data_point": {
+            "x": 324,
+            "y": 238
+          },
+          "upper_error_bar": {
+            "x": 324,
+            "y": 222.0
+          },
+          "lower_error_bar": {
+            "x": 324,
+            "y": 245.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 458,
+            "y": 378
+          },
+          "upper_error_bar": {
+            "x": 458,
+            "y": 372.0
+          },
+          "lower_error_bar": {
+            "x": 458,
+            "y": 385.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 592,
+            "y": 429
+          },
+          "upper_error_bar": {
+            "x": 592,
+            "y": 423.0
+          },
+          "lower_error_bar": {
+            "x": 592,
+            "y": 436.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 726,
+            "y": 434
+          },
+          "upper_error_bar": {
+            "x": 726,
+            "y": 426.0
+          },
+          "lower_error_bar": {
+            "x": 726,
+            "y": 440.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 189,
+            "y": 160
+          },
+          "upper_error_bar": {
+            "x": 189,
+            "y": 154.0
+          },
+          "lower_error_bar": {
+            "x": 189,
+            "y": 165.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 124,
+            "y": 517
+          },
+          "upper_error_bar": {
+            "x": 124,
+            "y": 517.0
+          },
+          "lower_error_bar": {
+            "x": 124,
+            "y": 607.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 123,
+            "y": 97
+          },
+          "upper_error_bar": {
+            "x": 123,
+            "y": 67.0
+          },
+          "lower_error_bar": {
+            "x": 123,
+            "y": 97.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 191,
+            "y": 517
+          },
+          "upper_error_bar": {
+            "x": 191,
+            "y": 517.0
+          },
+          "lower_error_bar": {
+            "x": 191,
+            "y": 531.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 726,
+            "y": 517
+          },
+          "upper_error_bar": {
+            "x": 726,
+            "y": 484.0
+          },
+          "lower_error_bar": {
+            "x": 726,
+            "y": 531.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "C-pep_5,000",
+      "points": [
+        {
+          "data_point": {
+            "x": 190,
+            "y": 152
+          },
+          "upper_error_bar": {
+            "x": 190,
+            "y": 147.0
+          },
+          "lower_error_bar": {
+            "x": 190,
+            "y": 157.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 325,
+            "y": 159
+          },
+          "upper_error_bar": {
+            "x": 325,
+            "y": 152.0
+          },
+          "lower_error_bar": {
+            "x": 325,
+            "y": 166.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 458,
+            "y": 261
+          },
+          "upper_error_bar": {
+            "x": 458,
+            "y": 251.0
+          },
+          "lower_error_bar": {
+            "x": 458,
+            "y": 273.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 593,
+            "y": 306
+          },
+          "upper_error_bar": {
+            "x": 593,
+            "y": 301.0
+          },
+          "lower_error_bar": {
+            "x": 593,
+            "y": 312.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 726,
+            "y": 329
+          },
+          "upper_error_bar": {
+            "x": 726,
+            "y": 323.0
+          },
+          "lower_error_bar": {
+            "x": 726,
+            "y": 336.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 124,
+            "y": 517
+          },
+          "upper_error_bar": {
+            "x": 124,
+            "y": 517.0
+          },
+          "lower_error_bar": {
+            "x": 124,
+            "y": 607.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 123,
+            "y": 97
+          },
+          "upper_error_bar": {
+            "x": 123,
+            "y": 67.0
+          },
+          "lower_error_bar": {
+            "x": 123,
+            "y": 97.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 191,
+            "y": 517
+          },
+          "upper_error_bar": {
+            "x": 191,
+            "y": 517.0
+          },
+          "lower_error_bar": {
+            "x": 191,
+            "y": 531.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 726,
+            "y": 517
+          },
+          "upper_error_bar": {
+            "x": 726,
+            "y": 484.0
+          },
+          "lower_error_bar": {
+            "x": 726,
+            "y": 531.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "C-pep_30,000",
+      "points": [
+        {
+          "data_point": {
+            "x": 325,
+            "y": 230
+          },
+          "upper_error_bar": {
+            "x": 325,
+            "y": 222.0
+          },
+          "lower_error_bar": {
+            "x": 325,
+            "y": 237.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 459,
+            "y": 265
+          },
+          "upper_error_bar": {
+            "x": 459,
+            "y": 255.0
+          },
+          "lower_error_bar": {
+            "x": 459,
+            "y": 273.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 592,
+            "y": 335
+          },
+          "upper_error_bar": {
+            "x": 592,
+            "y": 326.0
+          },
+          "lower_error_bar": {
+            "x": 592,
+            "y": 341.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 726,
+            "y": 397
+          },
+          "upper_error_bar": {
+            "x": 726,
+            "y": 341.0
+          },
+          "lower_error_bar": {
+            "x": 726,
+            "y": 402.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 190,
+            "y": 182
+          },
+          "upper_error_bar": {
+            "x": 190,
+            "y": 171.0
+          },
+          "lower_error_bar": {
+            "x": 190,
+            "y": 190.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 124,
+            "y": 517
+          },
+          "upper_error_bar": {
+            "x": 124,
+            "y": 517.0
+          },
+          "lower_error_bar": {
+            "x": 124,
+            "y": 607.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 123,
+            "y": 97
+          },
+          "upper_error_bar": {
+            "x": 123,
+            "y": 67.0
+          },
+          "lower_error_bar": {
+            "x": 123,
+            "y": 97.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 191,
+            "y": 517
+          },
+          "upper_error_bar": {
+            "x": 191,
+            "y": 517.0
+          },
+          "lower_error_bar": {
+            "x": 191,
+            "y": 531.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 726,
+            "y": 517
+          },
+          "upper_error_bar": {
+            "x": 726,
+            "y": 484.0
+          },
+          "lower_error_bar": {
+            "x": 726,
+            "y": 531.0
+          }
+        }
+      ]
+    }
+  ]
+}

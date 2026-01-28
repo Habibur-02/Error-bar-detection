@@ -1,0 +1,267 @@
+{
+  "image_file": "99b35928-273b-4752-9eb3-e9d03fe7df20.png",
+  "error_bars": [
+    {
+      "lineName": "HbA1c_nicotinaminde",
+      "points": [
+        {
+          "data_point": {
+            "x": 233,
+            "y": 90
+          },
+          "upper_error_bar": {
+            "x": 233,
+            "y": 67.0
+          },
+          "lower_error_bar": {
+            "x": 233,
+            "y": 90.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 350,
+            "y": 159
+          },
+          "upper_error_bar": {
+            "x": 350,
+            "y": 144.0
+          },
+          "lower_error_bar": {
+            "x": 350,
+            "y": 267.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 467,
+            "y": 159
+          },
+          "upper_error_bar": {
+            "x": 467,
+            "y": 147.0
+          },
+          "lower_error_bar": {
+            "x": 467,
+            "y": 263.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 583,
+            "y": 152
+          },
+          "upper_error_bar": {
+            "x": 583,
+            "y": 137.0
+          },
+          "lower_error_bar": {
+            "x": 583,
+            "y": 263.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 700,
+            "y": 151
+          },
+          "upper_error_bar": {
+            "x": 700,
+            "y": 140.0
+          },
+          "lower_error_bar": {
+            "x": 700,
+            "y": 267.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 177,
+            "y": 264
+          },
+          "upper_error_bar": {
+            "x": 177,
+            "y": 259.0
+          },
+          "lower_error_bar": {
+            "x": 177,
+            "y": 269.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 175,
+            "y": 37
+          },
+          "upper_error_bar": {
+            "x": 175,
+            "y": 37.0
+          },
+          "lower_error_bar": {
+            "x": 175,
+            "y": 37.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 177,
+            "y": 264
+          },
+          "upper_error_bar": {
+            "x": 177,
+            "y": 259.0
+          },
+          "lower_error_bar": {
+            "x": 177,
+            "y": 269.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 758,
+            "y": 265
+          },
+          "upper_error_bar": {
+            "x": 758,
+            "y": 265.0
+          },
+          "lower_error_bar": {
+            "x": 758,
+            "y": 275.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "HbA1c_calcitriol",
+      "points": [
+        {
+          "data_point": {
+            "x": 207,
+            "y": 97
+          },
+          "upper_error_bar": {
+            "x": 207,
+            "y": 76.0
+          },
+          "lower_error_bar": {
+            "x": 207,
+            "y": 102.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 324,
+            "y": 162
+          },
+          "upper_error_bar": {
+            "x": 324,
+            "y": 151.0
+          },
+          "lower_error_bar": {
+            "x": 324,
+            "y": 264.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 441,
+            "y": 160
+          },
+          "upper_error_bar": {
+            "x": 441,
+            "y": 147.0
+          },
+          "lower_error_bar": {
+            "x": 441,
+            "y": 264.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 558,
+            "y": 157
+          },
+          "upper_error_bar": {
+            "x": 558,
+            "y": 140.0
+          },
+          "lower_error_bar": {
+            "x": 558,
+            "y": 264.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 675,
+            "y": 153
+          },
+          "upper_error_bar": {
+            "x": 675,
+            "y": 139.0
+          },
+          "lower_error_bar": {
+            "x": 675,
+            "y": 264.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 177,
+            "y": 264
+          },
+          "upper_error_bar": {
+            "x": 177,
+            "y": 259.0
+          },
+          "lower_error_bar": {
+            "x": 177,
+            "y": 269.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 175,
+            "y": 37
+          },
+          "upper_error_bar": {
+            "x": 175,
+            "y": 37.0
+          },
+          "lower_error_bar": {
+            "x": 175,
+            "y": 37.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 177,
+            "y": 264
+          },
+          "upper_error_bar": {
+            "x": 177,
+            "y": 259.0
+          },
+          "lower_error_bar": {
+            "x": 177,
+            "y": 269.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 758,
+            "y": 265
+          },
+          "upper_error_bar": {
+            "x": 758,
+            "y": 265.0
+          },
+          "lower_error_bar": {
+            "x": 758,
+            "y": 275.0
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "image_file": "9f3b6c17-b785-4055-8178-a769b8894c7f.png",
+  "error_bars": [
+    {
+      "lineName": "Imalumab_25_mg/kg QW (n=3)",
+      "points": [
+        {
+          "data_point": {
+            "x": 246,
+            "y": 262
+          },
+          "upper_error_bar": {
+            "x": 246,
+            "y": 246.0
+          },
+          "lower_error_bar": {
+            "x": 246,
+            "y": 271.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 263,
+            "y": 261
+          },
+          "upper_error_bar": {
+            "x": 263,
+            "y": 167.0
+          },
+          "lower_error_bar": {
+            "x": 263,
+            "y": 268.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 287,
+            "y": 303
+          },
+          "upper_error_bar": {
+            "x": 287,
+            "y": 296.0
+          },
+          "lower_error_bar": {
+            "x": 287,
+            "y": 398.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 382,
+            "y": 340
+          },
+          "upper_error_bar": {
+            "x": 382,
+            "y": 284.0
+          },
+          "lower_error_bar": {
+            "x": 382,
+            "y": 397.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 669,
+            "y": 449
+          },
+          "upper_error_bar": {
+            "x": 669,
+            "y": 420.0
+          },
+          "lower_error_bar": {
+            "x": 669,
+            "y": 457.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1242,
+            "y": 511
+          },
+          "upper_error_bar": {
+            "x": 1242,
+            "y": 492.0
+          },
+          "lower_error_bar": {
+            "x": 1242,
+            "y": 530.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 240,
+            "y": 255
+          },
+          "upper_error_bar": {
+            "x": 240,
+            "y": 247.0
+          },
+          "lower_error_bar": {
+            "x": 240,
+            "y": 255.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 241,
+            "y": 582
+          },
+          "upper_error_bar": {
+            "x": 241,
+            "y": 582.0
+          },
+          "lower_error_bar": {
+            "x": 241,
+            "y": 590.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 239,
+            "y": 583
+          },
+          "upper_error_bar": {
+            "x": 239,
+            "y": 583.0
+          },
+          "lower_error_bar": {
+            "x": 239,
+            "y": 589.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 239,
+            "y": 98
+          },
+          "upper_error_bar": {
+            "x": 239,
+            "y": 98.0
+          },
+          "lower_error_bar": {
+            "x": 239,
+            "y": 247.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 239,
+            "y": 582
+          },
+          "upper_error_bar": {
+            "x": 239,
+            "y": 582.0
+          },
+          "lower_error_bar": {
+            "x": 239,
+            "y": 589.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1314,
+            "y": 582
+          },
+          "upper_error_bar": {
+            "x": 1314,
+            "y": 582.0
+          },
+          "lower_error_bar": {
+            "x": 1314,
+            "y": 593.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Imalumab_10_mg/kg QW (n=28)*",
+      "points": [
+        {
+          "data_point": {
+            "x": 249,
+            "y": 477
+          },
+          "upper_error_bar": {
+            "x": 249,
+            "y": 449.0
+          },
+          "lower_error_bar": {
+            "x": 249,
+            "y": 507.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 263,
+            "y": 484
+          },
+          "upper_error_bar": {
+            "x": 263,
+            "y": 452.0
+          },
+          "lower_error_bar": {
+            "x": 263,
+            "y": 517.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 287,
+            "y": 492
+          },
+          "upper_error_bar": {
+            "x": 287,
+            "y": 465.0
+          },
+          "lower_error_bar": {
+            "x": 287,
+            "y": 517.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 383,
+            "y": 509
+          },
+          "upper_error_bar": {
+            "x": 383,
+            "y": 498.0
+          },
+          "lower_error_bar": {
+            "x": 383,
+            "y": 520.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 669,
+            "y": 538
+          },
+          "upper_error_bar": {
+            "x": 669,
+            "y": 520.0
+          },
+          "lower_error_bar": {
+            "x": 669,
+            "y": 557.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1242,
+            "y": 561
+          },
+          "upper_error_bar": {
+            "x": 1242,
+            "y": 547.0
+          },
+          "lower_error_bar": {
+            "x": 1242,
+            "y": 573.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 241,
+            "y": 459
+          },
+          "upper_error_bar": {
+            "x": 241,
+            "y": 459.0
+          },
+          "lower_error_bar": {
+            "x": 241,
+            "y": 590.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 240,
+            "y": 583
+          },
+          "upper_error_bar": {
+            "x": 240,
+            "y": 583.0
+          },
+          "lower_error_bar": {
+            "x": 240,
+            "y": 590.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 239,
+            "y": 583
+          },
+          "upper_error_bar": {
+            "x": 239,
+            "y": 583.0
+          },
+          "lower_error_bar": {
+            "x": 239,
+            "y": 589.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 239,
+            "y": 98
+          },
+          "upper_error_bar": {
+            "x": 239,
+            "y": 98.0
+          },
+          "lower_error_bar": {
+            "x": 239,
+            "y": 247.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 239,
+            "y": 582
+          },
+          "upper_error_bar": {
+            "x": 239,
+            "y": 582.0
+          },
+          "lower_error_bar": {
+            "x": 239,
+            "y": 589.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1314,
+            "y": 582
+          },
+          "upper_error_bar": {
+            "x": 1314,
+            "y": 582.0
+          },
+          "lower_error_bar": {
+            "x": 1314,
+            "y": 593.0
+          }
+        }
+      ]
+    }
+  ]
+}

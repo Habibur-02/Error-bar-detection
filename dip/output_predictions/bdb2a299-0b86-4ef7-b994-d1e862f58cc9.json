@@ -1,0 +1,524 @@
+{
+  "image_file": "bdb2a299-0b86-4ef7-b994-d1e862f58cc9.png",
+  "error_bars": [
+    {
+      "lineName": "Tusamitamab ravtansine_170_mg/m\u00b2",
+      "points": [
+        {
+          "data_point": {
+            "x": 125,
+            "y": 172
+          },
+          "upper_error_bar": {
+            "x": 125,
+            "y": 167.0
+          },
+          "lower_error_bar": {
+            "x": 125,
+            "y": 178.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 125,
+            "y": 179
+          },
+          "upper_error_bar": {
+            "x": 125,
+            "y": 173.0
+          },
+          "lower_error_bar": {
+            "x": 125,
+            "y": 179.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 152,
+            "y": 193
+          },
+          "upper_error_bar": {
+            "x": 152,
+            "y": 186.0
+          },
+          "lower_error_bar": {
+            "x": 152,
+            "y": 199.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 179,
+            "y": 216
+          },
+          "upper_error_bar": {
+            "x": 179,
+            "y": 211.0
+          },
+          "lower_error_bar": {
+            "x": 179,
+            "y": 221.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 205,
+            "y": 227
+          },
+          "upper_error_bar": {
+            "x": 205,
+            "y": 227.0
+          },
+          "lower_error_bar": {
+            "x": 205,
+            "y": 234.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 313,
+            "y": 272
+          },
+          "upper_error_bar": {
+            "x": 313,
+            "y": 267.0
+          },
+          "lower_error_bar": {
+            "x": 313,
+            "y": 280.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 500,
+            "y": 322
+          },
+          "upper_error_bar": {
+            "x": 500,
+            "y": 315.0
+          },
+          "lower_error_bar": {
+            "x": 500,
+            "y": 329.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 131,
+            "y": 165
+          },
+          "upper_error_bar": {
+            "x": 131,
+            "y": 160.0
+          },
+          "lower_error_bar": {
+            "x": 131,
+            "y": 173.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 125,
+            "y": 547
+          },
+          "upper_error_bar": {
+            "x": 125,
+            "y": 547.0
+          },
+          "lower_error_bar": {
+            "x": 125,
+            "y": 568.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 125,
+            "y": 156
+          },
+          "upper_error_bar": {
+            "x": 125,
+            "y": 156.0
+          },
+          "lower_error_bar": {
+            "x": 125,
+            "y": 167.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 125,
+            "y": 547
+          },
+          "upper_error_bar": {
+            "x": 125,
+            "y": 547.0
+          },
+          "lower_error_bar": {
+            "x": 125,
+            "y": 568.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 527,
+            "y": 548
+          },
+          "upper_error_bar": {
+            "x": 527,
+            "y": 548.0
+          },
+          "lower_error_bar": {
+            "x": 527,
+            "y": 570.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Tusamitamab ravtansine_150_mg/m\u00b2",
+      "points": [
+        {
+          "data_point": {
+            "x": 133,
+            "y": 184
+          },
+          "upper_error_bar": {
+            "x": 133,
+            "y": 168.0
+          },
+          "lower_error_bar": {
+            "x": 133,
+            "y": 207.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 128,
+            "y": 172
+          },
+          "upper_error_bar": {
+            "x": 128,
+            "y": 162.0
+          },
+          "lower_error_bar": {
+            "x": 128,
+            "y": 177.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 153,
+            "y": 203
+          },
+          "upper_error_bar": {
+            "x": 153,
+            "y": 198.0
+          },
+          "lower_error_bar": {
+            "x": 153,
+            "y": 210.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 178,
+            "y": 229
+          },
+          "upper_error_bar": {
+            "x": 178,
+            "y": 223.0
+          },
+          "lower_error_bar": {
+            "x": 178,
+            "y": 244.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 205,
+            "y": 249
+          },
+          "upper_error_bar": {
+            "x": 205,
+            "y": 243.0
+          },
+          "lower_error_bar": {
+            "x": 205,
+            "y": 258.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 312,
+            "y": 276
+          },
+          "upper_error_bar": {
+            "x": 312,
+            "y": 267.0
+          },
+          "lower_error_bar": {
+            "x": 312,
+            "y": 283.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 499,
+            "y": 332
+          },
+          "upper_error_bar": {
+            "x": 499,
+            "y": 324.0
+          },
+          "lower_error_bar": {
+            "x": 499,
+            "y": 338.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 131,
+            "y": 162
+          },
+          "upper_error_bar": {
+            "x": 131,
+            "y": 156.0
+          },
+          "lower_error_bar": {
+            "x": 131,
+            "y": 169.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 125,
+            "y": 547
+          },
+          "upper_error_bar": {
+            "x": 125,
+            "y": 547.0
+          },
+          "lower_error_bar": {
+            "x": 125,
+            "y": 568.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 125,
+            "y": 156
+          },
+          "upper_error_bar": {
+            "x": 125,
+            "y": 156.0
+          },
+          "lower_error_bar": {
+            "x": 125,
+            "y": 167.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 125,
+            "y": 547
+          },
+          "upper_error_bar": {
+            "x": 125,
+            "y": 547.0
+          },
+          "lower_error_bar": {
+            "x": 125,
+            "y": 568.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 527,
+            "y": 548
+          },
+          "upper_error_bar": {
+            "x": 527,
+            "y": 548.0
+          },
+          "lower_error_bar": {
+            "x": 527,
+            "y": 570.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Tusamitamab ravtansine_135_mg/m\u00b2",
+      "points": [
+        {
+          "data_point": {
+            "x": 125,
+            "y": 186
+          },
+          "upper_error_bar": {
+            "x": 125,
+            "y": 178.0
+          },
+          "lower_error_bar": {
+            "x": 125,
+            "y": 186.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 129,
+            "y": 204
+          },
+          "upper_error_bar": {
+            "x": 129,
+            "y": 195.0
+          },
+          "lower_error_bar": {
+            "x": 129,
+            "y": 210.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 135,
+            "y": 195
+          },
+          "upper_error_bar": {
+            "x": 135,
+            "y": 186.0
+          },
+          "lower_error_bar": {
+            "x": 135,
+            "y": 202.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 152,
+            "y": 218
+          },
+          "upper_error_bar": {
+            "x": 152,
+            "y": 210.0
+          },
+          "lower_error_bar": {
+            "x": 152,
+            "y": 223.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 179,
+            "y": 238
+          },
+          "upper_error_bar": {
+            "x": 179,
+            "y": 232.0
+          },
+          "lower_error_bar": {
+            "x": 179,
+            "y": 244.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 205,
+            "y": 252
+          },
+          "upper_error_bar": {
+            "x": 205,
+            "y": 247.0
+          },
+          "lower_error_bar": {
+            "x": 205,
+            "y": 258.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 313,
+            "y": 311
+          },
+          "upper_error_bar": {
+            "x": 313,
+            "y": 305.0
+          },
+          "lower_error_bar": {
+            "x": 313,
+            "y": 311.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 500,
+            "y": 388
+          },
+          "upper_error_bar": {
+            "x": 500,
+            "y": 383.0
+          },
+          "lower_error_bar": {
+            "x": 500,
+            "y": 393.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 125,
+            "y": 547
+          },
+          "upper_error_bar": {
+            "x": 125,
+            "y": 547.0
+          },
+          "lower_error_bar": {
+            "x": 125,
+            "y": 568.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 125,
+            "y": 156
+          },
+          "upper_error_bar": {
+            "x": 125,
+            "y": 156.0
+          },
+          "lower_error_bar": {
+            "x": 125,
+            "y": 167.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 125,
+            "y": 547
+          },
+          "upper_error_bar": {
+            "x": 125,
+            "y": 547.0
+          },
+          "lower_error_bar": {
+            "x": 125,
+            "y": 568.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 527,
+            "y": 548
+          },
+          "upper_error_bar": {
+            "x": 527,
+            "y": 548.0
+          },
+          "lower_error_bar": {
+            "x": 527,
+            "y": 570.0
+          }
+        }
+      ]
+    }
+  ]
+}

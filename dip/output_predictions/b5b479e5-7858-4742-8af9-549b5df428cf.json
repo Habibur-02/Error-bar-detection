@@ -1,0 +1,791 @@
+{
+  "image_file": "b5b479e5-7858-4742-8af9-549b5df428cf.png",
+  "error_bars": [
+    {
+      "lineName": "Anifrolumab_3.0_mg/kg ",
+      "points": [
+        {
+          "data_point": {
+            "x": 175,
+            "y": 771
+          },
+          "upper_error_bar": {
+            "x": 175,
+            "y": 771.0
+          },
+          "lower_error_bar": {
+            "x": 175,
+            "y": 805.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 174,
+            "y": 87
+          },
+          "upper_error_bar": {
+            "x": 174,
+            "y": 87.0
+          },
+          "lower_error_bar": {
+            "x": 174,
+            "y": 87.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 222,
+            "y": 803
+          },
+          "upper_error_bar": {
+            "x": 222,
+            "y": 803.0
+          },
+          "lower_error_bar": {
+            "x": 222,
+            "y": 808.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1137,
+            "y": 803
+          },
+          "upper_error_bar": {
+            "x": 1137,
+            "y": 731.0
+          },
+          "lower_error_bar": {
+            "x": 1137,
+            "y": 815.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 224,
+            "y": 243
+          },
+          "upper_error_bar": {
+            "x": 224,
+            "y": 236.0
+          },
+          "lower_error_bar": {
+            "x": 224,
+            "y": 250.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 232,
+            "y": 263
+          },
+          "upper_error_bar": {
+            "x": 232,
+            "y": 257.0
+          },
+          "lower_error_bar": {
+            "x": 232,
+            "y": 269.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 281,
+            "y": 306
+          },
+          "upper_error_bar": {
+            "x": 281,
+            "y": 300.0
+          },
+          "lower_error_bar": {
+            "x": 281,
+            "y": 312.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 338,
+            "y": 347
+          },
+          "upper_error_bar": {
+            "x": 338,
+            "y": 340.0
+          },
+          "lower_error_bar": {
+            "x": 338,
+            "y": 353.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 396,
+            "y": 396
+          },
+          "upper_error_bar": {
+            "x": 396,
+            "y": 390.0
+          },
+          "lower_error_bar": {
+            "x": 396,
+            "y": 401.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 453,
+            "y": 478
+          },
+          "upper_error_bar": {
+            "x": 453,
+            "y": 473.0
+          },
+          "lower_error_bar": {
+            "x": 453,
+            "y": 484.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Anifrolumab_1.0_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 175,
+            "y": 771
+          },
+          "upper_error_bar": {
+            "x": 175,
+            "y": 771.0
+          },
+          "lower_error_bar": {
+            "x": 175,
+            "y": 805.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 174,
+            "y": 87
+          },
+          "upper_error_bar": {
+            "x": 174,
+            "y": 87.0
+          },
+          "lower_error_bar": {
+            "x": 174,
+            "y": 87.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 222,
+            "y": 803
+          },
+          "upper_error_bar": {
+            "x": 222,
+            "y": 803.0
+          },
+          "lower_error_bar": {
+            "x": 222,
+            "y": 808.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1137,
+            "y": 803
+          },
+          "upper_error_bar": {
+            "x": 1137,
+            "y": 731.0
+          },
+          "lower_error_bar": {
+            "x": 1137,
+            "y": 815.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 232,
+            "y": 330
+          },
+          "upper_error_bar": {
+            "x": 232,
+            "y": 322.0
+          },
+          "lower_error_bar": {
+            "x": 232,
+            "y": 340.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 338,
+            "y": 541
+          },
+          "upper_error_bar": {
+            "x": 338,
+            "y": 535.0
+          },
+          "lower_error_bar": {
+            "x": 338,
+            "y": 546.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 280,
+            "y": 393
+          },
+          "upper_error_bar": {
+            "x": 280,
+            "y": 388.0
+          },
+          "lower_error_bar": {
+            "x": 280,
+            "y": 399.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 222,
+            "y": 308
+          },
+          "upper_error_bar": {
+            "x": 222,
+            "y": 301.0
+          },
+          "lower_error_bar": {
+            "x": 222,
+            "y": 316.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Anifrolumab_20.0_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 175,
+            "y": 771
+          },
+          "upper_error_bar": {
+            "x": 175,
+            "y": 771.0
+          },
+          "lower_error_bar": {
+            "x": 175,
+            "y": 805.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 174,
+            "y": 87
+          },
+          "upper_error_bar": {
+            "x": 174,
+            "y": 87.0
+          },
+          "lower_error_bar": {
+            "x": 174,
+            "y": 87.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 222,
+            "y": 803
+          },
+          "upper_error_bar": {
+            "x": 222,
+            "y": 803.0
+          },
+          "lower_error_bar": {
+            "x": 222,
+            "y": 808.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1137,
+            "y": 803
+          },
+          "upper_error_bar": {
+            "x": 1137,
+            "y": 731.0
+          },
+          "lower_error_bar": {
+            "x": 1137,
+            "y": 815.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 223,
+            "y": 143
+          },
+          "upper_error_bar": {
+            "x": 223,
+            "y": 137.0
+          },
+          "lower_error_bar": {
+            "x": 223,
+            "y": 149.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 232,
+            "y": 162
+          },
+          "upper_error_bar": {
+            "x": 232,
+            "y": 154.0
+          },
+          "lower_error_bar": {
+            "x": 232,
+            "y": 167.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 280,
+            "y": 203
+          },
+          "upper_error_bar": {
+            "x": 280,
+            "y": 198.0
+          },
+          "lower_error_bar": {
+            "x": 280,
+            "y": 210.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 337,
+            "y": 225
+          },
+          "upper_error_bar": {
+            "x": 337,
+            "y": 220.0
+          },
+          "lower_error_bar": {
+            "x": 337,
+            "y": 232.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 395,
+            "y": 249
+          },
+          "upper_error_bar": {
+            "x": 395,
+            "y": 243.0
+          },
+          "lower_error_bar": {
+            "x": 395,
+            "y": 256.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 452,
+            "y": 246
+          },
+          "upper_error_bar": {
+            "x": 452,
+            "y": 239.0
+          },
+          "lower_error_bar": {
+            "x": 452,
+            "y": 252.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 681,
+            "y": 314
+          },
+          "upper_error_bar": {
+            "x": 681,
+            "y": 309.0
+          },
+          "lower_error_bar": {
+            "x": 681,
+            "y": 321.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 908,
+            "y": 434
+          },
+          "upper_error_bar": {
+            "x": 908,
+            "y": 425.0
+          },
+          "lower_error_bar": {
+            "x": 908,
+            "y": 440.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Anifrolumab_10.0_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 175,
+            "y": 771
+          },
+          "upper_error_bar": {
+            "x": 175,
+            "y": 771.0
+          },
+          "lower_error_bar": {
+            "x": 175,
+            "y": 805.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 174,
+            "y": 87
+          },
+          "upper_error_bar": {
+            "x": 174,
+            "y": 87.0
+          },
+          "lower_error_bar": {
+            "x": 174,
+            "y": 87.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 222,
+            "y": 803
+          },
+          "upper_error_bar": {
+            "x": 222,
+            "y": 803.0
+          },
+          "lower_error_bar": {
+            "x": 222,
+            "y": 808.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1137,
+            "y": 803
+          },
+          "upper_error_bar": {
+            "x": 1137,
+            "y": 731.0
+          },
+          "lower_error_bar": {
+            "x": 1137,
+            "y": 815.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 222,
+            "y": 177
+          },
+          "upper_error_bar": {
+            "x": 222,
+            "y": 167.0
+          },
+          "lower_error_bar": {
+            "x": 222,
+            "y": 183.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 230,
+            "y": 199
+          },
+          "upper_error_bar": {
+            "x": 230,
+            "y": 194.0
+          },
+          "lower_error_bar": {
+            "x": 230,
+            "y": 209.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 280,
+            "y": 237
+          },
+          "upper_error_bar": {
+            "x": 280,
+            "y": 232.0
+          },
+          "lower_error_bar": {
+            "x": 280,
+            "y": 252.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 337,
+            "y": 247
+          },
+          "upper_error_bar": {
+            "x": 337,
+            "y": 232.0
+          },
+          "lower_error_bar": {
+            "x": 337,
+            "y": 270.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 395,
+            "y": 268
+          },
+          "upper_error_bar": {
+            "x": 395,
+            "y": 262.0
+          },
+          "lower_error_bar": {
+            "x": 395,
+            "y": 275.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 453,
+            "y": 276
+          },
+          "upper_error_bar": {
+            "x": 453,
+            "y": 251.0
+          },
+          "lower_error_bar": {
+            "x": 453,
+            "y": 292.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 680,
+            "y": 389
+          },
+          "upper_error_bar": {
+            "x": 680,
+            "y": 384.0
+          },
+          "lower_error_bar": {
+            "x": 680,
+            "y": 395.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 908,
+            "y": 696
+          },
+          "upper_error_bar": {
+            "x": 908,
+            "y": 691.0
+          },
+          "lower_error_bar": {
+            "x": 908,
+            "y": 703.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Anifrolumab_0.3_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 175,
+            "y": 771
+          },
+          "upper_error_bar": {
+            "x": 175,
+            "y": 771.0
+          },
+          "lower_error_bar": {
+            "x": 175,
+            "y": 805.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 174,
+            "y": 87
+          },
+          "upper_error_bar": {
+            "x": 174,
+            "y": 87.0
+          },
+          "lower_error_bar": {
+            "x": 174,
+            "y": 87.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 222,
+            "y": 803
+          },
+          "upper_error_bar": {
+            "x": 222,
+            "y": 803.0
+          },
+          "lower_error_bar": {
+            "x": 222,
+            "y": 808.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1137,
+            "y": 803
+          },
+          "upper_error_bar": {
+            "x": 1137,
+            "y": 731.0
+          },
+          "lower_error_bar": {
+            "x": 1137,
+            "y": 815.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 223,
+            "y": 383
+          },
+          "upper_error_bar": {
+            "x": 223,
+            "y": 371.0
+          },
+          "lower_error_bar": {
+            "x": 223,
+            "y": 388.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 231,
+            "y": 417
+          },
+          "upper_error_bar": {
+            "x": 231,
+            "y": 402.0
+          },
+          "lower_error_bar": {
+            "x": 231,
+            "y": 440.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Anifrolumab_0.1_mg/kg ",
+      "points": [
+        {
+          "data_point": {
+            "x": 175,
+            "y": 771
+          },
+          "upper_error_bar": {
+            "x": 175,
+            "y": 771.0
+          },
+          "lower_error_bar": {
+            "x": 175,
+            "y": 805.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 174,
+            "y": 87
+          },
+          "upper_error_bar": {
+            "x": 174,
+            "y": 87.0
+          },
+          "lower_error_bar": {
+            "x": 174,
+            "y": 87.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 222,
+            "y": 803
+          },
+          "upper_error_bar": {
+            "x": 222,
+            "y": 803.0
+          },
+          "lower_error_bar": {
+            "x": 222,
+            "y": 808.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1137,
+            "y": 803
+          },
+          "upper_error_bar": {
+            "x": 1137,
+            "y": 731.0
+          },
+          "lower_error_bar": {
+            "x": 1137,
+            "y": 815.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 222,
+            "y": 455
+          },
+          "upper_error_bar": {
+            "x": 222,
+            "y": 450.0
+          },
+          "lower_error_bar": {
+            "x": 222,
+            "y": 461.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 230,
+            "y": 496
+          },
+          "upper_error_bar": {
+            "x": 230,
+            "y": 490.0
+          },
+          "lower_error_bar": {
+            "x": 230,
+            "y": 501.0
+          }
+        }
+      ]
+    }
+  ]
+}

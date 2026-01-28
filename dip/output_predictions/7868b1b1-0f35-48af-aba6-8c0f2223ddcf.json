@@ -1,0 +1,365 @@
+{
+  "image_file": "7868b1b1-0f35-48af-aba6-8c0f2223ddcf.png",
+  "error_bars": [
+    {
+      "lineName": "Aprutumab Ixadotin_0.2_mg/kg (patient 1)*",
+      "points": [
+        {
+          "data_point": {
+            "x": 258,
+            "y": 321
+          },
+          "upper_error_bar": {
+            "x": 258,
+            "y": 312.0
+          },
+          "lower_error_bar": {
+            "x": 258,
+            "y": 329.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 449,
+            "y": 357
+          },
+          "upper_error_bar": {
+            "x": 449,
+            "y": 352.0
+          },
+          "lower_error_bar": {
+            "x": 449,
+            "y": 362.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 716,
+            "y": 399
+          },
+          "upper_error_bar": {
+            "x": 716,
+            "y": 392.0
+          },
+          "lower_error_bar": {
+            "x": 716,
+            "y": 404.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 183,
+            "y": 644
+          },
+          "upper_error_bar": {
+            "x": 183,
+            "y": 526.0
+          },
+          "lower_error_bar": {
+            "x": 183,
+            "y": 654.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 182,
+            "y": 112
+          },
+          "upper_error_bar": {
+            "x": 182,
+            "y": 75.0
+          },
+          "lower_error_bar": {
+            "x": 182,
+            "y": 112.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 183,
+            "y": 644
+          },
+          "upper_error_bar": {
+            "x": 183,
+            "y": 526.0
+          },
+          "lower_error_bar": {
+            "x": 183,
+            "y": 654.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 980,
+            "y": 645
+          },
+          "upper_error_bar": {
+            "x": 980,
+            "y": 560.0
+          },
+          "lower_error_bar": {
+            "x": 980,
+            "y": 652.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 196,
+            "y": 227
+          },
+          "upper_error_bar": {
+            "x": 196,
+            "y": 222.0
+          },
+          "lower_error_bar": {
+            "x": 196,
+            "y": 234.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 187,
+            "y": 244
+          },
+          "upper_error_bar": {
+            "x": 187,
+            "y": 231.0
+          },
+          "lower_error_bar": {
+            "x": 187,
+            "y": 253.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 184,
+            "y": 228
+          },
+          "upper_error_bar": {
+            "x": 184,
+            "y": 223.0
+          },
+          "lower_error_bar": {
+            "x": 184,
+            "y": 269.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 221,
+            "y": 306
+          },
+          "upper_error_bar": {
+            "x": 221,
+            "y": 301.0
+          },
+          "lower_error_bar": {
+            "x": 221,
+            "y": 311.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 335,
+            "y": 345
+          },
+          "upper_error_bar": {
+            "x": 335,
+            "y": 340.0
+          },
+          "lower_error_bar": {
+            "x": 335,
+            "y": 350.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Aprutumab Ixadotin_0.2_mg/kg (patient 2)*",
+      "points": [
+        {
+          "data_point": {
+            "x": 184,
+            "y": 320
+          },
+          "upper_error_bar": {
+            "x": 184,
+            "y": 311.0
+          },
+          "lower_error_bar": {
+            "x": 184,
+            "y": 435.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 184,
+            "y": 423
+          },
+          "upper_error_bar": {
+            "x": 184,
+            "y": 311.0
+          },
+          "lower_error_bar": {
+            "x": 184,
+            "y": 435.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 221,
+            "y": 335
+          },
+          "upper_error_bar": {
+            "x": 221,
+            "y": 327.0
+          },
+          "lower_error_bar": {
+            "x": 221,
+            "y": 345.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 257,
+            "y": 345
+          },
+          "upper_error_bar": {
+            "x": 257,
+            "y": 339.0
+          },
+          "lower_error_bar": {
+            "x": 257,
+            "y": 352.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 448,
+            "y": 388
+          },
+          "upper_error_bar": {
+            "x": 448,
+            "y": 383.0
+          },
+          "lower_error_bar": {
+            "x": 448,
+            "y": 393.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 715,
+            "y": 410
+          },
+          "upper_error_bar": {
+            "x": 715,
+            "y": 401.0
+          },
+          "lower_error_bar": {
+            "x": 715,
+            "y": 487.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 982,
+            "y": 445
+          },
+          "upper_error_bar": {
+            "x": 982,
+            "y": 436.0
+          },
+          "lower_error_bar": {
+            "x": 982,
+            "y": 454.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 187,
+            "y": 312
+          },
+          "upper_error_bar": {
+            "x": 187,
+            "y": 301.0
+          },
+          "lower_error_bar": {
+            "x": 187,
+            "y": 352.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 184,
+            "y": 308
+          },
+          "upper_error_bar": {
+            "x": 184,
+            "y": 300.0
+          },
+          "lower_error_bar": {
+            "x": 184,
+            "y": 435.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 183,
+            "y": 644
+          },
+          "upper_error_bar": {
+            "x": 183,
+            "y": 526.0
+          },
+          "lower_error_bar": {
+            "x": 183,
+            "y": 654.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 182,
+            "y": 112
+          },
+          "upper_error_bar": {
+            "x": 182,
+            "y": 75.0
+          },
+          "lower_error_bar": {
+            "x": 182,
+            "y": 112.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 183,
+            "y": 644
+          },
+          "upper_error_bar": {
+            "x": 183,
+            "y": 526.0
+          },
+          "lower_error_bar": {
+            "x": 183,
+            "y": 654.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 980,
+            "y": 645
+          },
+          "upper_error_bar": {
+            "x": 980,
+            "y": 560.0
+          },
+          "lower_error_bar": {
+            "x": 980,
+            "y": 652.0
+          }
+        }
+      ]
+    }
+  ]
+}

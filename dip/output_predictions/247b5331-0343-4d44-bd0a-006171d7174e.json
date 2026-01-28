@@ -1,0 +1,239 @@
+{
+  "image_file": "247b5331-0343-4d44-bd0a-006171d7174e.png",
+  "error_bars": [
+    {
+      "lineName": "HbA1c_placebo",
+      "points": [
+        {
+          "data_point": {
+            "x": 162,
+            "y": 631
+          },
+          "upper_error_bar": {
+            "x": 162,
+            "y": 631.0
+          },
+          "lower_error_bar": {
+            "x": 162,
+            "y": 711.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 163,
+            "y": 163
+          },
+          "upper_error_bar": {
+            "x": 163,
+            "y": 158.0
+          },
+          "lower_error_bar": {
+            "x": 163,
+            "y": 163.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 347,
+            "y": 707
+          },
+          "upper_error_bar": {
+            "x": 347,
+            "y": 707.0
+          },
+          "lower_error_bar": {
+            "x": 347,
+            "y": 727.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 959,
+            "y": 708
+          },
+          "upper_error_bar": {
+            "x": 959,
+            "y": 708.0
+          },
+          "lower_error_bar": {
+            "x": 959,
+            "y": 727.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 777,
+            "y": 461
+          },
+          "upper_error_bar": {
+            "x": 777,
+            "y": 405.0
+          },
+          "lower_error_bar": {
+            "x": 777,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 407,
+            "y": 485
+          },
+          "upper_error_bar": {
+            "x": 407,
+            "y": 430.0
+          },
+          "lower_error_bar": {
+            "x": 407,
+            "y": 542.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 592,
+            "y": 459
+          },
+          "upper_error_bar": {
+            "x": 592,
+            "y": 393.0
+          },
+          "lower_error_bar": {
+            "x": 592,
+            "y": 519.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 223,
+            "y": 492
+          },
+          "upper_error_bar": {
+            "x": 223,
+            "y": 438.0
+          },
+          "lower_error_bar": {
+            "x": 223,
+            "y": 583.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "HbA1c_teplizumab",
+      "points": [
+        {
+          "data_point": {
+            "x": 162,
+            "y": 631
+          },
+          "upper_error_bar": {
+            "x": 162,
+            "y": 631.0
+          },
+          "lower_error_bar": {
+            "x": 162,
+            "y": 711.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 163,
+            "y": 163
+          },
+          "upper_error_bar": {
+            "x": 163,
+            "y": 158.0
+          },
+          "lower_error_bar": {
+            "x": 163,
+            "y": 163.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 347,
+            "y": 707
+          },
+          "upper_error_bar": {
+            "x": 347,
+            "y": 707.0
+          },
+          "lower_error_bar": {
+            "x": 347,
+            "y": 727.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 959,
+            "y": 708
+          },
+          "upper_error_bar": {
+            "x": 959,
+            "y": 708.0
+          },
+          "lower_error_bar": {
+            "x": 959,
+            "y": 727.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 776,
+            "y": 456
+          },
+          "upper_error_bar": {
+            "x": 776,
+            "y": 405.0
+          },
+          "lower_error_bar": {
+            "x": 776,
+            "y": 515.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 591,
+            "y": 443
+          },
+          "upper_error_bar": {
+            "x": 591,
+            "y": 393.0
+          },
+          "lower_error_bar": {
+            "x": 591,
+            "y": 519.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 406,
+            "y": 486
+          },
+          "upper_error_bar": {
+            "x": 406,
+            "y": 430.0
+          },
+          "lower_error_bar": {
+            "x": 406,
+            "y": 542.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 223,
+            "y": 530
+          },
+          "upper_error_bar": {
+            "x": 223,
+            "y": 438.0
+          },
+          "lower_error_bar": {
+            "x": 223,
+            "y": 583.0
+          }
+        }
+      ]
+    }
+  ]
+}

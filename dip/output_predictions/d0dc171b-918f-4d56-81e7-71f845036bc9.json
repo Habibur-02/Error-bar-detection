@@ -1,0 +1,183 @@
+{
+  "image_file": "d0dc171b-918f-4d56-81e7-71f845036bc9.png",
+  "error_bars": [
+    {
+      "lineName": "Motavizumab_30_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 391,
+            "y": 726
+          },
+          "upper_error_bar": {
+            "x": 391,
+            "y": 726.0
+          },
+          "lower_error_bar": {
+            "x": 391,
+            "y": 807.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 857,
+            "y": 774
+          },
+          "upper_error_bar": {
+            "x": 857,
+            "y": 734.0
+          },
+          "lower_error_bar": {
+            "x": 857,
+            "y": 841.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 236,
+            "y": 875
+          },
+          "upper_error_bar": {
+            "x": 236,
+            "y": 875.0
+          },
+          "lower_error_bar": {
+            "x": 236,
+            "y": 881.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 236,
+            "y": 103
+          },
+          "upper_error_bar": {
+            "x": 236,
+            "y": 103.0
+          },
+          "lower_error_bar": {
+            "x": 236,
+            "y": 103.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 313,
+            "y": 879
+          },
+          "upper_error_bar": {
+            "x": 313,
+            "y": 879.0
+          },
+          "lower_error_bar": {
+            "x": 313,
+            "y": 887.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 858,
+            "y": 879
+          },
+          "upper_error_bar": {
+            "x": 858,
+            "y": 841.0
+          },
+          "lower_error_bar": {
+            "x": 858,
+            "y": 884.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Motavizumab_100_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 392,
+            "y": 439
+          },
+          "upper_error_bar": {
+            "x": 392,
+            "y": 429.0
+          },
+          "lower_error_bar": {
+            "x": 392,
+            "y": 446.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 857,
+            "y": 541
+          },
+          "upper_error_bar": {
+            "x": 857,
+            "y": 532.0
+          },
+          "lower_error_bar": {
+            "x": 857,
+            "y": 550.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 236,
+            "y": 875
+          },
+          "upper_error_bar": {
+            "x": 236,
+            "y": 875.0
+          },
+          "lower_error_bar": {
+            "x": 236,
+            "y": 881.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 236,
+            "y": 103
+          },
+          "upper_error_bar": {
+            "x": 236,
+            "y": 103.0
+          },
+          "lower_error_bar": {
+            "x": 236,
+            "y": 103.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 313,
+            "y": 879
+          },
+          "upper_error_bar": {
+            "x": 313,
+            "y": 879.0
+          },
+          "lower_error_bar": {
+            "x": 313,
+            "y": 887.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 858,
+            "y": 879
+          },
+          "upper_error_bar": {
+            "x": 858,
+            "y": 841.0
+          },
+          "lower_error_bar": {
+            "x": 858,
+            "y": 884.0
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "image_file": "e14de8ff-3fb6-4544-b736-0650ca6d81b9.png",
+  "error_bars": [
+    {
+      "lineName": "Rozanolixizumab_CHN (Chinese)",
+      "points": [
+        {
+          "data_point": {
+            "x": 191,
+            "y": 570
+          },
+          "upper_error_bar": {
+            "x": 191,
+            "y": 533.0
+          },
+          "lower_error_bar": {
+            "x": 191,
+            "y": 579.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 239,
+            "y": 481
+          },
+          "upper_error_bar": {
+            "x": 239,
+            "y": 450.0
+          },
+          "lower_error_bar": {
+            "x": 239,
+            "y": 489.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 285,
+            "y": 453
+          },
+          "upper_error_bar": {
+            "x": 285,
+            "y": 445.0
+          },
+          "lower_error_bar": {
+            "x": 285,
+            "y": 461.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 379,
+            "y": 436
+          },
+          "upper_error_bar": {
+            "x": 379,
+            "y": 428.0
+          },
+          "lower_error_bar": {
+            "x": 379,
+            "y": 444.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 472,
+            "y": 473
+          },
+          "upper_error_bar": {
+            "x": 472,
+            "y": 465.0
+          },
+          "lower_error_bar": {
+            "x": 472,
+            "y": 481.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 659,
+            "y": 565
+          },
+          "upper_error_bar": {
+            "x": 659,
+            "y": 538.0
+          },
+          "lower_error_bar": {
+            "x": 659,
+            "y": 573.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 99,
+            "y": 607
+          },
+          "upper_error_bar": {
+            "x": 99,
+            "y": 607.0
+          },
+          "lower_error_bar": {
+            "x": 99,
+            "y": 620.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 99,
+            "y": 159
+          },
+          "upper_error_bar": {
+            "x": 99,
+            "y": 159.0
+          },
+          "lower_error_bar": {
+            "x": 99,
+            "y": 159.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 99,
+            "y": 607
+          },
+          "upper_error_bar": {
+            "x": 99,
+            "y": 607.0
+          },
+          "lower_error_bar": {
+            "x": 99,
+            "y": 620.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 751,
+            "y": 607
+          },
+          "upper_error_bar": {
+            "x": 751,
+            "y": 607.0
+          },
+          "lower_error_bar": {
+            "x": 751,
+            "y": 619.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Rozanolixizumab_White",
+      "points": [
+        {
+          "data_point": {
+            "x": 130,
+            "y": 606
+          },
+          "upper_error_bar": {
+            "x": 130,
+            "y": 598.0
+          },
+          "lower_error_bar": {
+            "x": 130,
+            "y": 613.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 144,
+            "y": 584
+          },
+          "upper_error_bar": {
+            "x": 144,
+            "y": 554.0
+          },
+          "lower_error_bar": {
+            "x": 144,
+            "y": 592.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 192,
+            "y": 516
+          },
+          "upper_error_bar": {
+            "x": 192,
+            "y": 432.0
+          },
+          "lower_error_bar": {
+            "x": 192,
+            "y": 525.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 239,
+            "y": 376
+          },
+          "upper_error_bar": {
+            "x": 239,
+            "y": 376.0
+          },
+          "lower_error_bar": {
+            "x": 239,
+            "y": 385.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 285,
+            "y": 392
+          },
+          "upper_error_bar": {
+            "x": 285,
+            "y": 384.0
+          },
+          "lower_error_bar": {
+            "x": 285,
+            "y": 400.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 379,
+            "y": 359
+          },
+          "upper_error_bar": {
+            "x": 379,
+            "y": 351.0
+          },
+          "lower_error_bar": {
+            "x": 379,
+            "y": 367.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 472,
+            "y": 425
+          },
+          "upper_error_bar": {
+            "x": 472,
+            "y": 417.0
+          },
+          "lower_error_bar": {
+            "x": 472,
+            "y": 433.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 659,
+            "y": 571
+          },
+          "upper_error_bar": {
+            "x": 659,
+            "y": 538.0
+          },
+          "lower_error_bar": {
+            "x": 659,
+            "y": 579.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 99,
+            "y": 607
+          },
+          "upper_error_bar": {
+            "x": 99,
+            "y": 607.0
+          },
+          "lower_error_bar": {
+            "x": 99,
+            "y": 620.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 99,
+            "y": 159
+          },
+          "upper_error_bar": {
+            "x": 99,
+            "y": 159.0
+          },
+          "lower_error_bar": {
+            "x": 99,
+            "y": 159.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 99,
+            "y": 607
+          },
+          "upper_error_bar": {
+            "x": 99,
+            "y": 607.0
+          },
+          "lower_error_bar": {
+            "x": 99,
+            "y": 620.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 751,
+            "y": 607
+          },
+          "upper_error_bar": {
+            "x": 751,
+            "y": 607.0
+          },
+          "lower_error_bar": {
+            "x": 751,
+            "y": 619.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Rozanolixizumab_JPN (Japanese)",
+      "points": [
+        {
+          "data_point": {
+            "x": 144,
+            "y": 604
+          },
+          "upper_error_bar": {
+            "x": 144,
+            "y": 596.0
+          },
+          "lower_error_bar": {
+            "x": 144,
+            "y": 611.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 192,
+            "y": 542
+          },
+          "upper_error_bar": {
+            "x": 192,
+            "y": 534.0
+          },
+          "lower_error_bar": {
+            "x": 192,
+            "y": 562.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 239,
+            "y": 441
+          },
+          "upper_error_bar": {
+            "x": 239,
+            "y": 434.0
+          },
+          "lower_error_bar": {
+            "x": 239,
+            "y": 450.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 285,
+            "y": 406
+          },
+          "upper_error_bar": {
+            "x": 285,
+            "y": 400.0
+          },
+          "lower_error_bar": {
+            "x": 285,
+            "y": 416.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 379,
+            "y": 386
+          },
+          "upper_error_bar": {
+            "x": 379,
+            "y": 379.0
+          },
+          "lower_error_bar": {
+            "x": 379,
+            "y": 395.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 472,
+            "y": 437
+          },
+          "upper_error_bar": {
+            "x": 472,
+            "y": 417.0
+          },
+          "lower_error_bar": {
+            "x": 472,
+            "y": 447.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 659,
+            "y": 568
+          },
+          "upper_error_bar": {
+            "x": 659,
+            "y": 538.0
+          },
+          "lower_error_bar": {
+            "x": 659,
+            "y": 573.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 99,
+            "y": 607
+          },
+          "upper_error_bar": {
+            "x": 99,
+            "y": 607.0
+          },
+          "lower_error_bar": {
+            "x": 99,
+            "y": 620.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 99,
+            "y": 159
+          },
+          "upper_error_bar": {
+            "x": 99,
+            "y": 159.0
+          },
+          "lower_error_bar": {
+            "x": 99,
+            "y": 159.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 99,
+            "y": 607
+          },
+          "upper_error_bar": {
+            "x": 99,
+            "y": 607.0
+          },
+          "lower_error_bar": {
+            "x": 99,
+            "y": 620.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 751,
+            "y": 607
+          },
+          "upper_error_bar": {
+            "x": 751,
+            "y": 607.0
+          },
+          "lower_error_bar": {
+            "x": 751,
+            "y": 619.0
+          }
+        }
+      ]
+    }
+  ]
+}

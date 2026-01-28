@@ -1,0 +1,697 @@
+{
+  "image_file": "c81d4ac9-aea5-4f14-9fed-926921568566.png",
+  "error_bars": [
+    {
+      "lineName": "Concizumab_HV 5_\u00b5g kg\u207b\u00b9",
+      "points": [
+        {
+          "data_point": {
+            "x": 327,
+            "y": 398
+          },
+          "upper_error_bar": {
+            "x": 327,
+            "y": 371.0
+          },
+          "lower_error_bar": {
+            "x": 327,
+            "y": 405.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 324,
+            "y": 362
+          },
+          "upper_error_bar": {
+            "x": 324,
+            "y": 324.0
+          },
+          "lower_error_bar": {
+            "x": 324,
+            "y": 370.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 323,
+            "y": 354
+          },
+          "upper_error_bar": {
+            "x": 323,
+            "y": 325.0
+          },
+          "lower_error_bar": {
+            "x": 323,
+            "y": 367.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 323,
+            "y": 344
+          },
+          "upper_error_bar": {
+            "x": 323,
+            "y": 325.0
+          },
+          "lower_error_bar": {
+            "x": 323,
+            "y": 367.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 324,
+            "y": 333
+          },
+          "upper_error_bar": {
+            "x": 324,
+            "y": 324.0
+          },
+          "lower_error_bar": {
+            "x": 324,
+            "y": 370.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 265,
+            "y": 477
+          },
+          "upper_error_bar": {
+            "x": 265,
+            "y": 477.0
+          },
+          "lower_error_bar": {
+            "x": 265,
+            "y": 483.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 265,
+            "y": 87
+          },
+          "upper_error_bar": {
+            "x": 265,
+            "y": 61.0
+          },
+          "lower_error_bar": {
+            "x": 265,
+            "y": 87.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 323,
+            "y": 482
+          },
+          "upper_error_bar": {
+            "x": 323,
+            "y": 403.0
+          },
+          "lower_error_bar": {
+            "x": 323,
+            "y": 487.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1001,
+            "y": 482
+          },
+          "upper_error_bar": {
+            "x": 1001,
+            "y": 482.0
+          },
+          "lower_error_bar": {
+            "x": 1001,
+            "y": 491.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Concizumab_HV 0.5_\u00b5g kg\u207b\u00b9",
+      "points": [
+        {
+          "data_point": {
+            "x": 323,
+            "y": 400
+          },
+          "upper_error_bar": {
+            "x": 323,
+            "y": 395.0
+          },
+          "lower_error_bar": {
+            "x": 323,
+            "y": 481.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 323,
+            "y": 388
+          },
+          "upper_error_bar": {
+            "x": 323,
+            "y": 370.0
+          },
+          "lower_error_bar": {
+            "x": 323,
+            "y": 393.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 322,
+            "y": 382
+          },
+          "upper_error_bar": {
+            "x": 322,
+            "y": 371.0
+          },
+          "lower_error_bar": {
+            "x": 322,
+            "y": 395.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 323,
+            "y": 376
+          },
+          "upper_error_bar": {
+            "x": 323,
+            "y": 370.0
+          },
+          "lower_error_bar": {
+            "x": 323,
+            "y": 393.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 265,
+            "y": 477
+          },
+          "upper_error_bar": {
+            "x": 265,
+            "y": 477.0
+          },
+          "lower_error_bar": {
+            "x": 265,
+            "y": 483.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 265,
+            "y": 87
+          },
+          "upper_error_bar": {
+            "x": 265,
+            "y": 61.0
+          },
+          "lower_error_bar": {
+            "x": 265,
+            "y": 87.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 323,
+            "y": 482
+          },
+          "upper_error_bar": {
+            "x": 323,
+            "y": 403.0
+          },
+          "lower_error_bar": {
+            "x": 323,
+            "y": 487.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1001,
+            "y": 482
+          },
+          "upper_error_bar": {
+            "x": 1001,
+            "y": 482.0
+          },
+          "lower_error_bar": {
+            "x": 1001,
+            "y": 491.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Concizumab_HV 50_\u00b5g kg\u207b\u00b9",
+      "points": [
+        {
+          "data_point": {
+            "x": 265,
+            "y": 477
+          },
+          "upper_error_bar": {
+            "x": 265,
+            "y": 477.0
+          },
+          "lower_error_bar": {
+            "x": 265,
+            "y": 483.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 265,
+            "y": 87
+          },
+          "upper_error_bar": {
+            "x": 265,
+            "y": 61.0
+          },
+          "lower_error_bar": {
+            "x": 265,
+            "y": 87.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 323,
+            "y": 482
+          },
+          "upper_error_bar": {
+            "x": 323,
+            "y": 403.0
+          },
+          "lower_error_bar": {
+            "x": 323,
+            "y": 487.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1001,
+            "y": 482
+          },
+          "upper_error_bar": {
+            "x": 1001,
+            "y": 482.0
+          },
+          "lower_error_bar": {
+            "x": 1001,
+            "y": 491.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 365,
+            "y": 398
+          },
+          "upper_error_bar": {
+            "x": 365,
+            "y": 392.0
+          },
+          "lower_error_bar": {
+            "x": 365,
+            "y": 404.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 354,
+            "y": 382
+          },
+          "upper_error_bar": {
+            "x": 354,
+            "y": 352.0
+          },
+          "lower_error_bar": {
+            "x": 354,
+            "y": 390.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 345,
+            "y": 379
+          },
+          "upper_error_bar": {
+            "x": 345,
+            "y": 340.0
+          },
+          "lower_error_bar": {
+            "x": 345,
+            "y": 387.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 338,
+            "y": 364
+          },
+          "upper_error_bar": {
+            "x": 338,
+            "y": 359.0
+          },
+          "lower_error_bar": {
+            "x": 338,
+            "y": 372.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 331,
+            "y": 352
+          },
+          "upper_error_bar": {
+            "x": 331,
+            "y": 341.0
+          },
+          "lower_error_bar": {
+            "x": 331,
+            "y": 357.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 327,
+            "y": 332
+          },
+          "upper_error_bar": {
+            "x": 327,
+            "y": 320.0
+          },
+          "lower_error_bar": {
+            "x": 327,
+            "y": 367.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 326,
+            "y": 312
+          },
+          "upper_error_bar": {
+            "x": 326,
+            "y": 307.0
+          },
+          "lower_error_bar": {
+            "x": 326,
+            "y": 320.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 324,
+            "y": 291
+          },
+          "upper_error_bar": {
+            "x": 324,
+            "y": 253.0
+          },
+          "lower_error_bar": {
+            "x": 324,
+            "y": 296.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 325,
+            "y": 283
+          },
+          "upper_error_bar": {
+            "x": 325,
+            "y": 253.0
+          },
+          "lower_error_bar": {
+            "x": 325,
+            "y": 303.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 325,
+            "y": 273
+          },
+          "upper_error_bar": {
+            "x": 325,
+            "y": 253.0
+          },
+          "lower_error_bar": {
+            "x": 325,
+            "y": 303.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 324,
+            "y": 264
+          },
+          "upper_error_bar": {
+            "x": 324,
+            "y": 253.0
+          },
+          "lower_error_bar": {
+            "x": 324,
+            "y": 295.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 324,
+            "y": 256
+          },
+          "upper_error_bar": {
+            "x": 324,
+            "y": 247.0
+          },
+          "lower_error_bar": {
+            "x": 324,
+            "y": 295.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Concizumab_HV 250_\u00b5g kg\u207b\u00b9",
+      "points": [
+        {
+          "data_point": {
+            "x": 265,
+            "y": 477
+          },
+          "upper_error_bar": {
+            "x": 265,
+            "y": 477.0
+          },
+          "lower_error_bar": {
+            "x": 265,
+            "y": 483.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 265,
+            "y": 87
+          },
+          "upper_error_bar": {
+            "x": 265,
+            "y": 61.0
+          },
+          "lower_error_bar": {
+            "x": 265,
+            "y": 87.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 323,
+            "y": 482
+          },
+          "upper_error_bar": {
+            "x": 323,
+            "y": 403.0
+          },
+          "lower_error_bar": {
+            "x": 323,
+            "y": 487.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1001,
+            "y": 482
+          },
+          "upper_error_bar": {
+            "x": 1001,
+            "y": 482.0
+          },
+          "lower_error_bar": {
+            "x": 1001,
+            "y": 491.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 932,
+            "y": 397
+          },
+          "upper_error_bar": {
+            "x": 932,
+            "y": 392.0
+          },
+          "lower_error_bar": {
+            "x": 932,
+            "y": 407.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 617,
+            "y": 396
+          },
+          "upper_error_bar": {
+            "x": 617,
+            "y": 391.0
+          },
+          "lower_error_bar": {
+            "x": 617,
+            "y": 403.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 380,
+            "y": 377
+          },
+          "upper_error_bar": {
+            "x": 380,
+            "y": 240.0
+          },
+          "lower_error_bar": {
+            "x": 380,
+            "y": 390.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 368,
+            "y": 371
+          },
+          "upper_error_bar": {
+            "x": 368,
+            "y": 361.0
+          },
+          "lower_error_bar": {
+            "x": 368,
+            "y": 392.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 354,
+            "y": 350
+          },
+          "upper_error_bar": {
+            "x": 354,
+            "y": 341.0
+          },
+          "lower_error_bar": {
+            "x": 354,
+            "y": 378.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 347,
+            "y": 337
+          },
+          "upper_error_bar": {
+            "x": 347,
+            "y": 328.0
+          },
+          "lower_error_bar": {
+            "x": 347,
+            "y": 342.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 338,
+            "y": 297
+          },
+          "upper_error_bar": {
+            "x": 338,
+            "y": 285.0
+          },
+          "lower_error_bar": {
+            "x": 338,
+            "y": 306.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 331,
+            "y": 245
+          },
+          "upper_error_bar": {
+            "x": 331,
+            "y": 227.0
+          },
+          "lower_error_bar": {
+            "x": 331,
+            "y": 276.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 326,
+            "y": 219
+          },
+          "upper_error_bar": {
+            "x": 326,
+            "y": 213.0
+          },
+          "lower_error_bar": {
+            "x": 326,
+            "y": 240.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 327,
+            "y": 228
+          },
+          "upper_error_bar": {
+            "x": 327,
+            "y": 213.0
+          },
+          "lower_error_bar": {
+            "x": 327,
+            "y": 240.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 330,
+            "y": 236
+          },
+          "upper_error_bar": {
+            "x": 330,
+            "y": 227.0
+          },
+          "lower_error_bar": {
+            "x": 330,
+            "y": 251.0
+          }
+        }
+      ]
+    }
+  ]
+}

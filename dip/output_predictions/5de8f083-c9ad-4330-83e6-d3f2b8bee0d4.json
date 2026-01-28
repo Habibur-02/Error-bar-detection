@@ -1,0 +1,323 @@
+{
+  "image_file": "5de8f083-c9ad-4330-83e6-d3f2b8bee0d4.png",
+  "error_bars": [
+    {
+      "lineName": "Mavrilimumab_0.01_mg/kg (n=1)",
+      "points": [
+        {
+          "data_point": {
+            "x": 564,
+            "y": 604
+          },
+          "upper_error_bar": {
+            "x": 564,
+            "y": 598.0
+          },
+          "lower_error_bar": {
+            "x": 564,
+            "y": 611.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 588,
+            "y": 645
+          },
+          "upper_error_bar": {
+            "x": 588,
+            "y": 639.0
+          },
+          "lower_error_bar": {
+            "x": 588,
+            "y": 652.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 637,
+            "y": 707
+          },
+          "upper_error_bar": {
+            "x": 637,
+            "y": 700.0
+          },
+          "lower_error_bar": {
+            "x": 637,
+            "y": 714.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 556,
+            "y": 517
+          },
+          "upper_error_bar": {
+            "x": 556,
+            "y": 510.0
+          },
+          "lower_error_bar": {
+            "x": 556,
+            "y": 524.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 558,
+            "y": 550
+          },
+          "upper_error_bar": {
+            "x": 558,
+            "y": 542.0
+          },
+          "lower_error_bar": {
+            "x": 558,
+            "y": 556.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 553,
+            "y": 495
+          },
+          "upper_error_bar": {
+            "x": 553,
+            "y": 486.0
+          },
+          "lower_error_bar": {
+            "x": 553,
+            "y": 500.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 551,
+            "y": 472
+          },
+          "upper_error_bar": {
+            "x": 551,
+            "y": 465.0
+          },
+          "lower_error_bar": {
+            "x": 551,
+            "y": 478.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 527,
+            "y": 835
+          },
+          "upper_error_bar": {
+            "x": 527,
+            "y": 835.0
+          },
+          "lower_error_bar": {
+            "x": 527,
+            "y": 840.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 526,
+            "y": 82
+          },
+          "upper_error_bar": {
+            "x": 526,
+            "y": 51.0
+          },
+          "lower_error_bar": {
+            "x": 526,
+            "y": 82.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 551,
+            "y": 838
+          },
+          "upper_error_bar": {
+            "x": 551,
+            "y": 764.0
+          },
+          "lower_error_bar": {
+            "x": 551,
+            "y": 850.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1583,
+            "y": 837
+          },
+          "upper_error_bar": {
+            "x": 1583,
+            "y": 764.0
+          },
+          "lower_error_bar": {
+            "x": 1583,
+            "y": 850.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "Mavrilimumab_0.03_mg/kg (n=1)",
+      "points": [
+        {
+          "data_point": {
+            "x": 565,
+            "y": 481
+          },
+          "upper_error_bar": {
+            "x": 565,
+            "y": 476.0
+          },
+          "lower_error_bar": {
+            "x": 565,
+            "y": 486.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 588,
+            "y": 554
+          },
+          "upper_error_bar": {
+            "x": 588,
+            "y": 546.0
+          },
+          "lower_error_bar": {
+            "x": 588,
+            "y": 562.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 724,
+            "y": 693
+          },
+          "upper_error_bar": {
+            "x": 724,
+            "y": 687.0
+          },
+          "lower_error_bar": {
+            "x": 724,
+            "y": 698.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 555,
+            "y": 434
+          },
+          "upper_error_bar": {
+            "x": 555,
+            "y": 429.0
+          },
+          "lower_error_bar": {
+            "x": 555,
+            "y": 442.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 558,
+            "y": 441
+          },
+          "upper_error_bar": {
+            "x": 558,
+            "y": 434.0
+          },
+          "lower_error_bar": {
+            "x": 558,
+            "y": 456.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 560,
+            "y": 449
+          },
+          "upper_error_bar": {
+            "x": 560,
+            "y": 441.0
+          },
+          "lower_error_bar": {
+            "x": 560,
+            "y": 457.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 639,
+            "y": 621
+          },
+          "upper_error_bar": {
+            "x": 639,
+            "y": 616.0
+          },
+          "lower_error_bar": {
+            "x": 639,
+            "y": 627.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 527,
+            "y": 835
+          },
+          "upper_error_bar": {
+            "x": 527,
+            "y": 835.0
+          },
+          "lower_error_bar": {
+            "x": 527,
+            "y": 840.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 526,
+            "y": 82
+          },
+          "upper_error_bar": {
+            "x": 526,
+            "y": 51.0
+          },
+          "lower_error_bar": {
+            "x": 526,
+            "y": 82.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 551,
+            "y": 838
+          },
+          "upper_error_bar": {
+            "x": 551,
+            "y": 764.0
+          },
+          "lower_error_bar": {
+            "x": 551,
+            "y": 850.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1583,
+            "y": 837
+          },
+          "upper_error_bar": {
+            "x": 1583,
+            "y": 764.0
+          },
+          "lower_error_bar": {
+            "x": 1583,
+            "y": 850.0
+          }
+        }
+      ]
+    }
+  ]
+}

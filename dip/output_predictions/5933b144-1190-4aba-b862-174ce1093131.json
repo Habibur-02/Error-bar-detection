@@ -1,0 +1,164 @@
+{
+  "image_file": "5933b144-1190-4aba-b862-174ce1093131.png",
+  "error_bars": [
+    {
+      "lineName": "Olaratumab_20_mg/kg",
+      "points": [
+        {
+          "data_point": {
+            "x": 234,
+            "y": 460
+          },
+          "upper_error_bar": {
+            "x": 234,
+            "y": 454.0
+          },
+          "lower_error_bar": {
+            "x": 234,
+            "y": 469.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 235,
+            "y": 187
+          },
+          "upper_error_bar": {
+            "x": 235,
+            "y": 181.0
+          },
+          "lower_error_bar": {
+            "x": 235,
+            "y": 194.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 280,
+            "y": 255
+          },
+          "upper_error_bar": {
+            "x": 280,
+            "y": 153.0
+          },
+          "lower_error_bar": {
+            "x": 280,
+            "y": 357.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 328,
+            "y": 300
+          },
+          "upper_error_bar": {
+            "x": 328,
+            "y": 216.0
+          },
+          "lower_error_bar": {
+            "x": 328,
+            "y": 308.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 424,
+            "y": 359
+          },
+          "upper_error_bar": {
+            "x": 424,
+            "y": 352.0
+          },
+          "lower_error_bar": {
+            "x": 424,
+            "y": 367.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 712,
+            "y": 455
+          },
+          "upper_error_bar": {
+            "x": 712,
+            "y": 447.0
+          },
+          "lower_error_bar": {
+            "x": 712,
+            "y": 463.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 903,
+            "y": 487
+          },
+          "upper_error_bar": {
+            "x": 903,
+            "y": 443.0
+          },
+          "lower_error_bar": {
+            "x": 903,
+            "y": 530.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 195,
+            "y": 579
+          },
+          "upper_error_bar": {
+            "x": 195,
+            "y": 579.0
+          },
+          "lower_error_bar": {
+            "x": 195,
+            "y": 579.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 196,
+            "y": 43
+          },
+          "upper_error_bar": {
+            "x": 196,
+            "y": 43.0
+          },
+          "lower_error_bar": {
+            "x": 196,
+            "y": 43.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 233,
+            "y": 604
+          },
+          "upper_error_bar": {
+            "x": 233,
+            "y": 514.0
+          },
+          "lower_error_bar": {
+            "x": 233,
+            "y": 614.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 999,
+            "y": 605
+          },
+          "upper_error_bar": {
+            "x": 999,
+            "y": 605.0
+          },
+          "lower_error_bar": {
+            "x": 999,
+            "y": 614.0
+          }
+        }
+      ]
+    }
+  ]
+}

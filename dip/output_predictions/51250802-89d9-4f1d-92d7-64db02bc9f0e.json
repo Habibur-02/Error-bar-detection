@@ -1,0 +1,192 @@
+{
+  "image_file": "51250802-89d9-4f1d-92d7-64db02bc9f0e.png",
+  "error_bars": [
+    {
+      "lineName": "Dalotuzumab_ Week 1",
+      "points": [
+        {
+          "data_point": {
+            "x": 174,
+            "y": 574
+          },
+          "upper_error_bar": {
+            "x": 174,
+            "y": 568.0
+          },
+          "lower_error_bar": {
+            "x": 174,
+            "y": 600.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 182,
+            "y": 347
+          },
+          "upper_error_bar": {
+            "x": 182,
+            "y": 302.0
+          },
+          "lower_error_bar": {
+            "x": 182,
+            "y": 384.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 195,
+            "y": 342
+          },
+          "upper_error_bar": {
+            "x": 195,
+            "y": 335.0
+          },
+          "lower_error_bar": {
+            "x": 195,
+            "y": 350.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 211,
+            "y": 341
+          },
+          "upper_error_bar": {
+            "x": 211,
+            "y": 305.0
+          },
+          "lower_error_bar": {
+            "x": 211,
+            "y": 418.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 287,
+            "y": 406
+          },
+          "upper_error_bar": {
+            "x": 287,
+            "y": 399.0
+          },
+          "lower_error_bar": {
+            "x": 287,
+            "y": 415.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 317,
+            "y": 438
+          },
+          "upper_error_bar": {
+            "x": 317,
+            "y": 431.0
+          },
+          "lower_error_bar": {
+            "x": 317,
+            "y": 446.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 404,
+            "y": 456
+          },
+          "upper_error_bar": {
+            "x": 404,
+            "y": 448.0
+          },
+          "lower_error_bar": {
+            "x": 404,
+            "y": 462.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 636,
+            "y": 522
+          },
+          "upper_error_bar": {
+            "x": 636,
+            "y": 495.0
+          },
+          "lower_error_bar": {
+            "x": 636,
+            "y": 530.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 984,
+            "y": 541
+          },
+          "upper_error_bar": {
+            "x": 984,
+            "y": 534.0
+          },
+          "lower_error_bar": {
+            "x": 984,
+            "y": 548.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 163,
+            "y": 657
+          },
+          "upper_error_bar": {
+            "x": 163,
+            "y": 652.0
+          },
+          "lower_error_bar": {
+            "x": 163,
+            "y": 657.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 163,
+            "y": 75
+          },
+          "upper_error_bar": {
+            "x": 163,
+            "y": 75.0
+          },
+          "lower_error_bar": {
+            "x": 163,
+            "y": 146.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 173,
+            "y": 657
+          },
+          "upper_error_bar": {
+            "x": 173,
+            "y": 652.0
+          },
+          "lower_error_bar": {
+            "x": 173,
+            "y": 662.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 986,
+            "y": 659
+          },
+          "upper_error_bar": {
+            "x": 986,
+            "y": 560.0
+          },
+          "lower_error_bar": {
+            "x": 986,
+            "y": 666.0
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "image_file": "2dd29de6-8de3-43bf-ac3c-1cd1cd88ce9d.png",
+  "error_bars": [
+    {
+      "lineName": "Datopotamab Deruxtecan_Dato-DXd",
+      "points": [
+        {
+          "data_point": {
+            "x": 271,
+            "y": 162
+          },
+          "upper_error_bar": {
+            "x": 271,
+            "y": 150.0
+          },
+          "lower_error_bar": {
+            "x": 271,
+            "y": 175.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 283,
+            "y": 170
+          },
+          "upper_error_bar": {
+            "x": 283,
+            "y": 157.0
+          },
+          "lower_error_bar": {
+            "x": 283,
+            "y": 181.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 346,
+            "y": 204
+          },
+          "upper_error_bar": {
+            "x": 346,
+            "y": 192.0
+          },
+          "lower_error_bar": {
+            "x": 346,
+            "y": 216.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 421,
+            "y": 231
+          },
+          "upper_error_bar": {
+            "x": 421,
+            "y": 217.0
+          },
+          "lower_error_bar": {
+            "x": 421,
+            "y": 243.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 482,
+            "y": 255
+          },
+          "upper_error_bar": {
+            "x": 482,
+            "y": 235.0
+          },
+          "lower_error_bar": {
+            "x": 482,
+            "y": 260.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 485,
+            "y": 162
+          },
+          "upper_error_bar": {
+            "x": 485,
+            "y": 148.0
+          },
+          "lower_error_bar": {
+            "x": 485,
+            "y": 267.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 707,
+            "y": 243
+          },
+          "upper_error_bar": {
+            "x": 707,
+            "y": 193.0
+          },
+          "lower_error_bar": {
+            "x": 707,
+            "y": 248.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 709,
+            "y": 160
+          },
+          "upper_error_bar": {
+            "x": 709,
+            "y": 148.0
+          },
+          "lower_error_bar": {
+            "x": 709,
+            "y": 243.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 931,
+            "y": 237
+          },
+          "upper_error_bar": {
+            "x": 931,
+            "y": 220.0
+          },
+          "lower_error_bar": {
+            "x": 931,
+            "y": 248.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1376,
+            "y": 234
+          },
+          "upper_error_bar": {
+            "x": 1376,
+            "y": 220.0
+          },
+          "lower_error_bar": {
+            "x": 1376,
+            "y": 245.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1825,
+            "y": 240
+          },
+          "upper_error_bar": {
+            "x": 1825,
+            "y": 223.0
+          },
+          "lower_error_bar": {
+            "x": 1825,
+            "y": 251.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 245,
+            "y": 629
+          },
+          "upper_error_bar": {
+            "x": 245,
+            "y": 629.0
+          },
+          "lower_error_bar": {
+            "x": 245,
+            "y": 643.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 243,
+            "y": 110
+          },
+          "upper_error_bar": {
+            "x": 243,
+            "y": 99.0
+          },
+          "lower_error_bar": {
+            "x": 243,
+            "y": 133.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 262,
+            "y": 640
+          },
+          "upper_error_bar": {
+            "x": 262,
+            "y": 501.0
+          },
+          "lower_error_bar": {
+            "x": 262,
+            "y": 658.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 1826,
+            "y": 639
+          },
+          "upper_error_bar": {
+            "x": 1826,
+            "y": 539.0
+          },
+          "lower_error_bar": {
+            "x": 1826,
+            "y": 658.0
+          }
+        }
+      ]
+    }
+  ]
+}

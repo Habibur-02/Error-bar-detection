@@ -1,0 +1,435 @@
+{
+  "image_file": "2f83fa3e-185c-46fb-8b2d-6888bdcef6f1.png",
+  "error_bars": [
+    {
+      "lineName": "HbA1c_IDDM patients with C ",
+      "points": [
+        {
+          "data_point": {
+            "x": 164,
+            "y": 85
+          },
+          "upper_error_bar": {
+            "x": 164,
+            "y": 74.0
+          },
+          "lower_error_bar": {
+            "x": 164,
+            "y": 94.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 238,
+            "y": 286
+          },
+          "upper_error_bar": {
+            "x": 238,
+            "y": 276.0
+          },
+          "lower_error_bar": {
+            "x": 238,
+            "y": 296.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 316,
+            "y": 280
+          },
+          "upper_error_bar": {
+            "x": 316,
+            "y": 270.0
+          },
+          "lower_error_bar": {
+            "x": 316,
+            "y": 290.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 393,
+            "y": 283
+          },
+          "upper_error_bar": {
+            "x": 393,
+            "y": 273.0
+          },
+          "lower_error_bar": {
+            "x": 393,
+            "y": 294.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 469,
+            "y": 270
+          },
+          "upper_error_bar": {
+            "x": 469,
+            "y": 260.0
+          },
+          "lower_error_bar": {
+            "x": 469,
+            "y": 281.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 546,
+            "y": 274
+          },
+          "upper_error_bar": {
+            "x": 546,
+            "y": 264.0
+          },
+          "lower_error_bar": {
+            "x": 546,
+            "y": 284.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 623,
+            "y": 261
+          },
+          "upper_error_bar": {
+            "x": 623,
+            "y": 251.0
+          },
+          "lower_error_bar": {
+            "x": 623,
+            "y": 272.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 700,
+            "y": 255
+          },
+          "upper_error_bar": {
+            "x": 700,
+            "y": 245.0
+          },
+          "lower_error_bar": {
+            "x": 700,
+            "y": 266.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 777,
+            "y": 243
+          },
+          "upper_error_bar": {
+            "x": 777,
+            "y": 232.0
+          },
+          "lower_error_bar": {
+            "x": 777,
+            "y": 253.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 854,
+            "y": 227
+          },
+          "upper_error_bar": {
+            "x": 854,
+            "y": 217.0
+          },
+          "lower_error_bar": {
+            "x": 854,
+            "y": 237.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 931,
+            "y": 230
+          },
+          "upper_error_bar": {
+            "x": 931,
+            "y": 220.0
+          },
+          "lower_error_bar": {
+            "x": 931,
+            "y": 240.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 163,
+            "y": 486
+          },
+          "upper_error_bar": {
+            "x": 163,
+            "y": 372.0
+          },
+          "lower_error_bar": {
+            "x": 163,
+            "y": 500.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 162,
+            "y": 37
+          },
+          "upper_error_bar": {
+            "x": 162,
+            "y": 37.0
+          },
+          "lower_error_bar": {
+            "x": 162,
+            "y": 73.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 163,
+            "y": 487
+          },
+          "upper_error_bar": {
+            "x": 163,
+            "y": 372.0
+          },
+          "lower_error_bar": {
+            "x": 163,
+            "y": 500.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 932,
+            "y": 489
+          },
+          "upper_error_bar": {
+            "x": 932,
+            "y": 489.0
+          },
+          "lower_error_bar": {
+            "x": 932,
+            "y": 502.0
+          }
+        }
+      ]
+    },
+    {
+      "lineName": "HbA1c_Insulin therapy ",
+      "points": [
+        {
+          "data_point": {
+            "x": 164,
+            "y": 84
+          },
+          "upper_error_bar": {
+            "x": 164,
+            "y": 74.0
+          },
+          "lower_error_bar": {
+            "x": 164,
+            "y": 94.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 239,
+            "y": 286
+          },
+          "upper_error_bar": {
+            "x": 239,
+            "y": 276.0
+          },
+          "lower_error_bar": {
+            "x": 239,
+            "y": 296.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 315,
+            "y": 294
+          },
+          "upper_error_bar": {
+            "x": 315,
+            "y": 270.0
+          },
+          "lower_error_bar": {
+            "x": 315,
+            "y": 349.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 392,
+            "y": 283
+          },
+          "upper_error_bar": {
+            "x": 392,
+            "y": 273.0
+          },
+          "lower_error_bar": {
+            "x": 392,
+            "y": 294.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 469,
+            "y": 288
+          },
+          "upper_error_bar": {
+            "x": 469,
+            "y": 281.0
+          },
+          "lower_error_bar": {
+            "x": 469,
+            "y": 330.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 546,
+            "y": 289
+          },
+          "upper_error_bar": {
+            "x": 546,
+            "y": 284.0
+          },
+          "lower_error_bar": {
+            "x": 546,
+            "y": 343.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 623,
+            "y": 283
+          },
+          "upper_error_bar": {
+            "x": 623,
+            "y": 272.0
+          },
+          "lower_error_bar": {
+            "x": 623,
+            "y": 324.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 700,
+            "y": 283
+          },
+          "upper_error_bar": {
+            "x": 700,
+            "y": 266.0
+          },
+          "lower_error_bar": {
+            "x": 700,
+            "y": 350.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 777,
+            "y": 275
+          },
+          "upper_error_bar": {
+            "x": 777,
+            "y": 253.0
+          },
+          "lower_error_bar": {
+            "x": 777,
+            "y": 331.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 854,
+            "y": 282
+          },
+          "upper_error_bar": {
+            "x": 854,
+            "y": 237.0
+          },
+          "lower_error_bar": {
+            "x": 854,
+            "y": 344.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 931,
+            "y": 285
+          },
+          "upper_error_bar": {
+            "x": 931,
+            "y": 240.0
+          },
+          "lower_error_bar": {
+            "x": 931,
+            "y": 285.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 163,
+            "y": 486
+          },
+          "upper_error_bar": {
+            "x": 163,
+            "y": 372.0
+          },
+          "lower_error_bar": {
+            "x": 163,
+            "y": 500.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 162,
+            "y": 37
+          },
+          "upper_error_bar": {
+            "x": 162,
+            "y": 37.0
+          },
+          "lower_error_bar": {
+            "x": 162,
+            "y": 73.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 163,
+            "y": 487
+          },
+          "upper_error_bar": {
+            "x": 163,
+            "y": 372.0
+          },
+          "lower_error_bar": {
+            "x": 163,
+            "y": 500.0
+          }
+        },
+        {
+          "data_point": {
+            "x": 932,
+            "y": 489
+          },
+          "upper_error_bar": {
+            "x": 932,
+            "y": 489.0
+          },
+          "lower_error_bar": {
+            "x": 932,
+            "y": 502.0
+          }
+        }
+      ]
+    }
+  ]
+}
