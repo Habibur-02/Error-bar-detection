@@ -154,4 +154,3 @@ def generate_complex_data(num_images=5):
 generate_complex_data(num_images=3000) 
 print("Done! Dataset generated with Bar Charts & Noise.")
 
-
