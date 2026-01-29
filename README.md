@@ -5,9 +5,8 @@ solution of home engineering task on error bar detection in scientific plots usi
 
 ## 💾 Dataset Access
 
-I have generated a synthetic dataset of **3,000 images and labels** that mimics the statistical properties of the real company data. You can generate it locally using the script or download it directly:
-
-* **Download Synthetic Dataset (Drive Link):** [Click Here to see](https://drive.google.com/drive/u/0/folders/1q6NzaHH-iT_1fnLWw9wBid4k0OxoyNsZ)
+I have generated a synthetic dataset of **3,000 images and labels** that mimics the statistical properties of the real company data.
+* **Synthetic Dataset (Drive Link):** [Click Here to see](https://drive.google.com/drive/u/0/folders/1q6NzaHH-iT_1fnLWw9wBid4k0OxoyNsZ)
 
 ---
 # 📊 Error Bar Detection Pipeline
@@ -42,7 +41,7 @@ Instead of relying solely on scarce real data, I developed a statistical generat
 * **Loss Function:** `SmoothL1Loss` (Huber Loss) – robust against outliers compared to MSE.
 * **Optimization:** `AdamW` optimizer with a `ReduceLROnPlateau` scheduler for adaptive learning rates.
 
-### 3. Transfer Learning (The "Winning" Strategy)
+### 3. Transfer Learning 
 * **Phase 1 (Pre-training):** Trained on 3,000 synthetic images to learn general feature extraction (Edges, Caps, Bars).
 * **Phase 2 (Fine-Tuning):** Transfer Learning applied on the 150 real company images with heavy augmentation to bridge the domain gap. This boosted accuracy from ~46% to **80.76%**.
 
