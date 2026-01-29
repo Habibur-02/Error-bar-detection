@@ -57,3 +57,37 @@ Error-Bar-Detection/
 ├── company_dataset/           # Original Provided Data (Images + Labels)
 ├── assignment2_output_final/  # Final JSON Predictions
 └── visualization_result/      # Annotated Output Images
+```
+
+⚡ Quick Start: Running the Full Pipeline
+
+You can reproduce the entire workflow (Generation -> Training -> Inference -> Visualization) by running the following commands in order:
+
+```
+# 1. Generate Synthetic Data (Creates 3,000 images in 'dataset/' folder)
+python dataset_generator.py
+
+# 2. Pre-train Model (Phase 1: Learns from synthetic data)
+python train_resnet.py
+
+# 3. Fine-Tune Model (Phase 2: Adapts to real company data)
+python fine_tune_resnet.py
+
+# 4. Generate Predictions (Saves JSONs to 'assignment2_output_final/')
+python inference_resnet.py
+
+# 5. Evaluate Performance (Calculates MAE and Accuracy)
+python evaluate.py
+
+# 6. Visualize Results (Saves annotated images to 'visualization_result/')
+python visualize.py
+
+```
+
+🎨 Visualization
+
+The visualization_result folder contains the final output images where:
+
+    Red Dot: Indicates the center data point.
+
+    Green Lines: Indicate the predicted upper and lower error bars.
