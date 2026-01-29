@@ -71,7 +71,7 @@ class ErrorBarDataset(Dataset):
         self.samples = np.array(self.samples)
         self.targets = np.array(self.targets)
         
-        print(f"✅ RAM Loaded: {len(self.samples)} patches ready for GPU!")
+        print(f" RAM Loaded: {len(self.samples)} patches ready for GPU!")
 
     def __len__(self):
         return len(self.samples)
