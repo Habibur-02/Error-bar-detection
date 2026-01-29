@@ -1,13 +1,13 @@
 # Error-bar-detection
 solution of home engineering task on error bar detection in scientific plots using matplotlib and ML,DL algorithms
-#Assignment 1:
+## Assignment 1:
 ---
 
 ## 💾 Dataset Access
 
 I have generated a synthetic dataset of **3,000 images and labels** that mimics the statistical properties of the real company data. You can generate it locally using the script or download it directly:
 
-* **Download Synthetic Dataset (Drive Link):** [Click Here to Download](https://drive.google.com/drive/u/0/folders/1q6NzaHH-iT_1fnLWw9wBid4k0OxoyNsZ)
+* **Download Synthetic Dataset (Drive Link):** [Click Here to see](https://drive.google.com/drive/u/0/folders/1q6NzaHH-iT_1fnLWw9wBid4k0OxoyNsZ)
 
 ---
 # 📊 Error Bar Detection Pipeline
