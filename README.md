@@ -12,7 +12,7 @@ I started with traditional image processing concepts but found them insufficient
 
 | Approach | Method Used | Accuracy (<5px) | MAE (Error) | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| **Baseline** | Traditional DIP (Canny Edge) | 43.89% | 19.02 px | ❌ Failed on noise |
+| **Baseline** | Traditional DIP (Canny Edge + pixel scanning) | 43.89% | 19.02 px | ❌ Failed on noise |
 | **Final Model** | **CNN + Augmentation** | **74.32%** | **5.03 px** | ✅ **Success** |
 
 ---
