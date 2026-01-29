@@ -11,3 +11,4 @@ if torch.cuda.is_available():
     print("Success! Your RTX A4500 is ready! ")
 else:
     print("Warning: GPU not detected. You are running on CPU.")
+

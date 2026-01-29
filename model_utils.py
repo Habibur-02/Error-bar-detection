@@ -1,134 +1,102 @@
 import torch
 import torch.nn as nn
-import cv2
-import numpy as np
 from torch.utils.data import Dataset
-import json
+import cv2
 import os
+import json
+import numpy as np
+from tqdm import tqdm 
 
-
-PATCH_H, PATCH_W = 256, 64  
+PATCH_H, PATCH_W = 64, 48
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-class ErrorBarCNN(nn.Module):
-    def __init__(self):
-        super(ErrorBarCNN, self).__init__()
-        
-        self.features = nn.Sequential(
-            nn.Conv2d(1, 32, kernel_size=3, padding=1),
-            nn.ReLU(),
-            nn.MaxPool2d(2), 
-            
-            nn.Conv2d(32, 64, kernel_size=3, padding=1),
-            nn.ReLU(),
-            nn.MaxPool2d(2), 
-            
-            nn.Conv2d(64, 128, kernel_size=3, padding=1),
-            nn.ReLU(),
-            nn.MaxPool2d(2), 
-            
-            nn.Conv2d(128, 256, kernel_size=3, padding=1),
-            nn.ReLU(),
-            nn.MaxPool2d(2), 
-        )
-        
-        self.regressor = nn.Sequential(
-            nn.Flatten(),
-            nn.Linear(256 * 16 * 4, 256),
-            nn.ReLU(),
-            nn.Dropout(0.5), 
-            nn.Linear(256, 2) 
-        )
-
-    def forward(self, x):
-        x = self.features(x)
-        x = self.regressor(x)
-        return x
-
 class ErrorBarDataset(Dataset):
-    def __init__(self, image_dir, label_dir, transform=None):
-        self.image_dir = image_dir
-        self.label_dir = label_dir
+    def __init__(self, image_dir, label_dir):
         self.samples = []
+        self.targets = []
         
-        files = os.listdir(label_dir)
-        for f in files:
-            if f.endswith('_output.json'): 
-                path = os.path.join(label_dir, f)
-                try:
-                    with open(path, 'r') as jf:
-                        data = json.load(jf)
-                        img_name = data['image_file']
-                        
-                        
-                        if not os.path.exists(os.path.join(image_dir, img_name)):
-                            continue
+        files = sorted([f for f in os.listdir(label_dir) if f.endswith('.json')])
+        print(f" Pre-loading data into RAM from {len(files)} files... Please wait.")
+        
+        
+        for f in tqdm(files):
+            label_path = os.path.join(label_dir, f)
+            img_path = os.path.join(image_dir, f.replace(".json", ".png"))
+            
+            if not os.path.exists(img_path): continue
 
-                        for line in data['error_bars']:
-                            for pt in line['points']:
-                                cx, cy = pt['data_point']['x'], pt['data_point']['y']
-                                uy = pt['upper_error_bar']['y']
-                                ly = pt['lower_error_bar']['y']
-                                
-                                target_up = cy - uy  
-                                target_down = ly - cy 
-                                
-                                self.samples.append({
-                                    'img_path': os.path.join(image_dir, img_name),
-                                    'center': (cx, cy),
-                                    'target': (target_up, target_down)
-                                })
-                except Exception as e:
-                    print(f"Skipping broken file {f}: {e}")
+            try:
+                
+                img = cv2.imread(img_path, cv2.IMREAD_GRAYSCALE)
+                if img is None: continue
+                
+                
+                pad_h, pad_w = PATCH_H // 2, PATCH_W // 2
+                padded_img = cv2.copyMakeBorder(img, pad_h, pad_h, pad_w, pad_w, cv2.BORDER_CONSTANT, value=255)
+                
+                with open(label_path, 'r') as jf:
+                    data = json.load(jf)
+                
+                series_list = data if isinstance(data, list) else data.get('error_bars', [])
+                
+                for series in series_list:
+                    for pt in series.get('points', []):
+                        cx = float(pt['x'])
+                        cy = float(pt['y'])
+                        top = float(pt.get('topBarPixelDistance', 0))
+                        bot = float(pt.get('bottomBarPixelDistance', 0))
+                        
+                        # --- PATCH CUTTING HERE ---
+                        cx_pad, cy_pad = cx + pad_w, cy + pad_h
+                        x1 = int(cx_pad - PATCH_W // 2)
+                        y1 = int(cy_pad - PATCH_H // 2)
+                        
+                        patch = padded_img[y1:y1+PATCH_H, x1:x1+PATCH_W]
+                        
+                        
+                        if patch.shape != (PATCH_H, PATCH_W):
+                            try:
+                                patch = cv2.resize(patch, (PATCH_W, PATCH_H))
+                            except: continue
+                        
+                        
+                        patch_norm = patch.astype(np.float32) / 255.0
+                        self.samples.append(patch_norm)
+                        self.targets.append([top, bot])
+                        
+            except Exception:
+                continue
+                
+        
+        self.samples = np.array(self.samples)
+        self.targets = np.array(self.targets)
+        
+        print(f"✅ RAM Loaded: {len(self.samples)} patches ready for GPU!")
 
     def __len__(self):
         return len(self.samples)
 
     def __getitem__(self, idx):
-        item = self.samples[idx]
         
-        
-        img = cv2.imread(item['img_path'], cv2.IMREAD_GRAYSCALE)
-        
-        
-        if img is None:
-            return torch.zeros((1, PATCH_H, PATCH_W)), torch.tensor([0.0, 0.0])
+        patch = torch.from_numpy(self.samples[idx]).unsqueeze(0) # (1, H, W)
+        target = torch.tensor(self.targets[idx], dtype=torch.float32)
+        return patch, target
 
-        cx, cy = item['center']
-        h, w = img.shape
+class ErrorBarCNN(nn.Module):
+    def __init__(self):
+        super(ErrorBarCNN, self).__init__()
+        self.features = nn.Sequential(
+            nn.Conv2d(1, 32, 3, padding=1), nn.ReLU(), nn.MaxPool2d(2, 2),
+            nn.Conv2d(32, 64, 3, padding=1), nn.ReLU(), nn.MaxPool2d(2, 2),
+            nn.Conv2d(64, 128, 3, padding=1), nn.ReLU(), nn.MaxPool2d(2, 2)
+        )
+        self.regressor = nn.Sequential(
+            nn.Flatten(),
+            nn.Linear(128 * (PATCH_H//8) * (PATCH_W//8), 256),
+            nn.ReLU(), nn.Dropout(0.3),
+            nn.Linear(256, 64), nn.ReLU(),
+            nn.Linear(64, 2)
+        )
         
-
-        y1 = int(cy - PATCH_H // 2)
-        y2 = y1 + PATCH_H  
-        
-        x1 = int(cx - PATCH_W // 2)
-        x2 = x1 + PATCH_W  
-        
-        
-        img_y1, img_y2 = max(0, y1), min(h, y2)
-        img_x1, img_x2 = max(0, x1), min(w, x2)
-        
-        
-        if img_y1 >= img_y2 or img_x1 >= img_x2:
-            patch = np.ones((PATCH_H, PATCH_W), dtype=np.uint8) * 255
-        else:
-            
-            crop_part = img[img_y1:img_y2, img_x1:img_x2]
-            
-            
-            patch = np.ones((PATCH_H, PATCH_W), dtype=np.uint8) * 255
-            
-            
-            out_y1 = max(0, -y1)
-            out_x1 = max(0, -x1)
-            
-            part_h, part_w = crop_part.shape
-            patch[out_y1 : out_y1 + part_h, out_x1 : out_x1 + part_w] = crop_part
-        
-       
-        patch = patch.astype(np.float32) / 255.0
-        patch_tensor = torch.from_numpy(patch).unsqueeze(0) # (1, H, W)
-        
-        target = torch.tensor(item['target'], dtype=torch.float32)
-        
-        return patch_tensor, target  
+    def forward(self, x):
+        return self.regressor(self.features(x))
