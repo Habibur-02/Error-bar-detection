@@ -62,3 +62,44 @@ To push for the highest precision, I implemented **Data Augmentation** (Random R
 └── dip/                       # Folder for Traditional CV (Canny Edge) code
     ├── dip_baseline.py
     └── evaluate_dip.py
+```
+## 💻 How to Run (Step-by-Step Guide)
+
+Follow this sequence to reproduce the engineering journey from the Baseline (DIP) to the Final Deep Learning Model.
+
+### ✅ Prerequisites
+Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
+1️⃣ Step 1: The Baseline Experiment (Traditional DIP)
+
+Before using heavy Deep Learning models, I first tested if traditional Computer Vision (Canny Edge Detection) works on the provided 150 real images.
+
+```
+cd dip
+# Run the heuristic algorithm
+python dip_baseline.py
+
+# Check the metrics
+python evaluate_dip.py
+
+```
+Observation: You will see an accuracy of around 43%. The method fails on noisy and scanned images. (Go back to the main directory)
+``` cd ..
+```
+2️⃣ Step 2: Data Preparation for Deep Learning
+
+Since the 150 real images are not enough for training a CNN, I generated synthetic data.
+
+``` # Generates 3,000 synthetic plots in 'dataset/' folder
+python dataset_generator.py
+```
+3️⃣ Step 3: Training Pipeline (Iterative Improvement)
+
+I trained the model in three phases to handle the domain gap.
+
+Phase 1: Pre-training on Synthetic Data Trains the base model on the 3,000 generated images.
+```
+python train.py
+```
