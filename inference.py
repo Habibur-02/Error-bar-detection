@@ -10,8 +10,8 @@ from model_utils import ErrorBarCNN, PATCH_H, PATCH_W, DEVICE
 INPUT_IMAGE_DIR = "company_dataset/images"
 INPUT_LABEL_DIR = "company_dataset/labels"
 OUTPUT_DIR = "output_predictions"
-MODEL_PATH = "best_model.pth"  
-# MODEL_PATH = "final_model.pth"   # <-- নতুন লাইন
+# MODEL_PATH = "best_model.pth"  
+MODEL_PATH = "final_model.pth"   # <-- নতুন লাইন
 # নতুন লাইন হবে (Phase 3 মডেল):
 # MODEL_PATH = "final_model_advanced.pth"
 
