@@ -86,7 +86,8 @@ python evaluate_dip.py
 
 ```
 Observation: You will see an accuracy of around 43%. The method fails on noisy and scanned images. (Go back to the main directory)
-``` cd ..
+```
+cd ..
 ```
 2️⃣ Step 2: Data Preparation for Deep Learning
 
@@ -103,3 +104,54 @@ Phase 1: Pre-training on Synthetic Data Trains the base model on the 3,000 gener
 ```
 python train.py
 ```
+
+Output: Saves best_model.pth.
+
+Phase 2: Fine-Tuning on Real Data (Transfer Learning) Adapts the synthetic model to the 150 real scanned images.
+```
+python fine_tune.py
+```
+Output: Saves final_model.pth.
+
+Phase 3: Advanced Optimization (Augmentation) Re-trains the model with Random Rotation (+/- 5°) and Brightness Scaling to make it robust against scanning artifacts.
+
+```
+python fine_tune_advance.py
+```
+Output: Saves final_model_advanced.pth (This is the Best Model).
+
+4️⃣ Step 4: Final Inference & Evaluation
+
+Now, use the best model (final_model_advanced.pth) to predict error bars on the real dataset.
+
+Generate Predictions:
+```
+python inference.py
+
+```
+Output: JSON files will be generated in the output_predictions/ folder.
+
+Calculate Metrics:
+
+```
+python evalaute.py
+```
+Expected Result:
+
+    Accuracy (<5px): ~74.32% 🚀
+
+    MAE: ~5.03 pixels
+
+5️⃣ Step 5: Visualization (Visual Proof)
+
+Draw the predicted error bars on the images to verify the quality visually.
+```
+python visualize.py
+```
+Output: Check the visualization_results/ folder. You will see red lines accurately drawn over the error bars, even in noisy images.
+
+
+
+👨‍💻 Author
+
+Md Habibur Rahman (Aasif) Rajshahi University of Engineering and Technology (RUET)
