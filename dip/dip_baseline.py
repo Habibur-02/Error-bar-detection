@@ -1,122 +1,100 @@
 import cv2
-import json
 import os
+import json
 import numpy as np
 from tqdm import tqdm
 
 
-IMAGE_DIR = "../company_dataset/images"
-LABEL_DIR = "../company_dataset/labels"
-OUTPUT_DIR = "output_predictions" 
+IMG_DIR = "../company_dataset/images"
+LBL_DIR = "../company_dataset/labels"
+OUTPUT_DIR = "canny_output"
 
-os.makedirs(OUTPUT_DIR, exist_ok=True)
-
-def detect_error_bar_dip(img_path, json_path):
-   
-    img = cv2.imread(img_path, cv2.IMREAD_GRAYSCALE)
-    if img is None: return None
+def run_canny_scan():
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
     
-    h, w = img.shape
+    json_files = [f for f in os.listdir(LBL_DIR) if f.endswith('.json')]
+    print(f"🕵️ Running Canny Edge + Pixel Scanning on {len(json_files)} images...")
     
-
-    blurred = cv2.GaussianBlur(img, (5, 5), 0)
-    
-    
-    edges = cv2.Canny(blurred, 50, 150)
-    
-    
-    with open(json_path, 'r') as f:
-        data = json.load(f)
+    for f in tqdm(json_files):
         
-    raw_lines = data if isinstance(data, list) else data.get('error_bars', [])
-    
-    if not raw_lines and isinstance(data, dict):
-        raw_lines = data.get('data_points', [])
-
-    output_lines = []
-
-    for line in raw_lines:
+        json_path = os.path.join(LBL_DIR, f)
+        img_name = f.replace(".json", ".png")
+        img_path = os.path.join(IMG_DIR, img_name)
         
-        line_name = line.get("lineName", "unknown")
-        if isinstance(line.get("label"), dict):
-             line_name = line["label"].get("lineName", "unknown")
-
-        predicted_points = []
         
-        for pt in line.get('points', []):
-            try:
+        if not os.path.exists(img_path):
+            img_path = os.path.join(IMG_DIR, img_name.replace('.png', '.jpg'))
+        
+        if not os.path.exists(img_path): continue
+            
+        
+        img = cv2.imread(img_path)
+        if img is None: continue
+        
+        gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+        height, width = gray.shape 
+        
+        # Canny Edge Detection
+        edges = cv2.Canny(gray, 50, 150)
+        
+        
+        vis_img = img.copy()
+        
+        with open(json_path, 'r') as jf:
+            data = json.load(jf)
+            
+        series_list = data if isinstance(data, list) else data.get('data_points', []) or data.get('error_bars', [])
+        
+        for series in series_list:
+            for pt in series.get('points', []):
                 cx = int(float(pt['x']))
                 cy = int(float(pt['y']))
                 
                 
-                SEARCH_LIMIT = 150 
+                if not (0 <= cx < width and 0 <= cy < height):
+                    continue
+
+                # --- PIXEL SCANNING LOGIC ---
+                buffer = 8 
+                max_scan = 150
                 
-                # Scan Upwards
-                pred_uy = cy
-                
-                curr_y = cy - 5
-                found_up = False
-                
-                while curr_y > max(0, cy - SEARCH_LIMIT):
-                    if edges[curr_y, cx] > 0: 
-                        pred_uy = curr_y
-                        found_up = True
+                # Top Bar (Scan Upwards)
+                top_y = cy
+                for y in range(cy - buffer, cy - max_scan, -1):
+                    
+                    if y < 0: break 
+                    
+                    if edges[y, cx] > 0: 
+                        top_y = y
                         break
-                    curr_y -= 1
                 
-                # Scan Downwards
-                pred_ly = cy
-                curr_y = cy + 5
-                found_down = False
-                
-                while curr_y < min(h, cy + SEARCH_LIMIT):
-                    if edges[curr_y, cx] > 0: 
-                        pred_ly = curr_y
-                        found_down = True
+                # Bottom Bar (Scan Downwards)
+                bot_y = cy
+                for y in range(cy + buffer, cy + max_scan):
+                    
+                    if y >= height: break 
+                    
+                    if edges[y, cx] > 0:
+                        bot_y = y
                         break
-                    curr_y += 1
+
+                # --- DRAWING ---
+                cv2.circle(vis_img, (cx, cy), 3, (0, 0, 255), -1) 
+                cv2.line(vis_img, (cx, cy), (cx, top_y), (255, 0, 0), 2)
+                cv2.line(vis_img, (cx, cy), (cx, bot_y), (255, 0, 0), 2)
                 
                 
-                predicted_points.append({
-                    "data_point": {"x": cx, "y": cy},
-                    "upper_error_bar": {"x": cx, "y": float(pred_uy)},
-                    "lower_error_bar": {"x": cx, "y": float(pred_ly)}
-                })
+                if 0 <= cx-5 and cx+5 < width:
+                    if 0 <= top_y < height:
+                        cv2.line(vis_img, (cx-5, top_y), (cx+5, top_y), (255, 0, 0), 2)
+                    if 0 <= bot_y < height:
+                        cv2.line(vis_img, (cx-5, bot_y), (cx+5, bot_y), (255, 0, 0), 2)
 
-            except Exception:
-                continue
-            
-        output_lines.append({
-            "lineName": line_name,
-            "points": predicted_points
-        })
-
-    return {
-        "image_file": os.path.basename(img_path),
-        "error_bars": output_lines
-    }
-
-def run_dip_baseline():
-    if not os.path.exists(LABEL_DIR):
-        print(f"Error: Dataset not found at {LABEL_DIR}")
-        print("Make sure you are running this script from inside the 'DIP' folder.")
-        return
-
-    files = [f for f in os.listdir(LABEL_DIR) if f.endswith('.json')]
-    print(f"Running DIP Baseline (Canny Edge) on {len(files)} files...")
-    
-    for f in tqdm(files):
         
-        base_name = os.path.splitext(f)[0]
-        img_path = os.path.join(IMAGE_DIR, base_name + ".png")
-        if not os.path.exists(img_path):
-            img_path = os.path.join(IMAGE_DIR, base_name + ".jpg")
-            
-        if os.path.exists(img_path):
-            res = detect_error_bar_dip(img_path, os.path.join(LABEL_DIR, f))
-            if res:
-                with open(os.path.join(OUTPUT_DIR, f), 'w') as out:
-                    json.dump(res, out, indent=2)
+        combined = np.hstack((cv2.cvtColor(edges, cv2.COLOR_GRAY2BGR), vis_img))
+        cv2.imwrite(os.path.join(OUTPUT_DIR, f"canny_{img_name}"), combined)
+        
+    print(f" Check '{OUTPUT_DIR}' folder to see Canny performance!")
 
 if __name__ == "__main__":
-    run_dip_baseline()
+    run_canny_scan()
