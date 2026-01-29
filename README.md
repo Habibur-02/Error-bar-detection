@@ -149,9 +149,16 @@ Draw the predicted error bars on the images to verify the quality visually.
 python visualize.py
 ```
 Output: Check the visualization_results/ folder. You will see red lines accurately drawn over the error bars, even in noisy images.
-
+| Feature | Traditional DIP (Canny Edge) | Deep Learning (My CNN) |
+| :--- | :--- | :--- |
+| **Approach** | Pixel Scanning Heuristics | Patch-based Regression |
+| **Handling Noise** | ❌ Fails on text/grid lines | ✅ Ignores noise/text |
+| **Handling Scans** | ❌ Fails on broken lines | ✅ Robust to rotation/blur |
+| **Accuracy** | 43.89% | **74.32%** |
+| **Avg Error** | 19.02 px | **5.03 px** |
 
 
 👨‍💻 Author
 
-Md Habibur Rahman (Aasif) Rajshahi University of Engineering and Technology (RUET)
+Md Habibur Rahman (Aasif) 
+Rajshahi University of Engineering and Technology (RUET)
