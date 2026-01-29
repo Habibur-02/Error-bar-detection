@@ -11,9 +11,9 @@ INPUT_IMAGE_DIR = "company_dataset/images"
 INPUT_LABEL_DIR = "company_dataset/labels"
 OUTPUT_DIR = "output_predictions"
 # MODEL_PATH = "best_model.pth"  
-MODEL_PATH = "final_model.pth"   # <-- নতুন লাইন
+# MODEL_PATH = "final_model.pth"   # <-- নতুন লাইন
 # নতুন লাইন হবে (Phase 3 মডেল):
-# MODEL_PATH = "final_model_advanced.pth"
+MODEL_PATH = "final_model_advanced.pth"
 
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
