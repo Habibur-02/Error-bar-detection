@@ -1,5 +1,15 @@
 # Error-bar-detection
 solution of home engineering task on error bar detection in scientific plots using matplotlib and ML,DL algorithms
+#Assignment 1:
+---
+
+## 💾 Dataset Access
+
+I have generated a synthetic dataset of **3,000 images and labels** that mimics the statistical properties of the real company data. You can generate it locally using the script or download it directly:
+
+* **Download Synthetic Dataset (Drive Link):** [Click Here to Download](https://drive.google.com/drive/u/0/folders/1q6NzaHH-iT_1fnLWw9wBid4k0OxoyNsZ)
+
+---
 # 📊 Error Bar Detection Pipeline
 
 An automated computer vision pipeline designed to detect and predict the coordinates of upper and lower error bars in scientific plot images. This project utilizes a **Deep Learning approach (ResNet-18)** with a **Synthetic-to-Real Transfer Learning** strategy to achieve high precision even with limited real-world data.
@@ -91,3 +101,13 @@ The visualization_result folder contains the final output images where:
     Red Dot: Indicates the center data point.
 
     Green Lines: Indicate the predicted upper and lower error bars.
+
+👨‍💻 Author
+
+Md Habibur Rahman (Aasif)
+
+    Role: Computer Science Student @ RUET
+
+    Focus: AI/ML, Computer Vision, Deep Learning
+
+    Contact: habibur.ruet10@gmail.com
