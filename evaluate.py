@@ -10,7 +10,7 @@ GT_DIR = "company_dataset/labels"
 PRED_DIR = "assignment2_output_final"
 
 def calculate_accuracy():
-    print(f"📊 Evaluating Accuracy...")
+    print(f" Evaluating Accuracy...")
     
     gt_files = sorted([f for f in os.listdir(GT_DIR) if f.endswith('.json')])
     pred_files = sorted([f for f in os.listdir(PRED_DIR) if f.endswith('.json')])

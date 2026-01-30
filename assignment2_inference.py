@@ -8,6 +8,7 @@ from tqdm import tqdm
 
 
 MODEL_PATH = "error_bar_model.pth"
+
 INPUT_IMG_DIR = "company_dataset/images"
 INPUT_JSON_DIR = "company_dataset/labels"
 OUTPUT_DIR = "assignment2_output"
@@ -17,7 +18,7 @@ def predict_coordinates():
     
     print(f"Loading trained model from {MODEL_PATH}...")
     if not os.path.exists(MODEL_PATH):
-        print("❌ Model not found! Please run train.py first.")
+        print(" Model not found! Please run train.py first.")
         return
 
     
@@ -31,7 +32,7 @@ def predict_coordinates():
     model.eval()
     
     json_files = [f for f in os.listdir(INPUT_JSON_DIR) if f.endswith('.json')]
-    print(f"🚀 Processing {len(json_files)} files for Assignment 2 Output...")
+    print(f" Processing {len(json_files)} files for Assignment 2 Output...")
     
     for f in tqdm(json_files):
         json_path = os.path.join(INPUT_JSON_DIR, f)
@@ -139,7 +140,7 @@ def predict_coordinates():
         with open(output_path, 'w') as out_f:
             json.dump(final_output, out_f, indent=2)
             
-    print(f"✅ Assignment 2 Complete! Output saved in folder: '{OUTPUT_DIR}'")
+    print(f" Assignment 2 Complete! Output saved in folder: '{OUTPUT_DIR}'")
 
 if __name__ == "__main__":
     predict_coordinates()
