@@ -15,7 +15,7 @@ An automated computer vision pipeline designed to detect and predict the coordin
 
 ---
 
-## 🚀 Key Results
+## 🚀 After experimenting 3 methods, final Results is
 | Metric | Performance |
 | :--- | :--- |
 | **Mean Absolute Error (MAE)** | **5.56 pixels** |
@@ -69,29 +69,52 @@ Error-Bar-Detection/
 ```
 
 ⚡ Quick Start: Running the Full Pipeline
+## Method 1: Classical Vision Benchmark(Canny Edge + pixel scanning) 
 
-You can reproduce the entire workflow (Generation -> Training -> Inference -> Visualization) by running the following commands in order:
+Run this to see why classical Canny Edge detection failed (~15% accuracy).
 
-```
-# 1. Generate Synthetic Data (Creates 3,000 images in 'dataset/' folder)
-python dataset_generator.py
+    python dataset_generator.py (Generate synthetic data)
+    cd dip
+    python dip_baseline.py 
+    python evaluate_dip.py
 
-# 2. Pre-train Model (Phase 1: Learns from synthetic data)
-python train_resnet.py
+    
+    
+## Method 2: Baseline Approach (Basic CNN)
 
-# 3. Fine-Tune Model (Phase 2: Adapts to real company data)
-python fine_tune_resnet.py
+Use this to show where you started.
 
-# 4. Generate Predictions (Saves JSONs to 'assignment2_output_final/')
-python inference_resnet.py
+    python dataset_generator.py (If not already run)
 
-# 5. Evaluate Performance (Calculates MAE and Accuracy)
-python evaluate.py
+    python model_utils.py (Defines the Basic CNN architecture)
 
-# 6. Visualize Results (Saves annotated images to 'visualization_result/')
-python visualize.py
+    python train.py (Trains the Basic CNN model → saves error_bar_model.pth)
 
-```
+    python assignment2_inference.py (Generates predictions → assignment2_output/)
+
+    python evaluate.py (Checks accuracy ~45%)
+
+ ## Method 3: Pro Approach (ResNet-18 + Transfer Learning)
+
+Use this to show  final, high-accuracy solution (80%+).
+
+    
+    python dataset_generator.py (If not already run)
+
+    python model_utils_resnet.py (Defines ResNet-18 architecture)
+
+    python train_resnet.py (Pre-trains on Synthetic Data → saves error_bar_resnet_best.pth)
+
+    python fine_tune_resnet.py (Fine-tunes on Real Company Data → saves final_interview_model.pth)
+
+    python inference_resnet.py (Generates predictions → assignment2_output_final/)
+
+    python evaluate.py (Checks accuracy ~81% - Make sure to set PRED_DIR = "assignment2_output_final" inside this file before running)
+
+    python visualize.py (Generates annotated images for proof)
+
+
+
 
 🎨 Visualization
 
