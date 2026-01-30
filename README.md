@@ -15,7 +15,7 @@ An automated computer vision pipeline designed to detect and predict the coordin
 
 ---
 
-## 🚀 Key Results
+## 🚀 After experimenting 3 methods, final Results is
 | Metric | Performance |
 | :--- | :--- |
 | **Mean Absolute Error (MAE)** | **5.56 pixels** |
