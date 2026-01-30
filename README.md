@@ -3,10 +3,10 @@ solution of home engineering task on error bar detection in scientific plots usi
 ## Assignment 1:
 ---
 
-## 💾 Dataset Access
+## 💾 Dataset Access and Final Report
 
 I have generated a synthetic dataset of **3,000 images and labels** that mimics the statistical properties of the real company data.
-* **Synthetic Dataset (Drive Link):** [Click Here to see](https://drive.google.com/drive/u/0/folders/1q6NzaHH-iT_1fnLWw9wBid4k0OxoyNsZ)
+* **Synthetic Dataset & Technical report (Drive Link):** [Click Here to see](https://drive.google.com/drive/u/0/folders/1q6NzaHH-iT_1fnLWw9wBid4k0OxoyNsZ)
 
 ---
 # 📊 Error Bar Detection Pipeline
