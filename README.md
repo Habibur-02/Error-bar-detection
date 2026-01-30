@@ -73,6 +73,7 @@ Error-Bar-Detection/
 
 Run this to see why classical Canny Edge detection failed (~15% accuracy).
 
+    python dataset_generator.py (Generate synthetic data)
     cd dip
     python dip_baseline.py 
     python evaluate_dip.py
@@ -83,7 +84,7 @@ Run this to see why classical Canny Edge detection failed (~15% accuracy).
 
 Use this to show where you started.
 
-    python dataset_generator.py (Generate synthetic data)
+    python dataset_generator.py (If not already run)
 
     python model_utils.py (Defines the Basic CNN architecture)
 
@@ -97,6 +98,7 @@ Use this to show where you started.
 
 Use this to show  final, high-accuracy solution (80%+).
 
+    
     python dataset_generator.py (If not already run)
 
     python model_utils_resnet.py (Defines ResNet-18 architecture)
