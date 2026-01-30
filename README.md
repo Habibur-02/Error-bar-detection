@@ -70,6 +70,39 @@ Error-Bar-Detection/
 
 ⚡ Quick Start: Running the Full Pipeline
 
+Method 1: Baseline Approach (Basic CNN)
+
+Use this to show where you started.
+
+    dataset_generator.py (Generate synthetic data)
+
+    model_utils.py (Defines the Basic CNN architecture)
+
+    train.py (Trains the Basic CNN model → saves error_bar_model.pth)
+
+    assignment2_inference.py (Generates predictions → assignment2_output/)
+
+    evaluate.py (Checks accuracy ~45%)
+
+Method 2: Pro Approach (ResNet-18 + Transfer Learning)
+
+Use this to show your final, high-accuracy solution (80%+).
+
+    dataset_generator.py (If not already run)
+
+    model_utils_resnet.py (Defines ResNet-18 architecture)
+
+    train_resnet.py (Pre-trains on Synthetic Data → saves error_bar_resnet_best.pth)
+
+    fine_tune_resnet.py (Fine-tunes on Real Company Data → saves final_interview_model.pth)
+
+    inference_resnet.py (Generates predictions → assignment2_output_final/)
+
+    evaluate.py (Checks accuracy ~81% - Make sure to set PRED_DIR = "assignment2_output_final" inside this file before running)
+
+    visualize.py (Generates annotated images for proof)
+
+
 You can reproduce the entire workflow (Generation -> Training -> Inference -> Visualization) by running the following commands in order:
 
 ```
