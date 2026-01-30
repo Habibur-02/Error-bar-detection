@@ -69,7 +69,7 @@ Error-Bar-Detection/
 ```
 
 ⚡ Quick Start: Running the Full Pipeline
-Method 1: Classical Vision Benchmark(Canny Edge + pixel scanning) 
+## Method 1: Classical Vision Benchmark(Canny Edge + pixel scanning) 
 
 Run this to see why classical Canny Edge detection failed (~15% accuracy).
 
@@ -79,7 +79,7 @@ Run this to see why classical Canny Edge detection failed (~15% accuracy).
 
     
     
-Method 2: Baseline Approach (Basic CNN)
+## Method 2: Baseline Approach (Basic CNN)
 
 Use this to show where you started.
 
